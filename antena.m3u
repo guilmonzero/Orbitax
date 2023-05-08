@@ -2,7 +2,7 @@
 #EXTINF:-1, GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter: @Guilmonzero
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m2VGrP8S/GUIL.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Feedback
-https://pomf2.lain.la/f/49syx297.mp4
+https://pomf2.lain.la/f/xcw692r9.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pV3QdywC/acs.jpg" group-title="Animados | Variado",ACS Network TV (PR)
 https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
@@ -62,12 +62,6 @@ http://80.194.62.172:50001/stream/channelid/567960763?ticket=9FDA0AF6A08ED1D2EF6
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7P5RCm34/CLAN.jpg" group-title="Animados | Variado",Clan (ES)
 http://45.141.194.9:9000/play/a020/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKxdsw-jm/CN-loop.jpg" group-title="Animados | Variado",CN | Animados (LATAM)
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvkT8WLN/CN-loop2.jpg" group-title="Animados | Variado",CN | Animados | 2 (LATAM)
-https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jqc0RMKK/Coo-Nito-loop3.jpg" group-title="Animados | Variado",Cartoonito | Animados (LATAM)
 https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist.m3u8
 
@@ -76,6 +70,12 @@ https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3xdyHLyb/Coo-Nito-loop4.jpg" group-title="Animados | Variado",Cartoonito | Animados (BR)
 https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKxdsw-jm/CN-loop.jpg" group-title="Animados | Variado",Cartoon Network | Animados (LATAM)
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvkT8WLN/CN-loop2.jpg" group-title="Animados | Variado",Cartoon Network | Animados | 2 (LATAM)
+https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CQxCrt7/disney.jpg" group-title="Animados | Variado",Disney Channel (JP)
 http://redlabmcdn.s.llnwi.net/nv02/bs13hd/index.m3u8
@@ -8395,7 +8395,7 @@ http://200.114.66.1:9981/stream/channelid/324926264?ticket=16F0B9A2F25F991275E69
 http://45.170.225.212:58001/play/a08b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m2VGrP8S/GUIL.jpg" group-title="GUILMONZERO",Órbita by GUILMONZERO | Feedback
-https://pomf2.lain.la/f/xcw692r9.mp4
+https://pomf2.lain.la/f/49syx297.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FKCv8TJw/radio-1.jpg" group-title="GUILMONZERO",Radio Anime | Animax
 https://stream-57.zeno.fm/ep9mpnntsnhvv?zs=ChPrtqZ1SMuqfQHUnpqhFw
