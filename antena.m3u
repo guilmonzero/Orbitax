@@ -347,6 +347,9 @@ https://unlimited1-cl-isp.dps.live/campustv/campustv.smil/campustv/livestream1/c
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QMNB0tTb/canalinstitu.jpg" group-title="Ciencia | Cultura",Canal Institucional TV (CO)
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b3500000.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XJKQfk6/canalucl.jpg" group-title="Ciencia | Cultura",Canal Universidad | UNMDP | Mar del Plata (CL)
+https://stream-02.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL5458FplxzbH6BEIr_eW6VREiTzhqD_dWrsk_zyiR_pD0j)/dm/3/x7kvvgi/s/live-1.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vZtjpx3D/catve.jpg" group-title="Ciencia | Cultura",Catve | Cultura (BR)
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
 
@@ -444,6 +447,15 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26nrcnp2/nasamedia.jpg" group-title="Ciencia | Cultura",NASA | Media (US)
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJnm5TxQ/nasa4k.jpg" group-title="Ciencia | Cultura",NASA | 4K | 60fps | UHD (US)
+https://endpnt.com/hls/nasa4k60/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJnm5TxQ/nasa4k.jpg" group-title="Ciencia | Cultura",NASA | 4K | 30fps | UHD (US)
+https://endpnt.com/hls/nasa4k/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KYB9qfrt/nasa4-2.jpg" group-title="Ciencia | Cultura",NASA | 4K | Tasa Bits baja (US)
+http://endpnt.com:8000/nasa-uhd-30p.ts
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4qQBnMF/nestingtv.jpg" group-title="Ciencia | Cultura",Nesting TV (ES)
 https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_53fwbvrz8js4.m3u8
 
@@ -458,6 +470,9 @@ https://vse2-sa-all62.secdn.net/tvstartup6-channel/live/pymestv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7YVmRsCh/raices.jpg" group-title="Ciencia | Cultura",Raices Arabes TV (CL)
 https://6362ca6f1fc28.streamlock.net/gsnzdymwdq/gsnzdymwdq/chunklist_w1698469575.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhJnvrH3/rt-docu.jpg" group-title="Ciencia | Cultura",RT | Documentary (RU)
+https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qM1pFS21/sciencetv.jpg" group-title="Ciencia | Cultura",Science Tech TV (LATAM)
 https://stmv1.cnarlatam.com/techscience365/techscience365/playlist.m3u8
@@ -1234,8 +1249,14 @@ https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7G4dhwF/reuters.jpg" group-title="Informativo",Reuters News (UK)
 https://32ce4aad1eed49b1ba2999fb68d119c8.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ReutersNow/678e78de-ad71-4747-936a-55da37f68898/6.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1Q9Khr2/rt-ruso.jpg" group-title="Informativo",RT Noticias (RU)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1Q9Khr2/rt-ruso.jpg" group-title="Informativo",RT | Español (RU)
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1Q9Khr2/rt-ruso.jpg" group-title="Informativo",RT | Francés (RU)
+https://rt-fra.rttv.com/live/rtfrance/playlist_4500Kb.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1Q9Khr2/rt-ruso.jpg" group-title="Informativo",RT | Internacional (RU)
+https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26vN1QSN/se-almediblanco.jpg" group-title="Informativo",Señal Mediabanco (CL)
 https://unlimited1-cl-isp.dps.live/mediabanco/mediabanco.smil/mediabanco/livestream2/chunks.m3u8
@@ -1344,6 +1365,9 @@ https://eco.streams.ovh/BarazaTV/BarazaTV/chunklist_w475155693.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c1VD3QNq/bardudmusic.jpg" group-title="Música",Barbud Music | Persia (IR)
 https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolomusic.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d1jbsxjj/Beats.jpg" group-title="Música",Beats | 100.5FM (AR)
+https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cC7cwGHM/bestcablemusic2.jpg" group-title="Música",Best Cable | Music (PE)
 https://ca2.inka.net.pe/best-Music-0011200000/tracks-v1a1/mono.m3u8
@@ -1901,6 +1925,9 @@ https://cloudvideo.servers10.com:8081/8136/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6p0YQ77n/88Stereo.jpg" group-title="Música",Stereo 88.7FM (CR)
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76mNN580/T2CL.jpg" group-title="Música",T-2 TV (CL)
+https://inliveserver.com:1936/11516/11516/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2jnTCbT6/Tecno.jpg" group-title="Música",Tecno Warehouse (US)
 https://eu-nl-012.worldcast.tv/dancetelevisionthree/dancetelevisionthree.m3u8
@@ -4181,6 +4208,9 @@ https://streamcasthd.com:19360/canal2mdptv/canal2mdptv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jSZX7BxM/C2-1.jpg" group-title="Argentina",Canal 2 | Misiones (AR)
 https://nd106.republicaservers.com:4433/hls/canal2misioness/1_0/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTJ0780L/canal2p.jpg" group-title="Argentina",Canal 2 | Perico (AR)
+https://streamcasthd.com:1936/tecnovisioncanal2tv/tecnovisioncanal2tv/chunklist_w1071187630.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvT2j96m/2canagasta.jpg" group-title="Argentina",Canal 2 | Sanagasta (AR)
 https://stmvideo1.livecastv.com/canal2/canal2/chunklist_w116634570.m3u8
 
@@ -4210,6 +4240,9 @@ https://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w200951451.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k57vDVjS/c4.jpg" group-title="Argentina",Canal 4 | Teleaire | La Matanza (AR)
 https://stmvideo2.livecastv.com/canal4/canal4/chunklist_w1451331697.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qBXCXvgm/canal4p.jpg" group-title="Argentina",Canal 4 | Posadas (AR)
+https://iptv.ixfo.com.ar:30443/live/C4POS/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7YGN3qmL/canal5picotruncado.jpg" group-title="Argentina",Canal 5 | Pico Truncado (AR)
 https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/chunklist_w580450132.m3u8
@@ -4331,11 +4364,17 @@ https://streaming.telered.com.ar/provincial/streaming/mystreamProvincialHSMed.m3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdyc0PFD/rural.jpg" group-title="Argentina",Canal Rural (AR)
 https://cda2.alsolnet.com/elrural/live/chunklist_w637374475.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KjGGGn5m/u.png" group-title="Argentina",Canal U (AR)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wM2VxFQC/canalu.jpg" group-title="Argentina",Canal U (AR)
 https://stream.arcast.live/canalu/canalu/chunklist_w1348680978.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T2NfhxN4/vtvar.jpg" group-title="Argentina",Canal V TV (AR)
+https://5f700d5b2c46f.streamlock.net/vertv/vertv/chunklist_w1313959402.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52BfC7kf/celta.jpg" group-title="Argentina",Celta TV (AR)
 https://vivo.solumedia.com:19360/celta/celta.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KYPGTQ5R/chcl.jpg" group-title="Argentina",Chaco TV (AR)
+https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/chunklist_w1212617138.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ncTyby5j/chacra.png" group-title="Argentina",Chacra TV (AR)
 https://s8.stweb.tv/chacra/live/chunks.m3u8
@@ -4427,8 +4466,14 @@ https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BZMdm7GF/panctv.jpg" group-title="Argentina",PANC TV (AR)
 https://video.streamtvradio.com:8443/uv096/uv096/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7L6XcPB4/playt.jpg" group-title="Argentina",Play Televisión (AR)
+https://vivo.solumedia.com:19360/playtv/playtv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zGm2xy50/quatro.jpg" group-title="Argentina",Quatro TV (AR)
 https://stream.arcast.live/quatro/quatro/chunklist_w559184218.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjV2WWMc/racsol.jpg" group-title="Argentina",Racsol TV (AR)
+https://videosenlared.fullstreaming.ar:3579/live/racsoltvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xdr6YhR8/radiocanal.jpg" group-title="Argentina",Radio Canal San Francisco | Córdoba (AR)
 http://204.199.3.2/.m3u8
@@ -4478,7 +4523,7 @@ https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1449886260_b
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MZh9VbFT/telemix.jpg" group-title="Argentina",Telemix (AR)
 https://panel.dattalive.com/8068/8068/chunklist_w55110425.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZRMXD7C/2.jpg" group-title="Argentina",Telpin Canal 2 (AR)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZRMXD7C/2.jpg" group-title="Argentina",Telpin (AR)
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/chunklist_w1559503579_b1344100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wtyfbBw/tierra1.jpg" group-title="Argentina",Terramia TV (AR)
@@ -4658,6 +4703,9 @@ https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RhWWfnhj/tvpassofundo.jpg" group-title="Brasil",TV Passo Fundo (BR)
 https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MK7VqcXw/tvplan.jpg" group-title="Brasil",TV Plan (BR)
+https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hjVyjCfF/s.jpg" group-title="Brasil",TV Sim Cachoeiro (BR)
 https://5cf4a2c2512a2.streamlock.net/8104/8104/chunklist_w52262857.m3u8
 
@@ -4708,6 +4756,9 @@ https://unlimited1-cl-isp.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fTxc6VLh/canal2noticiascl.jpg" group-title="Chile",Canal 2 | San Antonio | Valparaíso (CL)
 https://unlimited1-cl-isp.dps.live/canal2/canal2.smil/canal2/livestream1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5NcZYrgJ/lota4.jpg" group-title="Chile",Canal 4 | Lota (CL)
+https://v1.tustreaming.cl/tv4television/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/HzxKHTN.jpg" group-title="Chile",Canal 5 | Puerto Montt (CL)
 https://stmv2.zcasthn.com.br/canal5/canal5/chunklist_w790838466.m3u8
@@ -5135,7 +5186,7 @@ http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
 http://163.178.170.127:1935/quinceucr/quinceucr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HkQsmmsv/canal17-nosara.jpg" group-title="Costa Rica",Canal 17 | Nosara (CR)
-https://stmv.streamingvip.click/tvnosara/tvnosara/playlist.m3u8
+https://stmv.streamingvip.click/tvnosara2/tvnosara2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mZ00pTVZ/36.jpg" group-title="Costa Rica",Canal 36 | Trivisión (CR)
 https://liveingesta118.cdnmedia.tv/trivision36live/dvrlive-1500/chunklist.m3u8
@@ -5409,6 +5460,9 @@ https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/chunklis
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J0vntX2d/c45.jpg" group-title="España",Canal 45 | Jaén (ES)
 https://live.yowi.tv/58b79e6a71f5459d5fc9_live-600/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhY75vy6/c56.jpg" group-title="España",Canal 56 | Vinaroz (ES)
+https://videos.canal56.com/directe/stream/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/B6mwn1VT/canal2000.jpg" group-title="España",Canal 2000 (ES)
 http://canal2000.berkano-systems.net/streaming/streams/canal2000-720p.m3u8
 
@@ -5520,7 +5574,13 @@ https://str01.tvalmansa.es/emisiononline/pvRvn5ZMmYe2DFzJu1iJKr4EMxna0N.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MGv2sGKz/inter.jpg" group-title="España",Interalmería TV (ES)
 https://www.interalmeria.tv/directo/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmvpfYz3/intercomal.jpg" group-title="España",Intercomarcal TV (ES)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmvpfYz3/intercomal.jpg" group-title="España",Intercomarcal TV | L´alcoiá (ES)
+https://streamingtvi.gestec-video.com/hls/tvixa3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmvpfYz3/intercomal.jpg" group-title="España",Intercomarcal TV |  L'alacantí (ES)
+https://streamingtvi.gestec-video.com/hls/tvixa1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmvpfYz3/intercomal.jpg" group-title="España",Intercomarcal TV | Vinalopó (ES)
 https://streamingtvi.gestec-video.com/hls/tvixa.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g02sZpqH/la7.jpg" group-title="España",La 7 (ES)
@@ -6176,6 +6236,9 @@ https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6pqSW-BsQ/canal11mx.jpg" group-title="México",Once | Instituto Politécnico Nacional (MX)
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b1431072.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T2zd3pmk/presumiendo.jpg" group-title="México",Presumiendo Mexico TV (MX)
+https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/chunklist_w1627125803_b1428000_sleng.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FRVvPQpS/rcgmedia.jpg" group-title="México",RCG 1 | Saltillo (MX)
 https://video1.getstreamhosting.com:1936/8172/8172/chunklist_w576560529.m3u8
 
@@ -6710,8 +6773,26 @@ https://cdn01.setar.aw/Telearuba/telearuba/chunklist_w1983999681.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8P56pWzN/canal25.jpg" group-title="República Dominicana",Canal 25 (RD)
 https://ss3.domint.net:3150/c25_str/canal25/chunklist_w1085656988.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxGrxyqd/hmtv.jpg" group-title="República Dominicana",Canal 33 | HM TV (RD)
+https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LX8J6zBG/canal36c.jpg" group-title="República Dominicana",Canal 36 | Cotubarama TV (RD)
+https://cdn4.hostlagarto.com:8081/static/cotubanamatv/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C1Yvb5LT/cdn37.jpg" group-title="República Dominicana",Canal 37 | CDN (RD)
 http://181.175.41.170:8000/play/a0jm
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QtjKv2yg/roman.jpg" group-title="República Dominicana",Canal 42 | Romana TV (RD)
+https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6pMGDWZ9/telecontac.jpg" group-title="República Dominicana",Canal 57 | Telecontacto (RD)
+https://vdo1.streamgato.us:3578/live/telecontactohdlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFVQ1n2v/digitalv.jpg" group-title="República Dominicana",Canal 63 | Digital Visión (RD)
+https://ss3.domint.net:3120/dv6_str/digitalvision/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dwg5z4WL/evo.jpg" group-title="República Dominicana",Canal Evolución (RD)
+https://cdnhd.iblups.com/hls/SJWxXEWwUd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1tBLBCxG/Catorcetv.jpg" group-title="República Dominicana",Catorce TV (RD)
 https://video.misistemareseller.com/catorcetv/catorcetv/playlist.m3u8
@@ -6910,9 +6991,6 @@ https://vcp3.myplaytv.com/trt/trt/chunklist_w1173802791.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/prn9C3Gn/RTV.jpg" group-title="Venezuela",TRV (VE)
 https://vcp3.myplaytv.com/trv/trv/chunklist_w958785196.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRhGfVzC/TVES1.jpg" group-title="Venezuela",TVES (VE)
-https://edge1o.live.opencaster.com/caster/erCkqDzdGzpj.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XvNRD7J7/tvfanb.jpg" group-title="Venezuela",TV Fanb (VE)
 https://vcp2.myplaytv.com/tvfanb/tvfanb/chunklist_w1005755771.m3u8
