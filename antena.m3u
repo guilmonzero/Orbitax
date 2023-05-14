@@ -16,9 +16,6 @@ https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJSPRSkk/animestation2.jpg" group-title="Animados | Variado",Anime Station (AR)
 https://stream.ichibantv.com:3741/live/aniplustvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yNRJmzSz/AZTV.jpg" group-title="Animados | Variado",AZ TV (AR)
-https://azxtv.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1R0zVD9Z/balapan.jpg" group-title="Animados | Variado",Balapan TV | Turquía (TR)
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
 
@@ -86,9 +83,6 @@ https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0sBS6zF/doskids.jpg" group-title="Animados | Variado",Dos Kids (LATAM)
 http://45.160.15.1:8111/play/a0ok
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zpc5YDm/Dtv.jpg" group-title="Animados | Variado",Direct TV | Anuncios (LATAM)
-http://190.119.178.46:8000/play/a033/index.m3u8  Directv 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T1WRCfqH/dreikotv.jpg" group-title="Animados | Variado",Dreiko TV (PA)
 https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
@@ -707,21 +701,20 @@ http://5.255.90.184:2001/play/a05h
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/chunklist_w131348541.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/63sTCMzL/direcs1.jpg" group-title="Deportes | Aventura",D Sports (LATAM)
-http://190.119.178.46:8000/play/a032/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/63sTCMzL/direcs1.jpg" group-title="Deportes | Aventura",D Sports | Opción 2 (LATAM)
 http://45.190.13.50:8000/play/a03v/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63sTCMzL/direcs1.jpg" group-title="Deportes | Aventura",D Sports | Opción 2 (LATAM)
+http://190.119.178.46:8000/play/a032/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7L5T3G4D/direcs2.jpg" group-title="Deportes | Aventura",D Sports | 2 (LATAM)
 http://45.190.13.50:8000/play/a03w/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7L5T3G4D/direcs2.jpg" group-title="Deportes | Aventura",D Sports | 2 | Opción 2 (LATAM)
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bb9DQqd3/direcsmas.jpg" group-title="Deportes | Aventura",D Sports | + (LATAM)
+http://45.190.13.50:8000/play/a03x/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bb9DQqd3/direcsmas.jpg" group-title="Deportes | Aventura",D Sports | + | Opción 2 (LATAM)
+http://190.119.178.46:8000/play/a034/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJHw1C8h/d-fight.jpg" group-title="Deportes | Aventura",D Sports | Fight (LATAM)
 http://190.119.178.46:8000/play/a036/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bb9DQqd3/direcsmas.jpg" group-title="Deportes | Aventura",D Sports | + (LATAM)
-http://190.119.178.46:8000/play/a034/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bb9DQqd3/direcsmas.jpg" group-title="Deportes | Aventura",D Sports | + | Opción 2 (LATAM)
-http://45.190.13.50:8000/play/a03x/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYF1gPgP/dtplay.jpg" group-title="Deportes | Aventura",DT PLAY | Deporte Total (BO)
 https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
