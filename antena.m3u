@@ -2848,7 +2848,7 @@ http://799290536900267812.ofio.xyz:80/play/vi1011594/7671001175/267812.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qq4yGjm0/movistar-alquiler.jpg" group-title="Premium | España",Movistar+ | Alquiler | 6 (ES)
 http://799290536900267809.ofio.xyz:80/play/vi1011594/7671001175/267809.ts
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fb9WGZps/cartoon.jpg" group-title="Premium | Latino",Cartoon Network (LATAM)
+#EXTINF:-1 tvg-id="I176.60048.schedulesdirect.org" tvg-logo="https://i.postimg.cc/fb9WGZps/cartoon.jpg" group-title="Premium | Latino",Cartoon Network (LATAM)
 http://45.228.234.162:24000/play/a03y/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fb9WGZps/cartoon.jpg" group-title="Premium | Latino",Cartoon Network | Opción 2 (LATAM)
 http://181.119.67.75:16123/play/a068
@@ -4106,9 +4106,6 @@ http://hidra.live:80/rbkhihvo/tBoBv15r69/58291
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VkPVszVT/duck.jpg" group-title="Mas Series",Pato Aventuras (LATAM)
 http://hidra.live:80/rbkhihvo/tBoBv15r69/35518
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHrxBwC0/rickandmorty.jpg" group-title="Mas Series",Rick and Morty (LATAM)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/50631
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FRrnVR6q/run-ana.jpg" group-title="Mas Series",Runtime | Ana y los 7 (ES)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2722
@@ -7348,8 +7345,6 @@ https://i.mjh.nz/PlutoTV/63eb9495a8b227000841bf64-alt.m3u8
 https://i.mjh.nz/PlutoTV/60cc807324d60a0007708dc8-alt.m3u8
 #EXTINF:-1 channel-id="pluto-63eb93cea995710008989e3a" tvg-id="63eb93cea995710008989e3a" tvg-chno="53" tvg-logo="https://images.pluto.tv/channels/63eb93cea995710008989e3a/colorLogoPNG.png" group-title="Pluto TV | España" ,Los Ángeles de Charlie
 https://i.mjh.nz/PlutoTV/63eb93cea995710008989e3a-alt.m3u8
-#EXTINF:-1 channel-id="pluto-6054acc871ec430007f54c7d" tvg-id="6054acc871ec430007f54c7d" tvg-chno="70" tvg-logo="https://images.pluto.tv/channels/6054acc871ec430007f54c7d/colorLogoPNG.png" group-title="Pluto TV | España" ,Anime Clásico
-https://i.mjh.nz/PlutoTV/6054acc871ec430007f54c7d-alt.m3u8
 #EXTINF:-1 channel-id="pluto-619b7db4872c650008eb8b6a" tvg-id="619b7db4872c650008eb8b6a" tvg-chno="100" tvg-logo="https://images.pluto.tv/channels/619b7db4872c650008eb8b6a/colorLogoPNG.png" group-title="Pluto TV | España" ,Star Trek
 https://i.mjh.nz/PlutoTV/619b7db4872c650008eb8b6a-alt.m3u8
 #EXTINF:-1 channel-id="pluto-60d3574e97f10800078455de" tvg-id="60d3574e97f10800078455de" tvg-chno="101" tvg-logo="https://images.pluto.tv/channels/60d3574e97f10800078455de/colorLogoPNG.png" group-title="Pluto TV | España" ,Doctor Who
