@@ -1804,14 +1804,10 @@ https://video01.logicahost.com.br/grupomedia/grupomedia/chunklist_w1713978367.m3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/90fc15Zh/PAUTA.jpg" group-title="Música",Pauta Radio (CL)
 https://unlimited6-cl.dps.live/pautatv/pautatv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL0C7sLc/persi-4.jpg" group-title="Música",Persiana | 4 Kurd (IR)
-http://51.210.199.23/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCbGxsz4/persi-mu.jpg" group-title="Música",Persiana | Music (IR)
 http://51.210.199.24/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3NXX7d9j/persi-no.jpg" group-title="Música",Persiana | Nostalgia (IR)
 http://51.210.199.20/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0ycCbKvc/persi-k.jpg" group-title="Música",Persiana | Korea (IR)
-http://51.210.199.14/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Ss26jZQG/persi-r.jpg" group-title="Música",Persiana | Rap (IR)
 http://51.210.227.163/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqSfTwK7/persi-so.jpg" group-title="Música",Persiana | Sonati (IR)
@@ -7356,6 +7352,8 @@ https://558bd16067b67.streamlock.net/nos_pais_24_7/nos_pais_24_7/chunklist_w7366
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RCKQwD93/persi.jpg" group-title="Mas Señales",Persiana (IR)
 http://51.210.227.147/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL0C7sLc/persi-4.jpg" group-title="Mas Señales",Persiana | 4 Kurd (IR)
+http://51.210.199.23/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/02Gn1HBg/persi-ci.jpg" group-title="Mas Señales",Persiana | Cinema (IR)
 http://168.119.248.171/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xdZyPrcm/persi-co.jpg" group-title="Mas Señales",Persiana | Comedy (IR)
@@ -7364,6 +7362,8 @@ http://51.210.199.27/hls/stream.m3u8
 http://51.210.199.19/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pdrJ8VXx/persi.jpg" group-title="Mas Señales",Persiana | Iranian (IR)
 http://51.210.199.22/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0ycCbKvc/persi-k.jpg" group-title="Mas Señales",Persiana | Korea (IR)
+http://51.210.199.14/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MpWD6bCn/persi-o.jpg" group-title="Mas Señales",Persiana | One (IR)
 http://51.210.199.21/hls/stream.m3u8
 
