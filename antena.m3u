@@ -2,7 +2,7 @@
 #EXTINF:-1, GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter: @Guilmonzero
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m2VGrP8S/GUIL.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Feedback
-https://pomf2.lain.la/f/xcw692r9.mp4
+https://pomf2.lain.la/f/5jcb389a.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pV3QdywC/acs.jpg" group-title="Animados | Variado",ACS Network TV (PR)
 https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
@@ -324,9 +324,6 @@ https://kedoo-supertoonstv-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7QvFD82/Supertoons.jpg" group-title="Animados | Variado",Supertoons TV | 2 (FR)
 https://kedoo-supertoonstv-3-fr.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CMvtKM6V/tdtv.jpg" group-title="Animados | Variado",TD TV (LATAM)
-https://cloudvideo.servers10.com:8081/8230/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HxWprqrN/tigueritos.jpg" group-title="Animados | Variado",Tigueritos (LATAM)
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 
@@ -341,6 +338,9 @@ https://mfe01.tring.al/delta/106/out/u/898_3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fTyT3BQD/trt-turkia.jpg" group-title="Animados | Variado",TRT Cocuk | Turquía (TR)
 https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CMvtKM6V/tdtv.jpg" group-title="Animados | Variado",Turrialba Digital TV (CR)
+https://cloudvideo.servers10.com:8081/8230/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKH4zjQ0/tvs-ca.jpg" group-title="Animados | Variado",TVS | Cartoons (US)
 https://rpn1.bozztv.com/36bay2/gusa-TVSCartoonNetwork/index.m3u8
@@ -3147,7 +3147,7 @@ http://45.190.13.50:8002/play/a006/index.m3u8
 http://190.61.102.67:2000/play/a08t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7LH5J2nV/Tbs.jpg" group-title="Premium | Latino",Tbs | Aviso (LATAM)
-https://i.postimg.cc/33bT48q9/orbita-avisos.jpg
+https://i.postimg.cc/JMvPB4qm/orbita-avisos.jpg
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7LH5J2nV/Tbs.jpg" group-title="Premium | Latino",Tbs (LATAM)
 http://45.228.234.162:24000/play/a02l/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7LH5J2nV/Tbs.jpg" group-title="Premium | Latino",Tbs | Opción 2 (LATAM)
@@ -9230,7 +9230,7 @@ http://200.114.66.1:9981/stream/channelid/324926264?ticket=16F0B9A2F25F991275E69
 http://45.170.225.212:58001/play/a08b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m2VGrP8S/GUIL.jpg" group-title="GUILMONZERO",Órbita by GUILMONZERO | Feedback
-https://pomf2.lain.la/f/49syx297.mp4
+https://pomf2.lain.la/f/o0ucqxo.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FKCv8TJw/radio-1.jpg" group-title="GUILMONZERO",Radio Anime | Animax
 https://stream-57.zeno.fm/ep9mpnntsnhvv?zs=ChPrtqZ1SMuqfQHUnpqhFw
