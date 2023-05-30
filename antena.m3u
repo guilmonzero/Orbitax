@@ -10,7 +10,7 @@ https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJSPRSkk/animestation2.jpg" group-title="Animados | Variado",Anime Station (AR)
 https://stream.ichibantv.com:3741/live/aniplustvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnKqjN7K/animotion.jpg" group-title="Animados | Variado",Animotion (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QtngZcCJ/ani.jpg" group-title="Animados | Variado",Animotion (LATAM)
 http://45.181.122.169:8005/play/a02g
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tRcX8DCy/atfal.jpg" group-title="Animados | Variado",Atfal & Mawaheb TV | Arabia (AE)
@@ -29,6 +29,9 @@ https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8
 http://45.141.194.9:9000/play/a01z/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HkqqLTcs/boing.jpg" group-title="Animados | Variado",Boing | Opción 2 (ES)
 http://799290536900321135.ofio.xyz:80/play/vi1011594/7671001175/321135.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJhX9N4n/brat.jpg" group-title="Animados | Variado",Brat TV (ES)
+https://brat-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7PK0X4bM/bubble.jpg" group-title="Animados | Variado",Bubble (AL)
 https://mfe01.tring.al/delta/106/out/u/1118_3.m3u8
@@ -50,8 +53,16 @@ http://190.0.246.174:30000/play/tr061
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V5y6BWWn/canal99punto.jpg" group-title="Animados | Variado",Canal Punto 99 | Retro (LATAM)
 https://stmv1.zcasthn.com.br/juanantunez/juanantunez/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y97nVfFy/canela-kids.jpg" group-title="Animados | Variado",Canela TV | Kids (US)
-https://stream.ads.ottera.tv/cl/230523chm8hns3dp5teruvh1q0/854x480_550000_3_f.m3u8?i=475_654&fstate=CgAQjgUaGjIzMDUyM2NobThobnMzZHA1dGVydXZoMXEwIjBodHRwczovL292Lm90dGVyYS50di9jaGFubmVscy9jbm1fY2svbWFzdGVyLm0zdTgqGAoTbGltaXRlZF9hZF90cmFja2luZxIBMCoICgJpcBICZmgqCAoCdWESAmZoKigKCnNlc3Npb25faWQSGjIzMDUyM2NobThobnMzZHA1dGVydXZoMXEwKhAKAmNiEgoxNjg0ODM0NTI3MhQKDVBUX25ldHdvcmtfaWQSAzY1NDgCQALqAQQQAxg8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y97nVfFy/canela-kids.jpg" group-title="Animados | Variado",Canela Kids (LATAM)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qv8ck2yc/canela-ha.jpg" group-title="Animados | Variado",Canela Kids | ¡Haz Clic! (LATAM)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hP4ZTB7H/canelakm.jpg" group-title="Animados | Variado",Canela Kids | Mundo Pequeño (LATAM)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6xmYWSN/canela-pla.jpg" group-title="Animados | Variado",Canela Kids | Planeta de Aventuras (LATAM)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4311
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCRrX21M/canela-zo.jpg" group-title="Animados | Variado",Canela Kids | Zona de Acción (LATAM)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3Nt1dPkS/xtremecartoon.jpg" group-title="Animados | Variado",Cine Infantil (LATAM)
 https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
@@ -189,6 +200,9 @@ https://st01-1.iptv.joj.sk/104-tv-pc.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vZyzrF68/kanade.jpg" group-title="Animados | Variado",Kanade (CL)
 https://stream.ichibantv.com:3612/live/kanadetvlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5LbfGhW/kartoonch.jpg" group-title="Animados | Variado",Kartoon Channel (US)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=252
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hsk5s4jH/kartooncircus.jpg" group-title="Animados | Variado",Kartoon Festival (US)
 https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
 
@@ -197,9 +211,6 @@ http://87.249.220.158/karusel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2SRY6hrp/kidsflix.jpg" group-title="Animados | Variado",KidsFlix (US)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yd7HCQZZ/kidss.jpg" group-title="Animados | Variado",Kids Station (JP)
-http://rip.hidari.moe/get/jptv/get.php?id=xh4GJxN8zJFL3SmJ1P6Xsg
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W10P8nQP/latinokids.jpg" group-title="Animados | Variado",Latino Kids (UY)
 https://6362ca6f1fc28.streamlock.net/8062/8062/chunklist_w1133864991.m3u8
@@ -230,6 +241,9 @@ http://177.93.60.43:5800/play/a0gw/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tKk1y71/lollykids.jpg" group-title="Animados | Variado",Lolly Kids | Música | Opción 5 (LATAM)
 http://177.128.115.10:8000/play/a098
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYSC9Bzt/clangers.jpg" group-title="Animados | Variado",Los Clangers (LATAM)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4307
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tRFY8cMx/MAGICkids2.jpg" group-title="Animados | Variado",Magic Kids (AR)
 https://magicstream.ddns.net/magicstream/stream.m3u8
 
@@ -251,6 +265,8 @@ http://ares.mnet.mk/hls/mnet-kids.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VvN7s3yD/mondotvkids.jpg" group-title="Animados | Variado",Mondo TV Kids (IT)
 https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sXvHhXsq/moonbugkids.jpg" group-title="Animados | Variado",Moonbug Kids (ES)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4342
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXvHhXsq/moonbugkids.jpg" group-title="Animados | Variado",Moonbug Kids (UK)
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
@@ -336,13 +352,20 @@ https://kedoo-supertoonstv-3-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HxWprqrN/tigueritos.jpg" group-title="Animados | Variado",Tigueritos (LATAM)
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CpS3NDd/Toongogles.jpg" group-title="Animados | Variado",Toon Googles (BR)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CpS3NDd/Toongogles.jpg" group-title="Animados | Variado",Toon Googles (ES)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=143
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CpS3NDd/Toongogles.jpg" group-title="Animados | Variado",Toon Googles (US)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLyfK5Zs/tooni.jpg" group-title="Animados | Variado",Toonizaki (AR)
 https://stream-linkyprojects.linky.com.co/hls/toonizaki.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ncpWQZ32/Toonmax.jpg" group-title="Animados | Variado",Toonmax TV | China (CN)
 http://210.210.155.37/qwr9ew/s/s50/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wM6mQXxr/tring.jpg" group-title="Animados | Variado",Tring Tring | Albania (AL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCXsXs0K/tring.jpg" group-title="Animados | Variado",Tring Tring | Albania (AL)
 https://mfe01.tring.al/delta/106/out/u/898_3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fTyT3BQD/trt-turkia.jpg" group-title="Animados | Variado",TRT Cocuk | Turquía (TR)
@@ -364,6 +387,9 @@ https://linear-260.frequency.stream/dist/vix/260/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrWm30kh/xtrema-anime.jpg" group-title="Animados | Variado",Xtrema | Anime (LATAM)
 https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLYsFybh/zaz2.jpg" group-title="Animados | Variado",Zaz (LATAM)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4284
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bNB17YxF/ztv8.jpg" group-title="Animados | Variado",Zhejiang Kids | China (CN)
 https://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
@@ -515,6 +541,9 @@ https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKfRq11h/plex-sabermas.jpg" group-title="Ciencia | Cultura",Plex | Saber Mas (LATAM)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTrg55yk/promperu.jpg" group-title="Ciencia | Cultura",Prom Perú (PE)
+https://live.tvcontrolcp.com:1936/8054/8054/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MGvQ243K/Pymesteve.jpg" group-title="Ciencia | Cultura",Pymes Teve (PE)
 https://vse2-sa-all62.secdn.net/tvstartup6-channel/live/pymestv/playlist.m3u8
 
@@ -554,6 +583,9 @@ http://170.254.234.244:8000/play/a05r/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qvc7z9qy/sting-natures.jpg" group-title="Ciencia | Cultura",Stingray | NaturEscape (US)
 https://watchtv-raw.ott-channels.stingray.com/naturescape/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rpB06fyN/sunch.jpg" group-title="Ciencia | Cultura",Sun Channel (VE)
+https://vcndistroscale.teleosmedia.com/linear/sun/sun/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d00wWZQz/suyai.jpg" group-title="Ciencia | Cultura",Suyai TV (CL)
 https://5ff3d9babae13.streamlock.net/ytptuzhund/ytptuzhund/chunklist_w1673915503.m3u8
 
@@ -563,8 +595,35 @@ https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvks2w1Y/tvambiente.jpg" group-title="Ciencia | Cultura",Tele Ambiente (IT)
 https://5f22d76e220e1.streamlock.net/teleambiente/teleambiente/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3L7ntvg/teletur.jpg" group-title="Ciencia | Cultura",TeleTur (RD)
+https://cdn4.hostlagarto.com:8081/static/teletur/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DfrHXyns/tevex.jpg" group-title="Ciencia | Cultura",Tevex (CL)
 https://v2.tustreaming.cl/tevex/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/283161ct/travbul.jpg" group-title="Ciencia | Cultura",Travel TV | Bulgaria (BG)
+https://streamer103.neterra.tv/travel/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0vpV6f0/travelxp.jpg" group-title="Ciencia | Cultura",Travelxp | Inglés (IN)
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0vpV6f0/travelxp.jpg" group-title="Ciencia | Cultura",Travelxp | Español (IN)
+http://181.224.161.138:1010/play/a05q/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/h49PC9JT/tvs-travel.jpg" group-title="Ciencia | Cultura",TRVL | Travel Network (US)
+https://rpn1.bozztv.com/36bay2/gusa-tvstravel/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bnd7Km6F/Turismotraveltv.jpg" group-title="Ciencia | Cultura",Turismo Travel TV (CL)
+https://vdo.panelstreaming.live:3936/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsYFyzQ8/turitik.jpg" group-title="Ciencia | Cultura",Turistik (MX)
+https://5fa5de1a545ae.streamlock.net/8030/8030/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqQwJN7w/tvart.jpg" group-title="Ciencia | Cultura",TV ART (BG)
+https://stream.osc.bg/tvart/Stream3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2nQyMqW/tvbr.jpg" group-title="Ciencia | Cultura",TV Brasil (BR)
+http://200.189.113.201/hls/tve.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cH0VTGgY/elqui.jpg" group-title="Ciencia | Cultura",TV Elqui (CL)
 https://paneltv.online:1936/8056/8056/chunklist_w1633106361.m3u8
@@ -610,6 +669,9 @@ https://streamingtvi.gestec-video.com/hls/unesd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4N1kfQ0H/uatv.jpg" group-title="Ciencia | Cultura",Universidad Autonoma TV (CL)
 https://unlimited1-cl-isp.dps.live/uatv/uatv.smil/uatv/livestream1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqPWwGbZ/urbna.jpg" group-title="Ciencia | Cultura",Urbana Tevé (AR)
+https://cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7hWSf2wC/utvh.jpg" group-title="Ciencia | Cultura",UTV (HN)
 https://live-utv.unah.edu.hn/web/salida.m3u8
@@ -680,6 +742,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgy3hpnL/canalmotortv.jpg" group-title="Deportes | Aventura",Canal Motor TV (LATAM)
 https://digicom.hls.iptvdc.com/motorstv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFkjYFpP/canela-sports.jpg" group-title="Deportes | Aventura",Canela TV | Sports (LATAM)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2013
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8xyvGBV/CDN-rd.jpg" group-title="Deportes | Aventura",CDN | Deportes (RD)
 http://181.175.41.170:8000/play/a0ji
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8xyvGBV/CDN-rd.jpg" group-title="Deportes | Aventura",CDN | Deportes | Opción 2 (RD)
@@ -714,7 +779,7 @@ http://181.175.41.170:8000/play/a0jt
 http://181.189.243.254:8000/play/a0on/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kGnf2t1M/combate.jpg" group-title="Deportes | Aventura",Combate Global (US)
-https://stream.ads.ottera.tv/cl/230417cgudgc4rac1fv9f83cr0/854x480_550000_3_f.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nrszcgj7/CRTV.jpg" group-title="Deportes | Aventura",CRTV (CL)
 https://vdo.panelstreaming.live:3540/hybrid/play.m3u8 
@@ -944,9 +1009,6 @@ https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxu
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6qjBDYkq/pa12.jpg" group-title="Deportes | Aventura",PAC 12 Network (US)
 https://pac12-roku-us.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTrg55yk/promperu.jpg" group-title="Deportes | Aventura",Prom Perú (PE)
-https://live.tvcontrolcp.com:1936/8054/8054/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g29SthgG/px.jpg" group-title="Deportes | Aventura",PX Sports (US)
 http://45.5.119.202:54321/play/a06e/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g29SthgG/px.jpg" group-title="Deportes | Aventura",PX Sports | Opción 2 (US)
@@ -1017,9 +1079,6 @@ http://hidra.live:80/rbkhihvo/tBoBv15r69/303840
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T1y1NV25/teletrak.jpg" group-title="Deportes | Aventura",Teletrak (AR)
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3L7ntvg/teletur.jpg" group-title="Deportes | Aventura",TeleTur (RD)
-https://cdn4.hostlagarto.com:8081/static/teletur/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jj8R9Nph/tigosports.jpg" group-title="Deportes | Aventura",Tigo Sports (CR)
 http://181.189.243.254:8000/play/a0sn/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jj8R9Nph/tigosports.jpg" group-title="Deportes | Aventura",Tigo Sports | Opción 2 (CR)
@@ -1030,9 +1089,6 @@ http://190.61.91.81:5000/play/a0ox/index.m3u8
 http://45.228.234.162:24000/play/a08n/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jj8R9Nph/tigosports.jpg" group-title="Deportes | Aventura",Tigo Sports | Opción 5 (CR)
 http://186.101.207.117:9955/play/a0cu/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0vpV6f0/travelxp.jpg" group-title="Deportes | Aventura",Travelxp | Español (IN)
-http://181.224.161.138:1010/play/a05q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kMfCjxdY/Tudn.jpg" group-title="Deportes | Aventura",TUDN (US)
 http://45.190.13.50:8002/play/a003/index.m3u8
@@ -1072,17 +1128,14 @@ http://181.78.23.26:45000/play/a01k
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXb8M9QK/tycsports.jpg" group-title="Deportes | Aventura",TyC Sports | Modo de Prueba (AR)
 https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_14.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bnd7Km6F/Turismotraveltv.jpg" group-title="Deportes | Aventura",Turismo Travel TV (CL)
-https://vdo.panelstreaming.live:3936/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsYFyzQ8/turitik.jpg" group-title="Deportes | Aventura",Turistik (MX)
-https://5fa5de1a545ae.streamlock.net/8030/8030/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mkcwBwYH/TVSTURF.jpg" group-title="Deportes | Aventura",TV Turf Movil (CL)
 https://janus.tvturf.cl/playlist/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNTxpJvC/ufcnet.jpg" group-title="Deportes | Aventura",UFC Network (US)
 http://hidra.live:80/rbkhihvo/tBoBv15r69/34714
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PxH4Sw-K5/viajar.jpg" group-title="Deportes | Aventura",Viajar TV (AR)
+https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PrMJzsjd/vinx.jpg" group-title="Deportes | Aventura",Vinx (ES)
 https://vinx.radiocast.es:5443/LiveApp/streams/vinxtv.m3u8
@@ -1199,7 +1252,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_14
 http://45.238.20.129:8000/play/a026
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3NS71zmc/cnnbrasil.jpg" group-title="Informativo",CNN | Brasil (BR)
-https://ythls.onrender.com/channel/UCvdwhh_fDyWccR42-rReZLw.m3u8?
+https://ythls.onrender.com/channel/UCvdwhh_fDyWccR42-rReZLw.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3NS71zmc/cnnbrasil.jpg" group-title="Informativo",CNN | Brasil | Opción 2 (BR)
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRSmCRjx/CNN-chile.jpg" group-title="Informativo",CNN | Chile (CL)
 http://181.39.202.98:9993/play/a162/index.m3u8
@@ -1291,6 +1346,9 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3RbYrcHq/Globalnews.jpg" group-title="Informativo",Global News | Canadá (CA)
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gj7htm7N/hora.jpg" group-title="Informativo",Hora x Hora TV (VE)
+https://59ef525c24caa.streamlock.net/ctn/ctn/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QSFtFPw/Ican.jpg" group-title="Informativo",Icable News Channel | Hong Kong (HK)
 https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 
@@ -1359,6 +1417,9 @@ https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fbgCzs9d/t13.jpg" group-title="Informativo",T13 (CL)
 https://unlimited1-us.dps.live/t13/t13.smil/t13/livestream1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v81btxgs/tbsnd.jpg" group-title="Informativo",TBS | News (JP)
+https://ythls.onrender.com/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T2y47xYD/td.jpg" group-title="Informativo",Telediario Televisión Satelital (AR)
 https://stmvideo2.livecastv.com/telediario/telediario/chunklist_w302878023.m3u8
@@ -1444,8 +1505,10 @@ https://canal.mediaserver.com.co:8088/live/canalamordiscos.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/63QjqQtk/arabicatv.jpg" group-title="Música",Arabica TV (SA)
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBY5nj1X/atomic.jpg" group-title="Música",Atomic (RO)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76c9nJpb/atomic.jpg" group-title="Música",Atomic (RO)
 https://atomic.streamnet.ro/atomictv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYysW-f5t/acade.jpg" group-title="Música",Atomic | Academy (RO)
+https://atomic.streamnet.ro/academia.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W3xHzm91/bajocerotv.jpg" group-title="Música",Bajo Cero (CL)
 https://stmv2.zcasthn.com.br/bajocerotv/bajocerotv/chunklist_w729264889.m3u8
@@ -1467,6 +1530,9 @@ https://ca2.inka.net.pe/best-Music-0011200000/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6Q4V4jHF/Blast.jpg" group-title="Música",Blast Channel TV (BR)
 https://video01.logicahost.com.br/blast/blast/chunklist_w2035167070.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6QgvcjxX/brz.jpg" group-title="Música",BRZ TV (BR)
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3RyhcSxk/BTA.jpg" group-title="Música",BTO (VE)
 https://cloud.streamingconnect.tv/hls/bta/bta.m3u8
@@ -1532,14 +1598,14 @@ http://190.61.102.67:8000/play/a06t
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RhLsnFQy/conecta.jpg" group-title="Música",Conecta TV (MX)
 https://stream8.mexiserver.com:1936/conectatv/conectatv/chunklist_w1971005948.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qM46RdMS/danAR.jpg" group-title="Música",Dance TV (AR)
+https://stmv1.cnarlatam.com/danncetv/danncetv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pLpn4XYn/dance.jpg" group-title="Música",Dance TV (CL)
 https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/chunklist_w862426238.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J75ccvR8/deluxemusic.jpg" group-title="Música",Deluxe Music (DE)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/50j1wbfz/dilse.jpg" group-title="Música",Dil Se (IN)
-https://live.hungama.com/linear/dil-se/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RVqs31bb/ditty.jpg" group-title="Música",Ditty TV (US)
 https://0ba805a2403b4660bbb05c0a210ebbdc.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_DittyTV/playlist.m3u8
@@ -1596,6 +1662,21 @@ http://45.5.119.202:54321/play/a00m/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1F4ftjv/HTV.jpg" group-title="Música",HTV |  Opción 2 (LATAM)
 http://45.228.234.77:3340/play/htv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26MnvFhX/adi.jpg" group-title="Música",Hungama | Adipoli (IN)
+https://live.hungama.com/linear/adipoli/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Sj05Z9Fg/arth.jpg" group-title="Música",Hungama | Artis Aloud (IN)
+https://live.hungama.com/linear/artist-aloud/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDDJ6VvZ/dax.jpg" group-title="Música",Hungama | Dhamaal (IN)
+https://live.hungama.com/linear/dhamaal/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50j1wbfz/dilse.jpg" group-title="Música",Hungama | Dil Se (IN)
+https://live.hungama.com/linear/dil-se/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1sYbDwy/kadakhits.jpg" group-title="Música",Hungama | Kadak Hits (IN)
+https://live.hungama.com/linear/kadak-hits/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/15bq4PBz/Nazrana.jpg" group-title="Música",Hungama | Nazrana (IN)
+https://live.hungama.com/linear/nazrana/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8zGnWdKx/poppataka.jpg" group-title="Música",Hungama |  Pop Pataka (IN)
+https://live.hungama.com/linear/pop-pataka/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yGqtH6w/iberoamericatv.jpg" group-title="Música",Ibero América TV (ES)
 https://limited39.todostreaming.es/live/salome-livestream.m3u8
 
@@ -1610,9 +1691,6 @@ https://rtmp.info/iqtv/envivo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwxwp5PK/JOVENM.jpg" group-title="Música",Jovem Hits (BR)
 https://video01.kshost.com.br:4443/joao9563/joao9563/chunklist_w288315459.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1sYbDwy/kadakhits.jpg" group-title="Música",Kadak Hits (IN)
-https://live.hungama.com/linear/kadak-hits/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rF7py5Bk/karibe-a.jpg" group-title="Música",Karibeña (PE)
 https://cu.onliv3.com/livevd/user1_hd720/index.m3u8
@@ -1662,6 +1740,9 @@ https://ca2.inka.net.pe/best-MasCum-0100210011/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Twg1YV5s/masfm.jpg" group-title="Música",Mas | FM 95.9 (AR)
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5ty8Lfm7/masm.jpg" group-title="Música",Mas Música (LATAM)
+https://stmv1.cnarlatam.com/televideo/televideo/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V64KKYS2/MAXIMA.jpg" group-title="Música",Maxima FM (CL)
 https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/chunklist_w1888201364.m3u8
 
@@ -1670,6 +1751,9 @@ http://iptv.prosto.tv:7000/ch137/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NGzDTx6b/megb.jpg" group-title="Música",Mega Box (NI)
 https://stmv1.voxhdnet.com/megabox5/megabox5/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13DhXbCn/megac.jpg" group-title="Música",Mega Clásicos (AR)
+https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Zqvz5tnk/megafuzion.jpg" group-title="Música",Mega Fuzion | Radio TV (CR)
 https://srv.panelcast.net/fuziontv2023/fuziontv2023/chunklist_w1392290972.m3u8
@@ -1793,9 +1877,6 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c1YSBCHG/Navahang.jpg" group-title="Música",Navahang (FI)
 https://hls.navahang.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/15bq4PBz/Nazrana.jpg" group-title="Música",Nazrana (IN)
-https://live.hungama.com/linear/nazrana/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rFDfvVzy/ngradio.jpg" group-title="Música",Ng Radio (GR)
 http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8
 
@@ -1869,9 +1950,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playl
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Zn9X7Tpg/PMC.jpg" group-title="Música",PMC (IR)
 https://hls.pmchd.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8zGnWdKx/poppataka.jpg" group-title="Música",Pop Pataka (IN)
-https://live.hungama.com/linear/pop-pataka/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JhjGG8vK/portalfoxmix.jpg" group-title="Música",Portal FoxMix (CL)
 https://panel.tvstream.cl:1936/8040/8040/chunklist_w1056706280.m3u8
 
@@ -1881,10 +1959,15 @@ https://live2.tensila.com/1-1-1.power-tv/hls/live/mystream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJtTqWRT/POWERt.jpg" group-title="Música",Power (TR)
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b1012000_sltur.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26CbG2zc/ptc.jpg" group-title="Música",PTC Music (IN)
+https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0yM49hsb/Qmusic.jpg" group-title="Música",QMusic | Holanda (NL)
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4dsCqqqG/qwest.jpg" group-title="Música",Qwest | Jazz & Beyond (NL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LbMPJnK/qwestc.jpg" group-title="Música",Qwest | Classical (NL)
+https://qwest-classic-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4yMb9f4z/qwestj.jpg" group-title="Música",Qwest | Jazz & Beyond (NL)
 https://qwest-jazz-plex.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZHjFvz9/qwest-mix.jpg" group-title="Música",Qwest | Mix (NL)
 https://qwest-mix-plex.amagi.tv/playlist720_p.m3u8
@@ -1979,6 +2062,9 @@ https://panel.tvstream.cl:1936/8022/8022/chunklist_w1879938386.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5yxLd7Cc/rumbatv.jpg" group-title="Música",Rumba TV (CO)
 http://181.78.4.10:45000/play/a04k
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j5HKkXk9/radiope.jpg" group-title="Música",Rutas del Perú (PE)
+https://tv.portalexpress.es:3731/stream/play.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1tKMjZRq/RUTV.jpg" group-title="Música",Ru TV (RU)
 https://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
 
@@ -2010,6 +2096,8 @@ https://ott-linear-channels.stingray.com/108/master.m3u8
 https://ott-linear-channels.stingray.com/190/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VNCT48yH/sting-popa.jpg" group-title="Música",Stingray | Pop Adult (US)
 https://ott-linear-channels.stingray.com/104/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRjnHk98/stingrey-con.jpg" group-title="Música",Stingray | Qello Concerts (US)
+https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VsV60qRs/sting-r-Alt.jpg" group-title="Música",Stingray | Rock Alternative (US)
 https://ott-linear-channels.stingray.com/102/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FssDKJZx/sting-urban.jpg" group-title="Música",Stingray | Urban (US)
@@ -2153,6 +2241,9 @@ https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qqrd9KpV/vo1.jpg" group-title="Música",Voice Over Radio (CR)
 https://cloudvideo.servers10.com:8081/8198/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6Qw1TgR3/volter.jpg" group-title="Música",Volterix (AR)
+https://ythls.onrender.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4dMwLpJv/wanasah.jpg" group-title="Música",Wanasah (SA)
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 
@@ -2212,6 +2303,9 @@ https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qqsLZVmd/amc-story.jpg" group-title="Peliculas | Series",AMC | Stories (US)
 https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpkbCH6V/axnow.jpg" group-title="Peliculas | Series",AXS TV Now (US)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=922
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sfktLMQZ/AZ-clic.jpg" group-title="Peliculas | Series",AZ | Clic (MX)
 http://45.228.234.162:24000/play/a04j/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sfktLMQZ/AZ-clic.jpg" group-title="Peliculas | Series",AZ | Clic | Opción 2 (MX)
@@ -2222,13 +2316,15 @@ http://45.170.225.212:58001/play/a00m/index.m3u8
 http://181.189.243.254:8000/play/a0qe/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqK9480q/az-corazon.jpg" group-title="Peliculas | Series",AZ | Corazón (MX)
-http://45.228.234.162:24000/play/a02i/index.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4295
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqK9480q/az-corazon.jpg" group-title="Peliculas | Series",AZ | Corazón | Opción 2 (MX)
 http://45.228.234.77:3340/play/azcorazon/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqK9480q/az-corazon.jpg" group-title="Peliculas | Series",AZ | Corazón | Opción 3 (MX)
 http://181.189.243.254:8000/play/a0pg/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqK9480q/az-corazon.jpg" group-title="Peliculas | Series",AZ | Corazón | Opción 4 (MX)
 http://45.5.119.202:54321/play/a010/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqK9480q/az-corazon.jpg" group-title="Peliculas | Series",AZ | Corazón | Opción 5 (MX)
+http://45.228.234.162:24000/play/a02i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFrs9wpB/az-mundo.jpg" group-title="Peliculas | Series",AZ | Mundo (MX)
 http://45.228.234.162:24000/play/a067/index.m3u8
@@ -2238,6 +2334,9 @@ http://181.189.243.254:8000/play/a0s4/index.m3u8
 http://45.5.119.202:54321/play/a06m/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFrs9wpB/az-mundo.jpg" group-title="Peliculas | Series",AZ | Mundo | Opción 4 (MX)
 http://45.5.118.213:16000/play/a0mx/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMdF0Jcz/bayres.jpg" group-title="Peliculas | Series",Bayres TV (AR)
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VNxYcfYL/bizzarro-Movies.jpg" group-title="Peliculas | Series",Bizzarro Movies (IT)
 https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
@@ -2251,8 +2350,19 @@ http://181.78.23.26:45000/play/a01x
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1sjLZ4L/canalclaro.jpg" group-title="Peliculas | Series",Canal Claro | Opción 4 (LATAM)
 http://190.217.110.170:45000/play/a01x
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3xVq3R8X/canel.jpg" group-title="Peliculas | Series",Canela TV (LATAM)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59kvGHk6/canela-1.jpg" group-title="Peliculas | Series",Canela TV (US)
 https://cnm-ctm-ro-roku.otteravision.com/cnm/ctm_ro/ctm_ro_480p.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y6Xg2J8S/canela-ac.jpg" group-title="Peliculas | Series",Canela TV | Acción Mexicana (LATAM)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxbfL97H/canela-cinema.jpg" group-title="Peliculas | Series",Canela TV | Cinema (LATAM)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3rXQ9n6T/canela-clasicos.jpg" group-title="Peliculas | Series",Canela TV | Clásicos (LATAM)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3r2qjNqf/cin.jpg" group-title="Peliculas | Series",Cindie TV | Lite (LATAM)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=820
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdJg2yYX/cinear.jpg" group-title="Peliculas | Series",Cine AR (AR)
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
@@ -2283,7 +2393,7 @@ http://177.234.230.226:8010/play/a00v/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sfBKkyPg/cine-familiar.jpg" group-title="Peliculas | Series",Cine | Familiar | Opción 4 (LATAM)
 http://190.0.246.174:30000/play/tr062
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sfBKkyPg/cine-familiar.jpg" group-title="Peliculas | Series",Cine | Familiar | Opción 5 (LATAM)
-http://179.1.48.62:4000/play/a01d/index.m3u8
+http://179.189.222.226:8000/play/ch52
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zxq2hKb/cine-hispano.jpg" group-title="Peliculas | Series",Cine | Hispano (LATAM)
 http://204.199.120.34:16123/play/ch51
@@ -2292,9 +2402,9 @@ http://181.78.21.60:16123/play/ch51
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zxq2hKb/cine-hispano.jpg" group-title="Peliculas | Series",Cine | Hispano | Opción 3 (LATAM)
 http://190.0.246.174:30000/play/tr063
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zxq2hKb/cine-hispano.jpg" group-title="Peliculas | Series",Cine | Hispano | Opción 4 (LATAM)
-http://179.189.222.226:8000/play/ch51
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zxq2hKb/cine-hispano.jpg" group-title="Peliculas | Series",Cine | Hispano | Opción 5 (LATAM)
 http://181.78.8.90:16123/play/ch51
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zxq2hKb/cine-hispano.jpg" group-title="Peliculas | Series",Cine | Hispano | Opción 5 (LATAM)
+http://179.189.222.226:8000/play/ch51
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wMvKprVd/cine-premium.jpg" group-title="Peliculas | Series",Cine | Premium (LATAM)
 http://204.199.120.34:16123/play/ch49
@@ -2378,11 +2488,17 @@ http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3N8VW8HT/fm2.jpg" group-title="Peliculas | Series",FMTV | Super Classic (EC)
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCFFhRxk/galxy.jpg" group-title="Peliculas | Series",Galxy TV (US)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4277
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L84XbNRC/Groovy.jpg" group-title="Peliculas | Series",Groovy (GR)
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zG9jBxL6/joj.jpg" group-title="Peliculas | Series",Joj Cinema | Eslovaquia (SK)
 https://st01-1.iptv.joj.sk/105-tv-pc.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLmZnH60/lacorriente.jpg" group-title="Peliculas | Series",La Corriente (LATAM)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=499
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0B7Zgqr/lim.jpg" group-title="Peliculas | Series",LIM TV (PY)
 https://stmv1.cnarlatam.com/cineaccion/cineaccion/chunklist_w1378250918.m3u8
@@ -2409,6 +2525,9 @@ http://live.netmaxtv.com:8080/live/live/chunklist_w1439240750.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hs73VNbm/nova.jpg" group-title="Peliculas | Series",Nova Play (BR)
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w900580339.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tT0dNYXC/novelisima.jpg" group-title="Peliculas | Series",Novelisima (LATAM)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0WR8YCN/ORIGEN-2.jpg" group-title="Peliculas | Series",Origen TV (CL)
 https://tv.streaming-chile.com:1936/origentv2/origentv2/chunklist_w1874369866.m3u8
@@ -2494,9 +2613,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zf9JYTzQ/runtime.jpg" group-title="Peliculas | Series",Runtime | Cine y Series | Opción 2 (ES)
 https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLKTfw9X/run-classicos.jpg" group-title="Peliculas | Series",Runtime | Clasicos (ES)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLKTfw9X/run-classicos.jpg" group-title="Peliculas | Series",Runtime | Clásicos (ES)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3053
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLKTfw9X/run-classicos.jpg" group-title="Peliculas | Series",Runtime | Clasicos | Opción 2 (ES)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLKTfw9X/run-classicos.jpg" group-title="Peliculas | Series",Runtime | Clásicos | Opción 2 (ES)
 https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2ypQJPxF/run-comedia.jpg" group-title="Peliculas | Series",Runtime | Comedia (ES)
@@ -2533,6 +2652,9 @@ http://45.228.234.162:24000/play/a04k/index.m3u8
 http://45.228.234.162:24000/play/a04k/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MpVnwJCJ/tve-star.jpg" group-title="Peliculas | Series",Star | TVE | Opción 3 (LATAM)
 http://181.189.243.254:8000/play/a0qf/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cQmS7vF/dz.jpg" group-title="Peliculas | Series",The Dark Zone (US)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4274
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7Qc4ss6/Tln.jpg" group-title="Peliculas | Series",TLN | Novelas (LATAM)
 http://45.228.234.77:3340/play/tlnovelas/index.m3u8
@@ -4261,6 +4383,9 @@ http://168.90.13.163:8000/play/a01s
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G21V9j5V/mtv-latino.jpg" group-title="Premium | Latino", MTV | Latino | Opción 6 (LATAM)
 http://45.228.234.77:3340/play/mtv-hd/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCrB139S/911.jpg" group-title="Mas Series",911 Network (US)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4322
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JhdnfrjR/adult-aqua.jpg" group-title="Mas Series",Adult Swim | Aqua Teen Hunger Force (US)
 https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
 
@@ -4390,6 +4515,9 @@ http://hidra.live:80/rbkhihvo/tBoBv15r69/35518
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1t2ZLqFS/pep.jpg" group-title="Mas Series",Peppa Pig (LATAM)
 http://hidra.live:80/rbkhihvo/tBoBv15r69/35480
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBwkWnN7/pitufos.jpg" group-title="Mas Series",Pitufos TV (LATAM)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4368
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FRrnVR6q/run-ana.jpg" group-title="Mas Series",Runtime | Ana y los 7 (ES)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2722
 
@@ -4408,8 +4536,14 @@ http://hidra.live:80/rbkhihvo/tBoBv15r69/58179
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7hQdgb4/star.jpg" group-title="Mas Series",Star Trek (LATAM)
 http://hidra.live:80/rbkhihvo/tBoBv15r69/35491
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZw7LhrW/sonic.jpg" group-title="Mas Series",Sonic (LATAM)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4281
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZw7LhrW/sonic.jpg" group-title="Mas Series",Sonic y su Banda (LATAM)
 http://hidra.live:80/rbkhihvo/tBoBv15r69/35492
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZ8BrJVr/superb.jpg" group-title="Mas Series",Super Boomi (LATAM)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4343
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hvx4Pr8M/rob.jpg" group-title="Mas Series",Robotech (LATAM)
 http://hidra.live:80/rbkhihvo/tBoBv15r69/35494
@@ -4459,9 +4593,6 @@ https://live.canalnueve.tv/canal.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qvWYZhxv/bvc.jpg" group-title="Argentina",Bahía Visión Color (AR)
 https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMdF0Jcz/bayres.jpg" group-title="Argentina",Bayres TV [Desconectado Temporal] (AR)
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/brnVyRK0/bragadotv.jpg" group-title="Argentina",Bragado TV (AR)
 https://inliveserver.com:1936/17044/17044/chunklist_w1352167847.m3u8
@@ -5635,7 +5766,7 @@ https://cloud.streamingconnect.tv/hls/12tv/gcmin.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/43c4mj1s/25.jpg" group-title="España",25 TV | Barcelona (ES)
 https://25tvlive.flumotion.cloud/25televisiolive/smil:channel1.smil/chunklist_b1500000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59ZxqQcm/101.jpg" group-title="España",101 TV | Axarquía (ES)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59ZxqQcm/101.jpg" group-title="España",101 TV | Antequera (ES)
 https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59ZxqQcm/101.jpg" group-title="España",101 TV | Axarquia (ES)
@@ -6634,7 +6765,7 @@ https://stream.oursnetworktv.com/latin/encoder73/chunklist_w2129733347.m3u8
 https://stream.oursnetworktv.com/latin/btvpanama/chunklist_w1186461776.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hv3fp17s/MAS23.jpg" group-title="Nicaragua | Panamá",Más +23 (PA)
-https://mediacp.us:8081/mas23tv/tracks-v1a1/mono.m3u8
+https://mediacp.us:8081/mas23tv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Pr46rpn4/NEX.jpg" group-title="Nicaragua | Panamá",Nex TV (PA)
 https://mediacp.us:8081/nex/tracks-v1a1/mono.m3u8
@@ -7214,6 +7345,9 @@ http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w2044981196.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgFQzLQC/releuniverso.jpg" group-title="República Dominicana",Teleuniverso (RD)
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4gpCTdn/tveste.jpg" group-title="República Dominicana",Televisión del Este (RD)
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bNRpGkhj/tni.jpg" group-title="República Dominicana",TNI 51 (RD)
 https://ss5.domint.net:3188/tni_str/tni51/chunklist_w1294874246.m3u8
 
@@ -7598,6 +7732,8 @@ https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
 http://123.51.230.108:18525/.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYxkx3s0/nhk.jpg" group-title="Mas Señales",NHK | Opción 2 (JP)
 http://112.72.4.108/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYxkx3s0/nhk.jpg" group-title="Mas Señales",NHK | Opción 3 (JP)
+https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6p2x0yw5/NHK.jpg" group-title="Mas Señales",NHK | World Japan (JP)
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
@@ -7774,9 +7910,6 @@ https://streamlock.streamcomedia.com/abr_znstv13/abr-znstv13_streams/znstv13/zns
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRdrPVLJ/zv.jpg" group-title="Mas Señales",Zvezda TV (RU)
 http://87.249.220.158/zvezda/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcLcFDJ6/htb.jpg" group-title="Mas Señales",HTB (RU)
-https://salam-2-47.rutube.ru/dive/river-3-302.rutube.ru/yyuWbVqseQuiFbd7L0hvwA/stream/genetta-304.m9.rutube.ru/vLppEtU6Y5XQWkFtX9lyNw/1685114882/c37cd74192c6bc3d6cd6077c0c4fd686/1080p_stream.m3u8
 
 #EXTINF:-1 channel-id="pluto-63eb9495a8b227000841bf64" tvg-id="63eb9495a8b227000841bf64" tvg-chno="51" tvg-logo="https://images.pluto.tv/channels/63eb9495a8b227000841bf64/colorLogoPNG.png" group-title="Pluto TV | España" ,MTV | Vergüenza ajena
 https://i.mjh.nz/PlutoTV/63eb9495a8b227000841bf64-alt.m3u8
