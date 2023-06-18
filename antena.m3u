@@ -9887,6 +9887,11 @@ http://45.5.117.182:8000/play/a0ed/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HLHKz1Rj/playb-sd.jpg" group-title="18+",Playboy TV | SD | Opción 5 (LATAM)
 http://189.202.205.235:4000/play/a013
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/906F030c/sextreme.jpg" group-title="18+",SeXtreme (LATAM)
+http://189.81.38.25:4000/play/a0o2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/906F030c/sextreme.jpg" group-title="18+",SeXtreme | Opción 2 (LATAM)
+http://181.78.24.67:8010/play/a01o/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydvfKXvq/VENUs.jpg" group-title="18+",Venus (LATAM)
 https://cdncentury-venushd.zolechamedia.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydvfKXvq/VENUs.jpg" group-title="18+",Venus | Opción 2 (LATAM)
