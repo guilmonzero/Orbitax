@@ -222,9 +222,6 @@ http://177.93.45.108:8000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kgL0JhRF/jojko.jpg" group-title="Animados | Variado",Jojko | Eslovenia (SI)
 https://st01-1.iptv.joj.sk/104-tv-pc.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZyzrF68/kanade.jpg" group-title="Animados | Variado",Kanade (CL)
-https://stream.ichibantv.com:3612/live/kanadetvlive.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5LbfGhW/kartoonch.jpg" group-title="Animados | Variado",Kartoon Channel (US)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=252
 
@@ -236,6 +233,9 @@ http://87.249.220.158/karusel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2SRY6hrp/kidsflix.jpg" group-title="Animados | Variado",KidsFlix (US)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/q7txB0Yj/ind.jpg" group-title="Animados | Variado",Kids TV | India (IN)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-india-nursery-rhymes-and-baby-songs/c75ec44d-fbe3-459b-a342-11964b1a2790/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W10P8nQP/latinokids.jpg" group-title="Animados | Variado",Latino Kids (UY)
 https://6362ca6f1fc28.streamlock.net/8062/8062/chunklist_w1133864991.m3u8
@@ -276,9 +276,6 @@ https://cdnhd.iblups.com/hls/Qzfdy1OvHt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gtf9G0zY/MAXIMAtv2.jpg" group-title="Animados | Variado",Maxima TV | Opción 2 (AR)
 https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/q7txB0Yj/ind.jpg" group-title="Animados | Variado",Kids TV | India (IN)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-india-nursery-rhymes-and-baby-songs/c75ec44d-fbe3-459b-a342-11964b1a2790/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGVqTj4J/mnetkids.jpg" group-title="Animados | Variado",M Net Kids (MK)
 http://ares.mnet.mk/hls/mnet-kids.m3u8
@@ -420,12 +417,51 @@ https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bNB17YxF/ztv8.jpg" group-title="Animados | Variado",Zhejiang Kids | China (CN)
 https://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZY7WY6Bj/guilp5.jpg" group-title="Pride Videos",[Pride Costa Rica 2023 ] La felicidad sólo puede existir con la aceptación.
+https://pomf2.lain.la/f/btwy81le.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Tw0D8gQr/guilp3.jpg" group-title="Pride Videos",[Pride Costa Rica 2022 ] Marcha del Orgullo LGBTIQ+ 
 https://pomf2.lain.la/f/z710cwv.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zX6R1JwP/guilp2.jpg" group-title="Pride Videos",[Pride Costa Rica 2019 ] Marcha del Orgullo LGBTIQ+ 
 https://pomf2.lain.la/f/va5tn4g8.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qR1zD0Mw/guilp1.jpg" group-title="Pride Videos",[Pride Costa Rica 2018 ] Marcha del Orgullo LGBTIQ+
 https://pomf2.lain.la/f/celhlauf.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkDW6zTg/guilp0.jpg" group-title="Pride Videos",[Pride Costa Rica 2017 ] Marcha del Orgullo LGBTIQ+
+https://pomf2.lain.la/f/pw5cmj0d.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QC48hBsH/chu1.jpg" group-title="Chucky La Serie",Chucky | La Serie | S01E01 | Sub [2021]
+https://pomf2.lain.la/f/uc4ck83.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QC48hBsH/chu1.jpg" group-title="Chucky La Serie",Chucky | La Serie | S01E02 | Sub [2021]
+https://pomf2.lain.la/f/0syaisq1.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QC48hBsH/chu1.jpg" group-title="Chucky La Serie",Chucky | La Serie | S01E03 | Sub [2021]
+https://pomf2.lain.la/f/cpezlags.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QC48hBsH/chu1.jpg" group-title="Chucky La Serie",Chucky | La Serie | S01E04 | Sub [2021]
+https://pomf2.lain.la/f/zbrrua1.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QC48hBsH/chu1.jpg" group-title="Chucky La Serie",Chucky | La Serie | S01E05 | Sub [2021]
+https://pomf2.lain.la/f/glft0orl.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QC48hBsH/chu1.jpg" group-title="Chucky La Serie",Chucky | La Serie | S01E06 | Sub [2021]
+https://pomf2.lain.la/f/d39dorn8.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QC48hBsH/chu1.jpg" group-title="Chucky La Serie",Chucky | La Serie | S01E07 | Sub [2021]
+https://pomf2.lain.la/f/l566ogwu.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QC48hBsH/chu1.jpg" group-title="Chucky La Serie",Chucky | La Serie | S01E08 | Sub [2021]
+https://pomf2.lain.la/f/3wu5fcu7.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yx8M7sVd/chu2.jpg" group-title="Chucky La Serie",Chucky | La Serie | S02E01 | Sub [2022]
+https://pomf2.lain.la/f/cko5fb0o.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yx8M7sVd/chu2.jpg" group-title="Chucky La Serie",Chucky | La Serie | S02E02 | Sub [2022]
+https://pomf2.lain.la/f/2o4eu62n.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yx8M7sVd/chu2.jpg" group-title="Chucky La Serie",Chucky | La Serie | S02E03 | Sub [2022]
+https://pomf2.lain.la/f/e2xgizzg.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yx8M7sVd/chu2.jpg" group-title="Chucky La Serie",Chucky | La Serie | S02E04 | Sub [2022]
+https://pomf2.lain.la/f/qmng5h1z.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yx8M7sVd/chu2.jpg" group-title="Chucky La Serie",Chucky | La Serie | S02E05 | Sub [2022]
+https://pomf2.lain.la/f/mqubg80u.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yx8M7sVd/chu2.jpg" group-title="Chucky La Serie",Chucky | La Serie | S02E06 | Sub [2022]
+https://pomf2.lain.la/f/iup9wds8.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yx8M7sVd/chu2.jpg" group-title="Chucky La Serie",Chucky | La Serie | S02E07 | Sub [2022]
+https://pomf2.lain.la/f/83ki07we.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yx8M7sVd/chu2.jpg" group-title="Chucky La Serie",Chucky | La Serie | S02E08 | Sub [2022]
+https://pomf2.lain.la/f/hgxrrmry.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DwcyfyhQ/chu3.jpg" group-title="Chucky La Serie",Chucky | La Serie | S03E01 | Aviso [2023]
+https://i.postimg.cc/z8fhGyyb/orbita-avisos-chucky.jpg
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvLCTYSX/afro-l.jpg" group-title="Ciencia | Cultura",Afroland TV (MA)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=844
@@ -5303,8 +5339,6 @@ http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w797820305.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jSyMP5nJ/BOLIX.jpg" group-title="Bolivia",Bolivision (BO)
-http://152.230.126.5:5054/play/a055
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSyMP5nJ/BOLIX.jpg" group-title="Bolivia",Bolivision | Opción 2 (BO)
 http://181.115.238.188:6100/play/a0hk
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k5yhhwqx/mundovision.jpg" group-title="Bolivia",Mundovisión (BO)
@@ -5691,9 +5725,6 @@ https://unlimited1-cl-isp.dps.live/tv5/tv5.smil/tv5/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrXzVFMn/tv8.jpg" group-title="Chile",TV 8 (CL)
 https://panel.tvstream.cl:1936/8032/8032/chunklist_w1909616404.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXL0CJZg/tvchile.jpg" group-title="Chile",TV Chile (CL)
-http://45.190.13.50:8002/play/a00w/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://iili.io/HzuH1MF.jpg" group-title="Chile",TV Costa (CL)
 https://tv.clientetvstudio.net:3486/live/costatv1live.m3u8
 
@@ -5836,14 +5867,12 @@ http://186.190.231.179:8000/play/a04h/index.m3u8
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2G0W5cV/rcn-novelas.jpg" group-title="Colombia",RCN | Novelas (CO)
-http://45.190.13.50:8002/play/a012/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2G0W5cV/rcn-novelas.jpg" group-title="Colombia",RCN | Novelas | Opción 2 (CO)
 http://181.78.23.26:45000/play/a01u
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2G0W5cV/rcn-novelas.jpg" group-title="Colombia",RCN | Novelas | Opción 3 (CO)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2G0W5cV/rcn-novelas.jpg" group-title="Colombia",RCN | Novelas | Opción 2 (CO)
 http://181.189.243.254:8000/play/a0r5/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2G0W5cV/rcn-novelas.jpg" group-title="Colombia",RCN | Novelas | Opción 4 (CO)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2G0W5cV/rcn-novelas.jpg" group-title="Colombia",RCN | Novelas | Opción 3 (CO)
 http://45.181.122.169:8000/play/a01t
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2G0W5cV/rcn-novelas.jpg" group-title="Colombia",RCN | Novelas | Opción 5 (CO)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2G0W5cV/rcn-novelas.jpg" group-title="Colombia",RCN | Novelas | Opción 4 (CO)
 http://45.228.234.162:24000/play/a059/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTwDtGQk/rcnxtra.jpg" group-title="Colombia",RCN | Xtra (CO)
@@ -6713,16 +6742,7 @@ http://2hubs.ddns.net:25461/BabNour/telegrramm/57430
 https://tastemadees16intl-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kgNnrc2r/telemundo-losangeles.jpg" group-title="Estados Unidos",Telemundo (US)
-http://45.190.13.50:8002/play/a00u/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0vyqPhf/telemundo.jpg" group-title="Estados Unidos",Telemundo | Opción 2 (US)
-https://dai2-playlistserver.aws.syncbak.com/cpl/20475903/dai2v5/1.0/7b2264657669636554797065223a387d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIyMDQ3NTkwMyIsImNpZCI6MjA5NzQsInNpZCI6MTU4LCJtZDUiOiJiMTgwM2ExYTIxMzA5ZTEwNzNlOGJjMDQyOGU5NDkzOCIsImlhdCI6MTY1Mjg5MjgyMSwiZXhwIjoxNjg0NDI4ODIxLCJpc3MiOiJTeW5jYmFrIChURykifQ.ngWlxw_iUrju6oMpQl73BYHMCl7c6reypSqqP5nLbL8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgNnrc2r/telemundo-losangeles.jpg" group-title="Estados Unidos",Telemundo | Opción 3 (US)
 https://dai2-playlistserver.aws.syncbak.com/playlist/13355198/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTE2NDc1MDIsImlzcyI6IldMUyIsIm1kNSI6IjQwMWRkMDY2YjUyOGEwZWIxYzcxMzMxNjBhNDgyMGE5IiwibWlkIjoiMTMzNTUxOTgifQ.piLwptYMsquOvh5kVgvpuj2wYSd6SDOblXdfIXGk7PE
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0vyqPhf/telemundo.jpg" group-title="Estados Unidos",Telemundo | Opción 4 (US)
-http://45.190.13.50:8002/play/a00u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FK9pBnzm/tscshop.jpg" group-title="Estados Unidos",The Shopping Channel (US)
 https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
@@ -6884,9 +6904,6 @@ https://5e85d90130e77.streamlock.net/6022/6022/chunklist_w1172413838.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cC0n9GBc/metro.jpg" group-title="Honduras",Metro TV (HN)
 https://emisoras.hn:8081/metrotv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZnWx2dK/qhubo.jpg" group-title="Honduras",Q' Hubo (HN)
-http://45.190.13.50:8002/play/a00k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kc0hQSFc/sercano.jpg" group-title="Honduras",Sercano (HN)
 https://62418d5684c12.streamlock.net/SERCANOHD/SERCANOLive.smil/chunklist_w1188074103_b1248000.m3u8
@@ -8136,11 +8153,6 @@ http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m
 http://2hubs.ddns.net:25461/BabNour/telegrramm/61187
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wMR1vMnc/rai-italia.jpg" group-title="Mas Señales",Rai | 1 | Italia | Opción 2 (IT)
 http://181.129.173.98:8010/play/a04l/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMR1vMnc/rai-italia.jpg" group-title="Mas Señales",Rai | 1 | Italia | Opción 3 (IT)
-http://187.102.208.33:8000/play/a006/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMR1vMnc/rai-italia.jpg" group-title="Mas Señales",Rai | 1 | Italia | Opción 4 (IT)
-http://168.90.13.163:8000/play/a035
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMR1vMnc/rai-italia.jpg" group-title="Mas Señales",Rai | 1 | Italia | Opción 5 (IT)
 
 #EXTINF:-1 tvg-logo="" group-title="Mas Señales",Rai | 2 (IT)
 http://2hubs.ddns.net:25461/BabNour/telegrramm/61188
