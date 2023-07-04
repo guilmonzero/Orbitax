@@ -744,14 +744,34 @@ http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FRkwjfGp/accdn.jpg" group-title="Deportes | Aventura",ACC | Digital Network (US)
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fjz4x67/aci.jpg" group-title="Deportes | Aventura",ACI Sport (IT)
+https://g4wlk6xpy23a-hls-live.mariatvcdn.it/acisporttv/b7a3464f8e2001314de9fefebf11229d.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqNxfFPF/Adventuresportstv.jpg" group-title="Deportes | Aventura",Adventure Sports TV (US)
 https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Pr7nFPKf/aio.jpg" group-title="Deportes | Aventura",Aio Sport (IR)
+https://af.ayas.ir/hls2/aiosport.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3x9Sb63X/aio2.jpg" group-title="Deportes | Aventura",Aio Sport | 2 (IR)
+https://af.ayas.ir/hls2/aiosport2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hPLmx6tG/allsports.jpg" group-title="Deportes | Aventura",All Sports (BR)
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w856809681.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QZKywPT/astn.jpg" group-title="Deportes | Aventura",All Sports Television Network (US)
+https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvVFQb92/antena6.jpg" group-title="Deportes | Aventura",Antena 6 (CR)
 http://inliveserver.com:1935/14510/14510/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1XSn758/ari.jpg" group-title="Deportes | Aventura",Arryadia (MA)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmCbL8X4/ast.jpg" group-title="Deportes | Aventura",Astrakhan Sport (RU)
+https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCLnGdzY/atg.jpg" group-title="Deportes | Aventura",ATG (SE)
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Znqr2QD5/bahrain-1.jpg" group-title="Deportes | Aventura",Bahrain | Sports 1 (SA)
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
@@ -776,6 +796,9 @@ https://ca2.inka.net.pe/Best-sport-000000111/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xdbHy6v2/billi.jpg" group-title="Deportes | Aventura",Billiard TV (US)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CMnmG7dK/cal.jpg" group-title="Deportes | Aventura",Campus Lore (US)
+https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgy3hpnL/canalmotortv.jpg" group-title="Deportes | Aventura",Canal Motor TV (LATAM)
 https://digicom.hls.iptvdc.com/motorstv/index.m3u8
 
@@ -788,6 +811,9 @@ http://181.175.41.170:8000/play/a0ji
 http://45.228.234.162:24000/play/a04u/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8xyvGBV/CDN-rd.jpg" group-title="Deportes | Aventura",CDN | Deportes | Opción 3 (RD)
 http://45.5.117.182:8000/play/a0hk/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmmY2L8G/cdr.jpg" group-title="Deportes | Aventura",CDR | Canal de Deporte Regional (AR)
+https://live-hls-xgod.livepush.io/live_cdn/emaf6CHYV7M-RQcL2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8c719J91/ci.jpg" group-title="Deportes | Aventura",Ciclismo TV (LATAM) 
 https://vcp7.myplaytv.com/masciclismo/masciclismo/chunklist_w216076724.m3u8
@@ -820,6 +846,9 @@ http://45.5.117.182:8000/play/a0e5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kGnf2t1M/combate.jpg" group-title="Deportes | Aventura",Combate Global (US)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgnbMQHs/Cnar.jpg" group-title="Deportes | Aventura",CNAR (AR)
+https://stmv1.cnarlatam.com/cnardeportes/cnardeportes/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nrszcgj7/CRTV.jpg" group-title="Deportes | Aventura",CRTV (CL)
 https://vdo.panelstreaming.live:3058/live/crtvlive.m3u8
 
@@ -834,17 +863,8 @@ http://trs.mh89tv.xyz:80/nrc6798/nrc.506/128057
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nrF00Fms/deportv.jpg" group-title="Deportes | Aventura",DeporTV (AR)
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/chunklist_w131348541.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bb9DQqd3/direcsmas.jpg" group-title="Deportes | Aventura",D Sports | + (LATAM)
-http://190.83.60.34:1414/play/a06b
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7L5T3G4D/direcs2.jpg" group-title="Deportes | Aventura",D Sports | 2 (AR)
-http://190.83.60.34:1414/play/a06c
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7L5T3G4D/direcs2.jpg" group-title="Deportes | Aventura",D Sports | 2 | Opción 2 (AR)
-http://168.228.194.33:48001/play/a0ba/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNrG9zzZ/d-fight.jpg" group-title="Deportes | Aventura",D Sports | Figth (LATAM)
-http://190.83.60.34:1414/play/a069
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQXNJVSF/liga1.jpg" group-title="Deportes | Aventura",D Sports | Liga 1 Max (PE)
-http://190.83.60.34:1414/play/a06a
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Sx0ggvJs/ds.jpg" group-title="Deportes | Aventura",DS TV  (HU)
+http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYF1gPgP/dtplay.jpg" group-title="Deportes | Aventura",DT PLAY | Deporte Total (BO)
 https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
@@ -852,8 +872,12 @@ https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/020prmTt/Dronetv.jpg" group-title="Deportes | Aventura",Drone TV (EU)
 https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/WzSY4qck/dubairacing.jpg" group-title="Deportes | Aventura",Dubai Racing 2 (QA)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WzSY4qck/dubairacing.jpg" group-title="Deportes | Aventura",Dubai Racing | 1 (QA)
+https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WzSY4qck/dubairacing.jpg" group-title="Deportes | Aventura",Dubai Racing | 2 (QA)
 https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WzSY4qck/dubairacing.jpg" group-title="Deportes | Aventura",Dubai Racing | 3 (QA)
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nr61yJjG/Edgesport.jpg" group-title="Deportes | Aventura",Edge Sport (US)
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
@@ -872,6 +896,9 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgbf8fJN/Fightsports.jpg" group-title="Deportes | Aventura",Fight Sports (US)
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qBNRLmPW/FITE.jpg" group-title="Deportes | Aventura",Fite (US)
+https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJ0LXpC8/ftfsports.jpg" group-title="Deportes | Aventura",FTF Sports (US)
 https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
@@ -907,7 +934,6 @@ http://45.5.117.182:8000/play/a0io/index.m3u8
 http://138.94.253.154:5080/play/a03l/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pTn8xr3B/futv.jpg" group-title="Deportes | Aventura",FUTV | SD | Opción 6 (CR)
 http://190.122.186.88:8000/play/a0io/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8zBBLcGd/garagetv.jpg" group-title="Deportes | Aventura",Garage TV (AR)
 https://stream1.sersat.com/hls/garagetv.m3u8
@@ -957,8 +983,23 @@ https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QsjBRL7/Insighttv.jpg" group-title="Deportes | Aventura",Insight TV (US)
 https://insighttv-samsung-us.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/q7n8FJ66/ishu.jpg" group-title="Deportes | Aventura",Ishusho TV (RW)
+https://tv.livebcm.com:3425/stream/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMX2Mpky/jojs.jpg" group-title="Deportes | Aventura",JOJ Sport (SK)
+https://st01-1.iptv.joj.sk/110-tv-pc.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WbzXNXCT/khls.jpg" group-title="Deportes | Aventura",KHL (RU)
 http://87.249.220.158/khl/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2HbLJ1Q/ksa.jpg" group-title="Deportes | Aventura",KSA Sports | 1 (SA)
+https://edge.taghtia.com/sa/9.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2HbLJ1Q/ksa.jpg" group-title="Deportes | Aventura",KSA Sports | 2 (SA)
+https://edge.taghtia.com/sa/10.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2HbLJ1Q/ksa.jpg" group-title="Deportes | Aventura",KSA Sports | 3 (SA)
+https://edge.taghtia.com/sa/16.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2HbLJ1Q/ksa.jpg" group-title="Deportes | Aventura",KSA Sports | 4 (SA)
+https://edge.taghtia.com/sa/17.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Sxqf9RQp/lacrossetv.jpg" group-title="Deportes | Aventura",Lacrosse TV (US)
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
@@ -982,6 +1023,18 @@ http://mavtv-mavtvglobal-1-in.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5NKZG3HM/Mavtv.jpg" group-title="Deportes | Aventura",Mav TV | Global (US)
 https://mavtv-mavtvglobal-1-be.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTBHQF7n/mnet.jpg" group-title="Deportes | Aventura",M Net (MK)
+http://ares.mnet.mk/hls/mnet-sport.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/52h6rDzX/Cale.jpg" group-title="Deportes | Aventura",Madeinbo TV | Canale 88 (IT)
+https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvK3rQw4/mon.jpg" group-title="Deportes | Aventura",Monterrico TV (PE)
+https://ed3od.live.opencaster.com/jcpstream_hd720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMMn3CmH/mor.jpg" group-title="Deportes | Aventura",More Than Sports (DE)
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4rGPrd4/motoramerica.jpg" group-title="Deportes | Aventura",Moto America TV (US)
 https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_SCTE_Max.m3u8
@@ -1009,6 +1062,9 @@ http://799290536900268095.ofio.xyz:80/play/vi1011594/7671001175/268095.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sg561WhB/nfl-channel.jpg" group-title="Deportes | Aventura",NFL | Channel | Pluto TV (US)
 https://i.mjh.nz/PlutoTV/5ced7d5df64be98e07ed47b6-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50Sw-mf65/om.jpg" group-title="Deportes | Aventura",Oman Sports TV (SA)
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpK4H6NY/ovaciontv.jpg" group-title="Deportes | Aventura",Ovacion TV (PE)
 https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
 
@@ -1026,6 +1082,9 @@ https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxu
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6qjBDYkq/pa12.jpg" group-title="Deportes | Aventura",PAC 12 Network (US)
 https://pac12-roku-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d1NGf4jD/pk.jpg" group-title="Deportes | Aventura",Poker TV (US)
+https://hls.pokertvfa.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g29SthgG/px.jpg" group-title="Deportes | Aventura",PX Sports (US)
 http://45.5.119.202:54321/play/a06e/index.m3u8
@@ -1051,23 +1110,44 @@ https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0LyDwBt/redbulltv.jpg" group-title="Deportes | Aventura",Red Bull TV (US)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLQbRXW5/rta.jpg" group-title="Deportes | Aventura",RTA Sport (AF)
+https://hls.rtasport.live/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qtv2b1Vt/rtv-sport.jpg" group-title="Deportes | Aventura",RTV Sport | San Marino (IT)
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QMJt39Q/sar.jpg" group-title="Deportes | Aventura",Sharjah Sport TV (AE)
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn2G0WHw/aew.jpg" group-title="Deportes | Aventura",Space | AEW | Wrestling (BR)
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MGwnSPyx/sportgrid.jpg" group-title="Deportes | Aventura",Sports Grid  (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0jZx7khJ/sf.jpg" group-title="Deportes | Aventura",Sport En France (FR)
+https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HjG04m5d/spc.jpg" group-title="Deportes | Aventura",Sports Connect (US)
+https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nz2cGGDz/st.jpg" group-title="Deportes | Aventura",Sports TV (TR)
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MGwnSPyx/sportgrid.jpg" group-title="Deportes | Aventura",Sports Grid (US)
 https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qv5d9wyY/Sport-outdoortv.jpg" group-title="Deportes | Aventura",Sport Outdoor TV (IT)
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZr5j8vm/sstv.jpg" group-title="Deportes | Aventura",Sporty Stuff TV (US)
+https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTDSbKxB/Stadium.jpg" group-title="Deportes | Aventura",Stadium (US)
 https://dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26sGgvv3/skysports.jpg" group-title="Deportes | Aventura",Sky Sports | La Liga (ES)
 http://45.190.13.50:8000/play/a041/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Nfq2Gpxh/sw-.jpg" group-title="Deportes | Aventura",Swerve Sports (US)
+https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/25MnLnDW/tdmas.jpg" group-title="Deportes | Aventura",TD+ (CR)
 http://181.175.41.170:8000/play/a0ed
@@ -1108,22 +1188,12 @@ http://45.228.234.162:24000/play/a08n/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jj8R9Nph/tigosports.jpg" group-title="Deportes | Aventura",Tigo Sports | Opción 5 (CR)
 http://138.94.253.154:5080/play/a04y/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMfCjxdY/Tudn.jpg" group-title="Deportes | Aventura",TUDN (MX)
-http://181.78.105.146:2000/play/a08j/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMfCjxdY/Tudn.jpg" group-title="Deportes | Aventura",TUDN | Opción 2 (MX)
-http://181.189.243.254:8000/play/a0ud/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMfCjxdY/Tudn.jpg" group-title="Deportes | Aventura",TUDN | Opción 3 (MX)
-https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7YkWHC5j/TNTsports.jpg" group-title="Deportes | Aventura",TNT Sports | 1 (BR)
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7YkWHC5j/TNTsports.jpg" group-title="Deportes | Aventura",TNT Sports | 2 (BR)
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7YkWHC5j/TNTsports.jpg" group-title="Deportes | Aventura",TNT Sports | 3 (BR)
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTHQdXzh/TNT-estadio.jpg" group-title="Deportes | Aventura",TNT Sports | Estadio (BR)
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
 
@@ -1144,8 +1214,34 @@ http://177.234.230.226:8010/play/a01m/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fbLVmRyb/tycp.jpg" group-title="Deportes | Aventura",TyC Sports | Play (AR)
 https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_14.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qdj2DZ9F/trs.jpg" group-title="Deportes | Aventura",TR Sports (IT)
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMfCjxdY/Tudn.jpg" group-title="Deportes | Aventura",TUDN (MX)
+http://181.78.105.146:2000/play/a08j/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMfCjxdY/Tudn.jpg" group-title="Deportes | Aventura",TUDN | Opción 2 (MX)
+http://181.189.243.254:8000/play/a0ud/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMfCjxdY/Tudn.jpg" group-title="Deportes | Aventura",TUDN | Opción 3 (MX)
+https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqWhLV32/tvs-b.jpg" group-title="Deportes | Aventura",TVS | Boxing (US)
+https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85ZtWsTv/tvscs.jpg" group-title="Deportes | Aventura",TVS | Classic Sports (US)
+https://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ5nsqct/tvs.jpg" group-title="Deportes | Aventura",TVS | Sports (US)
+https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90v0NtWj/tvsb.jpg" group-title="Deportes | Aventura",TVS | Sports Bureau (US)
+https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KjK4NshN/tvst.jpg" group-title="Deportes | Aventura",TVS | Turbo (US)
+ https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1t7fD12X/tvsw-.jpg" group-title="Deportes | Aventura",TVS | Women Sports (US)
+https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mkcwBwYH/TVSTURF.jpg" group-title="Deportes | Aventura",TV Turf Movil (CL)
 https://janus.tvturf.cl/playlist/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sDTmNMW0/unb.jpg" group-title="Deportes | Aventura",Unbeaten (US)
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvQ7R2Vx/VALPARAISPORTING.jpg" group-title="Deportes | Aventura",Valparaiso Sporting (CL)
 https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream2/chunks.m3u8
@@ -6837,6 +6933,9 @@ http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bb8x74gJ/bolivia7-2.jpg" group-title="Bolivia",Bolivia TV 7.2 (BO)
 https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w797820305.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTSw-WTwL/ftv.jpg" group-title="Bolivia",FTV (BO)
+https://master.tucableip.com/ftv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k5yhhwqx/mundovision.jpg" group-title="Bolivia",Mundovisión (BO)
 https://movil.ejeserver.com/live/mundovisiontv.m3u8
 
@@ -7620,9 +7719,9 @@ https://panel2.streamingtv-mediacp.online:1936/rudcmzwtnh/rudcmzwtnh/playlist.m3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fLpXHz5g/cotobrustv.jpg" group-title="Costa Rica",CB TV | Cotobrus (CR)
 https://cloudvideo.servers10.com:8081/8030/index.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/52gLcFrC/42cr.jpg" group-title="Costa Rica",Extra TV (CR)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLDWM42q/Extratv.jpg" group-title="Costa Rica",Extra TV (CR)
 http://45.5.117.182:8000/play/a0e0/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/52gLcFrC/42cr.jpg" group-title="Costa Rica",Extra TV | Opción 2 (CR)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLDWM42q/Extratv.jpg" group-title="Costa Rica",Extra TV | Opción 2 (CR)
 http://168.228.194.33:48001/play/a02v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/159Vq3Sr/garabitotv.jpg" group-title="Costa Rica",Garabito TV | Puntarenas (CR)
@@ -9469,6 +9568,9 @@ https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61da
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3c2df5L/a1.jpg" group-title="Mas Señales",A1 (RU)
 http://87.249.220.158/amedia/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJcY0WPQ/ado.jpg" group-title="Mas Señales",Ado TV (FR)
+https://stream01.adotv-fm.bj/ado-tv-live/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RVPtVcsM/al1.jpg" group-title="Mas Señales",Al Araby | Arabia Saudita (SA)
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
