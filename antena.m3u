@@ -322,20 +322,20 @@ https://deaplaneta-planetakidz-2-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/25pYrt9K/chiquilines2.jpg" group-title="Animados | Variado",Plex | Chiquilines (US)
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLJS576H/Ryan.jpg" group-title="Animados | Variado",Ryan and Friends (US)
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-ryanandfriends-samsungnz/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3whtS169/retroinfantil.jpg" group-title="Animados | Variado",Retro Infantil (LATAM)
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2RBXG8F/retromagico.jpg" group-title="Animados | Variado",Retro Mágico (AR)
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Cx7m10rR/retroxtv.jpg" group-title="Animados | Variado",RetroX TV (CR)
-https://5bf8041cb3fed.streamlock.net/retroxtv/retroxtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hyNjRzd/retrox.jpg" group-title="Animados | Variado",RetroX TV (CR)
+https://tgn.bozztv.com/ssh101/ssh101/123456789/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26xZ96KK/rotanakids.jpg" group-title="Animados | Variado",Rotana Kids | Emiratos Árabes (AE)
 https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLJS576H/Ryan.jpg" group-title="Animados | Variado",Ryan and Friends (US)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-ryanandfriends-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DyChWL3k/seo-kids.jpg" group-title="Animados | Variado",Seo TV | Kids (BO)
 https://live.seo.tv.bo/live/2SEO.m3u8
