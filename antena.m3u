@@ -47,7 +47,7 @@ https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4k46rQ2/afro-k.jpg" group-title="Animados | Variado",Afro Kids (MA)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1932
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJSPRSkk/animestation2.jpg" group-title="Animados | Variado",Anime Station (AR)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJSPRSkk/animestation2.jpg" group-title="Animados | Variado",Anime Station [Fuera de Órbita] (AR)
 https://stream.ichibantv.com:3741/live/aniplustvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/q7SfVkz8/re.jpg" group-title="Animados | Variado",Retro Crush (US)
@@ -131,10 +131,6 @@ http://103.145.48.58:9300/hls/live/CCTV%2014.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3Nt1dPkS/xtremecartoon.jpg" group-title="Animados | Variado",Cine Infantil (LATAM)
 https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgFkkwkZ/cinei.jpg" group-title="Animados | Variado",Cine Infantil (LATAM)
-https://v3.playerlatino.live/stream/m3u8/687
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/65NvLqS0/cineiS.jpg" group-title="Animados | Variado",Cine Infantil | Sagas (LATAM)
-https://v3.playerlatino.live/stream/m3u8/694
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7P5RCm34/CLAN.jpg" group-title="Animados | Variado",Clan (ES)
 http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/2214
@@ -250,7 +246,7 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2256ed5eeee0f5a4094bb/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Wbbkyv8k/loading.jpg" group-title="Animados | Variado",Loading (BR)
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKC7rFV2/LOCOMOTION.jpg" group-title="Animados | Variado",Locomotion (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKC7rFV2/LOCOMOTION.jpg" group-title="Animados | Variado",Locomotion [Fuera de Órbita] (LATAM)
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tKk1y71/lollykids.jpg" group-title="Animados | Variado",Lolly Kids | Música (LATAM)
@@ -2528,13 +2524,6 @@ http://190.6.203.198:8000/play/a04n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKqXNWbr/Cinelife.jpg" group-title="Peliculas | Series",Cine Life (US)
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLfhdP3x/cine-r.jpg" group-title="Peliculas | Series",Cine | Romance (LATAM)
-https://v3.playerlatino.live/stream/m3u8/689
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qBYxypXB/cine-t.jpg" group-title="Peliculas | Series",Cine | Terror (LATAM)
-https://v3.playerlatino.live/stream/m3u8/693
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2Jyk6Px/cine.jpg" group-title="Peliculas | Series",Cine | Zombies (LATAM)
-https://v3.playerlatino.live/stream/m3u8/688
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sfBKkyPg/cine-familiar.jpg" group-title="Peliculas | Series",Cine | Familiar (LATAM)
 http://204.199.120.34:16123/play/ch52
@@ -7369,9 +7358,6 @@ https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rmFJxMRf/Chilecitotv.jpg" group-title="Chile",Chilecito TV (CL)
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KcQrpZ5y/civ2.jpg" group-title="Chile",ChileVisión (CL)
-https://v3.playerlatino.live/stream/m3u8/198
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jny6y16/clvi.jpg" group-title="Chile",Chile Visual (CL)
 https://stmv2.zcasthn.com.br/streamlatino/streamlatino/chunklist_w158742936.m3u8
 
@@ -7935,7 +7921,7 @@ https://mdstrm.com/live-stream-playlist/636bd70b44680408872dbfc6.m3u8
 https://streaming004.gestec-video.com/hls/8TV.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j2R9jGNB/12tvalicante.jpg" group-title="España",12 TV | Alicante (ES)
-https://cloud.streamingconnect.tv/hls/12tv/gcmin.m3u8
+https://cloud.fastchannel.es/mic/manifiest/hls/12tv/prog_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/43c4mj1s/25.jpg" group-title="España",25 TV | Barcelona (ES)
 https://25tvlive.flumotion.cloud/25televisiolive/smil:channel1.smil/chunklist_b1500000.m3u8
@@ -7970,26 +7956,23 @@ http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cCpQTszg/benavente.jpg" group-title="España",Benavente TV (ES)
 https://cloud.streamingconnect.tv/hls//tvbenavente/tvbenavente.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dzbs72pg/real.jpg" group-title="España",Betis TV (ES)
-https://betistv-live.flumotion.com/MIsf_a7RjxbWQAlZeYbKhQ/1672843499/betistv/live_all/betistv/live_source/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Yqvj3By1/BIO.jpg" group-title="España",Biosfera TV (ES)
-https://tvdatta.com:3021/live/biosferatvlive.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j2tYTGKn/bondiatv.jpg" group-title="España",Bondia TV | Cataluña (ES)
 https://directes-tv-int.ccma.cat/live-origin/bondia-hls/bitrate_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CKGCPdnp/burrianatv.jpg" group-title="España",Burriana TV (ES)
 https://www.burrianateve.com/hls/btv.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBynHtqR/cadenatop10tv.jpg" group-title="España",Cadena Top 10 Radio (ES)
+https://ssh101.bozztv.com/ssh101/cadenatop10tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJCdncJg/cmalaga.jpg" group-title="España",Canal Málaga (ES)
 https://canalmalaga-tv-live.flumotion.com/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jqP8ZcM2/roque.jpg" group-title="España",Canal San Roque TV (ES)
-https://elastic10.todostreaming.es/live/sanroque-livestream.m3u8
+https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/chunklist_b1500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/430gR22X/canalsierra.jpg" group-title="España",Canal Sierra de Cádiz (ES)
-http://217.125.136.93:8080/canalsierradecadiz1080.m3u8
+https://s.emisoras.tv:8081/sierradecadiz/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2jvM088k/andalucia.jpg" group-title="España",Canal Sur | Andalucía (ES)
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
@@ -8000,9 +7983,6 @@ https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PxkQXdHQ/canal4esp.jpg" group-title="España",Canal 4 (ES)
 https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjrfWjsc/canal4es.jpg" group-title="España",Canal 4 | Gran Canaria (ES)
-https://stream.castr.com/63516516d5d3d0036518a3cd/live_73194be0508a11edb25de99cc96ba4dc/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vTG4Q1Q9/CANAL4-MANCHA.jpg" group-title="España",Canal 4 | Mancha Centro (ES)
 https://5924d3ad0efcf.streamlock.net/canal4/canal4live/chunklist_w404865057.m3u8
 
@@ -8010,16 +7990,13 @@ https://5924d3ad0efcf.streamlock.net/canal4/canal4live/chunklist_w404865057.m3u8
 https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j5TNMHg0/4tenerife.jpg" group-title="España",Canal 4 | Tenerife (ES)
-https://5940924978228.streamlock.net/Directo4/Directo4/chunklist_w344299739.m3u8
+https://5940924978228.streamlock.net/Directo2/Directo2/chunklist_w1809632616.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fyz07MHx/televalencia.jpg" group-title="España",Canal 7 | Televalencia (ES)
 https://live-edge-bhs-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live-500/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5yJgMDpN/7televisionmurcia.jpg" group-title="España",Canal 7 | Murcía (ES)
-https://ythls.onrender.com/channel/UCXi-7dpQ1mnf8kxIVCe9mCA.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBynHtqR/cadenatop10tv.jpg" group-title="España",Cadena Top 10 Radio (ES)
-https://ssh101.bozztv.com/ssh101/cadenatop10tv/playlist.m3u8
+https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kg7sft4b/c25.jpg" group-title="España",Canal 25 | Barbastro (ES)
 https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
@@ -8028,7 +8005,7 @@ https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
 https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/chunklist_w1148389735.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J0vntX2d/c45.jpg" group-title="España",Canal 45 | Jaén (ES)
-https://live.yowi.tv/58b79e6a71f5459d5fc9_live-600/index.m3u8
+https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/fragments/live-1500/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RhY75vy6/c56.jpg" group-title="España",Canal 56 | Vinaroz (ES)
 https://videos.canal56.com/directe/stream/index.m3u8
@@ -8037,7 +8014,7 @@ https://videos.canal56.com/directe/stream/index.m3u8
 http://canal2000.berkano-systems.net/streaming/streams/canal2000-720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJn2Sz9Q/ccm.jpg" group-title="España",Castilla-La Mancha Media (ES)
-http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/format/applehttp/.m3u8
+https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/protocol/https/format/applehttp/flavorIds/1_d2eonh9z,1_s6952vtf,1_fbkg5j4n/a.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WpHCnWZv/cordova.jpg" group-title="España",Cordoba TV (ES)
 https://cloudvideo.servers10.com:8081/8020/index.m3u8
@@ -8064,7 +8041,7 @@ https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
 https://elche7tv.gestec-video.com/hls/canal2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hvXBwhK6/ELFUTURO.jpg" group-title="España",El Futuro en tu Mano (ES)
-https://limited24.todostreaming.es/live/renjillo-livestream.m3u8
+https://nlb1-live.emitstream.com/hls/66yp3gf97j4g2kmbva99/fragments/web/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqpMBWFZ/erlo.jpg" group-title="España",Erlo TV (ES)
 https://5940924978228.streamlock.net/8159/8159/master.m3u8
@@ -8081,11 +8058,11 @@ https://multimedia.eitb.eus/live-content/etb2hd-hls/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CDdp6f8/canalvasco.jpg" group-title="España",ETB Basque | Vasco (ES)
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NCbjWGq/eurolatina.jpg" group-title="España",Euro Latina (ES)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NCbjWGq/eurolatina.jpg" group-title="España",Euro Latina TV (ES)
 https://media2.streambrothers.com:1936/8150/8150/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m2SpJLwV/1200px-CEXMA-new.png" group-title="España",Extremadura (ES)
-https://cdnlive.shooowit.net/canalextremaduralive/channel1DVR.smil/chunklist_b1500000_DVR.m3u8
+https://cdnlivevlc.codev8.net/canalextremaduralive/smil:channel1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5KbwjL1/FUN.jpg" group-title="España",Fuengirola TV (ES)
 https://secure.todostreaming.es/live/nerja-livestream.m3u8
@@ -8126,7 +8103,7 @@ https://5940924978228.streamlock.net/8155/8155/chunklist_w123833101.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bnv954xQ/guadatv.jpg" group-title="España",Guada TV (ES)
 https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpQvdC8Z/HISPANTV.jpg" group-title="España",Hispantv (ES)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpQvdC8Z/HISPANTV.jpg" group-title="España",HispanTV (ES)
 https://cdnlive.presstv.ir/cdnlive/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5Yx93bM/hoyjerez.jpg" group-title="España",Hoy Jerez (ES)
@@ -8137,9 +8114,6 @@ https://5d8d85cf2c308.streamlock.net:1936/huelvatv/htvdirecto/chunklist_w9737486
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wQZdS4m/imas.jpg" group-title="España",Imás TV (ES)
 https://secure3.todostreaming.es/live/imastv-livestream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5RzZCVy/al.jpg" group-title="España",InfoCanal Tv | Almansa (ES)
-https://str01.tvalmansa.es/emisiononline/pvRvn5ZMmYe2DFzJu1iJKr4EMxna0N.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MGv2sGKz/inter.jpg" group-title="España",Interalmería TV (ES)
 https://www.interalmeria.tv/directo/live.m3u8
@@ -8154,34 +8128,16 @@ https://streamingtvi.gestec-video.com/hls/tvixa1.m3u8
 https://streamingtvi.gestec-video.com/hls/tvixa.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g02sZpqH/la7.jpg" group-title="España",La 7 (ES)
-https://cdnlive2.codev8.net/la7live/smil:channel1.smil/chunklist_b2200000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/V5QhxPhp/la8.jpg" group-title="España",La 8 | Avila (ES)
-https://cdnlive.shooowit.net/la8avilalive/smil:streamswitchingchannel.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/V5QhxPhp/la8.jpg" group-title="España",La 8 | Burgos (ES)
-https://cdnlive.codev8.net/la8burgoslive/smil:streamswitchingchannel.smil/chunklist_b2200000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/V5QhxPhp/la8.jpg" group-title="España",La 8 | León (ES)
-https://cdnlive.shooowit.net/la8leonlive/smil:streamswitchingchannel.smil/chunklist_b2200000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/V5QhxPhp/la8.jpg" group-title="España",La 8 | Valladolid (ES)
-https://cdnlive.codev8.net/la8valladolidlive/smil:streamswitchingchannel.smil/chunklist_b2200000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/V5QhxPhp/la8.jpg" group-title="España",La 8 | Zamora (ES)
-https://cdnlive.codev8.net/la8zamoralive/smil:streamswitchingchannel.smil/playlist.m3u8
+https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0js76WrG/laotra.jpg" group-title="España",La Otra (ES)
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLM0XNHC/levantetv.jpg" group-title="España",Levante TV (ES)
-https://play.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9023/029/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7sgqTmf/MARBELLA.jpg" group-title="España",M95 TV | Marbella (ES)
 https://limited2.todostreaming.es/live/m95-livestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/s2NJ58BQ/marbella.jpg" group-title="España",Marbella Televisión (ES)
-https://limited41.todostreaming.es/live/marbellatv-livestream.m3u8
+https://streaming.rtvmarbella.tv/hls/streamingweb_src.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W16JhFp5/melilla.jpg" group-title="España",Melilla TV (ES)
 https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
@@ -8196,13 +8152,7 @@ https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
 http://amaru.dyndns.org:8870/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTszz0yR/ozi.jpg" group-title="España",Oizmendi Telebista (ES)
-https://5940924978228.streamlock.net/8161/8161/chunklist_w1220281913.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5kPxjLM/asd.jpg" group-title="España",Olot Televisió (ES)
-https://liveingesta118.cdnmedia.tv/olottvlive/live-1600/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0j3RW9bD/onda15.jpg" group-title="España",Onda 15 TV (ES)
-https://cloudvideo.servers10.com:8081/8034/index.m3u8
+https://5940924978228.streamlock.net/8161/8161/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D0hLFCf3/ONDAGERIAS.jpg" group-title="España",Onda Algeciras (ES)
 https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
@@ -8210,14 +8160,11 @@ https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VsSXskxC/onda.jpg" group-title="España",Onda Cádiz TV (ES)
 https://ondacadiztv.es:30443/octv/directo_multi/octv/directo_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhQp132x/ONDAMADRID.jpg" group-title="España",Onda Madrid 101.3 FM (ES)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhQp132x/ONDAMADRID.jpg" group-title="España",Onda Madrid | 101.3 FM (ES)
 https://tvradiohls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/tvradio_1/bitrate_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QCMTBsV/ondavalencia.jpg" group-title="España",Onda Valencia (ES)
 https://cloudvideo.servers10.com:8081/8116/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdzmJCsc/penedes.jpg" group-title="España",Penedes TV (ES)
-https://liveingesta118.cdnmedia.tv/rtvvilafrancalive/live-1500/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/130NPwW4/pieratv.jpg" group-title="España",Piera TV (ES)
 http://51.254.47.72:1935/piera/smil:piera.smil/master.m3u8
@@ -8262,10 +8209,10 @@ https://cloudvideo.servers10.com:8081/8028/index.m3u8
 https://cloudvideo.servers10.com:8081/8254/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0jDZYv9C/toronja.jpg" group-title="España",Taronja (ES)
-https://liveingesta318.cdnmedia.tv/taronjaanoialive/migracion-900/chunklist.m3u8
+https://ingest1-video.streaming-pro.com/canaltaronja/central/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4VDzPyv/7vasco.jpg" group-title="España",Tele7 | Vasco (ES)
-https://vdo.panelstreaming.live:3736/live/tele7live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4VDzPyv/7vasco.jpg" group-title="España",Tele 7 | Vasco (ES)
+https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hP4c5mkK/arandatv.jpg" group-title="España",Tele Aranda (ES)
 https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8
@@ -8274,7 +8221,7 @@ https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8
 https://tvdirecto.teleelx.es/stream/teleelx.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8NcYNtk/teleganes.jpg" group-title="España",Teleganes (ES)
-https://live.yowi.tv/f79437b2aa253f8e59f1/master.m3u8
+https://nlb1-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/fragments/live-2000/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6p3Gxxf8/teleginela.jpg" group-title="España",TeleGilena (ES)
 https://5940924978228.streamlock.net/Directo1/Directo1/master.m3u8
@@ -8289,7 +8236,7 @@ https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/endirecto/playlist.m3u8
 http://37.187.7.106/teleribera/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GmWzRCqL/televigo.jpg" group-title="España",Televigo (ES)
-https://cloud.streamingconnect.tv/hls/televigo/televigo.m3u8
+https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8c4q4Mr/televisioncanaria.jpg" group-title="España",Televisión Canaria (ES)
 https://ythls.onrender.com/channel/UCTQrUTmzCWIfG6h4EVCdOCQ.m3u8
@@ -8299,9 +8246,6 @@ https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0z74QX9/torrevision.jpg" group-title="España",Torrevisión (ES)
 https://api.new.livestream.com/accounts/2614936/events/10365077/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kzbpy2JX/a7.jpg" group-title="España",TPA7 | Asturias (ES)
-https://cdnlive.shooowit.net/rtpalive/directo.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QxStY9Zc/trece.jpg" group-title="España",Trece (ES)
 https://live-edge-eu-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
@@ -8339,9 +8283,6 @@ https://hellin-hls-live.flumotion.com/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/02H7QNQY/tvm.jpg" group-title="España",TVM | Córdoba (ES)
 https://5924d3ad0efcf.streamlock.net/cordoba/cordobalive/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fL9fggx3/tvrioja.jpg" group-title="España",TV Rioja (ES)
-https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6QcwfLcs/tvvegabaja.jpg" group-title="España",TV Vega Baja (ES)
 https://streaming.tvt.es:8080/hls/tvb_interno/live.m3u8
 
@@ -8352,16 +8293,13 @@ https://cloud3.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u
 https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2_360p/chunklist_w943445908.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dzddx6Gq/vo.jpg" group-title="España",Vallès Oriental Televisió (ES)
-https://liveingesta318.cdnmedia.tv/votvlive/migracion-1500/chunklist.m3u8
+https://ingest2-video.streaming-pro.com/votv/streaming_web/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fTtYV0Pw/vision6.jpg" group-title="España",Vision 6 (ES)
-https://secure3.todostreaming.es/live/visionseis-livestream.m3u8
+https://streaming.proceso.info:8888/vision6-web/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4dw2xj0/w.jpg" group-title="España",Vivamóvil TV (ES)
 https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/chunklist_w158821916.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydwWn5m8/zafra.jpg" group-title="España",Zafra Radio TV (ES)
-https://cloud.streamingconnect.tv/hls/radiotvzafra/gcmin.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NMYCg4vZ/ABCNEWS.jpg" group-title="Estados Unidos",ABC News | Los Angeles (US)
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
@@ -8748,8 +8686,6 @@ https://59e88b197fb16.streamlock.net:4443/live/canal4/chunklist_w8224100.m3u8
 http://hidra.live:80/rbkhihvo/tBoBv15r69/43626
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kv5hpW9s/canal5mx.jpg" group-title="México",Canal 5 | Opción 2 (MX)
 http://hidra.live:80/rbkhihvo/tBoBv15r69/302619
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kv5hpW9s/canal5mx.jpg" group-title="México",Canal 5 | Opción 3 (MX)
-https://v3.playerlatino.live/stream/m3u8/14
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tRsK8pYj/canal10.jpg" group-title="México",Canal 10 | Cancun (MX)
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/chunklist_w1814980558.m3u8
