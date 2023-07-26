@@ -207,9 +207,6 @@ https://happykids-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k58LCnBw/happykidsjunior.jpg" group-title="Animados | Variado",Happy Kids | Junior (US)
 https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/htv7HYJR/2x2.jpg" group-title="Animados | Variado",IIxII (RU)
-http://87.249.220.158/2x2/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrNjb420/ipe.jpg" group-title="Animados | Variado",IPE (PE)
 https://d16467quqotqb8.cloudfront.net/out/v1/3f2cb1658d114f2693eff18d83199e67/index.m3u8
 
@@ -429,6 +426,9 @@ https://pomf2.lain.la/f/va5tn4g8.mp4
 https://pomf2.lain.la/f/celhlauf.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mkDW6zTg/guilp0.jpg" group-title="Pride Videos",[Pride Costa Rica 2017 ] Marcha del Orgullo LGBTIQ+
 https://pomf2.lain.la/f/pw5cmj0d.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZR6b0KY/futurama.jpg" group-title="Futurama [2023]",Futurama | S08E01 | Latino [2023]
+https://pomf2.lain.la/f/gu2sbzmd.mkv
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QC48hBsH/chu1.jpg" group-title="Chucky La Serie",Chucky | La Serie | S01E01 | Sub [2021]
 https://pomf2.lain.la/f/uc4ck83.mp4
