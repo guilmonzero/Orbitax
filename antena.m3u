@@ -286,7 +286,7 @@ http://ares.mnet.mk/hls/mnet-kids.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1tzXXzyH/mitv.jpg" group-title="Animados | Variado",Mi Televisión Clásica (LATAM)
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvN7s3yD/mondotvkids.jpg" group-title="Animados | Variado",Mondo TV Kids (IT)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zB4yGkPM/mondotvkids.jpg" group-title="Animados | Variado",Mondo TV Kids (IT)
 https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXvHhXsq/moonbugkids.jpg" group-title="Animados | Variado",Moonbug Kids (ES)
@@ -1468,6 +1468,9 @@ https://ythls.onrender.com/channel/UCef1-8eOpJgud7szVPlZQAQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4GYpSMt/CNN-turkia.jpg" group-title="Informativo",CNN | Turquía (TK)
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y6TjWgTd/cpac.jpg" group-title="Informativo",Cpac | Canada (CA)
+https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JhFzGphh/dbcnews.jpg" group-title="Informativo",DBC News | Bangladesh (BD)
 https://live.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/playlist.m3u8
 
@@ -1513,11 +1516,17 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3RbYrcHq/Globalnews.jpg" group-title="Informativo",Global News | Canadá (CA)
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rpsXTqVp/hln.jpg" group-title="Informativo",HLN (US)
+https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gj7htm7N/hora.jpg" group-title="Informativo",Hora x Hora TV (VE)
 https://59ef525c24caa.streamlock.net/ctn/ctn/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QSFtFPw/Ican.jpg" group-title="Informativo",Icable News Channel | Hong Kong (HK)
 https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4FT70m0/ici.jpg" group-title="Informativo",ICI RDI (CA)
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_700.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6QT85JKM/india.jpg" group-title="Informativo",India Today (IN)
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_404p/chunks.m3u8
@@ -1534,11 +1543,17 @@ https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XvB2m2KC/mileniotelevision.jpg" group-title="Informativo",Milenio Televisión (MX)
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zbvnSQM/mordo.jpg" group-title="Informativo",Mordovia 24 (RU)
+https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zGfcvYX5/negociostv.jpg" group-title="Informativo",Negocios TV (ES)
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6368wLK8/newsnet.jpg" group-title="Informativo",News Net (US)
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/chunklist_b2000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CKtHw4s/newsw-.jpg" group-title="Informativo",NOW |News Of The World (US)
+https://nowhls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9MYMLJsD/nippontv.jpg" group-title="Informativo",Nippon TV | News 24 (JP)
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
@@ -2078,6 +2093,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playl
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Zn9X7Tpg/PMC.jpg" group-title="Música",PMC (IR)
 https://hls.pmchd.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3J9qMDvm/popw.jpg" group-title="Música",Pop World TV (UK)
+https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JhjGG8vK/portalfoxmix.jpg" group-title="Música",Portal FoxMix (CL)
 https://panel.tvstream.cl:1936/8040/8040/chunklist_w1056706280.m3u8
@@ -5576,7 +5594,7 @@ https://i.mjh.nz/PlutoTV/62bdabbc5611f2000761ca30-alt.m3u8
 https://i.mjh.nz/PlutoTV/62e92447ea1e2a000735ed33-alt.m3u8
 #EXTINF:-1 channel-id="pluto-62e92708a7ce600007b2676a" tvg-id="62e92708a7ce600007b2676a" tvg-chno="145" tvg-logo="https://images.pluto.tv/channels/62e92708a7ce600007b2676a/colorLogoPNG.png" group-title="Pluto TV | Canada" ,Crime Drama
 https://i.mjh.nz/PlutoTV/62e92708a7ce600007b2676a-alt.m3u8
-#EXTINF:-1 channel-id="pluto-630e33d4e6f7a600076c4e2d" tvg-id="630e33d4e6f7a600076c4e2d" tvg-chno="150" tvg-logo="https://images.pluto.tv/channels/630e33d4e6f7a600076c4e2d/colorLogoPNG.png" group-title="Pluto TV | Canada" , More | Crime Drama
+#EXTINF:-1 channel-id="pluto-630e33d4e6f7a600076c4e2d" tvg-id="630e33d4e6f7a600076c4e2d" tvg-chno="150" tvg-logo="https://images.pluto.tv/channels/630e33d4e6f7a600076c4e2d/colorLogoPNG.png" group-title="Pluto TV | Canada" ,More | Crime Drama
 https://i.mjh.nz/PlutoTV/630e33d4e6f7a600076c4e2d-alt.m3u8
 #EXTINF:-1 channel-id="pluto-63da365f60bc8f0008a50f44" tvg-id="63da365f60bc8f0008a50f44" tvg-chno="201" tvg-logo="https://images.pluto.tv/channels/63da365f60bc8f0008a50f44/colorLogoPNG.png" group-title="Pluto TV | Canada" ,Matlock
 https://i.mjh.nz/PlutoTV/63da365f60bc8f0008a50f44-alt.m3u8
@@ -5666,7 +5684,7 @@ https://i.mjh.nz/PlutoTV/6310cbee5a8ad300070fdb7c-alt.m3u8
 https://i.mjh.nz/PlutoTV/6479c171536e0c0008942590-alt.m3u8
 #EXTINF:-1 channel-id="pluto-63920159db0dea0007dd9932" tvg-id="63920159db0dea0007dd9932" tvg-chno="502" tvg-logo="https://images.pluto.tv/channels/63920159db0dea0007dd9932/colorLogoPNG.png" group-title="Pluto TV | Canada" ,Shades of Black
 https://i.mjh.nz/PlutoTV/63920159db0dea0007dd9932-alt.m3u8
-#EXTINF:-1 channel-id="pluto-62e92951c2db99000787c00d" tvg-id="62e92951c2db99000787c00d" tvg-chno="505" tvg-logo="https://images.pluto.tv/channels/62e92951c2db99000787c00d/colorLogoPNG.png" group-title="Pluto TV | Canada" ,Deal or no Deal
+#EXTINF:-1 channel-id="pluto-62e92951c2db99000787c00d" tvg-id="62e92951c2db99000787c00d" tvg-chno="505" tvg-logo="https://images.pluto.tv/channels/62e92951c2db99000787c00d/colorLogoPNG.png" group-title="Pluto TV | Canada" ,Deal or No Deal
 https://i.mjh.nz/PlutoTV/62e92951c2db99000787c00d-alt.m3u8
 #EXTINF:-1 channel-id="pluto-62e92b66f24d2800087777ec" tvg-id="62e92b66f24d2800087777ec" tvg-chno="510" tvg-logo="https://images.pluto.tv/channels/62e92b66f24d2800087777ec/colorLogoPNG.png" group-title="Pluto TV | Canada" ,Supermarket Sweep
 https://i.mjh.nz/PlutoTV/62e92b66f24d2800087777ec-alt.m3u8
@@ -5704,7 +5722,7 @@ https://i.mjh.nz/PlutoTV/62e91ea20d06110008396079-alt.m3u8
 https://i.mjh.nz/PlutoTV/62bdb5500c21270007218ce1-alt.m3u8
 #EXTINF:-1 channel-id="pluto-62e92b5fca869f00078f0162" tvg-id="62e92b5fca869f00078f0162" tvg-chno="560" tvg-logo="https://images.pluto.tv/channels/62e92b5fca869f00078f0162/colorLogoPNG.png" group-title="Pluto TV | Canada" ,Pet Collective
 https://i.mjh.nz/PlutoTV/62e92b5fca869f00078f0162-alt.m3u8
-#EXTINF:-1 channel-id="pluto-62fb9c4539183b00076a3875" tvg-id="62fb9c4539183b00076a3875" tvg-chno="565" tvg-logo="https://images.pluto.tv/channels/62fb9c4539183b00076a3875/colorLogoPNG.png" group-title="Pluto TV | Canada" ,Busted at the Border
+#EXTINF:-1 channel-id="pluto-62fb9c4539183b00076a3875" tvg-id="62fb9c4539183b00076a3875" tvg-chno="565" tvg-logo="https://images.pluto.tv/channels/62fb9c4539183b00076a3875/colorLogoPNG.png" group-title="Pluto TV | Canada" ,Busted At The Border
 https://i.mjh.nz/PlutoTV/62fb9c4539183b00076a3875-alt.m3u8
 #EXTINF:-1 channel-id="pluto-62fb9844db5a4a0007ebc2a3" tvg-id="62fb9844db5a4a0007ebc2a3" tvg-chno="570" tvg-logo="https://images.pluto.tv/channels/62fb9844db5a4a0007ebc2a3/colorLogoPNG.png" group-title="Pluto TV | Canada" ,Beyond History
 https://i.mjh.nz/PlutoTV/62fb9844db5a4a0007ebc2a3-alt.m3u8
@@ -5716,33 +5734,33 @@ https://i.mjh.nz/PlutoTV/62cbef9ebb857100072fc187-alt.m3u8
 https://i.mjh.nz/PlutoTV/63da370e2e477400081cf8b6-alt.m3u8
 #EXTINF:-1 channel-id="pluto-62cc00b3b821cf00070f82c3" tvg-id="62cc00b3b821cf00070f82c3" tvg-chno="615" tvg-logo="https://images.pluto.tv/channels/62cc00b3b821cf00070f82c3/colorLogoPNG.png" group-title="Pluto TV | Canada" ,Global News | Toronto
 https://i.mjh.nz/PlutoTV/62cc00b3b821cf00070f82c3-alt.m3u8
-#EXTINF:-1 channel-id="pluto-62cbfbd6ad95670007f567af" tvg-id="62cbfbd6ad95670007f567af" tvg-chno="620" tvg-logo="https://images.pluto.tv/channels/62cbfbd6ad95670007f567af/colorLogoPNG.png" group-title="Pluto TV | Canada" , Global News | Montreal
+#EXTINF:-1 channel-id="pluto-62cbfbd6ad95670007f567af" tvg-id="62cbfbd6ad95670007f567af" tvg-chno="620" tvg-logo="https://images.pluto.tv/channels/62cbfbd6ad95670007f567af/colorLogoPNG.png" group-title="Pluto TV | Canada" ,Global News | Montreal
 https://i.mjh.nz/PlutoTV/62cbfbd6ad95670007f567af-alt.m3u8
-#EXTINF:-1 channel-id="pluto-62cbf063257170000724590c" tvg-id="62cbf063257170000724590c" tvg-chno="625" tvg-logo="https://images.pluto.tv/channels/62cbf063257170000724590c/colorLogoPNG.png" group-title="Pluto TV | Canada" , Global News | BC
+#EXTINF:-1 channel-id="pluto-62cbf063257170000724590c" tvg-id="62cbf063257170000724590c" tvg-chno="625" tvg-logo="https://images.pluto.tv/channels/62cbf063257170000724590c/colorLogoPNG.png" group-title="Pluto TV | Canada" ,Global News | BC
 https://i.mjh.nz/PlutoTV/62cbf063257170000724590c-alt.m3u8
-#EXTINF:-1 channel-id="pluto-62cbf23dcfb48300077f8348" tvg-id="62cbf23dcfb48300077f8348" tvg-chno="630" tvg-logo="https://images.pluto.tv/channels/62cbf23dcfb48300077f8348/colorLogoPNG.png" group-title="Pluto TV | Canada" , Global News | Calgary
+#EXTINF:-1 channel-id="pluto-62cbf23dcfb48300077f8348" tvg-id="62cbf23dcfb48300077f8348" tvg-chno="630" tvg-logo="https://images.pluto.tv/channels/62cbf23dcfb48300077f8348/colorLogoPNG.png" group-title="Pluto TV | Canada" ,Global News | Calgary
 https://i.mjh.nz/PlutoTV/62cbf23dcfb48300077f8348-alt.m3u8
-#EXTINF:-1 channel-id="pluto-62cbf2de1fba5f0007e47d9c" tvg-id="62cbf2de1fba5f0007e47d9c" tvg-chno="635" tvg-logo="https://images.pluto.tv/channels/62cbf2de1fba5f0007e47d9c/colorLogoPNG.png" group-title="Pluto TV | Canada" , Global News | Edmonton
+#EXTINF:-1 channel-id="pluto-62cbf2de1fba5f0007e47d9c" tvg-id="62cbf2de1fba5f0007e47d9c" tvg-chno="635" tvg-logo="https://images.pluto.tv/channels/62cbf2de1fba5f0007e47d9c/colorLogoPNG.png" group-title="Pluto TV | Canada" ,Global News | Edmonton
 https://i.mjh.nz/PlutoTV/62cbf2de1fba5f0007e47d9c-alt.m3u8
-#EXTINF:-1 channel-id="pluto-62cbf398b8e02600071deda5" tvg-id="62cbf398b8e02600071deda5" tvg-chno="640" tvg-logo="https://images.pluto.tv/channels/62cbf398b8e02600071deda5/colorLogoPNG.png" group-title="Pluto TV | Canada" , Global News | Halifax
+#EXTINF:-1 channel-id="pluto-62cbf398b8e02600071deda5" tvg-id="62cbf398b8e02600071deda5" tvg-chno="640" tvg-logo="https://images.pluto.tv/channels/62cbf398b8e02600071deda5/colorLogoPNG.png" group-title="Pluto TV | Canada" ,Global News | Halifax
 https://i.mjh.nz/PlutoTV/62cbf398b8e02600071deda5-alt.m3u8
-#EXTINF:-1 channel-id="pluto-62cbf4964446e2000742073e" tvg-id="62cbf4964446e2000742073e" tvg-chno="645" tvg-logo="https://images.pluto.tv/channels/62cbf4964446e2000742073e/colorLogoPNG.png" group-title="Pluto TV | Canada" , Global News | Kingston
+#EXTINF:-1 channel-id="pluto-62cbf4964446e2000742073e" tvg-id="62cbf4964446e2000742073e" tvg-chno="645" tvg-logo="https://images.pluto.tv/channels/62cbf4964446e2000742073e/colorLogoPNG.png" group-title="Pluto TV | Canada" ,Global News | Kingston
 https://i.mjh.nz/PlutoTV/62cbf4964446e2000742073e-alt.m3u8
-#EXTINF:-1 channel-id="pluto-62cbf7439cb58900088dc77b" tvg-id="62cbf7439cb58900088dc77b" tvg-chno="650" tvg-logo="https://images.pluto.tv/channels/62cbf7439cb58900088dc77b/colorLogoPNG.png" group-title="Pluto TV | Canada" , Global News | Lethbridge
+#EXTINF:-1 channel-id="pluto-62cbf7439cb58900088dc77b" tvg-id="62cbf7439cb58900088dc77b" tvg-chno="650" tvg-logo="https://images.pluto.tv/channels/62cbf7439cb58900088dc77b/colorLogoPNG.png" group-title="Pluto TV | Canada" ,Global News | Lethbridge
 https://i.mjh.nz/PlutoTV/62cbf7439cb58900088dc77b-alt.m3u8
-#EXTINF:-1 channel-id="pluto-62cbfc572dc3750007a493ce" tvg-id="62cbfc572dc3750007a493ce" tvg-chno="655" tvg-logo="https://images.pluto.tv/channels/62cbfc572dc3750007a493ce/colorLogoPNG.png" group-title="Pluto TV | Canada" , Global News | Okanagan
+#EXTINF:-1 channel-id="pluto-62cbfc572dc3750007a493ce" tvg-id="62cbfc572dc3750007a493ce" tvg-chno="655" tvg-logo="https://images.pluto.tv/channels/62cbfc572dc3750007a493ce/colorLogoPNG.png" group-title="Pluto TV | Canada" ,Global News | Okanagan
 https://i.mjh.nz/PlutoTV/62cbfc572dc3750007a493ce-alt.m3u8
-#EXTINF:-1 channel-id="pluto-62cbfcd8c2db990007861e43" tvg-id="62cbfcd8c2db990007861e43" tvg-chno="660" tvg-logo="https://images.pluto.tv/channels/62cbfcd8c2db990007861e43/colorLogoPNG.png" group-title="Pluto TV | Canada" , Global News | Peterborough
+#EXTINF:-1 channel-id="pluto-62cbfcd8c2db990007861e43" tvg-id="62cbfcd8c2db990007861e43" tvg-chno="660" tvg-logo="https://images.pluto.tv/channels/62cbfcd8c2db990007861e43/colorLogoPNG.png" group-title="Pluto TV | Canada" ,Global News | Peterborough
 https://i.mjh.nz/PlutoTV/62cbfcd8c2db990007861e43-alt.m3u8
-#EXTINF:-1 channel-id="pluto-62cbff53ca8f2200080253b5" tvg-id="62cbff53ca8f2200080253b5" tvg-chno="665" tvg-logo="https://images.pluto.tv/channels/62cbff53ca8f2200080253b5/colorLogoPNG.png" group-title="Pluto TV | Canada" , Global News | Regina
+#EXTINF:-1 channel-id="pluto-62cbff53ca8f2200080253b5" tvg-id="62cbff53ca8f2200080253b5" tvg-chno="665" tvg-logo="https://images.pluto.tv/channels/62cbff53ca8f2200080253b5/colorLogoPNG.png" group-title="Pluto TV | Canada" ,Global News | Regina
 https://i.mjh.nz/PlutoTV/62cbff53ca8f2200080253b5-alt.m3u8
-#EXTINF:-1 channel-id="pluto-62cc00359cb58900088dc840" tvg-id="62cc00359cb58900088dc840" tvg-chno="670" tvg-logo="https://images.pluto.tv/channels/62cc00359cb58900088dc840/colorLogoPNG.png" group-title="Pluto TV | Canada" , Global News | Saskatoon
+#EXTINF:-1 channel-id="pluto-62cc00359cb58900088dc840" tvg-id="62cc00359cb58900088dc840" tvg-chno="670" tvg-logo="https://images.pluto.tv/channels/62cc00359cb58900088dc840/colorLogoPNG.png" group-title="Pluto TV | Canada" ,Global News | Saskatoon
 https://i.mjh.nz/PlutoTV/62cc00359cb58900088dc840-alt.m3u8
-#EXTINF:-1 channel-id="pluto-62cc0120880c890007191016" tvg-id="62cc0120880c890007191016" tvg-chno="675" tvg-logo="https://images.pluto.tv/channels/62cc0120880c890007191016/colorLogoPNG.png" group-title="Pluto TV | Canada" , Global News | Winnipeg
+#EXTINF:-1 channel-id="pluto-62cc0120880c890007191016" tvg-id="62cc0120880c890007191016" tvg-chno="675" tvg-logo="https://images.pluto.tv/channels/62cc0120880c890007191016/colorLogoPNG.png" group-title="Pluto TV | Canada" ,Global News | Winnipeg
 https://i.mjh.nz/PlutoTV/62cc0120880c890007191016-alt.m3u8
-#EXTINF:-1 channel-id="pluto-62fb5f68741416000755b0a1" tvg-id="62fb5f68741416000755b0a1" tvg-chno="700" tvg-logo="https://images.pluto.tv/channels/62fb5f68741416000755b0a1/colorLogoPNG.png" group-title="Pluto TV | Canada" , Reno & Flip
+#EXTINF:-1 channel-id="pluto-62fb5f68741416000755b0a1" tvg-id="62fb5f68741416000755b0a1" tvg-chno="700" tvg-logo="https://images.pluto.tv/channels/62fb5f68741416000755b0a1/colorLogoPNG.png" group-title="Pluto TV | Canada" ,Reno & Flip
 https://i.mjh.nz/PlutoTV/62fb5f68741416000755b0a1-alt.m3u8
-#EXTINF:-1 channel-id="pluto-62fb6057f923fb0007eafb24" tvg-id="62fb6057f923fb0007eafb24" tvg-chno="705" tvg-logo="https://images.pluto.tv/channels/62fb6057f923fb0007eafb24/colorLogoPNG.png" group-title="Pluto TV | Canada" , Reno Rehab
+#EXTINF:-1 channel-id="pluto-62fb6057f923fb0007eafb24" tvg-id="62fb6057f923fb0007eafb24" tvg-chno="705" tvg-logo="https://images.pluto.tv/channels/62fb6057f923fb0007eafb24/colorLogoPNG.png" group-title="Pluto TV | Canada" ,Reno Rehab
 https://i.mjh.nz/PlutoTV/62fb6057f923fb0007eafb24-alt.m3u8
 #EXTINF:-1 channel-id="pluto-62fb60d2d835e10007e44a26" tvg-id="62fb60d2d835e10007e44a26" tvg-chno="710" tvg-logo="https://images.pluto.tv/channels/62fb60d2d835e10007e44a26/colorLogoPNG.png" group-title="Pluto TV | Canada" ,In The Market
 https://i.mjh.nz/PlutoTV/62fb60d2d835e10007e44a26-alt.m3u8
@@ -5780,7 +5798,7 @@ https://i.mjh.nz/PlutoTV/62fb6a4feb32e8000708f4d0-alt.m3u8
 https://i.mjh.nz/PlutoTV/635656ed26e11400077add0f-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6356584de76adf0007dcec3c" tvg-id="6356584de76adf0007dcec3c" tvg-chno="827" tvg-logo="https://images.pluto.tv/channels/6356584de76adf0007dcec3c/colorLogoPNG.png" group-title="Pluto TV | Canada" ,Ryan and Friends
 https://i.mjh.nz/PlutoTV/6356584de76adf0007dcec3c-alt.m3u8
-#EXTINF:-1 channel-id="pluto-62bdb6a83c6e37000726823b" tvg-id="62bdb6a83c6e37000726823b" tvg-chno="830" tvg-logo="https://images.pluto.tv/channels/62bdb6a83c6e37000726823b/colorLogoPNG.png" group-title="Pluto TV | Canada" , Nick
+#EXTINF:-1 channel-id="pluto-62bdb6a83c6e37000726823b" tvg-id="62bdb6a83c6e37000726823b" tvg-chno="830" tvg-logo="https://images.pluto.tv/channels/62bdb6a83c6e37000726823b/colorLogoPNG.png" group-title="Pluto TV | Canada" ,Nick
 https://i.mjh.nz/PlutoTV/62bdb6a83c6e37000726823b-alt.m3u8
 #EXTINF:-1 channel-id="pluto-63f878fc4983930008633f9e" tvg-id="63f878fc4983930008633f9e" tvg-chno="835" tvg-logo="https://images.pluto.tv/channels/63f878fc4983930008633f9e/colorLogoPNG.png" group-title="Pluto TV | Canada" ,Nick | Movies
 https://i.mjh.nz/PlutoTV/63f878fc4983930008633f9e-alt.m3u8
@@ -9846,7 +9864,7 @@ https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2SvGMnCk/abudabitv.jpg" group-title="Mas Señales",Abudabi TV | Emiratos Árabes (AE)
-http://85.4.116.126:8080/play/a0ju
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/90cr2vbb/antvx.jpg" group-title="Mas Señales",AnTV | Vietnam (VN)
 http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
@@ -9893,9 +9911,6 @@ http://203.162.235.41:23102
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T1x39wZ9/buena.jpg" group-title="Mas Señales",Buena TV | Puerto Rico (PR)
 https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YS2DGqSH/5it.jpg" group-title="Mas Señales",Canale | 5 (IT)
-http://95.107.132.105/out/u/422_2.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zDyh9ndQ/canale-7.jpg" group-title="Mas Señales",Canale | 7 (IT)
 http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
 
@@ -9904,21 +9919,6 @@ https://1740288887.rsc.cdn77.org/1740288887/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXk4hvsR/CCTV4.jpg" group-title="Mas Señales",CCTV | 4 (CN)
 http://210.210.155.37/qwr9ew/s/s19/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8c4K6dBt/CCTV8.jpg" group-title="Mas Señales",CCTV | 8 (CN)
-http://103.145.48.58:9300/hls/live/CCTV%208.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxGhDkk4/CCTV11.jpg" group-title="Mas Señales",CCTV | 11 (CN)
-http://103.145.48.58:9300/hls/live/CCTV%2011.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tQRRCb2/CCTV12.jpg" group-title="Mas Señales",CCTV | 12 (CN)
-http://103.145.48.58:9300/hls/live/CCTV%2012.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFcbMx3r/CCTV13.jpg" group-title="Mas Señales",CCTV | 13 | News | Opción 2 (CN)
-http://103.145.48.58:9300/hls/live/CCTV%2013.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRstkhXT/CCTV-ent.jpg" group-title="Mas Señales",CCTV | Entertainment (CN)
-http://103.145.48.58:9300/hls/live/CCTV%20Ent..m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KYqv0BtV/CGTNDOCUMENTARY.jpg" group-title="Mas Señales",CGTN | Documentary (CN)
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
@@ -9931,12 +9931,6 @@ https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKjSJkh1/cgnt.jpg" group-title="Mas Señales",CGTN | Inglés (CN)
 https://live.cgtn.com/1000/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvqV7KTF/channel-4.jpg" group-title="Mas Señales",Channel 4 (UK)
-http://80.194.62.172:50001/stream/channelid/1046793519?ticket=4EA3AA4EDFD5FA1A5A25CA0F8D9AECDC2C55255E&profile=pass
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/q72mBBzY/channel-5.jpg" group-title="Mas Señales",Channel 5 (UK)
-http://80.194.62.172:50001/stream/channelid/1065026243?ticket=C28232333FFEB38E5F9DBD1D9DEF84FB3E1C4585&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ncL9X0PX/cru.jpg" group-title="Mas Señales",Cruise1st TV (UK)
 https://ythls.onrender.com/channel/UC9r76Tzp5HxeQG7SqZwV3OA.m3u8
@@ -9956,9 +9950,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/strea
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DmVvmx6B/dw.jpg" group-title="Mas Señales",Deutsche Welle+ | Ingles (DE)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1KhsH3k/do.jpg" group-title="Mas Señales",Dongfeng 37 | China (CN)
-http://123.51.230.108:18560/.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Ls6jwVCQ/due.jpg" group-title="Mas Señales",Dubai TV (AE)
 https://dmieigthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8
 
@@ -9967,9 +9958,6 @@ http://193.33.240.8:8080/fashion_one_hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3NmDBxTM/jp-f.jpg" group-title="Mas Señales",Fuji TV (JP)
 http://203.162.235.41:15094
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYB7kwvz/giallo.jpg" group-title="Mas Señales",Giallo (IT)
-http://85.4.116.126:8080/play/a05m
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cSvVYXm/goldtv.jpg" group-title="Mas Señales",Gold TV (IT)
 https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
@@ -10071,10 +10059,8 @@ http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYxkx3s0/nhk.jpg" group-title="Mas Señales",NHK (JP)
-http://123.51.230.108:18525/.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYxkx3s0/nhk.jpg" group-title="Mas Señales",NHK | Opción 2 (JP)
 http://112.72.4.108/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYxkx3s0/nhk.jpg" group-title="Mas Señales",NHK | Opción 3 (JP)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYxkx3s0/nhk.jpg" group-title="Mas Señales",NHK | Opción 2 (JP)
 https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VNbF01Vt/j-bs.jpg" group-title="Mas Señales",NHK | BS Premium (JP)
@@ -10173,9 +10159,6 @@ https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nhxpbfjX/ru24.jpg" group-title="Mas Señales",Rusia 24 (RU)
 http://87.249.220.158/rus24/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FscHqTpq/seg.jpg" group-title="Mas Señales",Seguridad Agropecuaria Integral (CN)
-https://stream2.jlntv.cn/naxw/sd/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YSxHc4Zb/shopchannel.jpg" group-title="Mas Señales",Shop Channel (JP)
 https://stream3.shopch.jp/HLS/master.m3u8
 
@@ -10212,8 +10195,6 @@ https://live.tv2bornholm.dk/stream/live/playlist.m3u8
 http://87.249.220.158/tvc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdkrXwmc/Tv5monde.jpg" group-title="Mas Señales",TV5 Monde | Europa (EU)
-http://154.58.202.35:8001/play/a0eq/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdkrXwmc/Tv5monde.jpg" group-title="Mas Señales",TV5 Monde | Europa | Opción 2 (EU)
 http://2hubs.ddns.net:25461/BabNour/telegrramm/61357
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5GP623y/j.jpg" group-title="Mas Señales",TV Asahi (JP)
@@ -10249,13 +10230,8 @@ https://live.field59.com/wapa/wapa1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hx9YP4F5/WAO.jpg" group-title="Mas Señales",WAU TV | Eslovaquia (SK)
 https://nn.geo.joj.sk/live/hls/wau-540.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgMkCnqq/zeijansat.jpg" group-title="Mas Señales",Zhejiang Satellite TV | China (CN)
-http://123.51.230.108:18534/.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgMkCnqq/zeijansat.jpg" group-title="Mas Señales",Zhejiang Satellite TV | Internacional (CN)
 https://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yNsZRbFN/Zns.jpg" group-title="Mas Señales",ZNS | Bahamas (BS)
-https://streamlock.streamcomedia.com/abr_znstv13/abr-znstv13_streams/znstv13/zns720p_stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRdrPVLJ/zv.jpg" group-title="Mas Señales",Zvezda TV (RU)
 http://87.249.220.158/zvezda/index.m3u8
