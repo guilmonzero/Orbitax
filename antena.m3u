@@ -363,6 +363,9 @@ https://kedoo-supertoonstv-3-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9wcDnsm/tec.jpg" group-title="Animados | Variado",Tele Clásica (LATAM)
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wx0nxXMB/teley.jpg" group-title="Animados | Variado",Televisa | Yucatán (MX)
+https://ythls.onrender.com/channel/UCMIYaH2cLoPS8Hcb-9AA2ZA.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HxWprqrN/tigueritos.jpg" group-title="Animados | Variado",Tigueritos (LATAM)
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 
@@ -431,7 +434,7 @@ https://pomf2.lain.la/f/gu2sbzmd.mkv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZR6b0KY/futurama.jpg" group-title="Futurama [2023]",Futurama | S08E02 | Latino [2023]
 https://pomf2.lain.la/f/88exrt3m.mkv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZR6b0KY/futurama.jpg" group-title="Futurama [2023]",Futurama | S08E03 | Latino [2023]
-https://pomf2.lain.la/f/o5u05iy6.mkv
+https://pomf2.lain.la/f/8y6kthv.mkv
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QC48hBsH/chu1.jpg" group-title="Chucky La Serie",Chucky | La Serie | S01E01 | Sub [2021]
 https://pomf2.lain.la/f/uc4ck83.mp4
@@ -814,8 +817,6 @@ http://hidra.live:80/rbkhihvo/tBoBv15r69/34702
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XN1mS0gf/Beinsportextra.jpg" group-title="Deportes | Aventura",Bein Sports | Xtra | Ñ (US)
 https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XN1mS0gf/Beinsportextra.jpg" group-title="Deportes | Aventura",Bein Sports | Xtra | Ñ | Opción 2 (US)
-https://siloh-mcdn.plutotv.net/lilo/production/BEIN/ES/master_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wM3wL3z2/BEK.jpg" group-title="Deportes | Aventura",BEK | Sports (US)
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
@@ -1515,6 +1516,9 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zbvnSQM/mordo.jpg" group-title="Informativo",Mordovia 24 (RU)
 https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zvznppzn/nbc-news.jpg"" group-title="Informativo",NBC | NEWS | Chicago (US)
+https://nbculocalfast.akamaized.net/hls/live/2096797/nbcchicago/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zGfcvYX5/negociostv.jpg" group-title="Informativo",Negocios TV (ES)
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
@@ -1579,9 +1583,6 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jSstfPyR/telesur.jpg" group-title="Informativo",Tele Sur | Ingles (VE)
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vDF7GFFC/theweatherchannel3.jpg" group-title="Informativo",The Weather Channel | En Español (US)
-https://linear-431.frequency.stream/431/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d1MQBgZd/theweatherchannel2.jpg" group-title="Informativo",The Weather Channel | Entertainment (US)
 https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
@@ -1742,6 +1743,9 @@ http://45.5.118.213:16000/play/a0o2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RhLsnFQy/conecta.jpg" group-title="Música",Conecta TV (MX)
 https://stream8.mexiserver.com:1936/conectatv/conectatv/chunklist_w1971005948.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWPnj7Nr/danf.jpg" group-title="Música",Dance Floor (BR)
+https://srv3.zcast.com.br/andre3354/andre3354/chunklist_w1042153820.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qM46RdMS/danAR.jpg" group-title="Música",Dance TV (AR)
 https://stmv1.cnarlatam.com/danncetv/danncetv/playlist.m3u8
@@ -7391,6 +7395,10 @@ https://d6ty74mk4gbf8.cloudfront.net/out/v1/eee0458277eb45d7879a19815a33ddc4/ind
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/90LLtGVC/13entretencion.jpg" group-title="Chile",13 | Entretención (CL)
 https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdsTjqRs/13f.jpg" group-title="Chile",13 | Festival (CL)
+https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjx0tYrF/13h.jpg" group-title="Chile",13 | Humor (CL)
+https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hsjz18d8/13prime.jpg" group-title="Chile",13 | Prime (CL)
 https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RCG57z4c/13-realities.jpg" group-title="Chile",13 | Realities (CL)
@@ -10195,6 +10203,49 @@ http://206.212.248.20/live/wickeduk/asdfasdfasdf3/116426.m3u8
 http://206.212.248.20/live/wickeduk/asdfasdfasdf3/116425.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CzbBF47/xym.jpg" group-title="18+",XY Max
 http://93.155.227.38:90/m3u8/sct.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMz0kDJy/cam12.jpg" group-title="Camaras 😉",Aeropuerto de Canberra (AU)
+https://s62.ipcamlive.com/streams/3ellejro2iqcke8sg/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrVfv2L5/cam9.jpg" group-title="Camaras 😉",Aeropuerto de Colonia Bonn | Alemania (DE)
+https://stream-5gw.1000eyes.de/cupertino/cgn4463E1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jd0TJjjG/cam18.jpg" group-title="Camaras 😉",Aeropuerto de Naha | Okinawa (JP)
+https://live.qab.co.jp/live/livenahacity.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PgnNJyn/cam16.jpg" group-title="Camaras 😉",Aeropuerto de Shoreham | Brighton (UK)
+https://n1.cdn.jetstre.am/session/2068c1134f549118c418c1d7206d6f62/sz/streamdays/wowza4/live/brightoncityairport/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXSB1QYh/cam7.jpg" group-title="Camaras 😉",Aquapark | Tatralandia | Eslovaquia (SK)
+https://stream.profi-net.sk/tmr/STREAM48.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rFMrNMnP/cam20.jpg" group-title="Camaras 😉",Aquapark | Besenova | Eslovaquia (SK)
+https://stream.profi-net.sk/tmr/STREAM46.stream/chunklist_w708883542.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26bgbjw3/cam1.jpg" group-title="Camaras 😉",Aspen Square Hotel | Colorado (US)
+https://2-fss-2.streamhoster.com/pl_126/200612-1195856-1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cHSH1JwM/cam11.jpg" group-title="Camaras 😉",Baía de Sydney | Port Jackson (AU)
+https://s62.ipcamlive.com/streams/3eqp7wciytrzweakj/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTHbHQS1/cam2.jpg" group-title="Camaras 😉",Estación de Finse | Noruega (NO)
+https://edge04.balticlivecam.com/blc/Finse/tracks-v1/mono.m3u8?token=865593d85701825efb3ad260d49f1dac%3A1691922266613
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8SgRf35/cam19.jpg" group-title="Camaras 😉",Estación de Yunokami-Onsen | Fukushima (JP)
+http://hls.shimogo-live.jp/camera3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1P0LtG0/cam5.jpg" group-title="Camaras 😉",Key West, Duval Street (US)
+https://use01-smr05-relay.ozolio.com/hls-live/_definst_/smil:relay01.vtcldi6.fd0.sm1.av2.mt1.at0.as1.sh2.rt8669.rc0.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CM6zpcZN/cam4.jpg" group-title="Camaras 😉",La Torre Eiffel | París (FR)
+https://deliverys5.quanteec.com/contents/encodings/live/47fcda1a-38f6-4fb2-3938-3330-6d61-63-bb4b-5df88851d8b7d/media_0.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0xpntFf/cam10.jpg" group-title="Camaras 😉",Playa Hermosa | Guanacaste (CR)
+https://cams.cdn-surfline.com/cdn-ec/cr-playahermosa/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMnYfX4F/cam17.jpg" group-title="Camaras 😉",Playa Tamarindo | Guanacaste (CR)
+https://e1-na7.angelcam.com/cameras/1623/streams/hls/playlist.m3u8?token=eyJjYW1lcmFfaWQiOiIxNjIzIiwiZGV2aWNlX2lkIjoiMTYyMyIsInRpbWUiOjE2OTE5Mjc3MTk3Nzc2MzAsInRpbWVvdXQiOjM2MDB9%2E76f98f06335021d173a7f7bd9f5ccb5fffc73ed21bfa435f32d806399a396f8f
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0TY4GDs/cam13.jpg" group-title="Camaras 😉",Puente de la Amistad | Río Paraná (BR-PR)
+https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMQg4nJk/cam15.jpg" group-title="Camaras 😉",Puente de la Torre | Londres (UK)
+https://n1.cdn.jetstre.am/session/6094df396ff1217edc3119696abecd65/sz/streamdays/wowza4/live/iet-savoy-place/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2QMT89q/cam14.jpg" group-title="Camaras 😉",Puerto de Fuengirola | Málaga (ES)
+https://s14.ipcamlive.com/streams/0ececk8pbvmjqa5fe/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FnT1Wtc/cam3.jpg" group-title="Camaras 😉",Río Sena | París (FR)
+https://deliverys6.quanteec.com/contents/encodings/live/c51d6b18-94cf-4476-3838-3330-6d61-63-ab88-8df2f1cd0327d/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6pVZKdxp/cam6.jpg" group-title="Camaras 😉",Seven Mile Beach | Islas Caimán (KY)
+https://s71.ipcamlive.com/streams/477tacsdzns0xqgoy/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Px4P6Fqk/cam21.jpg" group-title="Camaras 😉",Sloppy Joe's | Key West (US)
+https://use01-smr04-relay.ozolio.com/hls-live/_definst_/smil:relay01.ehyzdpo.fd0.sm1.av2.mt1.at0.as1.sh2.rt8669.rc0.smil/chunklist_w1808530147_b846000.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3NTRtxnb/cam8.jpg" group-title="Camaras 😉",Tigres | Zoológico | San Diego, California (US)
+https://zssd-tiger.hls.camzonecdn.com/CamzoneStreams/zssd-tiger/Playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/02S6RQFh/orbi-pride.jpg" group-title="GUILMONZERO",Órbita by GUILMONZERO | Feedback
 https://pomf2.lain.la/f/o0ucqxo.mp4
