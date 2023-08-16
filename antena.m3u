@@ -438,6 +438,8 @@ https://pomf2.lain.la/f/gu2sbzmd.mkv
 https://pomf2.lain.la/f/88exrt3m.mkv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZR6b0KY/futurama.jpg" group-title="Futurama [2023] 😉",Futurama | S08E03 | Latino [2023]
 https://pomf2.lain.la/f/8y6kthv.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZR6b0KY/futurama.jpg" group-title="Futurama [2023] 😉",Futurama | S08E04 | Latino [2023]
+https://pomf2.lain.la/f/ofzso9xo.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QC48hBsH/chu1.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S01E01 | Sub [2021]
 https://pomf2.lain.la/f/uc4ck83.mp4
@@ -2261,7 +2263,7 @@ http://191.97.14.60:8045/play/a041/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYM3Fh8K/telemusica.jpg" group-title="Música 🎼",Tele Musica (CL)
 https://canal.mediaserver.com.co:8088/live/telemusica.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wxS8WSsk/teleritmo.jpg" group-title="Música 🎼",Tele Ritmo (MX)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QpR20r5/teleritmo.jpg" group-title="Música 🎼",Tele Ritmo (MX)
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vDwTBCP4/Country.jpg" group-title="Música 🎼",The Country Network (US)
@@ -7951,7 +7953,7 @@ https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bbv5vLnR/teleunocr.jpg" group-title="Costa Rica 🇨🇷",TeleUno (CR)
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GhS6YRXf/ticavision-2.jpg" group-title="Costa Rica",TicaVision (CR)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GhS6YRXf/ticavision-2.jpg" group-title="Costa Rica 🇨🇷",TicaVision (CR)
 https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cLWh1VQJ/currepz.jpg" group-title="Costa Rica 🇨🇷",TV Curré | PZ (CR)
@@ -10074,7 +10076,7 @@ http://cdn.adultiptv.net/blowjob.m3u8
 http://cdn.adultiptv.net/brunette.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxBtDSfB/adultiptv.jpg" group-title="18+ 🔥",AdultIPTV | Compilation
 http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxBtDSfB/adultiptv.jpg" group-title="18 🔥+",AdultIPTV | Cuckold
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxBtDSfB/adultiptv.jpg" group-title="18+ 🔥",AdultIPTV | Cuckold
 http://cdn.adultiptv.net/cuckold.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxBtDSfB/adultiptv.jpg" group-title="18+ 🔥",AdultIPTV | Fetish
 http://cdn.adultiptv.net/fetish.m3u8
@@ -10242,7 +10244,7 @@ https://s14.ipcamlive.com/streams/0ececk8pbvmjqa5fe/stream.m3u8
 https://deliverys6.quanteec.com/contents/encodings/live/c51d6b18-94cf-4476-3838-3330-6d61-63-ab88-8df2f1cd0327d/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Px4P6Fqk/cam21.jpg" group-title="Camaras 🎥",Sloppy Joe's | Key West (US)
 https://use01-smr04-relay.ozolio.com/hls-live/_definst_/smil:relay01.ehyzdpo.fd0.sm1.av2.mt1.at0.as1.sh2.rt8669.rc0.smil/chunklist_w1808530147_b846000.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3NTRtxnb/cam8.jpg" group-title="Camaras",Tigres | Zoológico | San Diego. California (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3NTRtxnb/cam8.jpg" group-title="Camaras 🎥",Tigres | Zoológico | San Diego. California (US)
 https://zssd-tiger.hls.camzonecdn.com/CamzoneStreams/zssd-tiger/Playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/02S6RQFh/orbi-pride.jpg" group-title="GUILMONZERO ❤️",Órbita by GUILMONZERO | Feedback
@@ -10252,16 +10254,22 @@ https://pomf2.lain.la/f/o0ucqxo.mp4
 https://stream-57.zeno.fm/ep9mpnntsnhvv?zs=ChPrtqZ1SMuqfQHUnpqhFw
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x89rqMq3/radio-5.jpg" group-title="GUILMONZERO ❤️",Radio Anime | Col
 http://186.147.235.2:80/animecol
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZXpzGxx/radio-1.jpg" group-title="GUILMONZERO ❤️",Radio Anime | Fan World
+http://184.154.45.106:8461/autodj
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkP2NH2x/radio11.jpg" group-title="GUILMONZERO ❤️",Radio Anime | Japan
+http://91.232.4.33:7028
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FK3tpX3s/radio10.jpg" group-title="GUILMONZERO ❤️",Radio Anime | Kawaii
+https://azura12.instainternet.com/radio/8030/radio.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J0hQ0z32/radio-8.jpg" group-title="GUILMONZERO ❤️",Radio Anime | Nexus
 http://cast.animenexusla.com:8000/animenexus
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZXpzGxx/radio-1.jpg" group-title="GUILMONZERO ❤️",Radio Anime | Japan A Radio
-https://audio.misproductions.com/japan48kaacp
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6pwjdthY/radio-3.jpg" group-title="GUILMONZERO ❤️",Radio Anime | Otaku Music
 https://kathy.torontocast.com:2880/;?type=http&nocache=1606748882
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mD6NJGCf/radio-2.jpg" group-title="GUILMONZERO ❤️",Radio Anime | Para ti
 http://node-03.zeno.fm:80/qpn8mkt8c4duv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FF6q2MVx/radio-6.jpg" group-title="GUILMONZERO ❤️",Radio Anime | Tu Musica
 https://radioanime.radioca.st/stream
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/D01X6Z5y/radio9.jpg" group-title="GUILMONZERO ❤️",Radio Anime | Wave
+https://otsu.s04.radio-tochka.com:5475/mount
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpTy5j7W/halloN.jpg" group-title="GUILMONZERO ❤️",Radio Halloween 
 https://radio1.streamserver.link/radio/8000/hrm-aac
@@ -10295,5 +10303,7 @@ https://starfm.streamabc.net/30-newrock-mp3-192-8752750
 http://23.100.77.47:8000/stream1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vmcvgDJm/antenne-heavymetal.jpg" group-title="GUILMONZERO ❤️",Rock Antenne | Heavy Metal
 http://stream.antenne.de:80/heavy-metal
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVNF0Kc5/radio12.jpg" group-title="GUILMONZERO ❤️",RPR1.Heavy Metal | Radio
+https://stream.rpr1.de/metal/mp3-128/tunein
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PfctG74v/Zrockkkzr.jpg" group-title="GUILMONZERO ❤️",Z Rock KKZR | Radio
 http://62.138.14.167:9000/ZRock128k.mp3
