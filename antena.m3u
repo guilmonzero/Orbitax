@@ -88,6 +88,9 @@ https://brat-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mr054cqd/campsnoopy.jpg" group-title="Animados | Variado",Camp Snoopy (US)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXBkTDVs/c57.jpg" group-title="Animados | Variado",Canal 57 (US)
+https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yMBdP9k/canal-infantil.jpg" group-title="Animados | Variado",Canal Infantil (LATAM)
 http://204.199.120.34:16123/play/ch06
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yMBdP9k/canal-infantil.jpg" group-title="Animados | Variado",Canal Infantil | Opción 2 (LATAM)
@@ -8542,7 +8545,13 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-soyummy-xumo/CDN/master.m3u8
 https://bcovlive-a.akamaihd.net/4d972ec6f41241f2b4286f8bdcc8dae9/us-east-1/6240731308001/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRq7JCPx/syfy.jpg" group-title="Estados Unidos",Syfy (US)
-http://2hubs.ddns.net:25461/BabNour/telegrramm/57430
+http://playhispano.org:8080/streamtvjh/li0cOlwGLg/87925
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRq7JCPx/syfy.jpg" group-title="Estados Unidos",Syfy | Opción 2 (US)
+http://watchalien.ddns.net:2095/1813901482/6329933888/7502
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRq7JCPx/syfy.jpg" group-title="Estados Unidos",Syfy | Opción 3 (US)
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12698
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRq7JCPx/syfy.jpg" group-title="Estados Unidos",Syfy | Opción 4 (US)
+http://new-pro.tv:8080/99622282/etbVXafU6f/219859
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0HRZ6sF/tastemade.jpg" group-title="Estados Unidos",Tastemade | Español (US)
 https://tastemadees16intl-vizio.amagi.tv/playlist.m3u8
@@ -8561,6 +8570,14 @@ http://2hubs.ddns.net:25461/BabNour/telegrramm/58581
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MHs7qK4X/usa.jpg" group-title="Estados Unidos",USA Network (US)
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58568
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MHs7qK4X/usa.jpg" group-title="Estados Unidos",USA Network | Opción 2 (US)
+http://playhispano.org:8080/streamtvjh/li0cOlwGLg/96384
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MHs7qK4X/usa.jpg" group-title="Estados Unidos",USA Network | Opción 3 (US)
+http://00322.xyz:8000/coachprato/40437757/131253
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MHs7qK4X/usa.jpg" group-title="Estados Unidos",USA Network | Opción 4 (US)
+http://watchalien.ddns.net:2095/1813901482/6329933888/130
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MHs7qK4X/usa.jpg" group-title="Estados Unidos",USA Network | Opción 5 (US)
+http://new-pro.tv:8080/99622282/etbVXafU6f/73304
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5yQD11wB/VICE.jpg" group-title="Estados Unidos",Vice TV (US)
 https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
@@ -8746,9 +8763,7 @@ http://200.229.147.76:4000/play/a0j6/index.m3u8
 https://59e88b197fb16.streamlock.net:4443/live/canal4/chunklist_w8224100.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kv5hpW9s/canal5mx.jpg" group-title="México",Canal 5 (MX)
-http://hidra.live:80/rbkhihvo/tBoBv15r69/43626
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kv5hpW9s/canal5mx.jpg" group-title="México",Canal 5 | Opción 2 (MX)
-http://hidra.live:80/rbkhihvo/tBoBv15r69/302619
+https://v3.playerlatino.live/stream/m3u8/14
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tRsK8pYj/canal10.jpg" group-title="México",Canal 10 | Cancun (MX)
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/chunklist_w1814980558.m3u8
