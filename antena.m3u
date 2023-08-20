@@ -811,9 +811,6 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Znqr2QD5/bahrain-1.jpg" group-title="Deportes | Aventura",Bahrain | Sports 2 (SA)
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBt5BMZc/barcatv.jpg" group-title="Deportes | Aventura",Barca TV (ES)
-http://hidra.live:80/rbkhihvo/tBoBv15r69/34702
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XN1mS0gf/Beinsportextra.jpg" group-title="Deportes | Aventura",Bein Sports | Xtra | Ñ (US)
 https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8
 
@@ -4617,83 +4614,80 @@ https://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4JprCFX/adult-ypfh.jpg" group-title="Mas Series",Adult Swim | Your Pretty Face is Going to Hell (US)
 https://adultswim-vodlive.cdn.turner.com/live/ypf/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wM51zwFy/alf-2.jpg" group-title="Mas Series",ALF (LATAM)
+http://svtv.xyz:8080/sandra30abril/CQNFV/279476
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0qsn9jb/babys.jpg" group-title="Mas Series",Baby Shark TV (LATAM)
 https://linear-355.frequency.stream/355/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xdpFn92w/corage.jpg" group-title="Mas Series",Coraje (LATAM)
-http://hidra.live:80/rbkhihvo/tBoBv15r69/58267
+http://svtv.xyz:8080/sandra30abril/CQNFV/218171
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mr6VPjYm/cripta.jpg" group-title="Mas Series",Cuentos de la Cripta (LATAM)
-http://hidra.live:80/rbkhihvo/tBoBv15r69/50589
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FRVgQQrk/digimon.jpg" group-title="Mas Series",Digimon Adventure (LATAM)
-http://hidra.live:80/rbkhihvo/tBoBv15r69/35530
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfWbpDWF/dani.jpg" group-title="Mas Series",Daniel El Travieso (LATAM)
+http://svtv.xyz:8080/sandra30abril/CQNFV/162250
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4yjchcRz/dragonb.jpg" group-title="Mas Series",Dragon Ball (US)
 http://198.50.245.218:8080/lilly1/lilly1/79572
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/K83Wh4dK/beackman.jpg" group-title="Mas Series",El Mundo de Beckman (LATAM)
-http://hidra.live:80/rbkhihvo/tBoBv15r69/49168
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZdS3Yx8/elrprincipe.jpg" group-title="Mas Series",El Principe del Rap (LATAM)
-http://hidra.live:80/rbkhihvo/tBoBv15r69/58285
+http://svtv.xyz:8080/sandra30abril/CQNFV/160769
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fy0wxwZX/gravity.jpg" group-title="Mas Series",Gravity Falls (LATAM)
-http://hidra.live:80/rbkhihvo/tBoBv15r69/35515
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gky5Z3nY/xfiles.jpg" group-title="Mas Series",Expedientes Secretos X (ES)
+http://svtv.xyz:8080/sandra30abril/CQNFV/397201
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W30q1Yz6/familiapeluche.jpg" group-title="Mas Series",Familia Peluche (LATAM)
+http://svtv.xyz:8080/sandra30abril/CQNFV/160753
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T2KSC56n/frinds.jpg" group-title="Mas Series",Friends (LATAM)
-http://hidra.live:80/rbkhihvo/tBoBv15r69/58291
+http://svtv.xyz:8080/sandra30abril/CQNFV/160755
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJcxH58k/heman.jpg" group-title="Mas Series",He-Man (LATAM)
-http://hidra.live:80/rbkhihvo/tBoBv15r69/35486
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZR6b0KY/futurama.jpg" group-title="Mas Series",Futurama (LATAM)
+http://svtv.xyz:8080/sandra30abril/CQNFV/42158
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMTythPg/arnold.jpg" group-title="Mas Series",Hey Arnold! (LATAM)
-http://hidra.live:80/rbkhihvo/tBoBv15r69/35525
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZR6b0KY/futurama.jpg" group-title="Mas Series",Futurama (ES)
+http://svtv.xyz:8080/sandra30abril/CQNFV/397173
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDZDnxtr/lacasadibujos.jpg" group-title="Mas Series",La Casa de los Dibujos (LATAM)
-http://hidra.live:80/rbkhihvo/tBoBv15r69/49274
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJL9B74h/adventure.jpg" group-title="Mas Series",Hora de Aventura (LATAM)
+http://svtv.xyz:8080/sandra30abril/CQNFV/160761
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYR8FZMz/thennany.jpg" group-title="Mas Series",La Niñera (LATAM)
-http://hidra.live:80/rbkhihvo/tBoBv15r69/49198
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GhTtLSfB/jonnny.jpg" group-title="Mas Series",Johnny Bravo (LATAM)
+http://svtv.xyz:8080/sandra30abril/CQNFV/160702
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hs8XjdCw/lulu.jpg" group-title="Mas Series",La Pequeña Lulu (LATAM)
-http://hidra.live:80/rbkhihvo/tBoBv15r69/35501
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtH5c6fS/atom.jpg" group-title="Mas Series",La Hormiga Atomica (LATAM)
+http://svtv.xyz:8080/sandra30abril/CQNFV/160795
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fWK0D1DX/24-7-thesimpsons.jpg" group-title="Mas Series",Los Simpsons | Classicos (LATAM)
-http://hidra.live:80/rbkhihvo/tBoBv15r69/50618
+http://svtv.xyz:8080/sandra30abril/CQNFV/397171
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYXJDVfR/simpsons-horror.jpg" group-title="Mas Series",Los Simpsons | La Casita del Horror (LATAM)
-http://hidra.live:80/rbkhihvo/tBoBv15r69/50617
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYXJDVfR/simpsons-horror.jpg" group-title="Mas Series",Los Simpsons | La Casita del Horror (ES)
+http://svtv.xyz:8080/sandra30abril/CQNFV/397170
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zvzckYnF/simpsons-3.jpg" group-title="Mas Series",Los Simpsons | 1 (LATAM)
-http://hidra.live:80/rbkhihvo/tBoBv15r69/58314
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zvzckYnF/simpsons-3.jpg" group-title="Mas Series",Los Simpsons | 1 (ES)
+http://svtv.xyz:8080/sandra30abril/CQNFV/397172
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5y2sCqVP/simpsons-4.jpg" group-title="Mas Series",Los Simpsons | 2 (LATAM)
-http://hidra.live:80/rbkhihvo/tBoBv15r69/50616
+http://svtv.xyz:8080/sandra30abril/CQNFV/160526
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtJFXNYP/simpsons-1.jpg" group-title="Mas Series",Los Simpsons | 3 (LATAM)
+http://svtv.xyz:8080/sandra30abril/CQNFV/160533
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8zzdQY9j/malcom2.jpg" group-title="Mas Series",Malcom in The Middle (LATAM)
-http://hidra.live:80/rbkhihvo/tBoBv15r69/35523
+http://svtv.xyz:8080/sandra30abril/CQNFV/160733
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfMvysrD/malcom.jpg" group-title="Mas Series",Malcom in The Middle | 2 (LATAM)
-http://hidra.live:80/rbkhihvo/tBoBv15r69/58317
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GmXphCQw/mrbean.jpg" group-title="Mas Series",Mr. Bean (LATAM)
-http://hidra.live:80/rbkhihvo/tBoBv15r69/58123
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFTQvLsd/mrbean.jpg" group-title="Mas Series",Mr. Bean (LATAM)
+http://svtv.xyz:8080/sandra30abril/CQNFV/160816
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j2JZyfxy/familyguy.jpg" group-title="Mas Series",Padre de Familia (LATAM)
-http://hidra.live:80/rbkhihvo/tBoBv15r69/35512
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdtBq46D/stepbystep.jpg" group-title="Mas Series",Paso a Paso (LATAM)
-http://hidra.live:80/rbkhihvo/tBoBv15r69/49203
+http://svtv.xyz:8080/sandra30abril/CQNFV/397174
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VkPVszVT/duck.jpg" group-title="Mas Series",Pato Aventuras (LATAM)
-http://hidra.live:80/rbkhihvo/tBoBv15r69/35518
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1t2ZLqFS/pep.jpg" group-title="Mas Series",Peppa Pig (LATAM)
-http://hidra.live:80/rbkhihvo/tBoBv15r69/35480
+http://svtv.xyz:8080/sandra30abril/CQNFV/160744
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wBwkWnN7/pitufos.jpg" group-title="Mas Series",Pitufos TV (LATAM)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4368
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hvx4Pr8M/rob.jpg" group-title="Mas Series",Robotech (LATAM)
+http://svtv.xyz:8080/sandra30abril/CQNFV/160729
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FRrnVR6q/run-ana.jpg" group-title="Mas Series",Runtime | Ana y los 7 (ES)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2722
@@ -4701,29 +4695,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2722
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wxSZS6Rt/run-curro.jpg" group-title="Mas Series",Runtime | Curro Jiménez (ES)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3435
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gm6PLt1V/scooby2.jpg" group-title="Mas Series",Scooby Doo (LATAM)
-http://hidra.live:80/rbkhihvo/tBoBv15r69/35493
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3LQks0f/scooby.jpg" group-title="Mas Series",Scooby Doo | 2 (LATAM)
-http://hidra.live:80/rbkhihvo/tBoBv15r69/35533
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGsny0YN/scooby-3.jpg" group-title="Mas Series",Scooby Doo | Scrappy Doo (LATAM)
-http://hidra.live:80/rbkhihvo/tBoBv15r69/58179
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7hQdgb4/star.jpg" group-title="Mas Series",Star Trek (LATAM)
-http://hidra.live:80/rbkhihvo/tBoBv15r69/35491
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZw7LhrW/sonic.jpg" group-title="Mas Series",Sonic (LATAM)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4281
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZw7LhrW/sonic.jpg" group-title="Mas Series",Sonic y su Banda (LATAM)
-http://hidra.live:80/rbkhihvo/tBoBv15r69/35492
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mZ8BrJVr/superb.jpg" group-title="Mas Series",Super Boomi (LATAM)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4343
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hvx4Pr8M/rob.jpg" group-title="Mas Series",Robotech (LATAM)
-http://hidra.live:80/rbkhihvo/tBoBv15r69/35494
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZNBS47t/Teletubbies.jpg" group-title="Mas Series",Teletubbies (UK)
 https://8f720e1353ce43b8babcd780fe178755.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_WildBrainPresentsTeletubbies/playlist.m3u8
@@ -4737,14 +4713,8 @@ https://johnnycarson-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-johnnycarson-r
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nL05LTYT/thewalkingdead.jpg" group-title="Mas Series",The Walking Dead | Pluto TV (LATAM)
 https://i.mjh.nz/PlutoTV/5e82bb378601b80007b4bd78-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rshWkfzW/thundercats.jpg" group-title="Mas Series",Thundercats (LATAM)
-http://hidra.live:80/rbkhihvo/tBoBv15r69/35490
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3J80dc77/tinytoons.jpg" group-title="Mas Series",Tiny Toons (LATAM)
-http://hidra.live:80/rbkhihvo/tBoBv15r69/50642
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PrpHcfg8/tomjerry.jpg" group-title="Mas Series",Tom y Jerry (LATAM)
-http://hidra.live:80/rbkhihvo/tBoBv15r69/35484
+http://svtv.xyz:8080/sandra30abril/CQNFV/160789
 
 #EXTINF:-1 channel-id="pluto-63eb96754e83e70008ab8941" tvg-id="63eb96754e83e70008ab8941" tvg-chno="42" tvg-logo="https://images.pluto.tv/channels/63eb96754e83e70008ab8941/colorLogoPNG.png" group-title="Pluto TV | España" ,Yu-Gi-Oh!
 https://i.mjh.nz/PlutoTV/63eb96754e83e70008ab8941-alt.m3u8
@@ -7900,9 +7870,6 @@ https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13sMvr7B/ecuavisa.jpg" group-title="Ecuador",Ecuavisa (EC)
 https://youvideostreaming.club/hls/ecutv1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13sMvr7B/ecuavisa.jpg" group-title="Ecuador",Ecuavisa | Internacional (EC)
-http://hidra.live:80/rbkhihvo/tBoBv15r69/304385
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydr7Q6KT/elsol.jpg" group-title="Ecuador",El Sol (EC)
 http://streaming5.globalhostla.com/rtplive/elsolrad/playlist.m3u8
 
@@ -8754,9 +8721,6 @@ https://stream.oursnetworktv.com/latin/encoder29/chunklist_w55221258.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bn1xZZwH/estrellagames.jpg" group-title="México",Estrella Games (MX)
 https://estrella-games-oando.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pV60ZMMB/imagentelevision.jpg" group-title="México",Imagen Televisión (MX)
-http://hidra.live:80/rbkhihvo/tBoBv15r69/43609
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bNDNgZrC/impactovision.jpg" group-title="México",Impacto Visión (MX)
 https://5ca9af4645e15.streamlock.net/impactovision/videoimpactovision/chunklist_w1017928542.m3u8
