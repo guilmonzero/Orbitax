@@ -3766,9 +3766,12 @@ http://170.254.234.244:8000/play/a03t/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QR3YNLD/spad.jpg" group-title="Premium | Latino",Space | Opción 2 (LATAM)
 http://190.90.251.194:8921/play/a007/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QR3YNLD/spad.jpg" group-title="Premium | Latino",Space | Opción 3 (LATAM)
-http://177.93.60.43:5801/play/a09r/index.m3u8
+http://190.83.60.34:1414/play/a01g
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QR3YNLD/spad.jpg" group-title="Premium | Latino",Space | Opción 4 (LATAM)
 http://190.187.154.151:8000/play/a06m/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYFCwqC0/space3.jpg" group-title="Premium | Latino",Space | Diferido 2 (LATAM)
+http://167.250.39.130:8000/play/space
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zG12sTxP/parampride.jpg" group-title="Premium | Latino",Paramount Network (LATAM)
 http://170.254.234.244:8000/play/a05d/index.m3u8
@@ -3822,7 +3825,7 @@ http://181.205.130.194:4000/play/a06f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2bqXLdk/univ2.jpg" group-title="Premium | Latino",Universal | Opción 3 (LATAM)
 http://181.78.23.26:45000/play/a007
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2bqXLdk/univ2.jpg" group-title="Premium | Latino",Universal | Opción 4 (LATAM)
-http://177.93.60.43:5801/play/a0ai/index.m3u8
+http://191.97.14.59:8045/play/a006/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VNFmMcGB/studiouniversal.jpg" group-title="Premium | Latino",Studio Universal (LATAM)
 http://200.116.199.180:8000/play/a04f
@@ -7598,10 +7601,8 @@ https://stmv4.voxtvhd.com.br/cncmonteria/cncmonteria/chunklist_w1378961801.m3u8
 https://edge.teveo.com.co/live/AeAAAgAkAANqA1IAyADIUDAAAAGAAAAAAmQdaAC6IDhCAAAA/chunklist_w510457933.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XghCk2h/canaltro.jpg" group-title="Colombia",Canal Tro (CO)
-http://177.93.60.43:5801/play/a09t/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XghCk2h/canaltro.jpg" group-title="Colombia",Canal Tro | Opción 2 (CO)
 http://179.1.87.75:8098/play/a02y/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XghCk2h/canaltro.jpg" group-title="Colombia",Canal Tro | Opción 3 (CO)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XghCk2h/canaltro.jpg" group-title="Colombia",Canal Tro | Opción 2 (CO)
 http://191.97.14.56:8045/play/a02q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/HzAPwrB.jpg" group-title="Colombia",Canal Visión Dorada (CO)
@@ -7637,12 +7638,10 @@ https://stmv4.voxtvhd.com.br/psctv/psctv/chunklist_w1782800380.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nz0MTQf2/rcn.jpg" group-title="Colombia",RCN (CO)
 http://181.78.21.60:16123/play/ch59
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nz0MTQf2/rcn.jpg" group-title="Colombia",RCN | Opción 2 (CO)
-http://177.93.60.43:5801/play/a060/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nz0MTQf2/rcn.jpg" group-title="Colombia",RCN | Opción 3 (CO)
 http://179.189.222.226:8000/play/ch59
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nz0MTQf2/rcn.jpg" group-title="Colombia",RCN | Opción 4 (CO)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nz0MTQf2/rcn.jpg" group-title="Colombia",RCN | Opción 3 (CO)
 http://204.199.120.34:16123/play/ch59
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nz0MTQf2/rcn.jpg" group-title="Colombia",RCN | Opción 5 (CO)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nz0MTQf2/rcn.jpg" group-title="Colombia",RCN | Opción 4 (CO)
 http://191.97.14.56:8045/play/a02h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WpSyPJLS/RCNmas.jpg" group-title="Colombia",RCN | Más+ (CO)
@@ -7726,11 +7725,11 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7LgLtLfX/cr10.jpg" group-title="Costa Rica 🇨🇷",Canal 10 | Sports (CR)
 https://servercanal10.radiosportstv.online:3138/stream/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x87Y1rXc/cr101.jpg" group-title="Costa Rica 🇨🇷",Canal 10.1 | La Casa de Los Famosos | MX (CR)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x87Y1rXc/cr101.jpg" group-title="Costa Rica 🇨🇷",Canal 10.1 (CR)
 https://servercanal10.radiosportstv.online:3384/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GhVkQfH8/11.jpg" group-title="Costa Rica 🇨🇷",Canal 11 | Repretel (CR)
-https://d2t46xrpai3it5.cloudfront.net/Canal11CR/b3e2798525101c45f84a48573676853a.sdp/playlist.m3u8
+https://d2t46xrpai3it5.cloudfront.net/Repretel11/b3e2798525101c45f84a48573676853a.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13Jq8Pqr/canal13sinart.jpg" group-title="Costa Rica 🇨🇷",Canal 13 | Sinart (CR)
 http://190.83.116.230:9010/play/a0bd/index.m3u8
@@ -7801,7 +7800,7 @@ https://videohd.live:19360/8076/8076.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0yx5929L/nicoyatv.jpg" group-title="Costa Rica 🇨🇷",Nicoya TV (CR)
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4NYcTNXW/opa.jpg" group-title="Costa Rica 🇨🇷",Opa (CR)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4NYcTNXW/opa.jpg" group-title="Costa Rica 🇨🇷",Opa! (CR)
 https://202527.global.ssl.fastly.net/6499ec857df5bf9d55b5849f/live_9246a0201b5b11ee8e1f3b15c8f64f35/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sg8rW3HM/puravida.jpg" group-title="Costa Rica 🇨🇷",Pura Vida TV | Doutico (CR)
@@ -7819,8 +7818,8 @@ http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tr4Xzdk/telebrunca.jpg" group-title="Costa Rica 🇨🇷",TeleBrunca | Puntarenas (CR)
 http://k4.usastreams.com/telebrunca/telebrunca/chunklist_w684257911.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/05V65Lfq/teletica-radio.jpg" group-title="Costa Rica 🇨🇷",Teletica Radio | 91.5FM (CR)
-https://m6gdar5eyn93-hls-live.5centscdn.com/TeleticaRadio/5444e8d6d0436ccb78704882f542e5ac.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsJ8fsGy/tv.jpg" group-title="Costa Rica 🇨🇷",TelePlus (CR)
+https://59ef525c24caa.streamlock.net/Tvpluscr/Tvpluscr/chunklist_w1335126634.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0xHK6Q1/telered2.jpg" group-title="Costa Rica 🇨🇷",TeleRed (CR)
 https://video20.klm99.com:3558/live/teleredlive.m3u8
@@ -7831,11 +7830,11 @@ https://video20.klm99.com:3621/live/mastelevisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SNmXfxZ1/telesi.jpg" group-title="Costa Rica 🇨🇷",TeleSistema | Opción 2 (CR)
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsJ8fsGy/tv.jpg" group-title="Costa Rica 🇨🇷",TelePlus (CR)
-https://59ef525c24caa.streamlock.net/Tvpluscr/Tvpluscr/chunklist_w1335126634.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgw3TCmQ/telesurx.jpg" group-title="Costa Rica 🇨🇷",TeleSur (CR)
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/05V65Lfq/teletica-radio.jpg" group-title="Costa Rica 🇨🇷",Teletica Radio | 91.5FM (CR)
+https://m6gdar5eyn93-hls-live.5centscdn.com/TeleticaRadio/5444e8d6d0436ccb78704882f542e5ac.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bbv5vLnR/teleunocr.jpg" group-title="Costa Rica 🇨🇷",TeleUno (CR)
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
