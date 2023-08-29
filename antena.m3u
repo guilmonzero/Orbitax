@@ -208,7 +208,7 @@ https://d16467quqotqb8.cloudfront.net/out/v1/3f2cb1658d114f2693eff18d83199e67/in
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/25fmq0JH/Ivc.jpg" group-title="Animados | Variado",IVC (VE)
-http://190.95.220.212:8000/play/a01z/index.m3u8
+http://177.93.45.108:8000/play/a01g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kgL0JhRF/jojko.jpg" group-title="Animados | Variado",Jojko | Eslovenia (SI)
 https://st01-1.iptv.joj.sk/104-tv-pc.m3u8
@@ -261,7 +261,7 @@ http://187.102.209.92:9010/play/a04z/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tRFY8cMx/MAGICkids2.jpg" group-title="Animados | Variado",Magic Kids (AR)
 https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sftSF95G/magick.jpg" group-title="Animados | Variado",Magic Kids | 2 (AR)
-https://streaming.zappix.live:3538/live/toonizakilive.m3u8
+https://ssh101.bozztv.com/ssh101/magic2019/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gtf9G0zY/MAXIMAtv2.jpg" group-title="Animados | Variado",Maxima TV (AR)
 https://cdnhd.iblups.com/hls/Qzfdy1OvHt.m3u8
@@ -299,6 +299,9 @@ http://181.78.105.146:2000/play/a04f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gkRYbK7M/onceninasyninos.jpg" group-title="Animados | Variado",Once | Niñas y Niños | Opción 2 (MX)
 http://187.188.232.236:1021/play/a03o/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vBDd4vKz/o.jpg" group-title="Animados | Variado",O! | Rusia (RU)
+https://sc.id-tv.kz/o.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx89fByN/pakapaka.jpg" group-title="Animados | Variado",Paka Paka (CL)
 http://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 
@@ -330,7 +333,7 @@ https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2RBXG8F/retromagico.jpg" group-title="Animados | Variado",Retro Mágico (AR)
-https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
+https://cageu.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7hyNjRzd/retrox.jpg" group-title="Animados | Variado",RetroX TV (CR)
 https://tgn.bozztv.com/ssh101/ssh101/123456789/playlist.m3u8
@@ -364,6 +367,9 @@ https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cf
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9wcDnsm/tec.jpg" group-title="Animados | Variado",Tele Clásica (LATAM)
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLVB4jNM/telep.jpg" group-title="Animados | Variado",Teleportal (PY)
+https://ssh101.bozztv.com/ssh101/teleportal/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FKdtTJmR/teletoon.jpg" group-title="Animados | Variado",TéléToon + (FR)
 http://38gb.pro:80/live/4478355/94943550/540cb6bc-c98a-47c5-8d16-e39983b9b478.m3u8
 
@@ -389,9 +395,6 @@ https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CMvtKM6V/tdtv.jpg" group-title="Animados | Variado",Turrialba Digital TV (CR)
 https://cloudvideo.servers10.com:8081/8230/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tT6dFjD/tv2.jpg" group-title="Animados | Variado",TV2 Kids | Hungría (HU)
-http://146.59.85.40:89/tv2kids/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://iili.io/HzuH1MF.jpg" group-title="Animados | Variado",TV Costa (CL)
 https://tv.clientetvstudio.net:3486/live/costatv1live.m3u8
 
@@ -412,7 +415,7 @@ https://linear-260.frequency.stream/dist/vix/260/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hPgw0xhT/wording.jpg" group-title="Animados | Variado",Wording TV (BR)
 https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3BpWVc1/wowc.jpg" group-title="Animados | Variado",Wow Channel (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRWWKryt/wowc.jpg" group-title="Animados | Variado",Wow Channel (LATAM)
 https://ssh101.bozztv.com/ssh101/wowchannel/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrWm30kh/xtrema-anime.jpg" group-title="Animados | Variado",Xtrema | Anime (LATAM)
@@ -1425,9 +1428,9 @@ http://190.60.36.103:8000/play/a044/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/50YNZ89Y/chv.jpg" group-title="Informativo",CHV | Noticias | Opción 2 (CL)
 http://170.254.234.244:8000/play/a01k/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/50YNZ89Y/chv.jpg" group-title="Informativo",CHV | Noticias | Opción 3 (CL)
-http://190.95.220.212:8000/play/a01a/index.m3u8
+http://177.93.52.100:45001/play/a05t
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/50YNZ89Y/chv.jpg" group-title="Informativo",CHV | Noticias | Opción 4 (CL)
-http://45.181.122.169:8000/play/a009
+http://190.142.231.42:8874/play/a0eo
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pVncJN2w/cityn.jpg" group-title="Informativo",City News | Toronto (CA)
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/a4bf1916260cb792f556aeb645913f37/1.m3u8
@@ -1445,7 +1448,7 @@ http://170.254.234.244:8000/play/a01b/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRSmCRjx/CNN-chile.jpg" group-title="Informativo",CNN | Chile | Opción 2 (CL)
 http://157.100.233.106:40000/play/a0vp/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRSmCRjx/CNN-chile.jpg" group-title="Informativo",CNN | Chile | Opción 3 (CL)
-http://190.95.220.212:8000/play/a026/index.m3u8
+http://45.181.122.169:8000/play/a01k
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRSmCRjx/CNN-chile.jpg" group-title="Informativo",CNN | Chile | Opción 4 (CL)
 http://181.177.255.253:8000/play/a003/index.m3u8
 
@@ -2202,10 +2205,10 @@ https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dVCnC5K1/retroplus.jpg" group-title="Música 🎼",Retro Plus | Musica 01 (CL)
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w608381202.m3u8
+https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w1681457589.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dVCnC5K1/retroplus.jpg" group-title="Música 🎼",Retro Plus | Musica 02 (CL)
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/chunklist_w89940275.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPZfpyfX/rewind.jpg" group-title="Música 🎼",Rewind TV (CL)
 https://tls-cl.cdnz.cl/rewindtv/live/chunklist_w103159135.m3u8
@@ -2588,12 +2591,13 @@ http://177.53.153.21:8001/play/a020/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4ypfp7ZJ/clover.jpg" group-title="Peliculas | Series",Clover Channel | Opción 3 (LATAM)
 http://187.102.208.155:8000/play/a09a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4ypfp7ZJ/clover.jpg" group-title="Peliculas | Series",Clover Channel | Opción 4 (LATAM)
-http://190.95.220.212:8000/play/a020/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4ypfp7ZJ/clover.jpg" group-title="Peliculas | Series",Clover Channel | Opción 5 (LATAM)
 http://190.187.154.151:8000/play/a06t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bb5kW5sN/crackle.jpg" group-title="Peliculas | Series",Crackle (US)
 http://crackle-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GmzNbYCj/cusco.jpg" group-title="Peliculas | Series",Cusco Play | Cine Retro (LATAM)
+https://ssh101.bozztv.com/ssh101/cuscoplay2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZWZVRfk/df.jpg" group-title="Peliculas | Series",Discover Film (UK)
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
@@ -2693,6 +2697,9 @@ https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w900580339.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tT0dNYXC/novelisima.jpg" group-title="Peliculas | Series",Novelisima (LATAM)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZ1cy38Q/novus.jpg" group-title="Peliculas | Series",Novus Movies (LATAM)
+https://ssh101.bozztv.com/ssh101/novusmovies/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0WR8YCN/ORIGEN-2.jpg" group-title="Peliculas | Series",Origen TV (CL)
 https://tv.streaming-chile.com:1936/origentv2/origentv2/chunklist_w1874369866.m3u8
 
@@ -2704,10 +2711,8 @@ http://170.82.37.21:8000/play/a027/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgRcwcnr/pasiones.jpg" group-title="Peliculas | Series",Pasiones | Opción 2 (LATAM)
 http://204.199.120.34:16123/play/ch35
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgRcwcnr/pasiones.jpg" group-title="Peliculas | Series",Pasiones | Opción 3 (LATAM)
-http://190.95.220.212:8000/play/a02m/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgRcwcnr/pasiones.jpg" group-title="Peliculas | Series",Pasiones | Opción 4 (LATAM)
 http://45.169.99.154:58001/play/a00u/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgRcwcnr/pasiones.jpg" group-title="Peliculas | Series",Pasiones | Opción 5 (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgRcwcnr/pasiones.jpg" group-title="Peliculas | Series",Pasiones | Opción 4 (LATAM)
 http://181.78.21.60:16123/play/ch35
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vZKT2Bvd/planetav2-1.jpg" group-title="Peliculas | Series",Planeta TV | Movie (CL)
@@ -2759,7 +2764,7 @@ https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/
 https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dVCnC5K1/retroplus.jpg" group-title="Peliculas | Series",Retro Plus (CL)
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w1980720757.m3u8
+https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/chunklist_w1416828695.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRjhs0bM/rotana.jpg" group-title="Peliculas | Series",Rotana Classic | Arabia (SA)
 https://rotanastudios-rotanaclassic-1-eu.xiaomi.wurl.tv/playlist.m3u8
@@ -3405,10 +3410,8 @@ http://170.82.37.21:8000/play/a01n/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85396grk/antena3.jpg" group-title="Premium | España",Antena 3 | Internacional | Opción 2 (ES)
 http://170.245.58.178:9000/play/a055
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85396grk/antena3.jpg" group-title="Premium | España",Antena 3 | Internacional | Opción 3 (ES)
-http://190.95.220.212:8000/play/a027/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/85396grk/antena3.jpg" group-title="Premium | España",Antena 3 | Internacional | Opción 4 (ES)
 http://187.189.125.28:8000/play/a051/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/85396grk/antena3.jpg" group-title="Premium | España",Antena 3 | Internacional | Opción 5 (ES)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85396grk/antena3.jpg" group-title="Premium | España",Antena 3 | Internacional | Opción 4 (ES)
 http://190.185.123.134:8000/play/a06a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZzzFrFy/cuatro.jpg" group-title="Premium | España",La Cuatro (ES)
@@ -4524,8 +4527,6 @@ http://45.181.122.209:8088/play/a053
 http://170.79.235.29:8000/play/a147
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtH2ppyv/tnt-sport3.jpg" group-title="Premium | Latino",TNT Sports | 3 | Opción 2 (CL)
 http://186.190.231.179:8000/play/a02a/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtH2ppyv/tnt-sport3.jpg" group-title="Premium | Latino",TNT Sports | 3 | Opción 3 (CL)
-http://190.95.220.212:8000/play/a02j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8zSRwwSB/GOLtv.jpg" group-title="Premium | Latino",Gol TV (LATAM)
 http://181.175.41.170:8000/play/a0id
@@ -4676,6 +4677,9 @@ http://svtv.xyz:8080/sandra30abril/CQNFV/218171
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zfWbpDWF/dani.jpg" group-title="Mas Series",Daniel El Travieso (LATAM)
 http://svtv.xyz:8080/sandra30abril/CQNFV/162250
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J03WXVPL/david.jpg" group-title="Mas Series",David El Gnomo (ES)
+https://daiconnect.com/live/hls/tvup/tvfy-pljr/b8ee129e0585ae0c1eb5b4187f8e4fa7/.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4yjchcRz/dragonb.jpg" group-title="Mas Series",Dragon Ball (US)
 http://198.50.245.218:8080/lilly1/lilly1/79572
 
@@ -4736,6 +4740,9 @@ http://svtv.xyz:8080/sandra30abril/CQNFV/160744
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wBwkWnN7/pitufos.jpg" group-title="Mas Series",Pitufos TV (LATAM)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4368
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KjVxFrqK/poco.jpg" group-title="Mas Series",Pocoyo (LATAM)
+https://daiconnect.com/live/hls/tvup/tvfy-pocoyo/.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hvx4Pr8M/rob.jpg" group-title="Mas Series",Robotech (LATAM)
 http://svtv.xyz:8080/sandra30abril/CQNFV/160729
 
@@ -4765,6 +4772,42 @@ https://i.mjh.nz/PlutoTV/5e82bb378601b80007b4bd78-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PrpHcfg8/tomjerry.jpg" group-title="Mas Series",Tom y Jerry (LATAM)
 http://svtv.xyz:8080/sandra30abril/CQNFV/160789
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fy4Xf1jR/chu1.jpg" group-title="Mas Peliculas 🎃",Chucky El Muñeco Diabólico | 1 | 1988 (LATAM)
+https://ia802607.us.archive.org/18/items/chucky-el-muneco-diabolico/06.%20Chucky%20el%20mu%C3%B1eco%20diab%C3%B3lico%2FChucky%20el%20mu%C3%B1eco%20diab%C3%B3lico.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGKjQkzn/chu2.jpg" group-title="Mas Peliculas 🎃",Chucky El Muñeco Diabólico | 2 | 1990 (LATAM)
+https://ia601604.us.archive.org/32/items/chucky-el-muneco-diabolico-2_202304/05.%20Chucky%20el%20mu%C3%B1eco%20diab%C3%B3lico%202%2FChucky%20el%20mu%C3%B1eco%20diab%C3%B3lico%202.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KcPSrBmZ/chu3.jpg" group-title="Mas Peliculas 🎃",Chucky El Muñeco Diabólico | 3 | 1991 (LATAM)
+https://archive.org/serve/chucky-el-muneco-diabolico-3/04.%20Chucky%20el%20mu%C3%B1eco%20diab%C3%B3lico%203%2FChucky%20el%20mu%C3%B1eco%20diab%C3%B3lico%203.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jS8gKQr4/chu4.jpg" group-title="Mas Peliculas 🎃",La Novia de Chucky | 4 | 1998 (LATAM)
+https://ia902606.us.archive.org/8/items/la-novia-de-chucky_202304/03.%20La%20novia%20de%20Chucky%2FLa%20novia%20de%20Chucky.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HnNYfvt8/chu5.jpg" group-title="Mas Peliculas 🎃",La Semilla de Chucky | 5 | 2004 (LATAM)
+https://ia804702.us.archive.org/19/items/la-semilla-de-chucky/La%20semilla%20de%20Chucky.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WbZGHxm0/hall.jpg" group-title="Mas Peliculas 🎃",Halloween | 1 | 1978 (LATAM)
+https://ia601507.us.archive.org/31/items/la-noche-de-halloween-1978/la%20noche%20de%20Halloween%201978.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5WgywMW/leat.jpg" group-title="Mas Peliculas 🎃",Leatherface | 2017 (LATAM)
+https://ia902208.us.archive.org/26/items/leatherface-2017.-720.hdrip.lat/Leatherface%20%282017%29.720.hdrip.lat.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Yqv11qzx/mas3.jpg" group-title="Mas Peliculas 🎃",Masacre de Texas | 1974 (LATAM)
+https://archive.org/download/la-masacre-de-texas-peli-cula-completa/LA%20MASACRE%20DE%20TEXAS%20-%20PEL%C3%8DCULA%20COMPLETA.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yVY1MnD/mas2.jpg" group-title="Mas Peliculas 🎃",Masacre de Texas | 2022 | NETFLIX (LATAM)
+https://ia902704.us.archive.org/2/items/masacre-en-texas_202306/masacre%20en%20texas.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/662dsPJ6/mas.jpg" group-title="Mas Peliculas 🎃",Masacre de Texas | 2003 (ES)
+https://ia800508.us.archive.org/30/items/la-matanza-de-texas-2003/La%20matanza%20de%20Texas%20%282003%29.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqYHGtg4/nig.jpg" group-title="Mas Peliculas 🎃",Pesadilla en la Calle del Infierno | 1 | 1984 (LATAM)
+https://ia802702.us.archive.org/25/items/pesadilla-en-la-calle-del-infierno-1/Pesadilla%20en%20la%20calle%20del%20infierno%201.mp4?cnt=0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXVHrBm5/vol.jpg" group-title="Mas Peliculas 🎃",Volver al Futuro | 1 | 1985 (LATAM)
+https://ia801701.us.archive.org/28/items/volver-al-futuro-1_202008/volver%20al%20futuro1.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKfhdyN7/vol2.jpg" group-title="Mas Peliculas 🎃",Volver al Futuro | 2 | 1989 (LATAM)
+https://ia801506.us.archive.org/13/items/volver-al-futuro-ii-1989-latino/Volver%20al%20futuro%20II%20%281989%29%20Latino.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2nbqkqY/vol3.jpg" group-title="Mas Peliculas 🎃",Volver al Futuro | 3 | 1990 (LATAM)
+https://archive.org/download/volver-al-futuro-3_202308/Volver%20al%20futuro%203.mp4
 
 #EXTINF:-1 channel-id="pluto-63eb96754e83e70008ab8941" tvg-id="63eb96754e83e70008ab8941" tvg-chno="42" tvg-logo="https://images.pluto.tv/channels/63eb96754e83e70008ab8941/colorLogoPNG.png" group-title="Pluto TV | España" ,Yu-Gi-Oh!
 https://i.mjh.nz/PlutoTV/63eb96754e83e70008ab8941-alt.m3u8
@@ -9511,7 +9554,7 @@ https://ss9.domint.net:3036/yv_str/yunavision/chunklist_w1051456183.m3u8
 https://stm1.rootuy.xyz:19360/canal9/canal9.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zBjfW9xn/tves-fw.png" group-title="Uruguay | El Salvador",Canal 10  | Tves (SV)
-https://5fe2654d6127d.streamlock.net/tves/smil:tves.smil/chunklist_w965479071_b3428000_sleng.m3u8
+http://138.59.177.34:8000/play/a00x/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YSLmww87/canal11puntadeleste.jpg" group-title="Uruguay | El Salvador",Canal 11 | Punta del Este (UR)
 https://5e50264bd6766.streamlock.net/canal11ury/videocanal11ury/chunklist_w1535842242.m3u8
