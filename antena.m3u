@@ -52,9 +52,6 @@ https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4k46rQ2/afro-k.jpg" group-title="Animados | Variado",Afro Kids (MA)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1932
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTh2w8Ng/animaxr.jpg" group-title="Animados | Variado",Animax | Revival (LATAM)
-https://streaming.zappix.live:3062/live/animaxlive.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJSPRSkk/animestation2.jpg" group-title="Animados | Variado",Anime Station (AR)
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
 
@@ -361,6 +358,9 @@ https://sc.id-tv.kz/o.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx89fByN/pakapaka.jpg" group-title="Animados | Variado",Paka Paka (CL)
 http://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kj2fgJ3n/panda.jpg" group-title="Animados | Variado",Pandamax (LATAM)
+https://streaming.zappix.live:3062/live/animaxlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NGSQ0KzX/pantalla.jpg" group-title="Animados | Variado",Pantalla Clásica (EC)
 https://tgn.bozztv.com/ssh101/ssh101/ecuadoralmundo/playlist.m3u8
@@ -4689,6 +4689,9 @@ https://archive.org/download/pelis-de-los-80s/Critters%20IV.ia.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8MTQ6bJ/c5.jpg" group-title="Mas Peliculas 🎃",Critters | 5 | 2019 (LATAM)
 https://archive.org/download/pelis-de-los-80s/Critters%20V.ia.mp4
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50pSw-HKK/cu.jpg" group-title="Mas Peliculas 🎃",Cuentos al Caer La Noche | 2021 (LATAM)
+https://archive.org/serve/cuentos-al-caer-la-noche-movie-x/Cuentos%20al%20caer%20la%20noche%20-%20MovieX.mp4
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gp8q6q25/dar.jpg" group-title="Mas Peliculas 🎃",Dark Skies | 2013 (LATAM)
 https://archive.org/serve/dark.-skies.-2013.latino-e-ingles-subt/Dark.Skies.2013.latino-e-ingles-subt.mp4
 
@@ -4738,6 +4741,23 @@ https://archive.org/serve/el-conjuro-2_20230727/El%20conjuro%202.ia.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pTWMNbDV/con3.jpg" group-title="Mas Peliculas 🎃",El Conjuro | 3 | 2021 (LATAM)
 https://archive.org/serve/el-conjuro-3_202307/El%20conjuro%203.mp4
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5JZcsHP/exor.jpg" group-title="Mas Peliculas 🎃",El Exorcista | 1 | 1973 (LATAM)
+https://archive.org/serve/el-exorcista_202306/El%20Exorcista.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsHYY5Bs/exo.jpg" group-title="Mas Peliculas 🎃",El Exorcista del Papa | 2023 (LATAM)
+https://archive.org/serve/el-exorcista-del-papa-720p-dual-1.04-gb/El%20Exorcista%20Del%20Papa%20720p%20DUAL%201.04%20GB.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JGP1dtt/re1.jpg" group-title="Mas Peliculas 🎃",El Regreso de los Muertos Vivientes | 1 | 1995 (LATAM)
+https://archive.org/serve/el-regreso-de-los-muertos-vivientes-1985/El%20Regreso%20de%20los%20Muertos%20Vivientes%20%281985%29.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvdW54Y4/re2.jpg" group-title="Mas Peliculas 🎃",El Regreso de los Muertos Vivientes | 2 | 1998 (LATAM)
+https://archive.org/download/rocky-2-1979_202307/El%20regreso%20de%20los%20muertos%20vivientes%20Parte%202%20%281988%29.ia.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4x2VDLqj/it.jpg" group-title="Mas Peliculas 🎃",Eso | 1 | 1990 (LATAM)
+https://archive.org/serve/it-1_20230806/IT%201.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZgyjmM9/it1.jpg" group-title="Mas Peliculas 🎃",Eso | 1 | 2017 | Remake (LATAM)
+https://archive.org/serve/it-2_20230806/IT%202.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVVSRfGf/it2.jpg" group-title="Mas Peliculas 🎃",Eso | 2 | 2019 | Remake (LATAM)
+https://archive.org/serve/it-3_20230806/IT%203.mp4
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fRQ9nrh7/ev1.jpg" group-title="Mas Peliculas 🎃",Evil Dead | 1 | 1981 (LATAM)
 https://archive.org/serve/tt0083907/tt0083907.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zBkyNz8T/ev2.jpg" group-title="Mas Peliculas 🎃",Evil Dead | 2 | 1987 (LATAM)
@@ -4746,21 +4766,8 @@ https://archive.org/serve/tt0092991/tt0092991.mp4
 https://archive.org/serve/evil-dead-3-ejercito-de-las-tinieblas-1993-latino-360p/y2mate.com%20-%20EVIL%20DEAD%203EJERCITO%20DE%20LAS%20TINIEBLAS1993LATINO_360p.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRHGZggW/ev4.jpg" group-title="Mas Peliculas 🎃",Evil Dead | 4 | 2013 | Remake (LATAM)
 https://archive.org/serve/posesion-infernal-evil-dead/Posesi%C3%B3n%20infernal%20%28Evil%20Dead%29.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PxdYc9TP/ev2.jpg" group-title="Mas Peliculas 🎃",Evil Dead | 5 | 2023 | El Despertar (LATAM)
-https://archive.org/serve/evil-dead-el-despertar-2023-1080p-web-rip-latino-descargatepelis.com/Evil%20Dead-%20El%20despertar%20%282023%29%201080p%20WEB-Rip%20Latino%20-%20Descargatepelis.com.mp4
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PxdYc9TP/ev2.jpg" group-title="Mas Peliculas 🎃",Evil Dead | 2023 | Rise (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PxdYc9TP/ev2.jpg" group-title="Mas Peliculas 🎃",Evil Dead | 5 | 2023 | Rise (LATAM)
 https://archive.org/serve/evil.-dead.-rise/Evil.Dead.Rise.mp4
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5JZcsHP/exor.jpg" group-title="Mas Peliculas 🎃",El Exorcista | 1 | 1973 (LATAM)
-https://archive.org/serve/el-exorcista_202306/El%20Exorcista.mp4
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4x2VDLqj/it.jpg" group-title="Mas Peliculas 🎃",Eso | 1 | 1990 (LATAM)
-https://archive.org/serve/it-1_20230806/IT%201.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZgyjmM9/it1.jpg" group-title="Mas Peliculas 🎃",Eso | 1 | 2017 | Remake (LATAM)
-https://archive.org/serve/it-2_20230806/IT%202.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVVSRfGf/it2.jpg" group-title="Mas Peliculas 🎃",Eso | 2 | 2019 | Remake (LATAM)
-https://archive.org/serve/it-3_20230806/IT%203.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxPNm7bg/ha1.jpg" group-title="Mas Peliculas 🎃",Halloween | 1 | 1978 (LATAM)
 https://archive.org/serve/la-noche-de-halloween-1978/la%20noche%20de%20Halloween%201978.mp4
@@ -4876,6 +4883,11 @@ https://archive.org/download/LosNiosDelMaiz11984/Los%20ni%C3%B1os%20del%20maiz%2
 https://archive.org/download/LosNiosDelMaiz11984/Los%20ni%C3%B1os%20del%20maiz%208%202009.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rytBrTpn/ch9.jpg" group-title="Mas Peliculas 🎃",Los Niños del Maíz | 9 | 2011 | Genesis (LATAM)
 https://archive.org/download/LosNiosDelMaiz11984/Los%20ni%C3%B1os%20del%20maiz%209%20genesis%202011.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/brSjBVVK/hau1.jpg" group-title="Mas Peliculas 🎃",La Mansión Embrujada | 1 | 2003 (LATAM)
+https://archive.org/serve/LaMansionEmbrujadaDisney2003/La%20Mansion%20Embrujada%20Disney%202003.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYbp99pV/hau2.jpg" group-title="Mas Peliculas 🎃",La Mansión Embrujada | 2 | 2023 (LATAM)
+https://archive.org/serve/mansion-embrujada/Mansi%C3%B3n%20Embrujada.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Yqv11qzx/mas3.jpg" group-title="Mas Peliculas 🎃",Masacre de Texas | 1974 (LATAM)
 https://archive.org/serve/la-masacre-de-texas-peli-cula-completa/LA%20MASACRE%20DE%20TEXAS%20-%20PEL%C3%8DCULA%20COMPLETA.mp4
@@ -8771,8 +8783,6 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/131239
 http://watchalien.ddns.net:2095/1813901482/6329933888/7502
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRq7JCPx/syfy.jpg" group-title="Estados Unidos",Syfy | Opción 6 (US)
 http://new-pro.tv:8080/99622282/etbVXafU6f/219859
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRq7JCPx/syfy.jpg" group-title="Estados Unidos",Syfy | Opción 7 (US)
-https://e3.thetvapp.to/hls/SyfyEast.m3u8?token=JVBplYoerobUcRQdq0aI0w&expires=1694352762
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0HRZ6sF/tastemade.jpg" group-title="Estados Unidos",Tastemade | Español (US)
 https://tastemadees16intl-vizio.amagi.tv/playlist.m3u8
@@ -8798,8 +8808,6 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/131253
 http://00322.xyz:8000/coachprato/40437757/131253
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MHs7qK4X/usa.jpg" group-title="Estados Unidos",USA Network | Opción 6 (US)
 http://new-pro.tv:8080/99622282/etbVXafU6f/73304
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MHs7qK4X/usa.jpg" group-title="Estados Unidos",USA Network | Opción 7 (US)
-https://e3.thetvapp.to/hls/USANetworkEast.m3u8?token=Vo97g959KEKR-Tw7F403EA&expires=1694352430
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5yQD11wB/VICE.jpg" group-title="Estados Unidos",Vice TV (US)
 https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
