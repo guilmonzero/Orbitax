@@ -85,6 +85,9 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w41736285
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HsxTpk52/b-li.jpg" group-title="Animados | Variado",Biznet | Lifestyle | Indonesia (ID)
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CbfwLj5/bnb.jpg" group-title="Animados | Variado",BNB Digital [Probando] (PE)
+https://vdo.panelstreaming.live:3806/live/bnbdigitallive.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HkqqLTcs/boing.jpg" group-title="Animados | Variado",Boing (ES)
 http://799290536900321135.ofio.xyz:80/play/vi1011594/7671001175/321135.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HkqqLTcs/boing.jpg" group-title="Animados | Variado",Boing | Opción 2 (ES)
@@ -157,7 +160,7 @@ http://xplatinmedia.com:8080/@mrmagicstars/JBJNHuFuV5/48805
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7P5RCm34/CLAN.jpg" group-title="Animados | Variado",Clan | Opción 3 (ES)
 http://spain1.offshorerev.cc:80/SPIDER_Rlx9l6/uVN3WARhRs/170598
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6pFMWV6q/diti.jpg" group-title="Animados | Variado",Diti TV (AR)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6pFMWV6q/diti.jpg" group-title="Animados | Variado",Diti TV [No 24/7] (AR)
 https://inliveserver.com:1936/8386/8386/chunklist_w55500252.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0sBS6zF/doskids.jpg" group-title="Animados | Variado",Dos | Kids (LATAM)
@@ -914,7 +917,7 @@ https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y04Tt37F/bestcablesports.jpg" group-title="Deportes | Aventura",Best Cable | Sports (PE)
-https://ca2.inka.net.pe/Best-sport-000000111/tracks-v1a1/mono.m3u8
+https://ca2.inka.net.pe/Best-sport-00000x111/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Xv0TrCnS/bigc.jpg" group-title="Deportes | Aventura",Big City TV (US)
 https://bigcitytv.playout.vju.tv/bigcitytv/main.m3u8
@@ -1760,7 +1763,7 @@ https://eco.streams.ovh/BarazaTV/BarazaTV/chunklist_w475155693.m3u8
 https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cC7cwGHM/bestcablemusic2.jpg" group-title="Música 🎼",Best Cable | Music (PE)
-https://ca2.inka.net.pe/best-Music-0011200000/tracks-v1a1/mono.m3u8
+https://ca2.inka.net.pe/best-Music-00112000050/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6Q4V4jHF/Blast.jpg" group-title="Música 🎼",Blast Channel TV (BR)
 https://video01.logicahost.com.br/blast/blast/chunklist_w2035167070.m3u8
@@ -1878,7 +1881,7 @@ https://pacific.direcnode.com:3715/hybrid/play.m3u8
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jSKtTHPD/Hatun.jpg" group-title="Música 🎼",Hatun TV | Folklore (PE)
-https://ca2.inka.net.pe/Best00Hatum-00321012/tracks-v1a1/mono.m3u8
+https://ca2.inka.net.pe/Best00Hatum-0032101002/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3x2YZ0RP/he.jpg" group-title="Música 🎼",Heartland (US)
 https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
@@ -1957,7 +1960,7 @@ https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8
 https://linear-136.frequency.stream/dist/localnow/136/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tRdfFL8M/bestcablecumbia.jpg" group-title="Música 🎼",Mas Cumbia (PE)
-https://ca2.inka.net.pe/best-MasCum-0100210011/tracks-v1a1/mono.m3u8
+https://ca2.inka.net.pe/best-MasCum-0102210011/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Twg1YV5s/masfm.jpg" group-title="Música 🎼",Mas | FM 95.9 (AR)
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
@@ -2607,6 +2610,9 @@ http://179.189.222.226:8000/play/ch49
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtfHN8wc/cinema-az.jpg" group-title="Peliculas | Series",Cinema (MX)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5DkKBk2/cinems.jpg" group-title="Peliculas | Series",Cinema Segreto (IT)
+https://minerva-cinemasegreto-1-it.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xT92NnDd/cinemplus.jpg" group-title="Peliculas | Series",Cinema Plus (CO)
 http://181.78.8.90:16123/play/ch12a
 
@@ -2670,6 +2676,9 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCFFhRxk/galxy.jpg" group-title="Peliculas | Series",Galxy TV (US)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4277
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYH0SRVM/grj.jpg" group-title="Peliculas | Series",Grjngo (LATAM)
+https://amogonetworx-grjngo-2-eu.plex.wurl.tv/2000.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L84XbNRC/Groovy.jpg" group-title="Peliculas | Series",Groovy (GR)
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 
@@ -2696,6 +2705,9 @@ https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8FqGRCr/megacine.jpg" group-title="Peliculas | Series",Mega Cine TV (RD)
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBsYfn8w/megac2.jpg" group-title="Peliculas | Series",Mega Cine TV | 2 (LATAM)
+https://stmv1.cnarlatam.com/supercine/supercine/chunklist_w1035373697.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4y0RpwKK/meg2.jpg" group-title="Peliculas | Series",Mega TV (LATAM)
 https://vdo1.streamgato.us:3711/live/megatvlive.m3u8
@@ -2750,6 +2762,9 @@ http://204.199.120.34:16123/play/ch35
 http://181.78.8.90:16123/play/ch35
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgRcwcnr/pasiones.jpg" group-title="Peliculas | Series",Pasiones | Opción 4 (LATAM)
 http://181.78.21.60:16123/play/ch35
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxH0DJz0/pelim.jpg" group-title="Peliculas | Series",Pelimex (MX)
+https://telecine-pelimex-1-eu.vidaa.wurl.tv/2000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vZKT2Bvd/planetav2-1.jpg" group-title="Peliculas | Series",Planeta TV | Movie (CL)
 https://scl.edge.grupoz.cl/movie/live/chunklist_w1760938288.m3u8
@@ -2890,6 +2905,9 @@ http://179.189.222.226:8000/play/ch45
 http://181.78.21.60:16123/play/ch45
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7Qc4ss6/Tln.jpg" group-title="Peliculas | Series",TLN | Novelas | Opción 5 (LATAM)
 http://181.78.8.90:16123/play/ch45
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4x7jGdXX/tln2.jpg" group-title="Peliculas | Series",TLN | Novelas | Televisa (IT)
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fT1kfqg0/th.jpg" group-title="Peliculas | Series",Thikrayat TV | Arabia (SA)
 https://edge.taghtia.com/sa/3.m3u8
@@ -4679,6 +4697,17 @@ https://archive.org/serve/cuentos-al-caer-la-noche-movie-x/Cuentos%20al%20caer%2
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gp8q6q25/dar.jpg" group-title="Mas Peliculas 🎃",Dark Skies | 2013 (LATAM)
 https://archive.org/serve/dark.-skies.-2013.latino-e-ingles-subt/Dark.Skies.2013.latino-e-ingles-subt.mp4
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d09R2x7f/d1.jpg" group-title="Mas Peliculas 🎃",Destino Final | 1 | 2000 (LATAM)
+https://archive.org/serve/d-f_1/DF.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sfLY4SX3/d2.jpg" group-title="Mas Peliculas 🎃",Destino Final | 2 | 2003 (LATAM)
+https://archive.org/serve/d-f_2/DF2.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5yXwM9Pc/d3.jpg" group-title="Mas Peliculas 🎃",Destino Final | 3 | 2006 (LATAM)
+https://archive.org/serve/d-f_3/DF3.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGLWMrZ2/d4.jpg" group-title="Mas Peliculas 🎃",Destino Final | 4 | 2009 (LATAM)
+https://archive.org/serve/d-f_4/DF4.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rFtSnm0x/d5.jpg" group-title="Mas Peliculas 🎃",Destino Final | 5 | 2011 (LATAM)
+https://archive.org/serve/d-f_5/DF5.ia.mp4
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BZT33g4F/dr.jpg" group-title="Mas Peliculas 🎃",Dracula Un Muerto Muy Contento y Feliz | 1995 (LATAM)
 https://archive.org/serve/dracula-un-muerto-y-muy-contento-y-feliz_202212/DRACULA%20UN%20MUERTO%20Y%20%20MUY%20CONTENTO%20Y%20FELIZ.mp4
 
@@ -4717,6 +4746,23 @@ https://archive.org/serve/el-conjuro-1_20230727/El%20conjuro%201.mp4
 https://archive.org/serve/el-conjuro-2_20230727/El%20conjuro%202.ia.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pTWMNbDV/con3.jpg" group-title="Mas Peliculas 🎃",El Conjuro | 3 | 2021 (LATAM)
 https://archive.org/serve/el-conjuro-3_202307/El%20conjuro%203.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dwhz7btF/le1.jpg" group-title="Mas Peliculas 🎃",El Duende Maldito | 1 | 1993 (LATAM)
+https://archive.org/serve/leprechaun-1/Leprechaun%201.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8zbzczSv/le2.jpg" group-title="Mas Peliculas 🎃",El Duende Maldito | 2 | 1994 (LATAM)
+https://archive.org/serve/leprechaun-2_202308/Leprechaun%202.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSn2NDjq/le3.jpg" group-title="Mas Peliculas 🎃",El Duende Maldito | 3 | 1995 (LATAM)
+https://archive.org/serve/leprechaun-3_202308/Leprechaun%203.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxrY6070/le4.jpg" group-title="Mas Peliculas 🎃",El Duende Maldito | 4 | 1997 | En El Espacio (LATAM)
+https://archive.org/serve/leprechaun-4/Leprechaun%204.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF2My3ck/le5.jpg" group-title="Mas Peliculas 🎃",El Duende Maldito | 5 | 2000 | En El Vecindario (LATAM)
+https://archive.org/serve/leprechaun-5/Leprechaun%205.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G3s3YQRd/le6.jpg" group-title="Mas Peliculas 🎃",El Duende Maldito | 6 | 2003 | En El Vecindario 2 (LATAM)
+https://archive.org/serve/leprechaun-6/Leprechaun%206.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CPP6gp0/le7.jpg" group-title="Mas Peliculas 🎃",El Duende Maldito | 7 | 2014 | Origen (LATAM)
+https://archive.org/serve/leprechaun-7/Leprechaun%207.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KjLZ2ZfR/le8.jpg" group-title="Mas Peliculas 🎃",El Duende Maldito | 8 | 2018 | Regresa (LATAM)
+https://archive.org/serve/leprechaun-8/Leprechaun%208.ia.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5JZcsHP/exor.jpg" group-title="Mas Peliculas 🎃",El Exorcista | 1 | 1973 (LATAM)
 https://archive.org/serve/el-exorcista_202306/El%20Exorcista.mp4
@@ -4791,6 +4837,13 @@ https://archive.org/serve/halloween-11-la-noche-de-halloween/Halloween%2011%2C%2
 https://archive.org/serve/halloween-12-kills/Halloween%2012%2C%20Kills.ia.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8Y5gzHT/ha13.jpg" group-title="Mas Peliculas 🎃",Halloween | 13 | 2022 | Final (LATAM)
 https://archive.org/serve/halloween-13-el-final/Halloween%2013%2C%20El%20final.ia.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2F7kq84/he1.jpg" group-title="Mas Peliculas 🎃",HellBoy | 1 | 2004 (LATAM)
+https://archive.org/serve/hellboy-1/Hellboy%201.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xvn52v3N/he2.jpg" group-title="Mas Peliculas 🎃",HellBoy | 2 | 2008 | El Ejército Dorado (LATAM)
+https://archive.org/serve/hellboy-2-el-ejercito-dorado/Hellboy%202%2C%20El%20ej%C3%A9rcito%20dorado.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rw1WCrBY/he3.jpg" group-title="Mas Peliculas 🎃",HellBoy | 3 | 2019 | El Infierno se Acerca (LATAM)
+https://archive.org/serve/hellboy-3-el-infierno-se-acerca/Hellboy%203%2C%20El%20Infierno%20se%20Acerca.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pd4gzcS6/hi.jpg" group-title="Mas Peliculas 🎃",Historias De Miedo Para Contar En La Oscuridad | 2019 (LATAM) 
 https://archive.org/serve/historias-de-miedo-para-contar-en-la-oscuridad_202303/Historias%20de%20miedo%20para%20contar%20en%20la%20oscuridad.mp4
@@ -5003,6 +5056,9 @@ https://archive.org/serve/scream-vi-2023.-1080p.dual-lat.cinecalidad.cat/Scream%
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7LfRynjw/se.jpg" group-title="Mas Peliculas 🎃",Se Lo Hicieron El Verano Pasado | 1997 (LATAM)
 https://archive.org/serve/se-lo-que-hicieron-el-verano-pasado/Se%20lo%20que%20hicieron%20el%20verano%20pasado.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85K9ydkm/six.jpg" group-title="Mas Peliculas 🎃",Sexto Sentido | 1999 (LATAM)
+https://archive.org/serve/sexto-sentido_1/sexto-sentido_1.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjhKrm3D/si1.jpg" group-title="Mas Peliculas 🎃",Siniestro | 1 | 2012 (LATAM)
 https://archive.org/serve/siniestro-1/Siniestro%201.ia.mp4
@@ -7996,7 +8052,7 @@ https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bb7gmHjx/capitalco.jpg" group-title="Colombia",Capital (CO)
 https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/live-2500/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/HzAQ7je.jpg" group-title="Colombia",Cosmo Vision (CO)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZ8sXY11/cosmo.jpg" group-title="Colombia",Cosmovision (CO)
 https://videohls2.cosmovision.tv/hls/sd_480p1128kbs/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/HzRqVja.jpg" group-title="Colombia",CTV | Barranquilla (CO)
@@ -8168,7 +8224,7 @@ http://k4.usastreams.com/limontv1/limontv1/chunklist_w1958710633.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Wz35xYLK/lossantostv.jpg" group-title="Costa Rica 🇨🇷",Los Santos TV (CR)
 https://lstv.duckdns.org:449/hls/lstv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bn1Q7fph/meg.jpg" group-title="Costa Rica 🇨🇷",Mega Hits (CR)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CMqqgKYN/megah.jpg" group-title="Costa Rica 🇨🇷",Mega Hits (CR)
 https://vcp8.myplaytv.com:1936/meganethits/meganethits/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52NRJRP4/Metv.jpg" group-title="Costa Rica 🇨🇷",Meta Versus (CR)
@@ -9362,7 +9418,7 @@ https://live.obslivestream.com/autenticatvmux/tracks-v2a1/mono.m3u8
 https://tvdatta.com:3602/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xT4rft6d/bestcabletv.jpg" group-title="Perú",Best Cable TV (PE)
-https://ca2.inka.net.pe/BesTv-0011200001/tracks-v1a1/mono.m3u8
+https://ca2.inka.net.pe/BesTv-001120000100/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y8VQVghy/bh.jpg" group-title="Perú",BHTV  (PE)
 https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/chunklist_w636691692.m3u8
