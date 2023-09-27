@@ -8309,6 +8309,9 @@ https://202527.global.ssl.fastly.net/6499ec857df5bf9d55b5849f/live_9246a0201b5b1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sg8rW3HM/puravida.jpg" group-title="Costa Rica 🇨🇷",Pura Vida TV | Doutico (CR)
 http://109.236.91.39:1935/sxmxutkqjh/sxmxutkqjh/chunklist_w818731435.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZLQ4xd1/alaj.jpg" group-title="Costa Rica 🇨🇷",Radio Alajuela | 1120 AM [Solo Audio] [No 24/7] (CR)
+https://tupanel.info:8970/;stream.nsv
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nhZZZnS7/Radiopuertotv.jpg" group-title="Costa Rica 🇨🇷",Radio Puerto TV (CR)
 https://cloudvideo.servers10.com:8081/8256/tracks-v1a1/playlist.m3u8
 
