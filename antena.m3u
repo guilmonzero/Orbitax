@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1, GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L4GVTPzD/orbi-halloween.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 22.09.23
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L4GVTPzD/orbi-halloween.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 08.10.23
 https://pomf2.lain.la/f/osltvnp.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qq2PByxD/spectrum-channel.jpg" group-title="Animados | Variado",Spectrum Channel (LATAM)
@@ -138,6 +138,9 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qvkT8WLN/CN-loop2.jpg" group-title="Animados | Variado",Cartoon Network | Animados | 2 (LATAM)
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jj49CvDY/casa.jpg" group-title="Animados | Variado",Casa Grande TV (LATAM)
+https://ssh101.bozztv.com/ssh101/cgtve/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3Nt1dPkS/xtremecartoon.jpg" group-title="Animados | Variado",Cine Infantil (LATAM)
 https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
@@ -350,6 +353,9 @@ https://tgn.bozztv.com/ssh101/ssh101/123456789/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4NY00cSp/fmh-rewind.jpg" group-title="Animados | Variado",Rewind (LATAM)
 http://186.10.252.90:8000/play/a02m
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5rvB51b/rocket.jpg" group-title="Animados | Variado",Rocket Channel (LATAM)
+https://streaming.zappix.live:19360/toonizaki/toonizaki.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26xZ96KK/rotanakids.jpg" group-title="Animados | Variado",Rotana Kids | Emiratos Árabes (AE)
 https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
 
@@ -429,8 +435,10 @@ https://linear-260.frequency.stream/dist/vix/260/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hPgw0xhT/wording.jpg" group-title="Animados | Variado",Wording TV (BR)
 https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRWWKryt/wowc.jpg" group-title="Animados | Variado",Wow Channel (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRWWKryt/wowc.jpg" group-title="Animados | Variado",Wow | Channel (LATAM)
 https://ssh101.bozztv.com/ssh101/wowchannel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKxtBkkZ/wowm.jpg" group-title="Animados | Variado",Wow | Movies (LATAM)
+https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrWm30kh/xtrema-anime.jpg" group-title="Animados | Variado",Xtrema | Anime (LATAM)
 https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
@@ -1676,6 +1684,8 @@ https://cm.hostlagarto.com:4445/TRIBUNA-TV/tribuna.myStream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cLt4TDx8/245h.jpg" group-title="Informativo",TVE | 24h (ES)
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_576.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLt4TDx8/245h.jpg" group-title="Informativo",TVE | 24h | Opción 2 (ES)
+https://24hgl8src2.akamaized.net/rtve-tdt/24h_all/rtve-tdt/24h_576p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yNFDSdyZ/noticias.jpg" group-title="Informativo",TVPE | Noticias (PE)
 https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_3.m3u8
@@ -2867,6 +2877,8 @@ http://170.254.172.10:8000/play/a043/index.m3u8
 http://187.102.208.155:8000/play/a09r/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MpVnwJCJ/tve-star.jpg" group-title="Peliculas | Series",Star | TVE | Opción 4 (LATAM)
 http://45.170.225.210:58001/play/a00n/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpVnwJCJ/tve-star.jpg" group-title="Peliculas | Series",Star | TVE | Opción 5 (LATAM)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xd8kG0Sm/terror.jpg" group-title="Peliculas | Series",Terror TV (CL)
 https://tv.streaming-chile.com:1936/8140/8140/chunklist_w376440554.m3u8
@@ -3265,6 +3277,8 @@ http://xplatinmedia.com:8080/@mrmagicstars/JBJNHuFuV5/48693
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QrSrSW-C/tve.jpg" group-title="Premium | España",TVE | 1 | Opción 2 (ES)
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QrSrSW-C/tve.jpg" group-title="Premium | España",TVE | 1 | Opción 3 (ES)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_1080.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QrSrSW-C/tve.jpg" group-title="Premium | España",TVE | 1 | Opción 4 (ES)
 http://799290536900321278.ofio.xyz:80/play/vi1011594/7671001175/321278.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3x39FXCw/TVE2-portada-300x300-1.jpg" group-title="Premium | España",TVE | 2 (ES)
@@ -3282,6 +3296,8 @@ http://45.169.38.226:8000/play/a0dr/index.m3u8
 http://181.78.24.67:8010/play/a01a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c41hDz3X/tve-internacional.jpg" group-title="Premium | España",TVE | Internacional | Opción 4 (ES)
 http://45.169.38.226:8000/play/a0dr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c41hDz3X/tve-internacional.jpg" group-title="Premium | España",TVE | Internacional | Opción 5 (ES)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HLmSNW08/antena3-1.jpg" group-title="Premium | España",Antena 3 |  (ES)
 http://xplatinmedia.com:8080/@mrmagicstars/JBJNHuFuV5/48696
@@ -8791,7 +8807,7 @@ https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
 https://directes-tv-int.ccma.cat/live-origin/c33-super3-hls/bitrate_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vTBbJJG8/324.jpg" group-title="España",TV 324 | Cataluña (ES)
-https://directes-tv-int.ccma.cat/live-origin/canal324-hls/bitrate_7.m3u8
+https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzsw-Xy93/alcoi.jpg" group-title="España",TV Alcoi (ES)
 https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8
@@ -9007,13 +9023,15 @@ http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/393318
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRq7JCPx/syfy.jpg" group-title="Estados Unidos",Syfy | Opción 4 (US)
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/131239
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRq7JCPx/syfy.jpg" group-title="Estados Unidos",Syfy | Opción 5 (US)
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/37974.m3u8
+https://gotdark.com:443/gatodmiptv/9gaq9QVmEDDOyb50w/104
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRq7JCPx/syfy.jpg" group-title="Estados Unidos",Syfy | Opción 6 (US)
-http://hardcoremedia.xyz:80/awpfeSb6X/uFH1Pw6cXk/25474
+http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/129958
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRq7JCPx/syfy.jpg" group-title="Estados Unidos",Syfy | Opción 7 (US)
 https://6oclock.xyz:8443/JonnyG/gimmie20/12698
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRq7JCPx/syfy.jpg" group-title="Estados Unidos",Syfy | Opción 8 (US)
 http://miarea.vip:8080/PicoteDemo/vccjAc89v2/35323
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRq7JCPx/syfy.jpg" group-title="Estados Unidos",Syfy | Opción 9 (US)
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/2359
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0HRZ6sF/tastemade.jpg" group-title="Estados Unidos",Tastemade | Español (US)
 https://tastemadees16intl-vizio.amagi.tv/playlist.m3u8
@@ -9038,13 +9056,17 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/131253
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MHs7qK4X/usa.jpg" group-title="Estados Unidos",USA Network | Opción 5 (US)
 http://00322.xyz:8000/coachprato/40437757/131253
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MHs7qK4X/usa.jpg" group-title="Estados Unidos",USA Network | Opción 6 (US)
-http://hardcoremedia.xyz:80/awpfeSb6X/uFH1Pw6cXk/1991
+http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/129973
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MHs7qK4X/usa.jpg" group-title="Estados Unidos",USA Network | Opción 7 (US)
 https://6oclock.xyz:8443/JonnyG/gimmie20/12689
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MHs7qK4X/usa.jpg" group-title="Estados Unidos",USA Network | Opción 8 (US)
 http://miarea.vip:8080/PicoteDemo/vccjAc89v2/76113
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MHs7qK4X/usa.jpg" group-title="Estados Unidos",USA Network | Opción 9 (US)
-http://tod4k.live:25461/tod4k85552/newtod1414/200380
+https://flarestream.tv:443/iptv-epg/LnkXHiYtmd/898.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MHs7qK4X/usa.jpg" group-title="Estados Unidos",USA Network | Opción 10 (US)
+https://gotdark.com:443/gatodmiptv/9gaq9QVmEDDOyb50w/1661
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MHs7qK4X/usa.jpg" group-title="Estados Unidos",USA Network | Opción 11 (US)
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/3390
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5yQD11wB/VICE.jpg" group-title="Estados Unidos",Vice TV (US)
 https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
