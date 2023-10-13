@@ -150,9 +150,6 @@ http://799290536900391894.ofio.xyz:80/play/vi1011594/7671001175/391894.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7P5RCm34/CLAN.jpg" group-title="Animados | Variado",Clan | Opción 2 (ES)
 http://xplatinmedia.com:8080/@mrmagicstars/JBJNHuFuV5/48805
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6pFMWV6q/diti.jpg" group-title="Animados | Variado",Diti TV [No 24/7] (AR)
-https://inliveserver.com:1936/8386/8386/chunklist_w55500252.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0sBS6zF/doskids.jpg" group-title="Animados | Variado",Dos | Kids (LATAM)
 http://186.10.252.90:8000/play/a02t
 
@@ -272,13 +269,6 @@ https://ssh101.bozztv.com/ssh101/magic2019/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/66GHmXSs/majid.jpg" group-title="Animados | Variado",Majid TV (SA)
 https://admdn5.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gtf9G0zY/MAXIMAtv2.jpg" group-title="Animados | Variado",Maxima TV (AR)
-https://ssh101.bozztv.com/ssh101/maxtvstreaming/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gtf9G0zY/MAXIMAtv2.jpg" group-title="Animados | Variado",Maxima TV | Opción 2 (AR)
-https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gtf9G0zY/MAXIMAtv2.jpg" group-title="Animados | Variado",Maxima TV | Opción 3 (AR)
-https://cdnhd.iblups.com/hls/Qzfdy1OvHt.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGVqTj4J/mnetkids.jpg" group-title="Animados | Variado",M Net Kids (MK)
 http://ares.mnet.mk/hls/mnet-kids.m3u8
 
@@ -384,6 +374,9 @@ https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cf
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9wcDnsm/tec.jpg" group-title="Animados | Variado",Tele Clásica (LATAM)
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkxDLjxY/telemundo-PUERTO.jpg" group-title="Animados | Variado",Telemundo | Puerto Rico (PR)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FKdtTJmR/teletoon.jpg" group-title="Animados | Variado",TéléToon + (FR)
 http://38gb.pro:80/live/4478355/94943550/540cb6bc-c98a-47c5-8d16-e39983b9b478.m3u8
@@ -4669,11 +4662,11 @@ https://archive.org/serve/13-fantasmas-2001_202309/13%20Fantasmas%202001.ia.mp4
 https://archive.org/serve/el-diablo-2000-online-cuevana-3-peliculas-online/El%20Diablo%20%282000%29%20Online%20_%20Cuevana%203%20Peliculas%20Online.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vZhxpKSY/an1.jpg" group-title="Mas Peliculas 🎃",Annabelle | 1 | 2014 (LATAM)
-https://archive.org/serve/annabelle-1_202307/Annabelle%201.mp4
+https://archive.org/serve/anabelle.-lat/Anabelle.Lat.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/s22GyJtp/an2.jpg" group-title="Mas Peliculas 🎃",Annabelle | 2 | 2017 (LATAM)
-https://archive.org/serve/annabelle-2_202307/Annabelle%202.mp4
+https://archive.org/download/annabelle.-2.creation.-1080p/Annabelle.2.creation.1080p.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KjhYK7sp/an3.jpg" group-title="Mas Peliculas 🎃",Annabelle | 3 | 2019 | Vuelve a Casa (LATAM)
-https://archive.org/serve/annabelle-3_202307/Annabelle%203.mp4
+https://archive.org/serve/annabelle-3.-lat/Annabelle3.Lat.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fRw9B6PH/as.jpg" group-title="Mas Peliculas 🎃",Así En La Tierra Como En El Infierno | 2014 (LATAM)
 https://archive.org/serve/asi-en-la-tierra-como-en-el-infierno_202307/As%C3%AD%20en%20la%20tierra%20como%20en%20el%20infierno.mp4
@@ -4762,11 +4755,11 @@ https://archive.org/serve/elcadaverdelanovia_201908/El%20cadaver%20de%20la%20nov
 https://archive.org/download/star-kid-1997-720p-d-s-spa-eng-web-dl-v/STAR%20KID%20%20%281997%29%20720p%20D%20S%20spa%20eng%20WEB-DL%20v.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0ySsDCkv/con1.jpg" group-title="Mas Peliculas 🎃",El Conjuro | 1 | 2013 (LATAM)
-https://archive.org/serve/el-conjuro-1_20230727/El%20conjuro%201.mp4
+https://archive.org/serve/el-conjuro-1_202308/el%20conjuro%201.ia.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/q7XHZM6Z/con2.jpg" group-title="Mas Peliculas 🎃",El Conjuro | 2 | 2016 (LATAM)
-https://archive.org/serve/el-conjuro-2_20230727/El%20conjuro%202.ia.mp4
+https://archive.org/serve/el-conjuro-2-3-/el%20conjuro%202.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pTWMNbDV/con3.jpg" group-title="Mas Peliculas 🎃",El Conjuro | 3 | 2021 (LATAM)
-https://archive.org/serve/el-conjuro-3_202307/El%20conjuro%203.mp4
+https://archive.org/serve/el-conjuro-3_202306/El%20Conjuro%203.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DwHfjDhh/cub1.jpg" group-title="Mas Peliculas 🎃",El Cubo | 1 | 1997 (LATAM)
 https://archive.org/serve/el-cubo-1/El%20Cubo%201.ia.mp4
@@ -4826,15 +4819,15 @@ https://archive.org/serve/ver-pelicula-el-resplandor-online-sin-publicidad-o-mov
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0yf2QWg1/res2.jpg" group-title="Mas Peliculas 🎃",El Resplandor | 2 | 2019 | Doctor Sueño (LATAM)
 https://archive.org/serve/el-resplandor-2/El%20Resplandor%202.ia.mp4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbkPVKn5/spi.jpg" group-title="Mas Peliculas 🎃",El Viaje de Chijiro | 2001 (LATAM)
-https://archive.org/download/el-viaje-de-chihiro_20221017/el-viaje-de-chihiro_20221017.thumbs%2FEl%20mundo%20secreto%20de%20Arrietty_000116.jpg
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJR67b8R/emo.jpg" group-title="Mas Peliculas 🎃",Emoji La Pelicula | 2017 (LATAM)
+https://archive.org/serve/emoji-la-pelicula_202301/emoji-la-pelicula.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4x2VDLqj/it.jpg" group-title="Mas Peliculas 🎃",Eso | 1 | 1990 (LATAM)
-https://archive.org/serve/it-1_20230806/IT%201.mp4
+https://archive.org/serve/it-el-payaso-1990.mp-4/IT%20El%20Payaso%201990.mp4.ia.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZgyjmM9/it1.jpg" group-title="Mas Peliculas 🎃",Eso | 1 | 2017 | Remake (LATAM)
-https://archive.org/serve/it-2_20230806/IT%202.ia.mp4
+https://archive.org/serve/it-eso-2017-parte-2-hd-1080p-latino/IT%20ESO%2FIt%20%28Eso%29%20%282017%29%20%20parte%201%20HD%201080p%20Latino.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dVVSRfGf/it2.jpg" group-title="Mas Peliculas 🎃",Eso | 2 | 2019 | Remake (LATAM)
-https://archive.org/serve/it-3_20230806/IT%203.mp4
+https://archive.org/serve/it.-capitulo-2_202209/It.%20Capitulo%202.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fRQ9nrh7/ev1.jpg" group-title="Mas Peliculas 🎃",Evil Dead | 1 | 1981 (LATAM)
 https://archive.org/serve/tt0083907/tt0083907.mp4
@@ -4923,18 +4916,18 @@ https://archive.org/serve/hocus-pocus-2_202308/Hocus%20Pocus%202.mp4
 https://archive.org/serve/0022-hostel-2005-720p-d-s-spa-eng-v.mkv/0022-Hostel_%282005%29_720p_D_S_spa_eng_v.mkv.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZz3YmSJ/h1.jpg" group-title="Mas Peliculas 🎃",Hotel Transylvania | 1 | 2012 (LATAM)
-https://archive.org/serve/hotel-transylvania-1/Hotel%20Transylvania%201.ia.mp4
+https://archive.org/serve/hotel.-transylvania/Hotel.Transylvania.2012.latino-e-ingles-subt.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3xCy5qNS/h2.jpg" group-title="Mas Peliculas 🎃",Hotel Transylvania | 2 | 2015 (LATAM)
-https://archive.org/serve/hotel-transylvania-2_202308/Hotel%20Transylvania%202.ia.mp4
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0SW-MTnM/h3.jpg" group-title="Mas Peliculas 🎃",Hotel Transylvania | 3 | 2018 | Monstruos de Vacaciones (LATAM)
-https://archive.org/serve/hotel-transylvania-3_202308/Hotel%20Transylvania%203.ia.mp4
+https://archive.org/serve/hotel-transilvania-3_202301/Hotel-Transilvania-3.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YSdhjm1Q/h4.jpg" group-title="Mas Peliculas 🎃",Hotel Transylvania | 4 | 2022 | Transformanía (LATAM)
-https://archive.org/serve/hotel-transylvania-4_202308/Hotel%20Transylvania%204.ia.mp4
+https://archive.org/serve/hotel-transilvania-4_202301/Hotel-Transilvania-4.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GtB348qS/a1.jpg" group-title="Mas Peliculas 🎃",Inactividad Paranormal | 1 | 2013 (LATAM)
-https://archive.org/serve/y-donde-esta-el-fantasma-1/Y%20donde%20esta%20el%20fantasma%201.mp4
+https://archive.org/serve/y-donde-esta-el-fantasma-2013/%C2%BFY%20D%C3%B3nde%20Est%C3%A1%20El%20Fantasma%20%282013%29.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RhjSKSYC/a2.jpg" group-title="Mas Peliculas 🎃",Inactividad Paranormal | 2 | 2014 (LATAM)
-https://archive.org/serve/y-donde-esta-el-fantasma-2_202308/Y%20donde%20esta%20el%20fantasma%202.mp4
+https://archive.org/serve/y-donde-esta-el-fantasma-2_20230816/Y%20Donde%20Esta%20el%20Fantasma%202.ia.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYn1GxDg/jov.jpg" group-title="Mas Peliculas 🎃",Jóvenes Brujas | 2016 (LATAM)
 https://archive.org/serve/jovenes-brujas-1996_202310/Jovenes%20Brujas%201996.mp4
@@ -4960,9 +4953,9 @@ https://archive.org/serve/la-familia-addams-2019-animada/La%20Familia%20Addams%2
 https://archive.org/serve/la-familia-addams-2/La%20familia%20Addams%202.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PxG2hHdc/or1.jpg" group-title="Mas Peliculas 🎃",La Huérfana | 1 | 2009 (LATAM)
-https://archive.org/serve/la-huerfana-1/La%20huerfana%201.ia.mp4
+https://archive.org/serve/la-huerfana_202301/la%20hu%C3%A9rfana.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3Rg9xqRw/or2.jpg" group-title="Mas Peliculas 🎃",La Huérfana | 2 | 2022 | El Origen (LATAM)
-https://archive.org/download/la-huerfana-2-el-origen/La%20huerfana%202%2C%20El%20origen.ia.mp4
+https://archive.org/serve/la-huerfana-origenes/La%20hu%C3%A9rfana%20-%20or%C3%ADgenes.ia.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mgBWYQb7/lla.jpg" group-title="Mas Peliculas 🎃",La Llamada del Diablo | 2020 (LATAM)
 https://archive.org/serve/la-llamada-del-diablo/La%20Llamada%20del%20Diablo.mp4
@@ -4986,24 +4979,24 @@ https://archive.org/serve/la-muerte-le-sienta-bien-bluray-1992-720p-d-s-spa-eng-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T1Fj6WPJ/dem.jpg" group-title="Mas Peliculas 🎃",La Noche del Demonio | 1 | 2010 (LATAM)
 https://archive.org/serve/LANOCHEDELDEMONIO/LA%20NOCHE%20DEL%20DEMONIO.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/43cvCXz4/dem2.jpg" group-title="Mas Peliculas 🎃",La Noche del Demonio | 2 | 2013 (LATAM)
-https://archive.org/serve/la-noche-del-demonio-insidious-2/La%20noche%20del%20demonio%20-%20Insidious%202.mp4
+https://archive.org/download/lnd-2/LND2.ia.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85Bh5wKq/dem3.jpg" group-title="Mas Peliculas 🎃",La Noche del Demonio | 3 | 2015 (LATAM)
-https://archive.org/serve/la-noche-del-demonio-insidious-3/La%20noche%20del%20demonio%20-%20Insidious%203.mp4
+https://archive.org/serve/lnd-3/LND3.ia.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/76y3wjV3/dem4.jpg" group-title="Mas Peliculas 🎃",La Noche del Demonio | 4 | 2018 | La Ultima Llave (LATAM)
-https://archive.org/serve/la-noche-del-demonio-insidious-4/La%20noche%20del%20demonio%20-%20Insidious%204.mp4
+https://archive.org/serve/lnd-4/LND4.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qqJ2CnWg/dem5.jpg" group-title="Mas Peliculas 🎃",La Noche del Demonio | 5 | 2023 | La Puerta Roja (LATAM)
 https://archive.org/serve/la-noche-del-demonio-la-puerta-roja-tonplay/La%20noche%20del%20demonio%20La%20puerta%20roja%202023%20-%20Pelicula%20-%20Cuevana%203.ia.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CVmzTXG/om1.jpg" group-title="Mas Peliculas 🎃",La Profecía | 1 | 1976 (LATAM)
-https://archive.org/serve/la-profecia-1/La%20profec%C3%ADa%201.ia.mp4
+https://archive.org/download/la-profecia/La%20Profec%C3%ADa%201.ia.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gcfDTyyr/om2.jpg" group-title="Mas Peliculas 🎃",La Profecía | 2 | 1978 (LATAM)
-https://archive.org/serve/la-profecia-2-la-maldicion-de-damien/La%20profec%C3%ADa%202%2C%20La%20maldici%C3%B3n%20de%20Damien.ia.mp4
+https://archive.org/download/la-profecia/La%20Profec%C3%ADa%202.ia.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bNcxTy8t/om3.jpg" group-title="Mas Peliculas 🎃",La Profecía | 3 | 1981 | El Ultimo Conflicto (LATAM)
-https://archive.org/serve/la-profecia-3-el-final-de-damien/La%20profec%C3%ADa%203%2C%20El%20final%20de%20Damien.ia.mp4
+https://archive.org/download/la-profecia/La%20Profec%C3%ADa%203.ia.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zvy1Xs0C/om4.jpg" group-title="Mas Peliculas 🎃",La Profecía | 4 | 1991 | Renacer (LATAM)
-https://archive.org/serve/la-profecia-4-el-renacer/La%20profec%C3%ADa%204%2C%20El%20renacer.mp4
+https://archive.org/download/la-profecia/La%20Profec%C3%ADa%204.ia.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bv33JsGn/omr.jpg" group-title="Mas Peliculas 🎃",La Profecía | Remake | 2006 (LATAM)
-https://archive.org/serve/la-profecia-5/La%20profec%C3%ADa%205.mp4
+https://ia601407.us.archive.org/30/items/la-profecia-saga/LA%20PROFECIA%20SAGA%2FThe%20omen%205%20%28La%20profecia%205%20Forsaken%202005%29%20.%5BH265%5D.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpnj2VK3/pur1.jpg" group-title="Mas Peliculas 🎃",La Purga | 1 | 2013 | La Noche de la Expiación (LATAM)
 https://archive.org/serve/la-purga-1-la-noche-de-la-expiacion_202308/La%20Purga%201%20-%20La%20noche%20de%20la%20expiacion.mp4
@@ -5077,7 +5070,7 @@ https://archive.org/serve/monstrous-2022.-1080p.dual-lat.cinecalidad.com.mx/Mons
 https://archive.org/serve/los-muppets-en-haunted-mansion-2021-by-etcetera-mx/Los%20Muppets%20en%20Haunted%20Mansion%20%282021%29%20by%20Etc%C3%A9tera%20Mx.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCFzxbRY/ou1.jpg" group-title="Mas Peliculas 🎃",Ouija | 1 | 2014 (LATAM)
-https://archive.org/serve/ouija-1/Ouija%201.mp4
+https://archive.org/download/ouija_202303/Ouija.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wRv85Sx/ou.jpg" group-title="Mas Peliculas 🎃",Ouija | 2 | 2016 | El Origen del Mal (LATAM)
 https://archive.org/serve/ouija-el-origen-del-mal/Ouija%20El%20origen%20del%20mal.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yd0GsGB3/ou2.jpg" group-title="Mas Peliculas 🎃",Ouija | 3 | 2021 | Reunión Mortal (LATAM)
@@ -5093,21 +5086,21 @@ https://archive.org/serve/payasos-del-espacio-exterior/Payasos%20del%20espacio%2
 https://archive.org/serve/pesadilla-antes-de-navidad-1993/Pesadilla%20antes%20de%20Navidad%201993.mkv
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YqYHGtg4/nig.jpg" group-title="Mas Peliculas 🎃",Pesadilla en la Calle del Infierno | 1 | 1984 (LATAM)
-https://archive.org/serve/pesadilla-en-la-calle-del-infierno-1/Pesadilla%20en%20la%20calle%20del%20infierno%201.mp4
+https://archive.org/download/pesadilla-en-la-calle-del-infierno_202305/Pesadilla%20en%20la%20Calle%20del%20Infierno.ia.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Wz33nX37/nig2.jpg" group-title="Mas Peliculas 🎃",Pesadilla en la Calle del Infierno | 2 | 1985 | La Venganza de Freddy (LATAM)
-https://archive.org/serve/pesadilla-en-la-calle-del-infierno-2-la-venganza-de-freddy/Pesadilla%20en%20la%20calle%20del%20infierno%202%2C%20La%20venganza%20de%20Freddy.mp4
+https://archive.org/download/pesadilla-en-la-calle-del-infierno_202305/Pesadilla%20en%20la%20Calle%20del%20Infierno%202.ia.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xd8nBcY0/nig3.jpg" group-title="Mas Peliculas 🎃",Pesadilla en la Calle del Infierno | 3 | 1987 | Los Guerreros (LATAM)
-https://archive.org/serve/pesadilla-en-la-calle-del-infierno-3-los-guerreros-del-sueno/Pesadilla%20en%20la%20calle%20del%20infierno%203%2C%20Los%20guerreros%20del%20sue%C3%B1o.mp4
+https://archive.org/download/pesadilla-en-la-calle-del-infierno_202305/Pesadilla%20en%20la%20Calle%20del%20Infierno%203.ia.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5Ggb8C4/nig4.jpg" group-title="Mas Peliculas 🎃",Pesadilla en la Calle del Infierno | 4 | 1988 | Amo de los Sueños (LATAM)
-https://archive.org/serve/pesadilla-en-la-calle-del-infierno-4-el-amo-de-los-suenos/Pesadilla%20en%20la%20calle%20del%20infierno%204%2C%20El%20amo%20de%20los%20sue%C3%B1os.mp4
+https://archive.org/download/pesadilla-en-la-calle-del-infierno_202305/Pesadilla%20en%20la%20calle%20del%20infierno%204.ia.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WpgTRRRJ/nig5.jpg" group-title="Mas Peliculas 🎃",Pesadilla en la Calle del Infierno | 5 | 1989 | El Niño de los Sueños (LATAM)
-https://archive.org/serve/pesadilla-en-la-calle-del-infierno-5-el-nino-de-los-suenos/Pesadilla%20en%20la%20calle%20del%20infierno%205%2C%20El%20ni%C3%B1o%20de%20los%20sue%C3%B1os.mp4
+https://archive.org/download/pesadilla-en-la-calle-del-infierno_202305/Pesadilla%20en%20la%20Calle%20del%20Infierno%205.ia.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NftYBNYC/nig6.jpg" group-title="Mas Peliculas 🎃",Pesadilla en la Calle del Infierno | 6 | 1991 | La Muerte de Freddy (LATAM)
 https://archive.org/serve/pesadilla-en-la-calle-del-infierno-6-la-muerte-de-freddy/Pesadilla%20en%20la%20calle%20del%20infierno%206%2C%20La%20muerte%20de%20Freddy.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bJTcmtFY/nig7.jpg" group-title="Mas Peliculas 🎃",Pesadilla en la Calle del Infierno | 7 | 1994 | Wes Craven's Nueva Pesadilla (LATAM)
-https://archive.org/serve/pesadilla-en-la-calle-del-infierno-7/Pesadilla%20en%20la%20calle%20del%20infierno%207.ia.mp4
+https://archive.org/serve/pesadilla-en-elem-street-7/pesadilla%20en%20ELEM%20STREET%207%20.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Vvkypk3q/nig8.jpg" group-title="Mas Peliculas 🎃",Pesadilla en la Calle del Infierno | 8 | 2010 | Remake (LATAM)
-https://archive.org/serve/pesadilla-en-la-calle-del-infierno-8/Pesadilla%20en%20la%20calle%20del%20infierno%208.mp4
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DwW0tMVs/pol.jpg" group-title="Mas Peliculas 🎃",Poltergeist | 1 |1982 (LATAM)
 https://archive.org/serve/Poltergeist1982.MP4/Poltergeist%201982.MP4.mp4
@@ -5117,6 +5110,9 @@ https://archive.org/serve/poltergeist-2_202308/Poltergeist%202.ia.mp4
 https://archive.org/serve/poltergeist-3_202308/Poltergeist%203.ia.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MGY9vbgm/pol4.jpg" group-title="Mas Peliculas 🎃",Poltergeist | 4 | 2015 | Remake (LATAM)
 https://archive.org/serve/poltergeist-4_202308/Poltergeist%204.ia.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3whh2YQY/rob.jpg" group-title="Mas Peliculas 🎃",Robert El Muñeco Siniestro | 2015 (LATAM)
+https://ia802304.us.archive.org/30/items/robert-the-doll-el-muneco-siniestro-2015/Robert%20%2CThe%20Doll%20%28El%20Mu%C3%B1eco%20Siniestro%29%20%282015%29%20Mastered%201080p.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BnKBtjqG/sa1.jpg" group-title="Mas Peliculas 🎃",Saw | 1 | 2004 | Juego del Miedo (LATAM)
 https://archive.org/serve/saw-1-el-juego-del-miedo/Saw%201%20El%20juego%20del%20miedo.mp4
@@ -5138,15 +5134,15 @@ https://archive.org/serve/saw-8-el-juego-del-miedo/Saw%208%20El%20juego%20del%20
 https://archive.org/serve/saw-9-el-juego-del-miedo-espiral/Saw%209%20El%20juego%20del%20miedo%20-%20Espiral.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m2PqnxX4/sca1.jpg" group-title="Mas Peliculas 🎃",Scary Movie | 1 | 2000 (LATAM)
-https://archive.org/serve/scary-movie-1_202308/Scary%20movie%201.mp4
+https://archive.org/serve/scary-movie-1_202303/Scary%20Movie%201.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Yqt0N3bQ/sca2.jpg" group-title="Mas Peliculas 🎃",Scary Movie | 2 | 2001 (LATAM)
-https://archive.org/serve/scary-movie-2_202308/Scary%20movie%202.mp4
+https://archive.org/serve/scary-movie-2_202303/Scary%20Movie%202.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTFvwmGZ/sca3.jpg" group-title="Mas Peliculas 🎃",Scary Movie | 3 | 2003 (LATAM)
-https://archive.org/serve/scary-movie-3_202308/Scary%20movie%203.mp4
+https://archive.org/serve/scary-movie-3_202303/Scary%20Movie%203.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZF0y0rF/sca4.jpg" group-title="Mas Peliculas 🎃",Scary Movie | 4 | 2006 (LATAM)
-https://archive.org/serve/scary-movie-4-descuartizados-de-miedo/Scary%20movie%204%2C%20Descuartizados%20de%20miedo.mp4
+https://archive.org/serve/scary-movie-4_202303/Scary%20Movie%204.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52RtVM1m/sca5.jpg" group-title="Mas Peliculas 🎃",Scary Movie | 5 | 2013 (LATAM)
-https://archive.org/serve/scary-movie-5_202308/Scary%20movie%205.mp4
+https://archive.org/serve/scary-movie-5_202303/scary%20movie%205.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5v8fPmn/sco.jpg" group-title="Mas Peliculas 🎃",Scooby! | 2020 (LATAM)
 https://archive.org/serve/scooby-1080-latino/Scooby-1080-Latino.ia.mp4
@@ -5171,9 +5167,7 @@ https://archive.org/serve/se-lo-que-hicieron-el-verano-pasado/Se%20lo%20que%20hi
 https://archive.org/serve/sexto-sentido_1/sexto-sentido_1.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjhKrm3D/si1.jpg" group-title="Mas Peliculas 🎃",Siniestro | 1 | 2012 (LATAM)
-https://archive.org/serve/siniestro-1/Siniestro%201.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tzXZHFm/si2.jpg" group-title="Mas Peliculas 🎃",Siniestro | 2 | 2015 (LATAM)
-https://archive.org/serve/siniestro-2/Siniestro%202.mp4
+https://archive.org/download/siniestro-2012-latino/Siniestro%202012%20Latino.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rFtbqLWB/sp.jpg" group-title="Mas Peliculas 🎃",Spirit Halloween | 2022 (LATAM)
 https://archive.org/serve/spirit.-halloween.-2022/Spirit.Halloween.2022.mkv
@@ -5228,9 +5222,9 @@ https://archive.org/serve/winnie-the-pooh-sangre-y-miel/Winnie%20the%20Pooh%20Sa
 https://archive.org/serve/zathura-una-aventura-espacial_202309/Zathura%20Una%20aventura%20espacial.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JtwJTWFK/zo.jpg" group-title="Mas Peliculas 🎃",Zoombieland | 1 | 2009 (LATAM)
-https://archive.org/serve/zombieland-1/Zombieland%201.ia.mp4
+https://archive.org/serve/zombieland_202110/zombieland.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tRsMmtfV/zo2.jpg" group-title="Mas Peliculas 🎃",Zoombieland | 2 | 2019 (LATAM)
-https://archive.org/serve/zombieland-2-mata-y-remata/Zombieland%202%2C%20Mata%20y%20remata.mp4
+https://archive.org/serve/zombielandtirodegracia2019dvdriplatino/Zombieland%20Tiro%20de%20gracia%20%282019%29%20DVDRip%20Latino.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXVHrBm5/vol.jpg" group-title="Mas Peliculas 🎃",Volver al Futuro | 1 | 1985 (LATAM)
 https://archive.org/serve/volver-al-futuro-1_202008/volver%20al%20futuro1.mp4
@@ -10415,9 +10409,6 @@ https://tbs3.mov3.co/hls/tbs.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKQPdZTH/telebari.jpg" group-title="Mas Señales",TeleBari (IT)
 rtmp://fl1.mediastreaming.it:1935/telebari/livestream
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkxDLjxY/telemundo-PUERTO.jpg" group-title="Mas Señales",Telemundo | Puerto Rico (PR)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vZc6KBdF/tf1.jpg" group-title="Mas Señales",TF1 (FR)
 http://livetv.ktv.zone/3/play.m3u8
