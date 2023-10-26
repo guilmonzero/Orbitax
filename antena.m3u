@@ -9131,6 +9131,8 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/131239
 https://6oclock.xyz:8443/JonnyG/gimmie20/12698
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRq7JCPx/syfy.jpg" group-title="Estados Unidos",Syfy | Opción 6 (US)
 http://38.96.178.201:80/live/SYFYHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRq7JCPx/syfy.jpg" group-title="Estados Unidos",Syfy | Opción 7 (US)
+https://v-edge-3.thetvapp.to/hls/SyfyEast.m3u8?token=hVLhej89850Q2hp7pHJd5Q&expires=1698302166
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0HRZ6sF/tastemade.jpg" group-title="Estados Unidos",Tastemade | Español (US)
 https://tastemadees16intl-vizio.amagi.tv/playlist.m3u8
@@ -9166,6 +9168,8 @@ https://6oclock.xyz:8443/JonnyG/gimmie20/12689
 http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/3390
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MHs7qK4X/usa.jpg" group-title="Estados Unidos",USA Network | Opción 8 (US)
 http://38.96.178.201:80/live/USA/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MHs7qK4X/usa.jpg" group-title="Estados Unidos",USA Network | Opción 9 (US)
+https://v-edge-1.thetvapp.to/hls/USANetworkEast.m3u8?token=wiy0tTplg8iMsaF4-nUSVw&expires=1698302133
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5yQD11wB/VICE.jpg" group-title="Estados Unidos",Vice TV (US)
 https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
