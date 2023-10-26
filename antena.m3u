@@ -53,6 +53,9 @@ https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4k46rQ2/afro-k.jpg" group-title="Animados | Variado",Afro Kids (MA)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1932
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KYnBKRHj/alterna.jpg" group-title="Animados | Variado",Alterna TV (AR)
+https://alternatv.ar/stream/hls/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJSPRSkk/animestation2.jpg" group-title="Animados | Variado",Anime Station (AR)
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
 
@@ -4543,11 +4546,14 @@ http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/279476
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NLq1YnVH/alfus.jpg" group-title="Mas Series 🧟",ALF | Animated (US)
 https://97bd5884f7a348aa93b50e48d031be0e.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/ONO_ALF/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcMcKG90/alien.jpg" group-title="Mas Series 🧟",Alien Nation | Dust (US)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlnz-samsungnz/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T1Y3FxKG/ani.jpg" group-title="Mas Series 🧟",Animanics (LATAM)
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129354
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0qsn9jb/babys.jpg" group-title="Mas Series 🧟",Baby Shark TV (LATAM)
-
+https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xdpFn92w/corage.jpg" group-title="Mas Series 🧟",Coraje (LATAM)
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129333
@@ -4655,6 +4661,9 @@ http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/160744
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Wzw94KFx/pep.jpg" group-title="Mas Series 🧟",Pepa Pig (LATAM)
 http://magmas5.com:8000/HVWBF1I51U/5XN1TBAK24/140377
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wzw94KFx/pep.jpg" group-title="Mas Series 🧟",Pepa Pig | Opción 2 (LATAM)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1698382622/ei/vu46ZZHsIdKk0_wPsOud8AM/ip/186.32.56.66/id/hl_nACnH42w.5/source/yt_live_broadcast/requiressl/yes/tx/51018866/txs/51018864%2C51018865%2C51018866%2C51018867%2C51018868%2C51018869%2C51018870/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0hDzH6EXUHU4d5DHDGMuah015oWY8gGlceI7w/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRQIhALXndXP3VQRjhCyf7B2kGeWhv9AKwnTbHD9dLy2Nj-w4AiAAimHVuguFfBovzaEltJZCNJbPhAZUWhV0eilL84xmsA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wBwkWnN7/pitufos.jpg" group-title="Mas Series 🧟",Pitufos TV (LATAM)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4368
