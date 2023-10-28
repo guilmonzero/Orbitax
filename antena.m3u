@@ -3578,6 +3578,8 @@ http://tv.dominiotv.xyz:25461/live/Javierc3/60335577/94146.ts
 http://tv.dominiotv.xyz:25461/live/RanchoBAR/67026311/94146.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6qSKDhPG/morbidotv.jpg" group-title="Premium | Latino",Mórbido TV | Opción 3 (LATAM)
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/163594
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qSKDhPG/morbidotv.jpg" group-title="Premium | Latino",Mórbido TV | Opción 4 (LATAM)
+http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/168156
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxnqzfnP/hbo.jpg" group-title="Premium | Latino",HBO (LATAM)
 http://190.92.7.19:8000/play/a00v/index.m3u8
@@ -4573,8 +4575,8 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/129314
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HxZXx6Dw/dorae.jpg" group-title="Mas Series 🧟",Doraemon (LATAM)
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129335
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4yjchcRz/dragonb.jpg" group-title="Mas Series 🧟",Dragon Ball (US)
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqT3Ywx6/esca.jpg" group-title="Mas Series 🧟",Escalosfríos (LATAM)
+http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/1508
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZdS3Yx8/elrprincipe.jpg" group-title="Mas Series 🧟",El Principe del Rap (LATAM)
 http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/160769
@@ -4603,6 +4605,9 @@ http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/160761
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GhTtLSfB/jonnny.jpg" group-title="Mas Series 🧟",Johnny Bravo (LATAM)
 http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/160702
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tB6N8TZ/lacasadibujos.jpg" group-title="Mas Series 🧟",La Casa de los Dibujos (LATAM)
+http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/222308
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DwmRm4LX/theaddamsfamily.jpg" group-title="Mas Series 🧟",La Familia Addams (LATAM)
 http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/168156
 
@@ -4611,9 +4616,14 @@ http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/160795
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKMwV9Rp/dark.jpg" group-title="Mas Series 🧟",Le Temes a la Oscuridad (LATAM)
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129331
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SKMwV9Rp/dark.jpg" group-title="Mas Series 🧟",Le Temes a la Oscuridad | Opción 2 (LATAM)
+http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/222335
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bNKMrTqf/lon.jpg" group-title="Mas Series 🧟",Looney Tunes (LATAM)
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129338
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zvTjMz2t/mus.jpg" group-title="Mas Series 🧟",Los Munsters (LATAM)
+http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/222341
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7S1kN74/picapiedras.jpg" group-title="Mas Series 🧟",Los Picapiedras (LATAM)
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129349
@@ -4632,6 +4642,9 @@ http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/160526
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtJFXNYP/simpsons-1.jpg" group-title="Mas Series 🧟",Los Simpsons | 3 (LATAM)
 http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/160533
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxrSNFZD/super.jpg" group-title="Mas Series 🧟",Los Supersonicos (LATAM)
+http://proiptvdigic.com:8080/047g7eobu/4Yq4QrUP2qKZ/221337
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8zzdQY9j/malcom2.jpg" group-title="Mas Series 🧟",Malcom in The Middle (LATAM)
 http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/160733
