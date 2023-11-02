@@ -99,11 +99,9 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist
 https://vdo.panelstreaming.live:3806/live/bnbdigitallive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HkqqLTcs/boing.jpg" group-title="Animados | Variado",Boing (ES)
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1169
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HkqqLTcs/boing.jpg" group-title="Animados | Variado",Boing | Opción 2 (ES)
-http://xplatinmedia.com:8080/@mrmagicstars/JBJNHuFuV5/48777
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HkqqLTcs/boing.jpg" group-title="Animados | Variado",Boing | Opción 3 (ES)
 http://stream.geoiptv.live:8880/live/7RYmOlCT6F/fJ5lIjAFex/136025.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HkqqLTcs/boing.jpg" group-title="Animados | Variado",Boing | Opción 2 (ES)
+http://proiptvdigic.com:8080/fer43092/yGFE5wmQDwxn/1370
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJhX9N4n/brat.jpg" group-title="Animados | Variado",Brat TV (ES)
 https://brat-rakuten.amagi.tv/playlist.m3u8
@@ -157,6 +155,11 @@ https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jj49CvDY/casa.jpg" group-title="Animados | Variado",Casa Grande TV (LATAM)
 https://ssh101.bozztv.com/ssh101/cgtve/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0zhVkv1/ch-k.jpg" group-title="Animados | Variado",Chile Visual | Kids (CL)
+https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0gHX5dh/ch-r.jpg" group-title="Animados | Variado",Chile Visual | Retro (CL)
+https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjK8sQCG/chinola.jpg" group-title="Animados | Variado",Chinola TV (RD)
 https://streaming.ath.cx:1936/chinolatv/chinolatv/playlist.m3u8
 
@@ -164,10 +167,6 @@ https://streaming.ath.cx:1936/chinolatv/chinolatv/playlist.m3u8
 https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7P5RCm34/CLAN.jpg" group-title="Animados | Variado",Clan (ES)
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2214
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7P5RCm34/CLAN.jpg" group-title="Animados | Variado",Clan | Opción 2 (ES)
-http://xplatinmedia.com:8080/@mrmagicstars/JBJNHuFuV5/48805
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7P5RCm34/CLAN.jpg" group-title="Animados | Variado",Clan | Opción 3 (ES)
 http://stream.geoiptv.live:8880/live/7RYmOlCT6F/fJ5lIjAFex/136026.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CQxCrt7/disney.jpg" group-title="Animados | Variado",Disney Channel (US)
@@ -331,6 +330,9 @@ http://187.188.232.236:1021/play/a03o/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx89fByN/pakapaka.jpg" group-title="Animados | Variado",Paka Paka (CL)
 http://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x1Vdg2C3/panda.jpg" group-title="Animados | Variado",Pandamax (CL)
+https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NGSQ0KzX/pantalla.jpg" group-title="Animados | Variado",Pantalla Clásica (EC)
 https://tgn.bozztv.com/ssh101/ssh101/ecuadoralmundo/playlist.m3u8
@@ -590,6 +592,9 @@ https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKjSJkh1/cgnt.jpg" group-title="Ciencia | Cultura 🪐",CGTN | Inglés (CN)
 https://live.cgtn.com/1000/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCb4ZvdM/ch-cul.jpg" group-title="Ciencia | Cultura 🪐",Chile Visual | Cultural (CL)
+https://stmv5.voxtvhd.com.br/chilevisualcultura/chilevisualcultura/chunklist_w420342763.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vZ6CyMK5/clarity4k.jpg" group-title="Ciencia | Cultura 🪐",Clarity | 4K (US)
 https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
@@ -2431,7 +2436,6 @@ https://cloudvideo.servers10.com:8081/8234/tracks-v1a1/mono.m3u8
 https://tv.streaming-chile.com:1936/8142/8142/chunklist_w2101366891.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7cHMrW5/atre1.jpg" group-title="Peliculas | Series",A3Series (ES)
-http://xplatinmedia.com:8080/@mrmagicstars/JBJNHuFuV5/48649
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xjPYZcHL/a3series.jpg" group-title="Peliculas | Series",A3Series | Internacional (ES)
 http://190.92.7.19:8000/play/a009/index.m3u8
@@ -2508,6 +2512,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1080
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vZh51ZwM/canelcr.jpg" group-title="Peliculas | Series",Canela TV | True Crimen (LATAM)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjcJRssh/ch.jpg" group-title="Peliculas | Series",Chile Visual | Clásicos (CL)
+https://stmv5.voxtvhd.com.br/chilevisual/chilevisual/chunklist_w1395310917.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNGNWLDN/ch-f.jpg" group-title="Peliculas | Series",Chile Visual | Film (CL)
+https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3r2qjNqf/cin.jpg" group-title="Peliculas | Series",Cindie TV | Lite (LATAM)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=820
@@ -2945,10 +2954,6 @@ https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
 https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y87bqTG8/nick.jpg" group-title="Premium | España",Nickelodeon (ES)
-http://xplatinmedia.com:8080/@mrmagicstars/JBJNHuFuV5/522
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/y87bqTG8/nick.jpg" group-title="Premium | España",Nickelodeon | Opción 2 (ES)
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2218
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/y87bqTG8/nick.jpg" group-title="Premium | España",Nickelodeon | Opción 3 (ES)
 http://stream.geoiptv.live:8880/live/7RYmOlCT6F/fJ5lIjAFex/136030.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CQxCrt7/disney.jpg" group-title="Premium | España",Disney Channel (ES)
