@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1, GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L67vnCy1/orbiavisos.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 12.11.23
-https://pomf2.lain.la/f/osltvnp.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L67vnCy1/orbiavisos.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 16.11.23
+https://pomf2.lain.la/f/w3r3kbc.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qq2PByxD/spectrum-channel.jpg" group-title="Animados | Variado",Spectrum Channel (LATAM)
 https://panel.miplay.cl:8081/spectrumchannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 channel-id="pluto-64510d3ad3fdde00080951f2" tvg-id="64510d3ad3fdde00080951f2" tvg-chno="28" tvg-logo="https://i.postimg.cc/4y2MVSMq/drag.jpg" group-title="Animados | Variado" ,Pluto TV | Drag (LATAM)
@@ -380,7 +380,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-ryanandfriends-
 https://stmv5.voxtvhd.com.br/ryetv/ryetv/chunklist_w1588689149.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DyChWL3k/seo-kids.jpg" group-title="Animados | Variado",Seo TV | Kids (BO)
-https://live.seo.tv.bo/live/SEO2.m3u8
+https://live.seo.tv.bo/live/SEO_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QN6mz0bd/spacet.jpg" group-title="Animados | Variado",Space Toon (AE)
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
@@ -3144,8 +3144,6 @@ http://45.5.117.182:8000/play/a0es/index.m3u8
 http://190.216.162.155:8001/play/a013
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Fs0ZSStn/adultsw-im.jpg" group-title="Premium | Latino",Adult Swim | Opción 6 (LATAM)
 http://187.102.209.92:9010/play/a03z/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fs0ZSStn/adultsw-im.jpg" group-title="Premium | Latino",Adult Swim | Opción 7 (LATAM)
-http://gumytv.lat:8080/31Rusbel/S2Adud7SeYKb/363078
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6qSKDhPG/morbidotv.jpg" group-title="Premium | Latino",Mórbido TV (LATAM)
 http://tv.dominiotv.xyz:25461/live/Javierc3/60335577/94146.ts
@@ -6821,17 +6819,17 @@ https://master.tucableip.com/pat/tracks-v1a1/mono.m3u8
 https://614013e273786.streamlock.net/RtpBolivia/RtpBolivia/chunklist_w858362101.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fRKwz3Yq/seotv.jpg" group-title="Bolivia",Seo TV (BO)
-https://live.seo.tv.bo/live/SEO1.m3u8
+https://live.seo.tv.bo/live/SEO_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zfvkzcyL/seo6.jpg" group-title="Bolivia",Seo TV | 6 (BO) 
-https://live.seo.tv.bo/live/SEO6.m3u8
+https://live.seo.tv.bo/live/SEO_6.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6pQRzpyg/seodeportes.jpg" group-title="Bolivia",Seo TV | Deportes (BO)
-https://live.seo.tv.bo/live/SEO5.m3u8
+https://live.seo.tv.bo/live/SEO_5.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RCTsTdQW/seonovelas1.jpg" group-title="Bolivia",Seo TV | Novelas (BO)
-https://live.seo.tv.bo/live/SEO3.m3u8
+https://live.seo.tv.bo/live/SEO_3.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9MvbNYFD/seopelis.jpg" group-title="Bolivia",Seo TV | Peliculas (BO)
-https://live.seo.tv.bo/live/SEO4.m3u8
+https://live.seo.tv.bo/live/SEO_4.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdt5CJjH/seoyungas.jpg" group-title="Bolivia",Seo TV | Yungas (BO)
-https://live.seo.tv.bo/live/SEO7.m3u8
+https://live.seo.tv.bo/live/SEO_7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ry19Qq4y/tlestrella.jpg" group-title="Bolivia",TL Estrella (BO)
 https://solo.disfrutaenlared.com:1936/teleestrella/teleestrella/playlist.m3u8
