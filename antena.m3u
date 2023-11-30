@@ -1,10 +1,12 @@
 #EXTM3U
 #EXTINF:-1, GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L67vnCy1/orbiavisos.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 27.11.23
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L67vnCy1/orbiavisos.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 30.11.23
 https://pomf2.lain.la/f/4shvd62z.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qq2PByxD/spectrum-channel.jpg" group-title="Animados | Variado",Spectrum Channel (LATAM)
 https://panel.miplay.cl:8081/spectrumchannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfyWbmP6/canela-f.jpg" group-title="Animados | Variado",Canela TV | Fiestas en Familia (LATAM)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6292
 #EXTINF:-1 channel-id="pluto-5dd6ed41526c77000941411c" tvg-id="5dd6ed41526c77000941411c" tvg-logo="https://i.postimg.cc/rpRshQtm/plutoN.jpg" tvg-chno="95" group-title="Animados | Variado" ,Pluto TV | Cine Navidad (LATAM)
 https://i.mjh.nz/PlutoTV/5dd6ed41526c77000941411c-alt.m3u8
 #EXTINF:-1 channel-id="pluto-60fb3162df090700075da907" tvg-id="60fb3162df090700075da907" tvg-logo="https://i.postimg.cc/tJRGZ436/plutoN2.jpg" tvg-chno="360" group-title="Animados | Variado" ,Pluto TV | Cine Navideño (US)
@@ -2403,8 +2405,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4417
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3rXQ9n6T/canela-clasicos.jpg" group-title="Peliculas | Series",Canela TV | Clásicos (LATAM)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZK4MXjZq/canelt.jpg" group-title="Peliculas | Series",Canela TV | El Talisman (LATAM)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1079
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTgRkVX6/canela-h.jpg" group-title="Peliculas | Series",Canela TV | Horror (LATAM)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rmQs8KBR/canelnv1.jpg" group-title="Peliculas | Series",Canela TV | Novelas (LATAM)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
@@ -3030,7 +3033,7 @@ http://181.78.8.90:16123/play/ch75
 http://170.82.37.21:8000/play/a034/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6qSKDhPG/morbidotv.jpg" group-title="Premium | Latino",Mórbido TV (LATAM)
-http://offshore.lat:25461/dfgersgr@w/XqeaDgqDaA/127
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxnqzfnP/hbo.jpg" group-title="Premium | Latino",HBO (LATAM)
 http://201.222.44.219:4226/play/a04n/index.m3u8
@@ -3909,6 +3912,9 @@ http://190.60.40.37:12500/play/a068/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G21V9j5V/mtv-latino.jpg" group-title="Premium | Latino", MTV | Latino | Opción 4 (LATAM)
 http://170.82.37.21:8000/play/a01y/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mk40qdXz/aa.jpg" group-title="Mas Series 🧟",Aaahh!!! Monstruos de Verdad (LATAM)
+http://budtvlight.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/12057
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JhdnfrjR/adult-aqua.jpg" group-title="Mas Series 🧟",Adult Swim | Aqua Teen Hunger Force (US)
 https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
 
@@ -3971,7 +3977,7 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/129321
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wM51zwFy/alf-2.jpg" group-title="Mas Series 🧟",ALF | Opción 2 (LATAM)
 http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/279476
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3hm5KfP/alf4.jpg" group-title="Mas Series 🧟",ALF | Opción 3 (LATAM)
-http://offshore.lat:25461/dfgersgr@w/XqeaDgqDaA/236535
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ0Tb77P/alf3.jpg" group-title="Mas Series 🧟",ALF | Híbrido | Animated (US)
 https://97bd5884f7a348aa93b50e48d031be0e.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/ONO_ALF/playlist.m3u8
 
@@ -3985,13 +3991,14 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/129354
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8kbxs1R7/bat.jpg" group-title="Mas Series 🧟",Batman (LATAM)
-http://offshore.lat:25461/dfgersgr@w/XqeaDgqDaA/233790
+http://budtvlight.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/12036
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kG2HkCLs/ben10.jpg" group-title="Mas Series 🧟",Ben 10 (LATAM)
-http://offshore.lat:25461/dfgersgr@w/XqeaDgqDaA/274258
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2dGtMND/catdog.jpg" group-title="Mas Series 🧟",CatDog (LATAM)
+http://budtvlight.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/12032
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SNdPgMWf/chernobyl.jpg" group-title="Mas Series 🧟",Chernobyl (LATAM)
-http://offshore.lat:25461/dfgersgr@w/XqeaDgqDaA/274256
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xdpFn92w/corage.jpg" group-title="Mas Series 🧟",Coraje (LATAM)
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129333
@@ -4004,24 +4011,31 @@ https://daiconnect.com/live/hls/tvup/tvfy-pljr/b8ee129e0585ae0c1eb5b4187f8e4fa7/
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgXJW92y/digimon.jpg" group-title="Mas Series 🧟",Digimon Adventure (LATAM)
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/140848
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgXJW92y/digimon.jpg" group-title="Mas Series 🧟",Digimon Adventure | Opción 2 (LATAM)
+http://budtvlight.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/12055
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MHYrcbTz/dino.jpg" group-title="Mas Series 🧟",Dinosaurios (LATAM)
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129314
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hPVVDw8t/gato.jpg" group-title="Mas Series 🧟",Don Gato y su Pandilla (LATAM)
-http://offshore.lat:25461/dfgersgr@w/XqeaDgqDaA/263252
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HxZXx6Dw/dorae.jpg" group-title="Mas Series 🧟",Doraemon (LATAM)
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129335
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pdTzRdXD/drake.jpg" group-title="Mas Series 🧟",Drake y Josh (LATAM)
-http://offshore.lat:25461/dfgersgr@w/XqeaDgqDaA/274028
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zMj3pK2/beackman.jpg" group-title="Mas Series 🧟",El Mundo de Beackman (LATAM)
+http://budtvlight.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/12021
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmHDRzKK/enfa.jpg" group-title="Mas Series 🧟",En Familia con Chabelo (LATAM)
+http://budtvlight.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/11988
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqT3Ywx6/esca.jpg" group-title="Mas Series 🧟",Escalosfríos (LATAM)
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dQ5M0sF5/gum.jpg" group-title="Mas Series 🧟",El Asombroso Mundo de Gumball (LATAM)
-http://offshore.lat:25461/dfgersgr@w/XqeaDgqDaA/298850
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZdS3Yx8/elrprincipe.jpg" group-title="Mas Series 🧟",El Principe del Rap (LATAM)
 http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/160769
@@ -4037,11 +4051,12 @@ http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/160755
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZR6b0KY/futurama.jpg" group-title="Mas Series 🧟",Futurama (LATAM)
 http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/42158
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZR6b0KY/futurama.jpg" group-title="Mas Series 🧟",Futurama | Opción 2 (LATAM)
-http://offshore.lat:25461/dfgersgr@w/XqeaDgqDaA/346235
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m2jtRwDq/garfiel.jpg" group-title="Mas Series 🧟",Garfield y sus Amigos (LATAM)
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/162188
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/25HZ66L2/hechi.jpg" group-title="Mas Series 🧟",Hechizada (LATAM)
+http://budtvlight.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/12052
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCdbLr9Q/heima.jpg" group-title="Mas Series 🧟",Heidi y Maya (LATAM)
 https://i.mjh.nz/SamsungTVPlus/ESBD3200002V5.m3u8
@@ -4069,8 +4084,10 @@ http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/160795
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKMwV9Rp/dark.jpg" group-title="Mas Series 🧟",Le Temes a la Oscuridad (LATAM)
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129331
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SKMwV9Rp/dark.jpg" group-title="Mas Series 🧟",Le Temes a la Oscuridad | 2 (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SKMwV9Rp/dark.jpg" group-title="Mas Series 🧟",Le Temes a la Oscuridad | Opción 2 (LATAM)
 http://home-playtv.com:8080/Granav803/S032PEWQQDxm/177330
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SKMwV9Rp/dark.jpg" group-title="Mas Series 🧟",Le Temes a la Oscuridad | Opción 3 (LATAM)
+http://budtvlight.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/12009
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bNKMrTqf/lon.jpg" group-title="Mas Series 🧟",Looney Tunes (LATAM)
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129338
@@ -4084,15 +4101,14 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/129349
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KvGG8mvy/los3.jpg" group-title="Mas Series 🧟",Los Tres Chiflados (LATAM)
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/159340
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KYmPjwqv/simpsons-horror.jpg" group-title="Mas Series 🧟",Los Simpsons | Casita del Horror (LATAM)
+http://budtvlight.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/11998
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fWK0D1DX/24-7-thesimpsons.jpg" group-title="Mas Series 🧟",Los Simpsons | Classicos (LATAM)
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129313
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zvzckYnF/simpsons-3.jpg" group-title="Mas Series 🧟",Los Simpsons | 1 (ES)
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/136246
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5y2sCqVP/simpsons-4.jpg" group-title="Mas Series 🧟",Los Simpsons | 2 (LATAM)
 http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/160526
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtJFXNYP/simpsons-1.jpg" group-title="Mas Series 🧟",Los Simpsons | 3 (LATAM)
 http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/160533
 
@@ -4101,7 +4117,7 @@ http://home-playtv.com:8080/Granav803/S032PEWQQDxm/108063
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8zzdQY9j/malcom2.jpg" group-title="Mas Series 🧟",Malcom in The Middle (LATAM)
 http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/160733
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHMJ2trJ/malcom.jpg" group-title="Mas Series 🧟",Malcom in The Middle | 2 (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHMJ2trJ/malcom.jpg" group-title="Mas Series 🧟",Malcom in The Middle | Opción 2 (LATAM)
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/138457
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1JYgJ5L/meg.jpg" group-title="Mas Series 🧟",Megaman (LATAM)
@@ -4126,7 +4142,7 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/3406
 http://svtv.xyz:8080/MariaDiaz/RFZQJtZ/160744
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VLJndSYk/paw.jpg" group-title="Mas Series 🧟",Patrulla Canina (LATAM)
-http://offshore.lat:25461/dfgersgr@w/XqeaDgqDaA/203599
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Wzw94KFx/pep.jpg" group-title="Mas Series 🧟",Pepa Pig (LATAM)
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/140377
@@ -4155,7 +4171,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3435
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x11chfVC/scooby2.jpg" group-title="Mas Series 🧟",Scooby Doo (LATAM)
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/3385
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5yB85v3/scooby.jpg" group-title="Mas Series 🧟",Scooby Doo | 2 (LATAM)
-http://offshore.lat:25461/dfgersgr@w/XqeaDgqDaA/274252
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZw7LhrW/sonic.jpg" group-title="Mas Series 🧟",Sonic (LATAM)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4281
