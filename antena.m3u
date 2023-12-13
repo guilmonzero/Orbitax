@@ -87,6 +87,12 @@ https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4k46rQ2/afro-k.jpg" group-title="Animados | Variado",Afro Kids (MA)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1932
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2ffxPZC/afv-espanol.jpg" group-title="Animados | Variado",AFV | Español (LATAM)
+https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Njz4Jns/afv-family.jpg" group-title="Animados | Variado",AFV | Family | Irlanda (IE)
+https://futuretoday-afv-family-2-ie.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KYnBKRHj/alterna.jpg" group-title="Animados | Variado",Alterna TV (AR)
 https://alternatv.ar/stream/hls/live.m3u8
 
@@ -295,6 +301,9 @@ https://ucdn.beetv.kz/btv/live/hls/000000781.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5LbfGhW/kartoonch.jpg" group-title="Animados | Variado",Kartoon Channel (US)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=252
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/28qqWzSC/kbs-kids.jpg" group-title="Animados | Variado",KBS | Kids (KR)
+https://code.vthanhtivi.pw/getlink/kbs/N96/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFDS4w7T/kidd.jpg" group-title="Animados | Variado",Kiddo+ (US)
 https://kiddo-plus-vivalive.evrideo.tv/8258122f-b4c0-416b-a2db-8407847f0c3c_1000015692_HLS/video_720p_1000015692.m3u8
@@ -538,6 +547,9 @@ https://5940924978228.streamlock.net/8095/8095/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/15ZzkGSQ/vivep.jpg" group-title="Animados | Variado",Vive Play (VE)
 https://linear-260.frequency.stream/dist/vix/260/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvYDNPJS/wa.jpg" group-title="Animados | Variado",Wapa TV | Puerto Rico (PR)
+https://live.field59.com/wapa/wapa1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hPgw0xhT/wording.jpg" group-title="Animados | Variado",Wording TV (BR)
 https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
@@ -842,6 +854,18 @@ https://stream.osc.bg/tvart/Stream3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j2nQyMqW/tvbr.jpg" group-title="Ciencia | Cultura 🪐",TV Brasil (BR)
 http://200.189.113.201/hls/tve.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrRfYxX2/tv-brics.jpg" group-title="Ciencia | Cultura 🪐",TV BRICS | Chino (CN)
+https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrRfYxX2/tv-brics.jpg" group-title="Ciencia | Cultura 🪐",TV BRICS | Inglés (US)
+https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrRfYxX2/tv-brics.jpg" group-title="Ciencia | Cultura 🪐",TV BRICS | Portugues (BR)
+https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrRfYxX2/tv-brics.jpg" group-title="Ciencia | Cultura 🪐",TV BRICS | Ruso (RU)
+https://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cH0VTGgY/elqui.jpg" group-title="Ciencia | Cultura 🪐",TV Elqui (CL)
 https://paneltv.online:1936/8056/8056/chunklist_w1633106361.m3u8
@@ -1464,7 +1488,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qvqxxFpk/CBSNEWS.jpg" group-title="Informativo",CBS | News (US)
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/j514dSBY/cctv13.jpg" group-title="Informativo",CCTV 13 | News (CN)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j514dSBY/cctv13.jpg" group-title="Informativo",CCTV | 13 | News (CN)
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3R7nqFF9/centralfm.jpg" group-title="Informativo",Central FM | Noticias (MX)
@@ -10926,15 +10950,6 @@ https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b450000_t6
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/90cr2vbb/antvx.jpg" group-title="Mas Señales",AnTV | Vietnam (VN)
 http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/LsMLBTV6/afv-us.jpg" group-title="Mas Señales",AFV | Stirr (US)
-https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2ffxPZC/afv-espanol.jpg" group-title="Mas Señales",AFV | Español (LATAM)
-https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Njz4Jns/afv-family.jpg" group-title="Mas Señales",AFV | Family | Irlanda (IE)
-https://futuretoday-afv-family-2-ie.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7hzCc0L5/arirang.jpg" group-title="Mas Señales",Arirang | Korea (KR)
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7hzCc0L5/arirang.jpg" group-title="Mas Señales",Arirang | SD | Korea (KR)
@@ -10952,19 +10967,19 @@ https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w746877768.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85PGHc2H/BRT.jpg" group-title="Mas Señales",BRT | Vietnam (VN)
 http://113.163.216.23:1935/live/ngrp:tv2.stream_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C5S1Mg9/bs-asahi.jpg" group-title="Mas Señales",BS | Asahi (JP)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C5S1Mg9/bs-asahi.jpg" group-title="Mas Señales",BS | Asahi [Solo con VLC Player] (JP)
 http://203.162.235.41:29108
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HsX528Kq/bs-fuji.jpg" group-title="Mas Señales",BS | Fuji TV (JP)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HsX528Kq/bs-fuji.jpg" group-title="Mas Señales",BS | Fuji TV [Solo con VLC Player] (JP)
 http://203.162.235.41:22101
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VsH4TtK5/bs-nippontv.jpg" group-title="Mas Señales",BS | Nippon TV (JP)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VsH4TtK5/bs-nippontv.jpg" group-title="Mas Señales",BS | Nippon TV [Solo con VLC Player] (JP)
 http://203.162.235.41:16095
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCJRqKd2/bs-tbs.jpg" group-title="Mas Señales",BS | TBS (JP)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCJRqKd2/bs-tbs.jpg" group-title="Mas Señales",BS | TBS [Solo con VLC Player] (JP)
 http://203.162.235.41:26105
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JndrZKMb/bs-tvtokyo.jpg" group-title="Mas Señales",BS | TV Tokyo (JP)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JndrZKMb/bs-tvtokyo.jpg" group-title="Mas Señales",BS | TV Tokyo [Solo con VLC Player] (JP)
 http://203.162.235.41:23102
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T1x39wZ9/buena.jpg" group-title="Mas Señales",Buena TV | Puerto Rico (PR)
@@ -10979,14 +10994,27 @@ http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/q7JFStMk/caribe.jpg" group-title="Mas Señales",CBC | Barbados (BB)
 https://1740288887.rsc.cdn77.org/1740288887/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXk4hvsR/CCTV4.jpg" group-title="Mas Señales",CCTV | 4 (CN)
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSvnp8zq/CCTV1.jpg" group-title="Mas Señales",CCTV | 1 (CN)
+https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdbdKDPr/CCTV2.jpg" group-title="Mas Señales",CCTV | 2 (CN)
+https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdY2jF1s/CCTV3.jpg" group-title="Mas Señales",CCTV | 3 (CN)
+http://183.196.25.171:808/hls/75/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Pqys0Sy3/CCTV5.jpg" group-title="Mas Señales",CCTV | 5 (CN)
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWS6DWRQ/CCTV5plus.jpg" group-title="Mas Señales",CCTV | 5+ (CN)
+https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfCqf8g/CCTV7.jpg" group-title="Mas Señales",CCTV | 7 (CN)
+https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MHwmQJgt/CCTV8.jpg" group-title="Mas Señales",CCTV | 8 (CN)
+https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzbvytVZ/CCTV9.jpg" group-title="Mas Señales",CCTV | 9 (CN)
+https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cH0v714K/CCTV10.jpg" group-title="Mas Señales",CCTV | 10 (CN)
+https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bdcT3tsT/cherie.jpg" group-title="Mas Señales",Chérie | 25 (FR)
 http://livetv.ktv.zone/27/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncL9X0PX/cru.jpg" group-title="Mas Señales",Cruise1st TV (UK)
-https://ythls.onrender.com/channel/UC9r76Tzp5HxeQG7SqZwV3OA.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJfKjjtk/dajto.jpg" group-title="Mas Señales",Dajto | Eslovequia (SK)
 http://213.81.133.133:8080/dajto/index.m3u8
@@ -11000,7 +11028,7 @@ http://193.33.240.8:8080/fashion_one_hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T1FcWkds/flow.jpg" group-title="Mas Señales",Flowers TV (IN)
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3NmDBxTM/jp-f.jpg" group-title="Mas Señales",Fuji TV (JP)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3NmDBxTM/jp-f.jpg" group-title="Mas Señales",Fuji TV [Solo con VLC Player] (JP)
 http://203.162.235.41:15094
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cSvVYXm/goldtv.jpg" group-title="Mas Señales",Gold TV (IT)
@@ -11040,34 +11068,31 @@ https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 https://stream1.kanald.ro/iphone/knd-live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d0WkdDrt/kbs-1.jpg" group-title="Mas Señales",KBS | l (KR)
-http://ye23.vip/z7z8/2021/kbs2020.php?id=1
+https://code.vthanhtivi.pw/getlink/kbs/11/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCzfCdPZ/kbs-2.jpg" group-title="Mas Señales",KBS | 2 (KR)
-http://ye23.vip/z7z8/2021/kbs2020.php?id=2
+https://code.vthanhtivi.pw/getlink/kbs/12/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fLrzW9Xm/kbs-drama.jpg" group-title="Mas Señales",KBS | Drama (KR)
-http://ye23.vip/z7z8/2021/kbs2020.php?id=5
+https://code.vthanhtivi.pw/getlink/kbs/N91/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GmwpsGfj/kbs-joy.jpg" group-title="Mas Señales",KBS | Joy (KR)
-http://ye23.vip/z7z8/2021/kbs2020.php?id=6
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/28qqWzSC/kbs-kids.jpg" group-title="Mas Señales",KBS | Kids (KR)
-http://ye23.vip/z7z8/2021/kbs2020.php?id=9
+https://code.vthanhtivi.pw/getlink/kbs/N92/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LXHYgLnW/kbs-life.jpg" group-title="Mas Señales",KBS | Life (KR)
-http://ye23.vip/z7z8/2021/kbs2020.php?id=7
+https://code.vthanhtivi.pw/getlink/kbs/N93/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NfVHCKzy/kbs-livecam.jpg" group-title="Mas Señales",KBS | LiveCam Dokdo (KR)
 http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Ss76wmzB/kbs-newsd.jpg" group-title="Mas Señales",KBS | News D (KR)
-http://ye23.vip/z7z8/2021/kbs2020.php?id=4
+https://code.vthanhtivi.pw/getlink/kbs/81/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hnzt7TYw/kbs-stoyy.jpg" group-title="Mas Señales",KBS | Story (KR)
-http://ye23.vip/z7z8/2021/kbs2020.php?id=8
+https://code.vthanhtivi.pw/getlink/kbs/N94/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vTt0LWz6/kbs-word.jpg" group-title="Mas Señales",KBS | World (KR)
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y8fg59Tc/la7xit.jpg" group-title="Mas Señales",La7 | Italia (IT)
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
@@ -11108,12 +11133,12 @@ http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/44SkjPky/NDR2.jpg" group-title="Mas Señales",NDR | Fernsehen (DE)
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYxkx3s0/nhk.jpg" group-title="Mas Señales",NHK (JP)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYxkx3s0/nhk.jpg" group-title="Mas Señales",NHK | Premium (JP)
 http://112.72.4.108/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYxkx3s0/nhk.jpg" group-title="Mas Señales",NHK | Opción 2 (JP)
-https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYxkx3s0/nhk.jpg" group-title="Mas Señales",NHK | Premium | Opción 2 (JP)
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNbF01Vt/j-bs.jpg" group-title="Mas Señales",NHK | BS Premium (JP)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNbF01Vt/j-bs.jpg" group-title="Mas Señales",NHK | BS Premium [Solo con VLC Player] (JP)
 http://203.162.235.41:25104
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6p2x0yw5/NHK.jpg" group-title="Mas Señales",NHK | World Japan (JP)
@@ -11232,10 +11257,8 @@ http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqJF6w5L/tvi.jpg" group-title="Mas Señales",Tamil Vision TV | India (IN)
 https://live.tamilvision.tv/TVI/HD/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkPNYsdC/j-t.jpg" group-title="Mas Señales",TBS (JP)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkPNYsdC/j-t.jpg" group-title="Mas Señales",TBS [Solo con VLC Player] (JP)
 http://203.162.235.41:18097
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkPNYsdC/j-t.jpg" group-title="Mas Señales",TBS | Opción 2 (JP)
-https://tbs3.mov3.co/hls/tbs.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKQPdZTH/telebari.jpg" group-title="Mas Señales",TeleBari (IT)
 rtmp://fl1.mediastreaming.it:1935/telebari/livestream
@@ -11263,20 +11286,8 @@ https://ttntv.b-cdn.net/live/ttntv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bwVNh9Fy/tvbor.jpg" group-title="Mas Señales",TV2 / Bornholm | Dinamarca (DK)
 https://live.tv2bornholm.dk/stream/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5GP623y/j.jpg" group-title="Mas Señales",TV Asahi (JP)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5GP623y/j.jpg" group-title="Mas Señales",TV Asahi [Solo con VLC Player] (JP)
 http://203.162.235.41:17097
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrRfYxX2/tv-brics.jpg" group-title="Mas Señales",TV BRICS | Chino (CN)
-https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrRfYxX2/tv-brics.jpg" group-title="Mas Señales",TV BRICS | Inglés (US)
-https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrRfYxX2/tv-brics.jpg" group-title="Mas Señales",TV BRICS | Portugues (BR)
-https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrRfYxX2/tv-brics.jpg" group-title="Mas Señales",TV BRICS | Ruso (RU)
-https://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjM1CVKP/tvdirect.jpg" group-title="Mas Señales",TV Direct 13 | Curazao (CW)
 https://oqgdrog4d4rm-hls-live.5centscdn.com/tvdirect/f7b44cfafd5c52223d5498196c8a2e7b.sdp/tvdirect/stream1/chunks.m3u8
@@ -11284,7 +11295,7 @@ https://oqgdrog4d4rm-hls-live.5centscdn.com/tvdirect/f7b44cfafd5c52223d5498196c8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6343dZ6J/tvjoj.jpg" group-title="Mas Señales",TV Joj | Eslovequia (SK)
 http://213.81.133.133:8080/joj/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DwwsLF8Z/j-to.jpg" group-title="Mas Señales",TV Tokyo (JP)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DwwsLF8Z/j-to.jpg" group-title="Mas Señales",TV Tokyo [Solo con VLC Player] (JP)
 http://203.162.235.41:19098
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/brYzsfwK/ucn.jpg" group-title="Mas Señales",U TV (CN)
@@ -11295,9 +11306,6 @@ https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5NgHyJpK/w9.jpg" group-title="Mas Señales",W9 (FR)
 http://livetv.ktv.zone/11/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvYDNPJS/wa.jpg" group-title="Mas Señales",Wapa TV | Puerto Rico (PR)
-https://live.field59.com/wapa/wapa1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hx9YP4F5/WAO.jpg" group-title="Mas Señales",WAU TV | Eslovaquia (SK)
 https://nn.geo.joj.sk/live/hls/wau-540.m3u8
