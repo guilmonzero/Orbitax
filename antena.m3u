@@ -246,6 +246,11 @@ https://wifiexpert-1.energeek.cl/energeek/canal-2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FzGZ2JCz/energeek-radio.jpg" group-title="Animados | Variado",EnerGeek | Radio (CL)
 https://stream.wifiexpert.cl/energeek/radio/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTvnSQnn/retro1.jpg" group-title="Animados | Variado",Estación Retro (CO)
+https://xhateaec.com:8800/hls/Xhateaec/Xhateaec/09aad3dd77caa0ed9af428f21870dc79/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTvnSQnn/retro1.jpg" group-title="Animados | Variado",Estación Retro | Opción 2 (CO)
+https://ssh101.bozztv.com/ssh101/canalonline/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZndW82Pt/estv.jpg" group-title="Animados | Variado",ESTV (US)
 https://estv-rakuten-samsung.amagi.tv/playlist_1080p.m3u8
 
@@ -277,9 +282,7 @@ http://iptv.prosto.tv:7000/ch256/video.m3u8
 https://stream.ichibantv.com:3764/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vTStdkrS/gloob.jpg" group-title="Animados | Variado",Gloob (BR)
-http://dns.acaidopara.net:8080/fSyzNILoAD/tehDZdC8cn/1889
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWwhc9HJ/gloobinho.jpg" group-title="Animados | Variado",Gloobinho (BR)
-http://dns.acaidopara.net:8080/fSyzNILoAD/tehDZdC8cn/2134
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/76LKGMLn/gogoplay.jpg" group-title="Animados | Variado",GogoPlay TV (LATAM)
 https://tgn.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
@@ -4492,7 +4495,7 @@ https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8kbxs1R7/bat.jpg" group-title="Mas Series 🧟",Batman (LATAM)
 http://budtvlight.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/12036
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wxL04Ymj/baywatch.jp" group-title="Mas Series 🧟",Baywatch | Los Vigilantes de la Playa (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wxL04Ymj/baywatch.jpg" group-title="Mas Series 🧟",Baywatch | Los Vigilantes de la Playa (LATAM)
 https://i.mjh.nz/SamsungTVPlus/ESBD1300001EP.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kG2HkCLs/ben10.jpg" group-title="Mas Series 🧟",Ben 10 (LATAM)
