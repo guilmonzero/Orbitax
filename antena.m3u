@@ -192,8 +192,6 @@ https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RF0KkzLf/energeek1.jpg" group-title="Animados | Variado",EnerGeek (CL)
 https://wifiexpert-1.energeek.cl/energeek/canal-1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MGNsW-ypp/energeek-anip.jpg" group-title="Animados | Variado",EnerGeek | Anipop (CL)
-https://wifiexpert-1.energeek.cl/energeek/anipop-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cHF6zFD8/energeek-fan.jpg" group-title="Animados | Variado",EnerGeek | Fanpop (CL)
 https://wifiexpert-1.energeek.cl/energeek/canal-2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FzGZ2JCz/energeek-radio.jpg" group-title="Animados | Variado",EnerGeek | Radio (CL)
@@ -456,9 +454,6 @@ https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hnq8xsyQ/tick.jpg" group-title="Animados | Variado",Tick TV (LATAM)
 https://ssh101.bozztv.com/ssh101/ticktv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HWccQrRj/telekorean.jpg" group-title="Animados | Variado",TK | Tele Koreano (LATAM)
-https://xhateaec.com:8800/hls/TeleKoreano/SeuolKorea/1050a0ed7561aebc5d32ef81b2a235dc/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FRLFtpXy/tntk.jpg" group-title="Animados | Variado",TNT Kids | Bosnia (BA)
 https://restreamer1.tnt.ba/hls/tntkids.m3u8
 
@@ -487,6 +482,9 @@ https://i.mjh.nz/SamsungTVPlus/ESBC4100002AG.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCkyvPV1/tvemplacilla2.jpg" group-title="Animados | Variado",TV En Placilla (CL)
 https://panel.tvstream.cl:1936/8038/8038/chunklist_w1110360145.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fz6Vyh7R/tvs.jpg" group-title="Animados | Variado",TV's X TV (BO)
+https://xhateaec.com:8800/hls/visitor/visitor/09b15145dec3e2ff643906b681ff0ac9/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKH4zjQ0/tvs-ca.jpg" group-title="Animados | Variado",TVS | Cartoons (US)
 https://rpn1.bozztv.com/36bay2/gusa-TVSCartoonNetwork/index.m3u8
@@ -1409,6 +1407,9 @@ https://panel.dattalive.com/6605140/smil:6605140.smil/chunklist_w802712100_b1300
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Pxv5nKZk/4d.jpg" group-title="Informativo",4D Más Noticias (PY)
 https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d1P99pzB/a24.jpg" group-title="Informativo",A24 (AR)
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1704964357/ei/pVyfZfiBNanB_9EP-v6o8AI/ip/74.249.14.247/id/QGpHLgRnrx4.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-p5qddn7r.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f7LyZeBtI5wqchg2AXqhGNr39sX3RMXUe0-OhRYB7p4/vprv/1/playlist_type/DVR/mh/6d/mm/44/mn/sn-p5qddn7r/ms/lva/mv/u/mvi/2/pl/16/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1704942144/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgE1OCP9VRlmWvl8rWUF5xXq7CfASZmVIz1VN5zo5GoYwCIH-RwfrsTlZgkUQAxF_dkTfyrgfJiGkE-e8fT0S5kTyd/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AAO5W4owRQIgCOr-_Iro6svVC76pCGIlW7vEr8lb7jC2Ur4eze8lakECIQCINv9uyhYEkz87hP3EZVYDzG58OO18yudp6Q-xsqFiug%3D%3D/playlist/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cCHLBKzY/abcau.jpg" group-title="Informativo",ABC | News | Australia (AU)
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
@@ -6790,6 +6791,8 @@ https://video.streamtvradio.com:8443/uv038/uv038/chunks.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v3/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6QhPKzfk/eltrece.jpg" group-title="Argentina",El Trece | Opción 2 (AR)
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6QhPKzfk/eltrece.jpg" group-title="Argentina",El Trece | Opción 3 (AR)
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CsoEoV6YJjpaHT1QpbWwaie70Z8liYfvM2sB7PNDW0kxoFqOmiaPOZ4RV0lhogu2jMZ9AznFwT14EwrPJ6eHANz6j0npOCgx0TW2YAFz6AmQcsGMn4bVLPiqo7DA0FhVOdgdhDVd93ZL78DQuf0aFZSNJ-JrVR4OtjwkTdHLMngPr7Xa40iXL_PqDBgWTn7ieRFS8l0IhrF46n6HD1lsFkH3kRyFEUK1Hfixtu_yx2Xl_KGcOcDF71eqUHm-QZn0Ye2nqdqDu7mlfdsM0_OapIpWAsCFncKs89fEmt8O-S02LHAlYdtH8AP7JTfPRtPEr4gOEhKF8Xod46d7iTCSmg4DeNUbWRC_rxK0AL3NNRfKbHNy-Gzd6pWf7APQfDbpeYyeEREYHydx_3A7SIlkgnGpXgSQxwEw2YY47Hh1DcB27kLch70DDghSEGkVSCGpqu0Vn7PI-iBopRjp2aqdsfY4_qDn4sP4zWeYKEfAsmyBGcn5_NPD_hm6KzRW6AOa57VqrBayEOjpy1mxN96fImVD6XGjzNWlYUS6URcbF-PkDiualeZBHTKouhDyfRzgfAhqdOeU2nuHGHGvysucVehtOF9yGtJJF9uT2ASj4wLUXTRFSF-NNCm302rRr3a0Vsb6A4GHUHz763Fn7MfJ-49omB2gu72sf3yIt4k1n4XIgDylAkGGlhShKcUqE6XF2Nz10X0q2tBdlAmZmko8glM2aKOH8LEDgKuMFdcAMEFkYz47h5bye3Qgt0w1Tvgtwf20-ddkvW46aQPaCxoMwOkdU1pVb1Ao3F8uIAEqCXVzLXdlc3QtMjC5CA.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWc8Fmhn/fenix.jpg" group-title="Argentina",Fenix (AR)
 https://stmvideo1.livecastv.com/fenixlarioja/fenixlarioja/chunklist_w1524354343.m3u8
