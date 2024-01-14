@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1, GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9qQsHV/orbi2024.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 12.01.24
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9qQsHV/orbi2024.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 14.01.24
 https://archive.org/serve/orbita-guilmonzero-iptv-gratis-sigue-actualizando/%5B%C3%92rbita%20%40guilmonzero%5D%20IPTV%20Gratis%20-%20Sigue%20Actualizando.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qq2PByxD/spectrum-channel.jpg" group-title="Animados | Variado",Spectrum Channel (LATAM)
 https://panel.miplay.cl:8081/spectrumchannel/tracks-v1a1/mono.m3u8
@@ -1548,7 +1548,7 @@ https://streaming.elpinguino.com:5391/live/EP.smil/chunklist_w460506364_b1431026
 https://estrella-news-oando.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0PYtStb/EURO.jpg" group-title="Informativo",Euro News | Español (FR)
-https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+https://i.mjh.nz/SamsungTVPlus/ESAJ4500024LR.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0PYtStb/EURO.jpg" group-title="Informativo",Euro News | Ingles (FR)
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
@@ -1595,11 +1595,17 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jSMkx1dr/it2.jpg" group-title="Informativo",Italia 2 TV | News (IT)
 http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydJWJSNV/kan11.jpg" group-title="Informativo",Kan 11 | Israel (IL)
+https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3N5Y73Nw/lci.jpg" group-title="Informativo",LCI (FR)
 http://livetv.ktv.zone/28/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nrSVCcvv/localnow-scrippsnews.jpg" group-title="Informativo",Local Now | Scripps News (US)
 https://d3ra88okaj5j4j.cloudfront.net/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WtcDcbTs/makan33.jpg" group-title="Informativo",Makan 33 | Israel (IL)
+https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvYh0hHY/marty.jpg" group-title="Informativo",Martí Television (CU)
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
@@ -1637,6 +1643,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00450-herringnetwork-oan-vidaa/play
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pyb70cQG/one.jpg" group-title="Informativo",One Radio | 95.1FM | San Juan (AR)
 https://stmvideo2.livecastv.com/oneradio/oneradio/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2s7Xqp6/pal.jpg" group-title="Informativo",Palestine TV | Palestina (PS)
+https://pbc.furrera.ps/palestinehd/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LsdkDRrB/palest.jpg" group-title="Informativo",Palestine Today | Palestina (PS)
+https://live.paltodaytv.com/paltv/live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QNR4Xbqf/Pre.jpg" group-title="Informativo",Press TV (IR)
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
 
@@ -1655,6 +1666,8 @@ https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7G4dhwF/reuters.jpg" group-title="Informativo",Reuters News (UK)
 https://32ce4aad1eed49b1ba2999fb68d119c8.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ReutersNow/678e78de-ad71-4747-936a-55da37f68898/6.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1Q9Khr2/rt-ruso.jpg" group-title="Informativo",RT | Árabe (RU)
+https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C1Q9Khr2/rt-ruso.jpg" group-title="Informativo",RT | Español (RU)
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C1Q9Khr2/rt-ruso.jpg" group-title="Informativo",RT | Francés (RU)
@@ -1724,6 +1737,9 @@ https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/in
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7YN6kQ0n/usw-.jpg" group-title="Informativo",US Weekly TV | Magazine (US)
 https://a360-usweeklytv-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTf2gQG1/wattan.jpg" group-title="Informativo",Wattan TV | Palestina (PS)
+http://htvmada.mada.ps:8888/wattan/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKW3r7b9/wheather-Gone-Viral.jpg" group-title="Informativo",Weather Gone Viral (US)
 https://linear-128.frequency.stream/dist/localnow/128/hls/master/playlist.m3u8
@@ -1808,6 +1824,9 @@ https://tv.beatfm.nl/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d1jbsxjj/Beats.jpg" group-title="Música 🎼",Beats | 100.5FM (AR)
 https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jS8BZRN1/beatg.jpg" group-title="Música 🎼",Beat TV (GT)
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/193
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6Q4V4jHF/Blast.jpg" group-title="Música 🎼",Blast Channel TV (BR)
 https://video01.logicahost.com.br/blast/blast/chunklist_w2035167070.m3u8
@@ -1947,7 +1966,7 @@ http://170.82.37.21:8000/play/a01u/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FzZP4PVM/exatv.jpg" group-title="Música 🎼",Exa TV | Opción 2 (MX)
 http://45.5.117.182:8000/play/a0hz/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d108tRYV/falas.jpg" group-title="Música 🎼",Falastini TV | Arabia Saudita (SA)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d108tRYV/falas.jpg" group-title="Música 🎼",Falastini TV | Palestina (PS)
 https://rp.tactivemedia.com/falastinitv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9MGBrdg3/fam.jpg" group-title="Música 🎼",Fama TV | Portugal (PT)
@@ -4383,7 +4402,7 @@ https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8kbxs1R7/bat.jpg" group-title="Mas Series 🧟",Batman (LATAM)
 http://budtvlight.com:25461/JW2WBJW2WBOndemand2023/d8rQEH2h4E/12036
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wxL04Ymj/baywatch.jpg" group-title="Mas Series 🧟",Baywatch | Los Vigilantes de la Playa (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wxL04Ymj/baywatch.jpg" group-title="Mas Series 🧟",Baywatch | Los Vigilantes de la Playa (ES)
 https://i.mjh.nz/SamsungTVPlus/ESBD1300001EP.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kG2HkCLs/ben10.jpg" group-title="Mas Series 🧟",Ben 10 (LATAM)
@@ -4943,13 +4962,16 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c8a24e17da110007eed4
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6080381ab7c9ea00074ec64c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 channel-id="pluto-5f1ab3c7778230000735cf41" tvg-id="5f1ab3c7778230000735cf41" tvg-logo="https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png" tvg-chno="550" group-title="Pluto TV | España" ,MTV | Catfish TV Show
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac947dcd00d0007937c08/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+https://i.mjh.nz/SamsungTVPlus/ESAJ3800003LX.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvQg9pdj/mtvcribs.jpg" group-title="Pluto TV | España",MTV | Cribs
+https://i.mjh.nz/SamsungTVPlus/ESAJ3800006TT.m3u8
 
 #EXTINF:-1 channel-id="pluto-6130d8dc943001000708548d" tvg-id="6130d8dc943001000708548d" tvg-logo="https://images.pluto.tv/channels/6130d8dc943001000708548d/colorLogoPNG.png" tvg-chno="553" group-title="Pluto TV | España" ,MTV | Realities
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61bb2814ac085a00074309a6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 channel-id="pluto-5f1aadf373bed3000794d1d7" tvg-id="5f1aadf373bed3000794d1d7" tvg-logo="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" tvg-chno="554" group-title="Pluto TV | España" ,MTV | Originals
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600ae52e34a3700007000534/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+https://i.mjh.nz/SamsungTVPlus/ESAJ380000226.m3u8
 
 #EXTINF:-1 channel-id="pluto-604f81a49ef73300070e554f" tvg-id="604f81a49ef73300070e554f" tvg-logo="https://images.pluto.tv/channels/604f81a49ef73300070e554f/colorLogoPNG.png" tvg-chno="555" group-title="Pluto TV | España" ,MTV | Teen Mom
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61bb2814ac085a00074309a6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -4979,7 +5001,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600ae79fa46e17000794e8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f58d45696a530007088486/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 channel-id="pluto-5f1abf5fafb5ee0007d4d0ca" tvg-id="5f1abf5fafb5ee0007d4d0ca" tvg-logo="https://images.pluto.tv/channels/5f1abf5fafb5ee0007d4d0ca/colorLogoPNG.png" tvg-chno="700" group-title="Pluto TV | España" ,FailArmy
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f58d45696a530007088486/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+https://i.mjh.nz/SamsungTVPlus/ESBA1400006NP.m3u8
 
 #EXTINF:-1 channel-id="pluto-604f8125c6669b00077f7699" tvg-id="604f8125c6669b00077f7699" tvg-logo="https://images.pluto.tv/channels/604f8125c6669b00077f7699/colorLogoPNG.png" tvg-chno="701" group-title="Pluto TV | España" ,Wipeout
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6140a074a99e79000738162a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -7845,10 +7867,10 @@ https://59ef525c24caa.streamlock.net/Tvpluscr/Tvpluscr/chunklist_w1335126634.m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0xHK6Q1/telered2.jpg" group-title="Costa Rica 🇨🇷",TeleRed (CR)
 https://video20.klm99.com:3558/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNmXfxZ1/telesi.jpg" group-title="Costa Rica 🇨🇷",TeleSistema (CR)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/851S0ZcK/telesisem2.jpg" group-title="Costa Rica 🇨🇷",TeleSistema (CR)
 https://video20.klm99.com:3621/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNmXfxZ1/telesi.jpg" group-title="Costa Rica 🇨🇷",TeleSistema | Opción 2 (CR)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/851S0ZcK/telesisem2.jpg" group-title="Costa Rica 🇨🇷",TeleSistema | Opción 2 (CR)
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgw3TCmQ/telesurx.jpg" group-title="Costa Rica 🇨🇷",TeleSur (CR)
@@ -7914,7 +7936,7 @@ https://youvideostreaming.club/hls/ecutv2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0RFJRys/rts.jpg" group-title="Ecuador",RTS | HD (EC)
 http://200.24.132.99:8000/play/a004
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhSTVSrt/tc.jpg" group-title="Ecuador",TC Mi Canal (EC)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhSTVSrt/tc.jpg" group-title="Ecuador",TC Mi Canal [GeoBloqueo] (EC)
 https://youvideostreaming.club/hls/ecutv3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRzwdxP9/teleamazonas.jpg" group-title="Ecuador",Tele Amazonas (EC)
@@ -8654,11 +8676,10 @@ https://younghollywood-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3xhVkTQ2/au.jpg" group-title="Guatemala",Aurora Media Films (GT)
 https://cdn.streamhispanatv.net:3398/live/auroramflive.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Pn4S8BF/bd.jpg" group-title="Guatemala",BD Television (GT)
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/205
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hvJw2wh7/canal3guate.jpg" group-title="Guatemala", Canal 3 | Super Canal (GT)
-http://190.61.91.101:12345/play/a03r/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hvJw2wh7/canal3guate.jpg" group-title="Guatemala", Canal 3 | Super Canal | Opción 2 (GT)
-http://190.6.203.198:8000/play/a091/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hvJw2wh7/canal3guate.jpg" group-title="Guatemala", Canal 3 | Super Canal | Opción 3 (GT)
 http://204.157.251.250:8000/play/a072/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ncFzKRs3/canal4gua.jpg" group-title="Guatemala", Canal 4 | Quiché (GT)
@@ -8673,6 +8694,9 @@ https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpzKJvwy/barbetv.jpg" group-title="Guatemala",Canal 9 | Barbe TV | Santa Rosa (GT)
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3rV6q3L4/ch9gt.jpg" group-title="Guatemala",Canal 9 | Cono Sur (GT)
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/195
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VLrpCnvf/ixchiguanlive.jpg" group-title="Guatemala",Canal 9 | Ixchiguán | San Marcos (GT)
 https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
 
@@ -8681,6 +8705,9 @@ http://45.228.232.205:16000/play/a04n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T2LsxwYR/canal13guate.jpg" group-title="Guatemala",Canal 13 (GT)
 http://167.250.222.35:16000/play/a04m/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Sst5k4kP/26c.jpg" group-title="Guatemala",Canal 26 | Cono Sur (GT)
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/167
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/90LCPbq0/canal35gua.jpg" group-title="Guatemala",Canal 35 (GT)
 https://cdn.streamhispanatv.net:3948/live/yepotvlive.m3u8
@@ -8700,6 +8727,9 @@ https://cdn.streamhispanatv.net:3110/live/carinosatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fT1WpkXD/est.jpg" group-title="Guatemala",Estipulas TV (GT)
 https://tv91.hostingnuclear.com:19360/esquipulastv/esquipulastv.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGVPXCfM/gtv.jpg" group-title="Guatemala",GTV (GT)
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/173
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZ6JSFc5/guatevision.jpg" group-title="Guatemala",Guatevisión (GT)
 http://167.250.222.35:16000/play/a021/index.m3u8
 
@@ -8708,6 +8738,9 @@ https://cdn.streamhispanatv.net:3589/live/guatvgtlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VkBv5B7d/fullchannel.jpg" group-title="Guatemala",Full Channel | Sacatepéquez (GT)
 https://cdn.streamhispanatv.net:3845/live/fullchannelgtlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtnWYv6j/jutia.jpg" group-title="Guatemala",Jutiapa Visión | Knal 9 (GT)
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/174
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zczGDRD/playmedios.jpg" group-title="Guatemala",Play Medios (GT)
 http://45.5.117.138:25461/playgt/123456/89
@@ -8718,14 +8751,26 @@ https://cdn.streamhispanatv.net:3081/live/tdsolgtlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WpXS1372/Nimtv.jpg" group-title="Guatemala",Nim TV | Sololá (GT)
 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9M6ZtwJB/masgt.jpg" group-title="Guatemala",Más TV | San Marcos (GT)
+https://cdn.streamhispanatv.net:3186/live/mastvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0141dhH/plus.jpg" group-title="Guatemala",Plus TV (GT)
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/204
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fT2f8vTC/Sastv.jpg" group-title="Guatemala",Sas TV | Suchitepéquez (GT)
 https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCTvgbDr/solt.jpg" group-title="Guatemala",Sol TV | Sololá (GT)
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/160
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fbmvm37L/tce.jpg" group-title="Guatemala",TC Escuintla | Telecosta (GT)
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W3dy1htG/telemaxguate.jpg" group-title="Guatemala",Telemax | Escuintla (GT)
 https://cdn.streamhispanatv.net:3824/live/telemaxlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3gpb2sr/telema.jpg" group-title="Guatemala",Telemaya (GT)
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/183
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXBkjnSQ/Teveglobo.jpg" group-title="Guatemala",Teve Globo | Quetzaltenango (GT)
 https://cdn.streamhispanatv.net:3862/live/teveglobolive.m3u8
@@ -8738,8 +8783,6 @@ https://cdn.streamhispanatv.net:3852/live/tunevisionlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z58RM4yH/tvazteca-guate.jpg" group-title="Guatemala",TV Azteca | Guate (GT)
 http://45.5.117.182:8000/play/a0hf/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z58RM4yH/tvazteca-guate.jpg" group-title="Guatemala",TV Azteca | Guate | Opción 2 (GT)
-http://45.228.234.77:3340/play/canalazteca/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G27Q8PNH/tvflorencia.jpg" group-title="Guatemala",TV Florencia | Chimaltenango (GT)
 https://cdn.streamhispanatv.net:3819/live/tvflorencialive.m3u8
@@ -9738,10 +9781,10 @@ http://livetv.ktv.zone/24/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJcY0WPQ/ado.jpg" group-title="Mas Señales",Ado TV (FR)
 https://stream01.adotv-fm.bj/ado-tv-live/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RVPtVcsM/al1.jpg" group-title="Mas Señales",Al Araby | Arabia Saudita (SA)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RVPtVcsM/al1.jpg" group-title="Mas Señales",Al Araby | Catar (QA)
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/025mstCW/al2.jpg" group-title="Mas Señales",Al Araby | 2 (SA)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/025mstCW/al2.jpg" group-title="Mas Señales",Al Araby | 2 | Catar (QA)
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2SvGMnCk/abudabitv.jpg" group-title="Mas Señales",Abudabi TV | Emiratos Árabes (AE)
@@ -9842,6 +9885,9 @@ https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQDGpy77/Ivoirechannel.jpg" group-title="Mas Señales",Hebei Television | Beijing | Tianjin (CN)
 http://103.145.48.58:9300/hls/live/HeB%20TV.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLKPSb0J/hid.jpg" group-title="Mas Señales",Hidabroot | Israel (IL)
+https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7vTdH8w/hilaal.jpg" group-title="Mas Señales",Hilaal TV | Sudáfrica (CO.ZA)
 https://cdn5.iqsat.net/iq/aa89b15058a61b904359307cc0a5e80a.sdp/chunks.m3u8
