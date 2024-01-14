@@ -3456,6 +3456,8 @@ http://187.102.209.92:9010/play/a04o/index.m3u8
 http://190.61.43.117:45000/play/a023
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J0PDnYRj/hbo2-v.jpg" group-title="Premium | Latino",HBO | 2 | Opción 4 (LATAM)
 http://8.242.126.186:7777/play/a04x/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0PDnYRj/hbo2-v.jpg" group-title="Premium | Latino",HBO | 2 | Diferido (LATAM)
+https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/Cq8EMU1vNcNxoa3_IkFc0gyvcKTx0TsYwR-UYWtONkWCpRaLWavRNOQEFy6pSjcOzXplyRaUKVS1HElNP05-YCWkKOX6ZX501aBeFmgtqVPvt2dhYmlg1jYTDZ615E1TMs__50_O8zElrY5dMEx9IsIrPYgfZyw6bBNMgtJpekI0Qb4KZJzIZIQWe9B_ot0LcNwrJAo0rfZdgx1oTiP_QEiKmzCmJGmFZomrWJ896jKbpZcfaTGQWdvreE68K9bNdg9CFqyUdCsEcWVlK6xpboHKkupjXVtpNVkfuxGPKI7IubOYtKnbEPvE_WRcTSA9O9D4Mcb83ef6kIewuVVEP2spgvyQi_9FiNj4uy6_FOHCIBjOiy0Gu6dOvXoJLWfD_nVtVLriXIGGhQQ5fN_eSj-eLAm8mSvcHst-gycUYUgKeXFDJ2FPPT88vRjpeWa2Ih0_FhFAQtk7Ne9mHUoFaiTOZa1I9oyBLDDJJywGQO3o7QpiB3JrQAGLC0e8fOrN5qZmX6fwle_L2AbRRhBcFGp9Vz_hvarVuHJ3QJnvdiphtfrHmJwz15B1qkohRkYpXOYxxKfh3yIzUlGh7CewU-brHz32f0sl61ORSt1UOsHM2BSE1e49wfOAuGyQiMZ4VQ6HPF6BdwFVBDxBabXYd_2qSNEsvdJllIFqechUF_9Pw0BccPGJDxbJADW70sM9OmyDu6i-SYJuYftmGRgTXi4EboVvWjS_g1m-xlWjoMw4qRoMJuRDzJYtfZLZnLhkIAEqCXVzLWVhc3QtMjC7CA.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5jJtpw1/hbo-plusx.jpg" group-title="Premium | Latino",HBO | Plus (LATAM)
 http://45.166.92.22:58001/play/a03u/index.m3u8
@@ -3820,12 +3822,14 @@ http://181.78.74.226:45000/play/a01e
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Yq38fbrK/war.jpg" group-title="Premium | Latino",Warner | Diferido 3 (LATAM)
 http://190.61.55.186:1010/play/a01h/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Yq38fbrK/war.jpg" group-title="Premium | Latino",Warner | Diferido 3 | Opción 2 (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Yq38fbrK/war.jpg" group-title="Premium | Latino",Warner | Opción 2 (LATAM)
 http://190.90.251.194:8921/play/a006/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Yq38fbrK/war.jpg" group-title="Premium | Latino",Warner | Diferido 3 | Opción 3 (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Yq38fbrK/war.jpg" group-title="Premium | Latino",Warner | Opción 3 (LATAM)
 http://190.83.60.34:1414/play/a01e
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Yq38fbrK/war.jpg" group-title="Premium | Latino",Warner | Diferido 3 | Opción 4 (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Yq38fbrK/war.jpg" group-title="Premium | Latino",Warner | Opción 4 (LATAM)
 http://190.121.153.89:8000/play/a02p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Yq38fbrK/war.jpg" group-title="Premium | Latino",Warner | Diferido 4 (LATAM)
+https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CsUE5HmyHDXOGRD5V0L-fyg8627TW-t3Sk5LpcSA7Z5RHFLxgr0V81wF3-PGfjwrkeDTGrJVQmxQaSHu5WDlUvI05ZaCQDGYRwkm4N6AuOLotvEy0yYvlyAl0_Ch6fVlJcmlgh2Rj7kkj4IoVV8m5p-WyQYPAdXHnMVJKQ_lxExaIYKOFTDe7XxmKORclQsrjkd8L73f-h4QajWRNFIePaqI9KZ3jDJ00UZjyG0RGCvioV_9AtWDrFApq10plDTytyjcIqn-Jr-1tWXzCDi9cY5kf_68YaI2JY8lMOqeeHhS7uZ9g0KJjPs9bDwjToS434e3Otv5w8ASWuqic44Ied0Q8vLGLV7w9Lyo3XcAwu2rlFbq_ndFuAnu4NF9xbVOAyP-F0gAZePnvwH9Kd-rIYHwHH4ER1LIEa1yleSzJFT3T54ZT-zLmCVdSninEb6K3MMPzJKCDECK5bz31ot4nzwaYthk8eEUf7VgMYFkddERDDO2JJ8NGILs_CWa6nBgVMxjk_D8NgWlVqcGU52Z9DD22UgJn6bwaGIRyMqR6ER61bvW4fV2mmKrvHpRdMsHUOAYWdsD-SOfvjWsO75J-_REHOfEToQQPFgojG8A3gdHwW-yuEbzpBaiIg1--2ifGt5CaDBcX-dvKr2cCIIokGiq4kNvkZqcZQTmjatJKRgBLkHqacoyq0DDvc1nvogwSl6DybzP9YpVnnrXW_PLS0Ern1uRirupY1XUKNDXIQZ7YqhefTit723bo0U5vMuOxGuoTjdeCX0aDEBR0DBteVE2-N4SwyABKgl1cy1lYXN0LTIwvAg.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tTDnRn7N/amc-us.jpg" group-title="Premium | Latino",AMC (LATAM)
 http://45.5.117.182:8000/play/a0fn/index.m3u8
@@ -3990,7 +3994,7 @@ http://181.78.23.26:45000/play/a01c
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9F4tBfKV/discovery4.jpg" group-title="Premium | Latino",Discovery Channel | HD | Diferido 2 (LATAM)
 http://167.250.39.130:8000/play/discoverychannel
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cLbgH7XN/discovery3.jpg" group-title="Premium | Latino",Discovery Channel | HD | Diferido 3 (LATAM)
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CsUEpe6yQQculJAl1Twfrcdw_GZI6nEEji8-d2wlp3MZlZdx3kjQOcLqQLbeZEpJDT57SAA4H1uAMEzuV6LHL7gBzbgsQBKw8vN2tO6cYkID5s7ns-Sl827XnWTYRB4kfew0aVxmkyxBHVOi6IoRJQGX-XrjLKP6bV1SVGl4uXa9Wc7Nz4Ug0_NxvLfbbmPP6UQpWUTIgXZz3sA4Y5pnjNoXhMTQXRfWJ6Oi8PmP-wzjJ0MdR5vK6Y7aT0fJUdHLaBqvQnSIYAcIqImbGDKsFHVpoMzhdxlm3oQGbaws7Wafg-oiTVoVe_Ig-Utzlmg7ff2_b7HVjSIl9tZYHhyhWXR0-qSRQggsEV72GOsKJ-yVjRG8r5jwV14WsWLDvlF63xPWRKL9shvZnPwZ-Q_SjRlrwbaakOcs_GNnk4DgndLgNFmySYKR3GtNEzkqAfjWbLsRR0UyDqCEEA-l2_1A4h5laNrH5tympKfNMR_lRAwRXgvSC_QkY6JPr4oKIxx-LKRAf41OO5Nt806lbftMoaH0EHTPQP_UCe31EGzQIV98uDiQY8cYuPnGllRDV_LO1wIkowImNvo42H6A4gYaPa2pjN0ffqi5ikAPpwfzwDk4xI-KuteLjCaMoTdYG7a7iZRV1dfXVGWWjYjVQnKG112Bu5RHzD8mVVm5it-W7_Iw5X3W_c1l51DdUCbznWKEYRTbedrGmcZ22LFya9x_HFW8G7zCrxVaVzyfDjeZyibk9r-NW5YOVEryvnA3EU7mmsOY8wAD2_AaDKcKdHKjgh_SuQ2LJCABKglldS13ZXN0LTIwugg.m3u8
+https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CsQENY_nJ88QPR8AlNn3IhoB6rJ_WyoM8okwdpHGsf_Lz8QZk0wio7M21guhXQXuIssJT8XaqRugAUpnsQ0NEHN6Z1VV6kzRm1hoBF72EbJI_PrPqZ_1qBq7OPTmCUkP81P6sEC3DORgMz9U-EwFAC1OqAiDSM7MDIns8aITYqzP8CkEBIg1PRQYinK-f3yqskBO1wB7qR1YibYAziVjTtgX2K8EADaeHucsFGAr3_vmRNCc_WxZdnwupcN8eUZzT7wP7nhtox_B8X64Du-_VCCEnpoD-WmKq4SRHJ4sKzntZP354ruTnfMlGtMnxdumabyOsc0C0FLzagYPCjXYrvF79Cj569MPoxKbgC02UPNh9n3pBOhoOcpzvf7h3WPAMpNIgdzf2M4TC-dDJEeyxnyszGiZoI3qcN6fJSsBMK7IQ2b3u5NNNxLXAsfyF2uoTKWZ8efyEpmHJAY4gZyFcXOwYRtWy_fC1whp7X9hLs0obE5f4a2PsQRf7GAKGMpfqeFiK3vZAuo6sOuUlMfkP6J7ECggHGDm04z3Wa8ZTMMLFWO2I-wtMTzUQd8tnBjXqLjNxYVFYXnKPMDYz83kraJbQgTKxSogU7CFXW1KEc-LQoZVjRSY250qyle8S5NhuBRB1xMTzcVK-8DXn8do2YTbabmB6o_GHYiWzNsCDFt3KGqbkv5QY_wCyb2Ve1pKPjbv4r30qegfSGO40wkKD86doIKuZ3bKiMIjxYhX6NSvFhDeW5frdrb3UzETT-v5-fP8WB141hoMOee9QbJPNnSvdvJwIAEqCXVzLWVhc3QtMjC7CA.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FHGM0fYP/discovery-home.jpg" group-title="Premium | Latino",Discovery | Home and Health (LATAM)
 http://45.5.117.182:8000/play/a0iw/index.m3u8
@@ -4009,6 +4013,8 @@ http://190.61.43.117:45000/play/a06e
 http://186.148.163.18:8000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0C0VR40/discovery-id.jpg" group-title="Premium | Latino",Discovery | ID | Opción 4 (LATAM)
 http://8.242.126.186:7777/play/a03z/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0C0VR40/discovery-id.jpg" group-title="Premium | Latino",Discovery | ID | Diferido (LATAM)
+https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CsEE4KE5P-GYS1sNG0yp_79k36-JDmNXdR877MmPXzT495FrFVXvFFODCsxwYqV31CKtGGA1IljZN6Hut4Gbmg33d0mgKbxakZ4bcrWPZhZLTQy0u3YgwCNsVEnG8p1MSOI1XHCXXDLr4uxry7SJq1qaWuV4BZLV2o1hrvbIqOA5ZKVjnQZcF9ZyPvHoNj6sQuhaHoI-Ey8pNDbS0cNupN7uZJCnEfWq5jCsZgoG4ewI1rKg1g8Vj5wOEnOQ5HnulPAr5RT4vLE2bmHMR1N_KcpNlWqZicCkP80GGkjm07KX6rj-Pem1v1k_5tpW4DlCH099ERmzdoYcQ4-BferV1MC3zyatQfWv5bQYoFdiZ3lRVAKia5ehBi7OlHJZ8M1olHiA-_gkokdGz8kE4getLcHvDgfNUNl00k6VYzdaHmBUUerBrDeaXGhvM5sf7sKR7tJrdJ0vdYbufnDFi5p-ZH39ii2EhU3E_qlCUUfXMX0iA9D6Yq8ZVJeTzytKkkoFgdcCb_3dVb0WijtPMBAfISbtErjyeEKn9UX8XNBs6ypl8frpXtbmc3b32P5rjC8LfLd-tOmRz7J7yx11HwaURE_G-8INaKBgjjjh3ZJ-baUxT1Pe1MqHQFw3aS5VF8wvutSiTF2SlFn44iFsDDnp3bl0FRN2G8V_ODC0mharDMSfwMx-uy5ExDO45k38iIS2By8HLrW9vm7PyOiY_TBtnM1DzI2x45mdX-yIjDZhc_LfmiF5d4O2Ud2u5oDe5Wf1OvkdERoMa39xT8o8uo2AMugfIAEqCWV1LXdlc3QtMjC9CA.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QN7wkM3b/discovery-sciencela.jpg" group-title="Premium | Latino",Discovery | Science (LATAM)
 http://190.90.18.161:15082/play/a02c/index.m3u8
