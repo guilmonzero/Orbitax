@@ -117,11 +117,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3445
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJhX9N4n/brat.jpg" group-title="Animados | Variado",Brat TV (ES)
 https://brat-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mr054cqd/campsnoopy.jpg" group-title="Animados | Variado",Camp Snoopy (US)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/h4HmBXsz/xjae.jpg" group-title="Animados | Variado", Camp Spoopy (US)
-https://i.mjh.nz/Plex/643054b1fc3be59477853717-6164a963766ab4f9f57e81b1.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXBkTDVs/c57.jpg" group-title="Animados | Variado",Canal 57 (US)
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
@@ -186,7 +183,6 @@ https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 https://cnn.essastream.com:3333/live/cromtvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9Q8pXs2M/dark.jpg" group-title="Animados | Variado",Dark (ES)
-http://f1.millenium-ott.com:25443/live/FWRZUY47IG/GD7RSUBG30/139311.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QxbPLKZv/disb.jpg" group-title="Animados | Variado",Discovery Kids | Animados (BR)
 https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist.m3u8
@@ -229,7 +225,6 @@ https://ssh101.bozztv.com/ssh101/canalonline/chunks.m3u8
 https://estv-rakuten-samsung.amagi.tv/playlist_1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3YrRxQ3/Etc.jpg" group-title="Animados | Variado",ETC (CL)
-http://45.169.163.85:8000/play/a002
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nVkvMTxQ/eureka1.jpg" group-title="Animados | Variado",Eureka (CO)
 https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/live-2500/index.m3u8
