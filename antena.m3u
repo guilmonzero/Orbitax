@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1, GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9qQsHV/orbi2024.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 22.01.24
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9qQsHV/orbi2024.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 27.01.24
 https://archive.org/serve/orbita-guilmonzero-iptv-gratis-sigue-actualizando/%5B%C3%92rbita%20%40guilmonzero%5D%20IPTV%20Gratis%20-%20Sigue%20Actualizando.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qq2PByxD/spectrum-channel.jpg" group-title="Animados | Variado",Spectrum Channel (LATAM)
 https://panel.miplay.cl:8081/spectrumchannel/tracks-v1a1/mono.m3u8
@@ -160,6 +160,9 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qvkT8WLN/CN-loop2.jpg" group-title="Animados | Variado",Cartoon Network | Animados | 2 (LATAM)
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4FhmBJj/cbee.jpg" group-title="Animados | Variado",Cbeebies | BBC | Polonia (PL)
+https://cdn-main.lolokoko.tv/CBeebies.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mZHvrmYm/centraltv.jpg" group-title="Animados | Variado",Central TV (LATAM)
 https://ssh101.bozztv.com/ssh101/centraltv/playlist.m3u8
 
@@ -191,8 +194,12 @@ https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CQxCrt7/disney.jpg" group-title="Animados | Variado",Disney Channel (US)
 http://38.96.178.201:80/live/Disney/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4dTKwwwX/disney-junior.jpg" group-title="Animados | Variado",Disney | Junior | Polonia (PL)
+https://cdn-main.lolokoko.tv/DisneyJunior.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hss5j13s/xd.jpg" group-title="Animados | Variado",Disney | XD (US)
 http://38.96.178.201:80/live/DisneyXD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hss5j13s/xd.jpg" group-title="Animados | Variado",Disney | XD | Polonia (PL)
+https://cdn-main.lolokoko.tv/DisneyXD.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0sBS6zF/doskids.jpg" group-title="Animados | Variado",Dos | Kids (LATAM)
 http://186.10.252.90:8000/play/a02t
@@ -332,6 +339,9 @@ https://ssh101.bozztv.com/ssh101/magic2019/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6qV9HK6N/majidtv.jpg" group-title="Animados | Variado",Majid TV (SA)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0ynLWTzP/maxanime.jpg" group-title="Animados | Variado",Max Anime (VE)
+https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwddpVqN/maxi.jpg" group-title="Animados | Variado",Maxima (AR)
 https://vivo.solumedia.com:19360/maximatv/maximatv.m3u8
 
@@ -364,10 +374,16 @@ https://void.greenhosting.ru/Multimania_Mpeg4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7KQcYFY/multivision.jpg" group-title="Animados | Variado",Multivisión (AR)
 https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y87bqTG8/nick.jpg" group-title="Animados | Variado",Nickelodeon | Polonia (PL)
+https://cdn-main.lolokoko.tv/Nickelodeon.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzz4rvYy/nick-junior.jpg" group-title="Animados | Variado",Nick | Junior (US)
 http://38.96.178.201:80/live/NickJr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzz4rvYy/nick-junior.jpg" group-title="Animados | Variado",Nick | Junior | Polonia (PL)
+https://cdn-main.lolokoko.tv/NickJr.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CMJNNPbC/teennick.jpg" group-title="Animados | Variado",Nick | Teen (US)
 http://38.96.178.201:80/live/TeenNick/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFnPM6Z5/nicktoons2.jpg" group-title="Animados | Variado",Nick | Toons | Polonia (PL)
+https://cdn-main.lolokoko.tv/Nicktoons.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65qKXRbW/ninja.jpg" group-title="Animados | Variado",Ninja Kidz TV (US)
 https://playworksdigital-ninjakidztv-1-eu.vidaa.wurl.tv/playlist.m3u8
@@ -476,6 +492,9 @@ https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hnq8xsyQ/tick.jpg" group-title="Animados | Variado",Tick TV (LATAM)
 https://ssh101.bozztv.com/ssh101/ticktv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkCdzgh3/toonami.jpg" group-title="Animados | Variado",Toonami (US)
+https://adultswim-vodlive.cdn.turner.com/live/toonami/stream_de.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qt6z8y05/toong1.jpg" group-title="Animados | Variado",Toon Googles (BR)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9M4kfBSn/toong2.jpg" group-title="Animados | Variado",Toon Googles (ES)
@@ -517,8 +536,8 @@ http://cord-cutter.net:8080/Milford/Milford123/15336
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WpDFT1pk/Varied24.jpg" group-title="Animados | Variado",Varied TV (AR)
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/2S9W5YTF/visionla.jpg" group-title="Animados | Variado",Visión Latina (PA)
-https://5940924978228.streamlock.net/8095/8095/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJTwBrH2/kanaldramavive.jpg" group-title="Animados | Variado",Vive | Kanal D | Drama (LATAM)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/15ZzkGSQ/vivep.jpg" group-title="Animados | Variado",Vive Play (VE)
 https://linear-260.frequency.stream/dist/vix/260/hls/master/playlist.m3u8
