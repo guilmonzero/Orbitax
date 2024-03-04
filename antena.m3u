@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales, recomiendo abrir esta dirección con la app IPTV PRO, disponible GRATIS en Google Play o bien descargala sin anuncios acá: https//bit.ly/orbitaxpp
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9qQsHV/orbi2024.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 03.03.24
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9qQsHV/orbi2024.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 04.03.24
 https://archive.org/serve/orbita-guilmonzero-iptv-gratis-sigue-actualizando/%5B%C3%92rbita%20%40guilmonzero%5D%20IPTV%20Gratis%20-%20Sigue%20Actualizando.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZ6h2HvR/spectrum2.jpg" group-title="Animados | Variado",Spectrum Channel (LATAM)
 https://panel.miplay.cl:8081/spectrumchannel/tracks-v1a1/mono.m3u8
@@ -573,8 +573,11 @@ https://i.mjh.nz/SamsungTVPlus/ESBC4100002AG.m3u8
 https://panel.tvstream.cl:1936/8038/8038/chunklist_w1110360145.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKH4zjQ0/tvs-ca.jpg" group-title="Animados | Variado",TVS | Cartoons (US)
+https://rpn1.bozztv.com/36bay2/gusa-TVSCartoonNetwork/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W38R062x/tvs-fa.jpg" group-title="Animados | Variado",TVS | Family (US)
+https://rpn1.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FHJJLkNm/tvs-hit.jpg" group-title="Animados | Variado",TVS | Hit Tops (US)
+https://rpn1.bozztv.com/36bay2/gusa-hitops/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7DXhMN9/univision.jpg" group-title="Animados | Variado",Univision | Panregional (US)
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
@@ -11517,9 +11520,6 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65kF6NXM/wow.jpg" group-title="Uruguay | El Salvador",WOW TV (SV)
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRrPLFvz/avilatv.jpg" group-title="Venezuela",Avila (VE)
-https://cloud.odysee.live/content/9fc00ad00fd8b0f08ab11f2324c82ffd713c3cb6/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/brJvVWmR/ANZO.jpg" group-title="Venezuela",Anzoategui TV (VE)
 https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/chunklist_w1994478055.m3u8
