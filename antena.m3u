@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales, recomiendo abrir esta dirección con la app IPTV PRO, disponible GRATIS en Google Play o bien descargala sin anuncios acá: https//bit.ly/orbitaxpp
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9qQsHV/orbi2024.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 04.03.24
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9qQsHV/orbi2024.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 06.03.24
 https://archive.org/serve/orbita-guilmonzero-iptv-gratis-sigue-actualizando/%5B%C3%92rbita%20%40guilmonzero%5D%20IPTV%20Gratis%20-%20Sigue%20Actualizando.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZ6h2HvR/spectrum2.jpg" group-title="Animados | Variado",Spectrum Channel (LATAM)
 https://panel.miplay.cl:8081/spectrumchannel/tracks-v1a1/mono.m3u8
@@ -159,6 +159,11 @@ http://89.254.128.5:22280/cartoon_network/index.m3u8
 http://tvmate.icu:8080/6025505794/osmanmata@gmail.com/46708
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fb9WGZps/cartoon.jpg" group-title="Animados | Variado",Cartoon Network | Opción 2 (US)
 http://rasaiptv.com:8080/Anderson1605/Barzallo1605A/53516
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fb9WGZps/cartoon.jpg" group-title="Animados | Variado",Cartoon Network | Opción 3 (US)
+http://saypopular.com:25461/larryBE/1st23eftyh77/131750
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fb42jPR3/chucky.jpg" group-title="Animados | Variado",Child's Play | Movies (US)
+http://saypopular.com:25461/larryBE/1st23eftyh77/273900
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0zhVkv1/ch-k.jpg" group-title="Animados | Variado",Chile Visual | Kids (CL)
 https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/playlist.m3u8
@@ -1544,6 +1549,8 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w851
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VkBYqhZV/bbcn.jpg" group-title="Informativo",BBC | News (UK)
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkBYqhZV/bbcn.jpg" group-title="Informativo",BBC | News | Asia Pacific (CN)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgr6vxsj/bfm.jpg" group-title="Informativo",BFM TV (FR)
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
@@ -1791,6 +1798,9 @@ https://ca.streamjo.com/live/samugam.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26vN1QSN/se-almediblanco.jpg" group-title="Informativo",Señal Mediabanco (CL)
 https://unlimited1-cl-isp.dps.live/mediabanco/mediabanco.smil/mediabanco/livestream2/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SxD0Dmwn/Shangyu.jpg" group-title="Informativo",Shangyu | News | China (CN)
+https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KjyB8yY0/stvu.jpg" group-title="Informativo",STV | Ucrania (UA)
 https://hls.simon.ua/live-HD/live/playlist.m3u8
@@ -3069,6 +3079,27 @@ https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0Nd4n4wz/dkiss.jpg" group-title="Peliculas | Series",DKiss (ES)
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:25_HD.smil//manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kg0ycf0H/douyu.jpg" group-title="Peliculas | Series",Douyu | 1 (CN)
+http://epg.112114.xyz/douyu/4332
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kg0ycf0H/douyu.jpg" group-title="Peliculas | Series",Douyu | 2 (CN)
+http://epg.112114.xyz/douyu/6140589
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kg0ycf0H/douyu.jpg" group-title="Peliculas | Series",Douyu | 3 (CN)
+http://epg.112114.xyz/douyu/8770422
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kg0ycf0H/douyu.jpg" group-title="Peliculas | Series",Douyu | 4 (CN)
+http://epg.112114.xyz/douyu/747764
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kg0ycf0H/douyu.jpg" group-title="Peliculas | Series",Douyu | 5 (CN)
+http://epg.112114.xyz/douyu/52787
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kg0ycf0H/douyu.jpg" group-title="Peliculas | Series",Douyu | 6 (CN)
+http://epg.112114.xyz/douyu/36337
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kg0ycf0H/douyu.jpg" group-title="Peliculas | Series",Douyu | 7 (CN)
+http://epg.112114.xyz/douyu/8814650
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kg0ycf0H/douyu.jpg" group-title="Peliculas | Series",Douyu | 8 (CN)
+http://epg.112114.xyz/douyu/263824
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kg0ycf0H/douyu.jpg" group-title="Peliculas | Series",Douyu | 9 (CN)
+http://epg.112114.xyz/douyu/323876
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kg0ycf0H/douyu.jpg" group-title="Peliculas | Series",Douyu | 10 (CN)
+http://epg.112114.xyz/douyu/2516864
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HkysDXmz/Euro-Channel.jpg" group-title="Peliculas | Series",Euro Channel (LATAM)
 http://167.250.222.35:16000/play/a05a/index.m3u8
@@ -11856,7 +11887,7 @@ https://558bd16067b67.streamlock.net/nos_pais_24_7/nos_pais_24_7/chunklist_w7366
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D0TMCHWH/nrj12.jpg" group-title="Mas Señales",NRJ 12 (FR)
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8c97LYvt/nueva.jpg" group-title="Mas Señales",Nueva Cuidad Comercial de Shangyu (CN)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8c97LYvt/nueva.jpg" group-title="Mas Señales",Shangyu | Nueva Cuidad Comercial (CN)
 http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpK5LVwC/per-hd.jpg" group-title="Mas Señales",Persiana | HD (IR)
@@ -11930,6 +11961,9 @@ http://ip2.xxlservices.com:8081/seharaonline/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YSxHc4Zb/shopchannel.jpg" group-title="Mas Señales",Shop Channel (JP)
 https://stream3.shopch.jp/HLS/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XY9T9Hq2/kan.jpg" group-title="Mas Señales",Sichuan Kangba Tibetan TV | China (CN)
+http://220.182.45.198:20088/tsfile/live/0134_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QNn2qY02/sic.jpg" group-title="Mas Señales",Sic | Portugal (PT)
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
