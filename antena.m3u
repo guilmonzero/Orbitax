@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9qQsHV/orbi2024.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 10.03.24
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9qQsHV/orbi2024.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 11.03.24
 https://archive.org/serve/orbita-guilmonzero-iptv-gratis-sigue-actualizando/%5B%C3%92rbita%20%40guilmonzero%5D%20IPTV%20Gratis%20-%20Sigue%20Actualizando.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZ6h2HvR/spectrum2.jpg" group-title="Animados | Variado",Spectrum Channel (LATAM)
 https://panel.miplay.cl:8081/spectrumchannel/tracks-v1a1/mono.m3u8
@@ -122,6 +122,8 @@ https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HkqqLTcs/boing.jpg" group-title="Animados | Variado",Boing | Opción 2 (ES)
 http://925903986310321135.of1030ok.xyz:80/play/XFFK2544139/MA255846699/321135.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/K8HQks7n/boingit.jpg" group-title="Animados | Variado",Boing | Italia (IT)
+http://89.117.222.30:8000/play/a02k
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJhX9N4n/brat.jpg" group-title="Animados | Variado",Brat TV (ES)
 https://brat-rakuten.amagi.tv/playlist.m3u8
@@ -308,7 +310,7 @@ https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2h
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FHX9W7R1/gulli3.jpg" group-title="Animados | Variado",Gulli  | Arabia Saudita (SA)
 https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1XDk6Tk1/historia.jpg" group-title="Animados | Variado",Historia (ES)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgKqrcpw/historia.jpg" group-title="Animados | Variado",Historia (ES)
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:90_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTkqhhNr/infast.jpg" group-title="Animados | Variado",Infast (ES)
@@ -842,6 +844,33 @@ https://scihls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqZmc9Rs/platzy.jpg" group-title="Ciencia | Cultura 🪐",Platzi (LATAM)
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+
+#EXTINF:-1 channel-id="pluto-5dd8364ea1d6780009929902" tvg-id="5dd8364ea1d6780009929902" tvg-logo="https://i.postimg.cc/kgbWFDwD/plusci.jpg" tvg-chno="572" group-title="Ciencia | Cultura 🪐" ,Pluto TV | Ciencia (LATAM)
+https://r.mjh.nz/PlutoTV/5dd8364ea1d6780009929902-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-563a970aa1a1f7fe7c9daad7" tvg-id="563a970aa1a1f7fe7c9daad7" tvg-logo="https://i.postimg.cc/FzrxTmz8/plusc.jpg" tvg-chno="3110" group-title="Ciencia | Cultura 🪐" ,Pluto TV | Science (US)
+https://r.mjh.nz/PlutoTV/563a970aa1a1f7fe7c9daad7-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5d9492c77ea6f99188738ff1" tvg-id="5d9492c77ea6f99188738ff1" tvg-logo="https://i.postimg.cc/FzrxTmz8/plusc.jpg" tvg-chno="832" group-title="Ciencia | Cultura 🪐" ,Pluto TV | Science (UK)
+https://r.mjh.nz/PlutoTV/5d9492c77ea6f99188738ff1-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5dbc2f98777f2e0009934ae7" tvg-id="5dbc2f98777f2e0009934ae7" tvg-logo="https://i.postimg.cc/KzqKyyQd/plusp.jpg" tvg-chno="831" group-title="Ciencia | Cultura 🪐" ,Pluto TV | Space (UK)
+https://r.mjh.nz/PlutoTV/5dbc2f98777f2e0009934ae7-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5b85a7582921777994caea63" tvg-id="5b85a7582921777994caea63" tvg-logo="https://i.postimg.cc/L8G5DThM/pludo.jpg" tvg-chno="155" group-title="Ciencia | Cultura 🪐" ,Pluto TV | Documentaries (US)
+https://r.mjh.nz/PlutoTV/5b85a7582921777994caea63-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5f1ef1a8cec6be00072a7ac9" tvg-id="5f1ef1a8cec6be00072a7ac9" tvg-logo="https://i.postimg.cc/3Jn3SZSc/plud.jpg" tvg-chno="566" group-title="Ciencia | Cultura 🪐" ,Pluto TV | Documentários (BR)
+https://r.mjh.nz/PlutoTV/5f1ef1a8cec6be00072a7ac9-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5de5758e1a30dc00094fcd6c" tvg-id="5de5758e1a30dc00094fcd6c" tvg-logo="https://i.postimg.cc/Tw87qZrv/pluh.jpg" tvg-chno="563" group-title="Ciencia | Cultura 🪐" ,Pluto TV | Historia (LATAM)
+https://r.mjh.nz/PlutoTV/5de5758e1a30dc00094fcd6c-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5a4d35dfa5c02e717a234f86" tvg-id="5a4d35dfa5c02e717a234f86" tvg-logo="https://i.postimg.cc/BZPZvDv8/plu.jpg" tvg-chno="3090" group-title="Ciencia | Cultura 🪐" ,Pluto TV | History (US)
+https://r.mjh.nz/PlutoTV/5a4d35dfa5c02e717a234f86-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5d4af1803e7983b391d73b13" tvg-id="5d4af1803e7983b391d73b13" tvg-logo="https://i.postimg.cc/BZPZvDv8/plu.jpg" tvg-chno="836" group-title="Ciencia | Cultura 🪐" ,Pluto TV | History (UK)
+https://r.mjh.nz/PlutoTV/5d4af1803e7983b391d73b13-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTrg55yk/promperu.jpg" group-title="Ciencia | Cultura 🪐",Prom Perú (PE)
 https://live.tvcontrolcp.com:1936/8054/8054/playlist.m3u8
@@ -4520,14 +4549,237 @@ http://181.78.23.26:45000/play/a01p
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjBrsZvC/Viax.jpg" group-title="Premium | Latino",Via X | Opción 3 (CL)
 http://38.41.8.1:8000/play/a07z
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/G21V9j5V/mtv-latino.jpg" group-title="Premium | Latino", MTV | Latino (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G21V9j5V/mtv-latino.jpg" group-title="Premium | Latino",MTV | Latino (LATAM)
 http://190.60.40.37:12500/play/a068/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/G21V9j5V/mtv-latino.jpg" group-title="Premium | Latino", MTV | Latino | Opción 2 (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G21V9j5V/mtv-latino.jpg" group-title="Premium | Latino",MTV | Latino | Opción 2 (LATAM)
 http://186.148.163.18:8000/play/a03d/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/G21V9j5V/mtv-latino.jpg" group-title="Premium | Latino", MTV | Latino | Opción 3 (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G21V9j5V/mtv-latino.jpg" group-title="Premium | Latino",MTV | Latino | Opción 3 (LATAM)
 http://181.78.4.186:8000/play/a0dq/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/G21V9j5V/mtv-latino.jpg" group-title="Premium | Latino", MTV | Latino | Opción 4 (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G21V9j5V/mtv-latino.jpg" group-title="Premium | Latino",MTV | Latino | Opción 4 (LATAM)
 http://190.149.66.90:4000/play/a04f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Mediaset HD (IT)
+http://89.117.222.30:8000/play/a02f
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Kitchen (IT)
+http://89.117.222.30:8000/play/a01t
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Twentyseven HD (IT)
+http://89.117.222.30:8000/play/a02s
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",A2 CNN (IT)
+http://89.117.222.30:8000/play/a01a
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",ABC HD (IT)
+http://89.117.222.30:8000/play/a023
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",L MALAKOOT SAT – THE KINGDOM SAT (IT)
+http://89.117.222.30:8000/play/a03g
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",AMAZING FACTS (IT)
+http://89.117.222.30:8000/play/a03k
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Alsat M (IT)
+http://89.117.222.30:8000/play/a027
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Angel TV Europe (IT)
+http://89.117.222.30:8000/play/a037
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Bang Bang (IT)
+http://89.117.222.30:8000/play/a00a
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Big Brother VIP 1 (IT)
+http://89.117.222.30:8000/play/a03o
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Big Brother VIP 2 (IT)
+http://89.117.222.30:8000/play/a03p
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",BogBlag TV (IT)
+http://89.117.222.30:8000/play/a038
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",CIRA TV (IT)
+http://89.117.222.30:8000/play/a03a
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",CNA TV (IT)
+http://89.117.222.30:8000/play/a03h
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Canale 5 HD (IT)
+http://89.117.222.30:8000/play/a02h
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Cartoonito HD (IT)
+http://89.117.222.30:8000/play/a02q
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Cine34 HD (IT)
+http://89.117.222.30:8000/play/a02c
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Cufo TV  (IT)
+http://89.117.222.30:8000/play/a00v
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",DTX (IT)
+http://89.117.222.30:8000/play/a02a
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Deluxe 139 (IT)
+http://89.117.222.30:8000/play/a036
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Discovery Channel (IT)
+http://89.117.222.30:8000/play/a021
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Discovery Turbo Xtra (IT)
+http://89.117.222.30:8000/play/a01v
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Dukagjini (IT)
+http://89.117.222.30:8000/play/a01o
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",EXP histori (IT)
+http://89.117.222.30:8000/play/a00y
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",EXP natyra (IT)
+http://89.117.222.30:8000/play/a00x
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",EXP shkence (IT)
+http://89.117.222.30:8000/play/a00b
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",EuroFilm (IT)
+http://89.117.222.30:8000/play/a010
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Star Channel (IT)
+http://89.117.222.30:8000/play/a01u
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Star Movies (IT)
+http://89.117.222.30:8000/play/a01p
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Family HD (IT)
+http://89.117.222.30:8000/play/a01d
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Fax News (IT)
+http://89.117.222.30:8000/play/a00z
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Film Aksion HD (IT)
+http://89.117.222.30:8000/play/a00n
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Film Autor (IT)
+http://89.117.222.30:8000/play/a011
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Film Drame (IT)
+http://89.117.222.30:8000/play/a014
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Film Hits HD (IT)
+http://89.117.222.30:8000/play/a00m
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Film Komedi (IT)
+http://89.117.222.30:8000/play/a00d
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Film Thriller (IT)
+http://89.117.222.30:8000/play/a013
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Firstlight (IT)
+http://89.117.222.30:8000/play/a03j
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Focus HD (IT)
+http://89.117.222.30:8000/play/a02r
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Fox Life (IT)
+http://89.117.222.30:8000/play/a01x
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",GOLD HD (IT)
+http://89.117.222.30:8000/play/a01b
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Giallo (IT)
+http://89.117.222.30:8000/play/a02u
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",HGTV Italy (IT)
+http://89.117.222.30:8000/play/a02w
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Iris HD (IT)
+http://89.117.222.30:8000/play/a02j
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Italia1 HD (IT)
+http://89.117.222.30:8000/play/a02g
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Junior TV (IT)
+http://89.117.222.30:8000/play/a00u
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",KICC TV (IT)
+http://89.117.222.30:8000/play/a03b
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Kanal 10 (IT)
+http://89.117.222.30:8000/play/a026
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Klan Kosova (IT)
+http://89.117.222.30:8000/play/a00h
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Klan Macedonia (IT)
+http://89.117.222.30:8000/play/a025
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Klan Music (IT)
+http://89.117.222.30:8000/play/a00e
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Klan News (IT)
+http://89.117.222.30:8000/play/a016
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Klan Plus (IT)
+http://89.117.222.30:8000/play/a017
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Klan TV HD (IT)
+http://89.117.222.30:8000/play/a00r
+##EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",La5 HD (IT)
+http://89.117.222.30:8000/play/a02l
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",MAX HD (IT)
+http://89.117.222.30:8000/play/a01c
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",MTV Live HD (IT)
+http://89.117.222.30:8000/play/a022
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Med Music (IT)
+http://89.117.222.30:8000/play/a035
+##EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Mediaset Extra HD (IT)
+http://89.117.222.30:8000/play/a02n
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Mediaset Italia2 HD (IT)
+http://89.117.222.30:8000/play/a02o
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Melody.TV (IT)
+http://89.117.222.30:8000/play/a018
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",MotorTrend (IT)
+http://89.117.222.30:8000/play/a02t
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Music Box (IT)
+http://89.117.222.30:8000/play/a03n
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",My Music (IT)
+http://89.117.222.30:8000/play/a00w
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",NTN (IT)
+http://89.117.222.30:8000/play/a03d
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",News 24 (IT)
+http://89.117.222.30:8000/play/a00i
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Nickelodeon (IT)
+http://89.117.222.30:8000/play/a01y
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Nicktoons (IT)
+http://89.117.222.30:8000/play/a01w
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Nove (IT)
+http://89.117.222.30:8000/play/a02v
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Ora News HD (IT)
+http://89.117.222.30:8000/play/a00l
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",PACI CONTEMPORARY CHANNEL (IT)
+http://89.117.222.30:8000/play/a03c
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Panorama TV (IT)
+http://89.117.222.30:8000/play/a01l
+##EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",RADIO MONTE CARLO (IT)
+http://89.117.222.30:8000/play/a02e
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",RTK-1 (IT)
+http://89.117.222.30:8000/play/a009
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",RTSH 1 (IT)
+http://89.117.222.30:8000/play/a015
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",RTSH Shkolle (IT)
+http://89.117.222.30:8000/play/a01j
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",RTSH Shqip (IT)
+http://89.117.222.30:8000/play/a024
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",RTSH Sport (IT)
+http://89.117.222.30:8000/play/a012
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",RTV Ora (IT)
+http://89.117.222.30:8000/play/a00g
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Rai 1 HD (IT)
+http://89.117.222.30:8000/play/a02z
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Rai 2 HD (IT)
+http://89.117.222.30:8000/play/a030
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Rai 3 HD (IT)
+http://89.117.222.30:8000/play/a031
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Rai 4 HD (IT)
+http://89.117.222.30:8000/play/a032
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Rai Movie HD (IT)
+http://89.117.222.30:8000/play/a033
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Rete4 HD (IT)
+http://89.117.222.30:8000/play/a02i
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Ronahi TV (IT)
+http://89.117.222.30:8000/play/a034
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",SLNTV (IT)
+http://89.117.222.30:8000/play/a03e
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",SS-1 HD (IT)
+http://89.117.222.30:8000/play/a01e
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",SS-2 HD (IT)
+http://89.117.222.30:8000/play/a01f
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",SS-3 HD (IT)
+http://89.117.222.30:8000/play/a01g
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",SS-4 HD (IT)
+http://89.117.222.30:8000/play/a01h
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",SS-5 HD (IT)
+http://89.117.222.30:8000/play/a00s
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",SS-6 HD (IT)
+http://89.117.222.30:8000/play/a00t
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",SS-7 HD (IT)
+http://89.117.222.30:8000/play/a00k
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",STAR PLUS TV (IT)
+http://89.117.222.30:8000/play/a01n
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",STERK TV HD (IT)
+http://89.117.222.30:8000/play/a039
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",STV Folk (IT)
+http://89.117.222.30:8000/play/a01q
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Scan TV (IT)
+http://89.117.222.30:8000/play/a01k
+##EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Silk Way (IT)
+http://89.117.222.30:8000/play/a03m
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Stinet (IT)
+http://89.117.222.30:8000/play/a00f
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",SuperSonic TV (IT)
+http://89.117.222.30:8000/play/a01z
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Suryoyo SAT (IT)
+http://89.117.222.30:8000/play/a03f
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Syri TV (IT)
+http://89.117.222.30:8000/play/a00c
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",T HD (IT)
+http://89.117.222.30:8000/play/a00j
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",TOPcrime HD (IT)
+http://89.117.222.30:8000/play/a02p
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Top Channel HD (IT)
+http://89.117.222.30:8000/play/a00p
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Top News HD (IT)
+http://89.117.222.30:8000/play/a00o
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Travel Channel HD (IT)
+http://89.117.222.30:8000/play/a01m
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",VIRGIN RADIO (IT)
+http://89.117.222.30:8000/play/a02d
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Zjarr TV (IT)
+http://89.117.222.30:8000/play/a019
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0NLnLzck/2perros.jpg" group-title="Mas Series 🧟",2 Perros Tontos (LATAM)
 http://emuligl.info:8080/zjjqC6jBkBTA/x732MtLAy4QQ/79428
@@ -5501,7 +5753,7 @@ https://r.mjh.nz/PlutoTV/6511a53f473a54000854e2ee-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6181404ef48321000797bc41" tvg-id="6181404ef48321000797bc41" tvg-logo="https://images.pluto.tv/channels/6181404ef48321000797bc41/colorLogoPNG.png" tvg-chno="919" group-title="Pluto TV | España" ,iCarly
 https://r.mjh.nz/PlutoTV/6181404ef48321000797bc41-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-5e793a7cfbdf780007f7eb75" tvg-id="5e793a7cfbdf780007f7eb75" tvg-logo="https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG.png" tvg-chno="1" group-title="Pluto TV | Latino" ,Guía de canales
+#EXTINF:-1 channel-id="pluto-5e793a7cfbdf780007f7eb75" tvg-id="5e793a7cfbdf780007f7eb75" tvg-logo="https://i.postimg.cc/HsnMjscs/plutotv.jpg" tvg-chno="1" group-title="Pluto TV | Latino" ,Guía de canales
 https://r.mjh.nz/PlutoTV/5e793a7cfbdf780007f7eb75-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5dcde437229eff00091b6c30" tvg-id="5dcde437229eff00091b6c30" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" tvg-chno="18" group-title="Pluto TV | Latino" ,Cine Estelar
@@ -7754,7 +8006,7 @@ https://r.mjh.nz/PlutoTV/60cb6df2b2ad610008cd5bea-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5eceb0d4065c240007688ec6" tvg-id="5eceb0d4065c240007688ec6" tvg-logo="https://images.pluto.tv/channels/5eceb0d4065c240007688ec6/colorLogoPNG.png" tvg-chno="5250" group-title="Pluto TV | Estados Unidos" ,CBS News | Texas
 https://r.mjh.nz/PlutoTV/5eceb0d4065c240007688ec6-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-5fa97a8a75cc210007c9041d" tvg-id="5fa97a8a75cc210007c9041d" tvg-logo="https://images.pluto.tv/channels/5fa97a8a75cc210007c9041d/colorLogoPNG.png" tvg-chno="1" group-title="Pluto TV | Brasil" ,Guia de Canais
+#EXTINF:-1 channel-id="pluto-5fa97a8a75cc210007c9041d" tvg-id="5fa97a8a75cc210007c9041d" tvg-logo="https://i.postimg.cc/HsnMjscs/plutotv.jpg" tvg-chno="1" group-title="Pluto TV | Brasil" ,Guia de Canais
 https://r.mjh.nz/PlutoTV/5fa97a8a75cc210007c9041d-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5f120e94a5714d00074576a1" tvg-id="5f120e94a5714d00074576a1" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" tvg-chno="18" group-title="Pluto TV | Brasil" ,Cine Sucessos
@@ -10159,13 +10411,19 @@ https://5940924978228.streamlock.net/8159/8159/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvGHpjCK/estepona.jpg" group-title="España",Estepona TV (ES)
 https://cloudvideo.servers10.com:8081/8022/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNf1WkLp/etb1.jpg" group-title="España",ETB 1 | Vasco (ES)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7bRqt2t/etb1.jpg" group-title="España",ETB 1 | Vasco (ES)
 https://multimedia.eitb.eus/live-content/etb1hd-hls/bitrate_4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNpKY6wX/etb2.jpg" group-title="España",ETB 2 | Vasco (ES)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xT3Wzgh8/etb2.jpg" group-title="España",ETB 2 | Vasco (ES)
 https://multimedia.eitb.eus/live-content/etb2hd-hls/bitrate_4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CDdp6f8/canalvasco.jpg" group-title="España",ETB Basque | Vasco (ES)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpZgbVJD/etb3.jpg" group-title="España",ETB 3 | Vasco (ES)
+https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:98_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjWZWM6d/etb4.jpg" group-title="España",ETB 4 | Vasco (ES)
+https://nodep002.service.openstream.es/SVoriginOperatorEdge/smil:273_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMWC2XKf/etbasque.jpg" group-title="España",ETB Basque | Vasco (ES)
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0NCbjWGq/eurolatina.jpg" group-title="España",Euro Latina TV (ES)
