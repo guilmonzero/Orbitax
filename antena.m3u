@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9qQsHV/orbi2024.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 11.03.24
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9qQsHV/orbi2024.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 13.03.24
 https://archive.org/serve/orbita-guilmonzero-iptv-gratis-sigue-actualizando/%5B%C3%92rbita%20%40guilmonzero%5D%20IPTV%20Gratis%20-%20Sigue%20Actualizando.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZ6h2HvR/spectrum2.jpg" group-title="Animados | Variado",Spectrum Channel (LATAM)
 https://panel.miplay.cl:8081/spectrumchannel/tracks-v1a1/mono.m3u8
@@ -80,9 +80,6 @@ https://ch2-tva.duin.dev/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fRH8CCT8/animax.jpg" group-title="Animados | Variado",Animax (KR)
 https://i.mjh.nz/SamsungTVPlus/KRBC40000010R.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJSPRSkk/animestation2.jpg" group-title="Animados | Variado",Anime Station (AR)
-https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRmkqbxx/animash.jpg" group-title="Animados | Variado",Animash (LATAM)
 http://191.97.60.193:10000/play/a02u/index.m3u8
 
@@ -158,10 +155,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6292
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fb9WGZps/cartoon.jpg" group-title="Animados | Variado",Cartoon Network | Japón (JP)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fb9WGZps/cartoon.jpg" group-title="Animados | Variado",Cartoon Network | Arabia Saudita (SA)
-https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fb9WGZps/cartoon.jpg" group-title="Animados | Variado",Cartoon Network | Escandinavia (SK)
-http://89.254.128.5:22280/cartoon_network/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fb9WGZps/cartoon.jpg" group-title="Animados | Variado",Cartoon Network (US)
 http://tvmate.icu:8080/6025505794/osmanmata@gmail.com/46708
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fb9WGZps/cartoon.jpg" group-title="Animados | Variado",Cartoon Network | Opción 2 (US)
@@ -543,9 +536,9 @@ https://inliveserver.com:1936/11516/11516/playlist.m3u8
 https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7QvFD82/Supertoons.jpg" group-title="Animados | Variado",Supertoons TV | 1 (ES)
-https://kedoo-supertoonstv-2-es.samsung.wurl.tv/playlist.m3u8
+https://i.mjh.nz/SamsungTVPlus/ESBD5100001G0.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7QvFD82/Supertoons.jpg" group-title="Animados | Variado",Supertoons TV | 2 (FR)
-https://kedoo-supertoonstv-3-fr.samsung.wurl.tv/playlist.m3u8
+https://i.mjh.nz/SamsungTVPlus/FRBD5100002NL.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bNdnqK4z/tam.jpg" group-title="Animados | Variado",Tamyr (RU)
 https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
@@ -848,10 +841,10 @@ https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 #EXTINF:-1 channel-id="pluto-5dd8364ea1d6780009929902" tvg-id="5dd8364ea1d6780009929902" tvg-logo="https://i.postimg.cc/kgbWFDwD/plusci.jpg" tvg-chno="572" group-title="Ciencia | Cultura 🪐" ,Pluto TV | Ciencia (LATAM)
 https://r.mjh.nz/PlutoTV/5dd8364ea1d6780009929902-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-563a970aa1a1f7fe7c9daad7" tvg-id="563a970aa1a1f7fe7c9daad7" tvg-logo="https://i.postimg.cc/FzrxTmz8/plusc.jpg" tvg-chno="3110" group-title="Ciencia | Cultura 🪐" ,Pluto TV | Science (US)
+#EXTINF:-1 channel-id="pluto-563a970aa1a1f7fe7c9daad7" tvg-id="563a970aa1a1f7fe7c9daad7" tvg-logo="https://i.postimg.cc/k4f6T6bq/plusc.jpg" tvg-chno="3110" group-title="Ciencia | Cultura 🪐" ,Pluto TV | Science (US)
 https://r.mjh.nz/PlutoTV/563a970aa1a1f7fe7c9daad7-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-5d9492c77ea6f99188738ff1" tvg-id="5d9492c77ea6f99188738ff1" tvg-logo="https://i.postimg.cc/FzrxTmz8/plusc.jpg" tvg-chno="832" group-title="Ciencia | Cultura 🪐" ,Pluto TV | Science (UK)
+#EXTINF:-1 channel-id="pluto-5d9492c77ea6f99188738ff1" tvg-id="5d9492c77ea6f99188738ff1" tvg-logo="https://i.postimg.cc/k4f6T6bq/plusc.jpg" tvg-chno="832" group-title="Ciencia | Cultura 🪐" ,Pluto TV | Science (UK)
 https://r.mjh.nz/PlutoTV/5d9492c77ea6f99188738ff1-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5dbc2f98777f2e0009934ae7" tvg-id="5dbc2f98777f2e0009934ae7" tvg-logo="https://i.postimg.cc/KzqKyyQd/plusp.jpg" tvg-chno="831" group-title="Ciencia | Cultura 🪐" ,Pluto TV | Space (UK)
@@ -4957,9 +4950,9 @@ http://emuligl.info:8080/zjjqC6jBkBTA/x732MtLAy4QQ/1446
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZR6b0KY/futurama.jpg" group-title="Mas Series 🧟",Futurama (LATAM)
 http://nxt.plus:8080/olmos/1234guz/140884
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZR6b0KY/futurama.jpg" group-title="Mas Series 🧟",Futurama | Opción 2 (LATAM)
-http://rasaiptv.com:8080/Anderson1605/Barzallo1605A/212255
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZR6b0KY/futurama.jpg" group-title="Mas Series 🧟",Futurama | Opción Pocos Episodios (LATAM)
-https://6362ca6f1fc28.streamlock.net:443/cloudtvplus/cloudtvplus/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m2jtRwDq/garfiel.jpg" group-title="Mas Series 🧟",Garfield y sus Amigos (LATAM)
 http://emuligl.info:8080/zjjqC6jBkBTA/x732MtLAy4QQ/1474
@@ -4991,7 +4984,7 @@ https://i.mjh.nz/SamsungTVPlus/ESBA3300028OE.m3u8
 http://emuligl.info:8080/zjjqC6jBkBTA/x732MtLAy4QQ/1478
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1tB6N8TZ/lacasadibujos.jpg" group-title="Mas Series 🧟",La Casa de los Dibujos (LATAM)
-http://rasaiptv.com:8080/sergioduque/listo456/110635
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zDjqcz18/mickey.jpg" group-title="Mas Series 🧟",La Casa de Mickey Mouse (LATAM)
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DwmRm4LX/theaddamsfamily.jpg" group-title="Mas Series 🧟",La Familia Addams (LATAM)
@@ -5010,14 +5003,14 @@ https://i.mjh.nz/SamsungTVPlus/ESBD3200002V5.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKMwV9Rp/dark.jpg" group-title="Mas Series 🧟",Le Temes a la Oscuridad (LATAM)
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKMwV9Rp/dark.jpg" group-title="Mas Series 🧟",Le Temes a la Oscuridad | Opción 2 (LATAM)
-http://nxt.plus:8080/olmos/1234guz/140892
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKMwV9Rp/dark.jpg" group-title="Mas Series 🧟",Le Temes a la Oscuridad | Opción 3 (LATAM)
-http://rasaiptv.com:8080/sergioduque/listo456/110564
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d1n8597H/sti.jpg" group-title="Mas Series 🧟",Lilo y Stitch (LATAM)
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bNKMrTqf/lon.jpg" group-title="Mas Series 🧟",Looney Tunes (LATAM)
-http://rasaiptv.com:8080/sergioduque/listo456/110614
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26DXgmzH/anos.jpg" group-title="Mas Series 🧟",Los Años Maravillosos (LATAM)
 
@@ -5061,7 +5054,7 @@ http://nxt.plus:8080/olmos/1234guz/119349
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Mp7Q2PvP/genie.jpg" group-title="Mas Series 🧟",Mi Bella Genio (LATAM)
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Mp7Q2PvP/genie.jpg" group-title="Mas Series 🧟",Mi Bella Genio (LATAM)
-http://rasaiptv.com:8080/sergioduque/listo456/110552
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nLZqBvYv/misterios.jpg" group-title="Mas Series 🧟",Misterios Sin Resolver | Plex (LATAM)
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64d79408e5f67b0fab47ff24.m3u8
@@ -10176,7 +10169,7 @@ http://k4.usastreams.com/telebrunca/telebrunca/chunklist_w684257911.m3u8
 https://59ef525c24caa.streamlock.net/Tvpluscr/Tvpluscr/chunklist_w1335126634.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0xHK6Q1/telered2.jpg" group-title="Costa Rica 🇨🇷",TeleRed (CR)
-https://rpn3.bozztv.com/ssh101/ssh101/teleredch19/chunks.m3u8
+https://rpn3.bozztv.com/ssh101/ssh101/teleredch19/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/851S0ZcK/telesisem2.jpg" group-title="Costa Rica 🇨🇷",TeleSistema (CR)
 https://62fc643fbf1aa.streamlock.net/prueba2/prueba2/playlist.m3u8
