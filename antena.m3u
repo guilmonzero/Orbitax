@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9qQsHV/orbi2024.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 14.03.24
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9qQsHV/orbi2024.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 15.03.24
 https://archive.org/serve/orbita-guilmonzero-iptv-gratis-sigue-actualizando/%5B%C3%92rbita%20%40guilmonzero%5D%20IPTV%20Gratis%20-%20Sigue%20Actualizando.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZ6h2HvR/spectrum2.jpg" group-title="Animados | Variado",Spectrum Channel (LATAM)
 https://panel.miplay.cl:8081/spectrumchannel/tracks-v1a1/mono.m3u8
@@ -351,6 +351,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCnXYTcM/kidsp.jpg" group-title="Animados | Variado",Kids TV | Pluto TV (ES)
 https://i.mjh.nz/SamsungTVPlus/ESAJ38000046O.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkRqfhfh/lanuestra.jpg" group-title="Animados | Variado",La Nuestra (CL)
+https://jireh-1-hls-video-us-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cHSw-gXDK/lptv.jpg" group-title="Animados | Variado",La Popular TV (CL)
 https://tv.streaming-chile.com:1936/lapopulartv/lapopulartv/chunklist_w86287838.m3u8
@@ -2899,6 +2902,9 @@ http://k4.usastreams.com/videotour/videotour/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/h42gX2c5/volk.jpg" group-title="Música 🎼",Volks Musik | Alemania (DE)
 https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCnFFbBz/vox.jpg" group-title="Música 🎼",Vox Digital (CR)
+https://5d16127744872.streamlock.net/VOXDIGITAL/VOXDIGITAL/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MT5sn8Yv/viptv.jpg" group-title="Música 🎼",Vip TV | Aruba (AW)
 https://ed5ov1.live.opencaster.com/bkyqeDgfaukC/index.m3u8
@@ -6029,9 +6035,6 @@ https://r.mjh.nz/PlutoTV/62310d5a5dc9550007c6f580-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-619d59b7cbef25000728221c" tvg-id="619d59b7cbef25000728221c" tvg-logo="https://images.pluto.tv/channels/619d59b7cbef25000728221c/colorLogoPNG.png" tvg-chno="685" group-title="Pluto TV | Latino" ,Euronews Español
 https://r.mjh.nz/PlutoTV/619d59b7cbef25000728221c-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f523aa5523ae000074745ec" tvg-id="5f523aa5523ae000074745ec" tvg-logo="https://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png" tvg-chno="690" group-title="Pluto TV | Latino" ,Telefe Noticias
-https://r.mjh.nz/PlutoTV/5f523aa5523ae000074745ec-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-646ccd3681844c000974d6f4" tvg-id="646ccd3681844c000974d6f4" tvg-logo="https://images.pluto.tv/channels/646ccd3681844c000974d6f4/colorLogoPNG.png" tvg-chno="703" group-title="Pluto TV | Latino" ,ADN 40
 https://r.mjh.nz/PlutoTV/646ccd3681844c000974d6f4-alt.m3u8
@@ -10132,7 +10135,7 @@ https://videohd.live:19360/8076/8076.m3u8
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wBSnmtbt/opa.jpg" group-title="Costa Rica 🇨🇷",Opa! (CR)
-https://opa.usastreams.com:3101/hybrid/play.m3u8
+https://opa.usastreams.com:3101/live/canalopalive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vZLQ4xd1/alaj.jpg" group-title="Costa Rica 🇨🇷",Radio Alajuela | 1120 AM [Solo Audio] [No 24/7] (CR)
 https://tupanel.info:8970/;stream.nsv
