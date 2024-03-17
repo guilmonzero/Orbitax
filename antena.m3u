@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9qQsHV/orbi2024.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 16.03.24
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9qQsHV/orbi2024.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 17.03.24
 https://archive.org/serve/orbita-guilmonzero-iptv-gratis-sigue-actualizando/%5B%C3%92rbita%20%40guilmonzero%5D%20IPTV%20Gratis%20-%20Sigue%20Actualizando.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZ6h2HvR/spectrum2.jpg" group-title="Animados | Variado",Spectrum Channel (LATAM)
 https://panel.miplay.cl:8081/spectrumchannel/tracks-v1a1/mono.m3u8
@@ -253,6 +253,8 @@ https://ssh101.bozztv.com/ssh101/canalonline/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3YrRxQ3/Etc.jpg" group-title="Animados | Variado",ETC (CL)
 http://186.103.142.222:8000/play/a04c/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3YrRxQ3/Etc.jpg" group-title="Animados | Variado",ETC | Opción 2 (CL)
+http://45.71.252.67:8000/play/a0hh/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nVkvMTxQ/eureka1.jpg" group-title="Animados | Variado",Eureka (CO)
 https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/live-2500/index.m3u8
@@ -2420,8 +2422,6 @@ http://45.5.117.182:8000/play/a0gm/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/htNTc0yN/mtv-80s.jpg" group-title="Música 🎼",MTV | 80s (US)
 http://45.5.117.182:8000/play/a0f2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/htNTc0yN/mtv-80s.jpg" group-title="Música 🎼",MTV | 80s | Opción 2 (US)
-http://45.228.232.219:16000/play/a0m4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2sbjwz0/mun2.jpg" group-title="Música 🎼",Mun 2 TV | República Dominicana (RD)
 https://play.amelbasoluciones.co:3309/live/mun2tvlive.m3u8
@@ -3565,7 +3565,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4418
 https://dapdwco2fkcoa.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=88887620
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L67vnCy1/orbiavisos.jpg" group-title="Premium | Latino",Órbita by GUILMONZERO | AVISO
-https://i.postimg.cc/44GLV07d/orbitapremium.jpg
+https://i.postimg.cc/MHqh3gNx/orbitapremium.jpg
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZ6h2HvR/spectrum2.jpg" group-title="Premium | Latino",Spectrum Channel (LATAM)
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
@@ -4405,13 +4405,6 @@ http://138.59.177.34:8000/play/a00r/index.m3u8
 http://181.78.105.146:8800/play/a00a
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MT773Cc0/maschic.jpg" group-title="Premium | Latino",Mas Chic | Opción 4 (LATAM)
 http://179.189.222.226:8000/play/ch33
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnvKhFwq/glitz.jpg" group-title="Premium | Latino",Glitz* (LATAM)
-http://190.95.220.212:8000/play/a01f/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnvKhFwq/glitz.jpg" group-title="Premium | Latino",Glitz* | Opción 2 (LATAM)
-http://181.78.64.71:16123/play/ch34
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnvKhFwq/glitz.jpg" group-title="Premium | Latino",Glitz* | Opción 3 (LATAM)
-https://stream.kirachan.tech/memfs/b584d98a-5021-4e6f-8569-54cdbf77c37e.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nzbC9n8b/ESPN1.jpg" group-title="Premium | Latino",ESPN | 1  (AR)
 http://177.234.230.226:8010/play/a001/index.m3u8
@@ -10109,15 +10102,17 @@ https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HxnxFpNp/canal2.jpg" group-title="Costa Rica 🇨🇷",Canal 2 | Repretel (CR)
+https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxnxFpNp/canal2.jpg" group-title="Costa Rica 🇨🇷",Canal 2 | Repretel | Opción 2 (CR)
 https://d2t46xrpai3it5.cloudfront.net/Canal2CR/1ccdc8545fd05b83e9c57826d0de1069.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CxMzbH4B/4cr.jpg" group-title="Costa Rica 🇨🇷",Canal 4 | Repretel (CR)
-https://d2t46xrpai3it5.cloudfront.net/Canal4CR/e78ef5ae92191a83ba896fbe4bfda83e.sdp/playlist.m3u8
+https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CxMzbH4B/4cr.jpg" group-title="Costa Rica 🇨🇷",Canal 4 | Repretel | Opción 2 (CR)
-http://45.228.232.219:16000/play/a0mv/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bbsq44YL/6cr.jpg" group-title="Costa Rica 🇨🇷",Canal 6 | Repretel (CR)
-https://d2t46xrpai3it5.cloudfront.net/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.sdp/playlist.m3u8
+https://alba-cr-repretel-c6.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bbsq44YL/6cr.jpg" group-title="Costa Rica 🇨🇷",Canal 6 | Repretel | Opción 2 (CR)
 http://167.250.222.35:16000/play/a052/index.m3u8
 
@@ -10136,7 +10131,7 @@ https://vivo.radiosportstv.online:3138/stream/play.m3u8
 https://vivo.radiosportstv.online:3384/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GhVkQfH8/11.jpg" group-title="Costa Rica 🇨🇷",Canal 11 | Repretel (CR)
-https://d2t46xrpai3it5.cloudfront.net/Repretel11/b3e2798525101c45f84a48573676853a.sdp/playlist.m3u8
+https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GhVkQfH8/11.jpg" group-title="Costa Rica 🇨🇷",Canal 11 | Repretel | Opción 2 (CR)
 http://45.228.232.205:16000/play/a054/index.m3u8
 
@@ -10736,6 +10731,8 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m
 http://186.148.163.18:8000/play/a03i/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c41hDz3X/tve-internacional.jpg" group-title="España",TVE | Internacional | Opción 3 (ES)
 http://170.82.37.21:8000/play/a032/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c41hDz3X/tve-internacional.jpg" group-title="España",TVE | Internacional | Opción 4 (ES)
+http://181.78.64.71:16123/play/ch34
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJNhmck6/ferrol.jpg" group-title="España",TV Ferrol (ES)
 https://directo.tvferrol.es/tv.m3u8
@@ -11565,16 +11562,16 @@ http://45.5.117.182:8000/play/a0em/index.m3u8
 http://181.78.105.146:8800/play/a06h
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Fsq8KmHy/canal4ni.jpg" group-title="Nicaragua | Panamá",Canal 4 (NI)
-http://45.228.232.219:16000/play/a0nk/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yd9NY2DT/canal6ni.jpg" group-title="Nicaragua | Panamá",Canal 6 (NI)
 http://167.250.222.35:16000/play/a04w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0RHKbdP/TN8.jpg" group-title="Nicaragua | Panamá",Canal 8 | TN8 (NI)
-http://45.228.232.219:16000/play/a0ke/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wj9wz83V/canal10ni.jpg" group-title="Nicaragua | Panamá",Canal 10 (NI)
-http://45.228.232.219:16000/play/a0mr/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6QJt1sxF/canal12ni.jpg" group-title="Nicaragua | Panamá",Canal 12 | Nicavision (NI)
 https://5ca9af4645e15.streamlock.net/canal12/videocanal12/chunklist_w569778297.m3u8
@@ -11583,16 +11580,16 @@ https://5ca9af4645e15.streamlock.net/canal12/videocanal12/chunklist_w569778297.m
 http://45.5.117.182:8000/play/a0el/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NMr6Ddn6/vivanicaragua.jpg" group-title="Nicaragua | Panamá",Canal 13 | Viva Nicaragua (NI)
-http://45.228.232.219:16000/play/a0kk/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YSp1V0LG/nit.jpg" group-title="Nicaragua | Panamá",Canal 14 | Vos TV (NI)
-http://45.228.232.219:16000/play/a0kf/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7LgYDQ7m/tvni.jpg" group-title="Nicaragua | Panamá",Canal 19 | TV Ni (NI)
 https://62fc643fbf1aa.streamlock.net/TVNICA/TVNICA/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kgDYrsbs/nicarao.jpg" group-title="Nicaragua | Panamá",Canal 51 | Nicarao TV (NI)
-http://45.228.232.219:16000/play/a0ls/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hv3fp17s/MAS23.jpg" group-title="Nicaragua | Panamá",Más +23 (PA)
 https://mediacp.us:8081/mas23tv/index.m3u8
@@ -11606,8 +11603,6 @@ http://45.5.117.182:8000/play/a0g5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V63wC6y3/Tvmax.jpg" group-title="Nicaragua | Panamá",TV Max (PA)
 http://190.149.66.90:4000/play/a043/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/V63wC6y3/Tvmax.jpg" group-title="Nicaragua | Panamá",TV Max | Opción 2 (PA)
-http://45.228.232.219:16000/play/a0nl/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7PmG4ZwY/wtv.jpg" group-title="Nicaragua | Panamá",WTV (NI)
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
