@@ -423,11 +423,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3365
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MHRFFP7G/moonbug.jpg" group-title="Animados | Variado",Moonbug (UK)
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnrSw-kvk/movieplay.jpg" group-title="Animados | Variado",Movie Play (PR)
-http://186.103.142.222:8000/play/a062/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C1JDqcXG/moni3.jpg" group-title="Animados | Variado",Moni TV (CL)
 https://stream.skarnetchile.com:3817/live/monitvlive.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnrSw-kvk/movieplay.jpg" group-title="Animados | Variado",Movie Play (PR)
+http://186.103.142.222:8000/play/a062/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5Nqqfy7L/mplus.jpg" group-title="Animados | Variado",Movistar Plus (PE)
 http://177.234.247.66:8888/play/a06c/index.m3u8
