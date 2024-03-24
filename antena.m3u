@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9qQsHV/orbi2024.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 22.03.24
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9qQsHV/orbi2024.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 24.03.24
 https://archive.org/serve/orbita-guilmonzero-iptv-gratis-sigue-actualizando/%5B%C3%92rbita%20%40guilmonzero%5D%20IPTV%20Gratis%20-%20Sigue%20Actualizando.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZ6h2HvR/spectrum2.jpg" group-title="Animados | Variado",Spectrum Channel (LATAM)
 https://panel.miplay.cl:8081/spectrumchannel/tracks-v1a1/mono.m3u8
@@ -75,14 +75,17 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5ef11486d33ab9004048a1cd.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YC4PYKMB/alwaye.jpg" group-title="Animados | Variado",Always Funny | Español | Plex (LATAM)
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5ef4e1b10d9ad000423c4421.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/G20D2rPY/amas.jpg" group-title="Animados | Variado",A Más Guate (GT)
-https://ch2-tva.duin.dev/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fRH8CCT8/animax.jpg" group-title="Animados | Variado",Animax (KR)
 https://i.mjh.nz/SamsungTVPlus/KRBC40000010R.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRmkqbxx/animash.jpg" group-title="Animados | Variado",Animash (LATAM)
-http://191.97.60.193:10000/play/a02u/index.m3u8
+http://191.97.60.193:10000/play/a02u/index.m3u
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHHqskKs/animestation3.jpg" group-title="Animados | Variado",Anime Station (LATAM)
+https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hhF4xDB6/taltal.jpg" group-title="Animados | Variado",Anime Taltal TV (LATAM)
+https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j5W8108t/animotion.jpg" group-title="Animados | Variado",Animotion (LATAM)
 http://190.110.109.104:52321/play/a016/index.m3u8
@@ -110,7 +113,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85htYCNF/Abeano.jpg" group-title="Animados | Variado",Beano TV (UK)
 https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/B65rJJ7v/bigch.jpg" group-title="Animados | Variado",Big Channel (CO)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/B65rJJ7v/bigch.jpg" group-title="Animados | Variado",Big Channel (AR)
 https://ssh101.bozztv.com/ssh101/bigchannel/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HnnRZs2F/bitme.jpg" group-title="Animados | Variado",Bitme (MX)
@@ -120,8 +123,6 @@ https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HkqqLTcs/boing.jpg" group-title="Animados | Variado",Boing | Opción 2 (ES)
 http://925903986310321135.of1030ok.xyz:80/play/XFFK2544139/MA255846699/321135.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/K8HQks7n/boingit.jpg" group-title="Animados | Variado",Boing | Italia (IT)
-http://89.117.222.30:8000/play/a02k
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJhX9N4n/brat.jpg" group-title="Animados | Variado",Brat TV (ES)
 https://brat-rakuten.amagi.tv/playlist.m3u8
@@ -136,8 +137,6 @@ https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca5029201
 http://179.189.222.226:8000/play/ch06
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yMBdP9k/canal-infantil.jpg" group-title="Animados | Variado",Canal Infantil | Opción 2 (LATAM)
 http://190.60.40.37:12500/play/CANALINFANTIL/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yMBdP9k/canal-infantil.jpg" group-title="Animados | Variado",Canal Infantil | Opción 3 (LATAM)
-http://177.93.45.155:6143/play/a02i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y97nVfFy/canela-kids.jpg" group-title="Animados | Variado",Canela Kids (LATAM)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
@@ -289,6 +288,9 @@ https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CMcppSF2/funbox.jpg" group-title="Animados | Variado",FunBox (LATAM)
 http://191.97.60.193:10000/play/a02r/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNwBCmSg/xabarin3.jpg" group-title="Animados | Variado",Galicia | Xabarín (ES)
+http://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/chunklist_b2500000.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/prtGxbLq/gametoon.jpg" group-title="Animados | Variado",Game Toon (US)
 http://iptv.prosto.tv:7000/ch256/video.m3u8
 
@@ -318,6 +320,9 @@ https://i.mjh.nz/SamsungTVPlus/ESAJ49000017H.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrNjb420/ipe.jpg" group-title="Animados | Variado",IPE (PE)
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPp8tZTQ/isat.jpg" group-title="Animados | Variado",I-Sat (AR)
+https://stream.kirachan.tech/memfs/c32373db-ca4b-4f06-b279-4d376d307249.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y6vGrTSZ/Iunior.jpg" group-title="Animados | Variado",Iunior TV (IT)
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 
@@ -332,7 +337,7 @@ https://stmv3.voxtvhd.com.br/jcustreaming/jcustreaming/chunklist_w1532123128.m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdkQmGXy/gacs.jpg" group-title="Animados | Variado",Just for Laughs | Gags (EU)
 https://distributionsjustepourrire-justforlaughsgags-1-eu.vidaa.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/brrsGL5r/kandela.jpg" group-title="Animados | Variado",Kandela Televisión | Venezuela (VE)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/brrsGL5r/kandela.jpg" group-title="Animados | Variado",Kandela Televisión (VE)
 https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5LbfGhW/kartoonch.jpg" group-title="Animados | Variado",Kartoon Channel (US)
@@ -371,11 +376,14 @@ https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4NxDqWZ/lego.jpg" group-title="Animados | Variado",Lego (US)
 https://i.mjh.nz/SamsungTVPlus/USBA2300001S8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCNP21jh/lim2.jpg" group-title="Animados | Variado",Lim TV (PY)
+https://tv.invasivamedia.com/hls/limtv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Wbbkyv8k/loading.jpg" group-title="Animados | Variado",Loading (BR)
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLCxKRzm/locomotio2.jpg" group-title="Animados | Variado",Locomotion (LATAM)
-http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTb11D2S/locomotio5.jpg" group-title="Animados | Variado",Locomotion (LATAM)
+http://85.239.54.197:81/live/loco_hi/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tKk1y71/lollykids.jpg" group-title="Animados | Variado",Lolly Kids | Música (LATAM)
 http://190.60.40.37:12500/play/a09c/index.m3u8
@@ -439,6 +447,9 @@ https://void.greenhosting.ru/Multimania_Mpeg4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7KQcYFY/multivision.jpg" group-title="Animados | Variado",Multivisión (AR)
 https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RC8r6CKx/neox.jpg" group-title="Animados | Variado",Neox (ES)
+http://530064904438321376.ofd0120.xyz:80/play/XFGK5534286/MK335882968/321376.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y87bqTG8/nick.jpg" group-title="Animados | Variado",Nickelodeon (US)
 http://143.244.60.30/NICKELODEON/index.m3u8
@@ -518,7 +529,7 @@ https://cageu.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j5Hd1Ypj/retrocr.jpg" group-title="Animados | Variado",Retro TV Online (CR)
 https://ssh101.bozztv.com/ssh101/retrotvcr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x1fGYGZK/retrox2.jpg" group-title="Animados | Variado",Retrox TV (CR)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RCTrwqbQ/retrox3.jpg" group-title="Animados | Variado",RetroX TV (CR)
 https://tgn.bozztv.com/ssh101/ssh101/123456789/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4NY00cSp/fmh-rewind.jpg" group-title="Animados | Variado",Rewind (LATAM)
@@ -576,6 +587,9 @@ https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mkxDLjxY/telemundo-PUERTO.jpg" group-title="Animados | Variado",Telemundo | Puerto Rico (PR)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/D0tXp3r3/telenorte.jpg" group-title="Animados | Variado",Telenorte (CL)
+https://stream.wifiexpert.cl/telenorte/canal-1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HxWprqrN/tigueritos.jpg" group-title="Animados | Variado",Tigueritos (LATAM)
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 
@@ -618,13 +632,6 @@ https://i.mjh.nz/SamsungTVPlus/ESBC4100002AG.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCkyvPV1/tvemplacilla2.jpg" group-title="Animados | Variado",TV En Placilla (CL)
 https://panel.tvstream.cl:1936/8038/8038/chunklist_w1110360145.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SKH4zjQ0/tvs-ca.jpg" group-title="Animados | Variado",TVS | Cartoons (US)
-https://rpn1.bozztv.com/36bay2/gusa-TVSCartoonNetwork/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W38R062x/tvs-fa.jpg" group-title="Animados | Variado",TVS | Family (US)
-https://rpn1.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHJJLkNm/tvs-hit.jpg" group-title="Animados | Variado",TVS | Hit Tops (US)
-https://rpn1.bozztv.com/36bay2/gusa-hitops/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7DXhMN9/univision.jpg" group-title="Animados | Variado",Univision | Panregional (US)
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 
@@ -659,6 +666,9 @@ https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRWWKryt/wowc.jpg" group-title="Animados | Variado",Wow | Movies (LATAM)
 https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cw71bNY/zarok.jpg" group-title="Animados | Variado",Zarok TV | Turquía (TR)
+https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cLYsFybh/zaz2.jpg" group-title="Animados | Variado",Zaz (LATAM)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4284
@@ -1477,7 +1487,7 @@ https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZr5j8vm/sstv.jpg" group-title="Deportes | Aventura",Sporty Stuff TV (US)
-https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/manifest.m3u8
+https://cdn.rtmp1.vodhosting.com/hls/SportyStuffTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wM6VLS2b/surf.jpg" group-title="Deportes | Aventura",Surf Channel (ES)
 https://i.mjh.nz/SamsungTVPlus/ESBA3300035DP.m3u8
@@ -1555,19 +1565,6 @@ https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 http://181.78.105.146:2000/play/a08j/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kMfCjxdY/Tudn.jpg" group-title="Deportes | Aventura",TUDN | Opción 3 (MX)
 http://181.78.105.146:8800/play/a07e
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqWhLV32/tvs-b.jpg" group-title="Deportes | Aventura",TVS | Boxing (US)
-https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/85ZtWsTv/tvscs.jpg" group-title="Deportes | Aventura",TVS | Classic Sports (US)
-https://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ5nsqct/tvs.jpg" group-title="Deportes | Aventura",TVS | Sports (US)
-https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/90v0NtWj/tvsb.jpg" group-title="Deportes | Aventura",TVS | Sports Bureau (US)
-https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KjK4NshN/tvst.jpg" group-title="Deportes | Aventura",TVS | Turbo (US)
- https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1t7fD12X/tvsw-.jpg" group-title="Deportes | Aventura",TVS | Women Sports (US)
-https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mkcwBwYH/TVSTURF.jpg" group-title="Deportes | Aventura",TV Turf Movil (CL)
 https://janus.tvturf.cl/playlist/stream.m3u8
@@ -2919,8 +2916,7 @@ http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d1CDNWnN/sl48.jpg" group-title="Música 🎼",TV SL 48 (IT)
 http://media.velcom.it:1935/sl48/sl48/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tX108Vq/tvs-mu.jpg" group-title="Música 🎼",TVS | Music (US)
-https://rpn1.bozztv.com/36bay2/gusa-tvsmusic/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pd26JVQ8/Camocim.jpg" group-title="Música 🎼",TV Web Camocim (BR)
 https://5c483b9d1019c.streamlock.net/8172/8172/chunklist_w341983832.m3u8
@@ -3165,9 +3161,6 @@ https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sfG7LPLK/concir.jpg" group-title="Peliculas | Series",Circle Country (US)
 https://circle-roku.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF099PfC/cc.jpg" group-title="Peliculas | Series",Classic Cinema (US)
-https://rpn1.bozztv.com/36bay2/gusa-classiccinema/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pVBT2dRK/clarocinema.jpg" group-title="Peliculas | Series",Claro Cinema (LATAM)
 http://186.148.163.18:8000/play/a00r/index.m3u8
@@ -3517,39 +3510,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinees
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWKnrg4Q/popmedia.jpg" group-title="Peliculas | Series",TV Pop (CL)
 https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZ2B8qkP/tvs-cla.jpg" group-title="Peliculas | Series",TVS | Classic Movies (US)
-https://rpn1.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NF9dV8WF/tvs-co.jpg" group-title="Peliculas | Series",TVS | Comedy Classic (US)
-https://rpn1.bozztv.com/36bay2/gusa-comedyclassics/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNFmP5zJ/tvs-dr.jpg" group-title="Peliculas | Series",TVS | Drive In Movie (US)
-https://rpn1.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6vr1vmK/tvs-fi.jpg" group-title="Peliculas | Series",TVS | Film Noir (US)
-https://rpn1.bozztv.com/36bay2/gusa-TVSFilmNoir/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1z3c2cFS/tvs-de.jpg" group-title="Peliculas | Series",TVS | Front Page Detective (US)
-https://rpn1.bozztv.com/36bay2/gusa-tvsfrontpagedetective/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cYK5fB9/tvs-ga.jpg" group-title="Peliculas | Series",TVS | Game Show (US)
-https://rpn1.bozztv.com/36bay2/gusa-tvsgameshow/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z0z0PVTS/tvs.jpg" group-title="Peliculas | Series",TVS | Hollywood History (US)
-https://rpn1.bozztv.com/36bay2/gusa-tvshollywoohistory/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/htLsF5wH/tvs-ho.jpg" group-title="Peliculas | Series",TVS | Horror (US)
-https://rpn1.bozztv.com/36bay2/gusa-tvshorror/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fy3LX1my/tvs-ma.jpg" group-title="Peliculas | Series",TVS | Mainstreet (US)
-https://rpn1.bozztv.com/36bay2/gusa-tvsmainst/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/WbL8zVMd/tvs-mi.jpg" group-title="Peliculas | Series",TVS | Mistery (US)
-https://rpn1.bozztv.com/36bay2/gusa-tvsmystery/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RGpQyfn/tvs-no.jpg" group-title="Peliculas | Series",TVS | Nostalgia (US)
-https://rpn1.bozztv.com/36bay2/gusa-nostalgia/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNmnPLP8/tvs-nm.jpg" group-title="Peliculas | Series",TVS | Nostalgia Movies (US)
-https://rpn1.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5yxtKjhH/tvs-pe.jpg" group-title="Peliculas | Series",TVS | Pet Parade (US)
-https://rpn1.bozztv.com/36bay2/gusa-petparadenetwork/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjKB7NPJ/tvs-ta.jpg" group-title="Peliculas | Series",TVS | Tally Ho (US)
-https://rpn1.bozztv.com/36bay2/gusa-tvstallyho/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxJGYmbS/tvs-tav.jpg" group-title="Peliculas | Series",TVS | Tavern (US)
-https://rpn1.bozztv.com/36bay2/gusa-tavern/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLCS7kMr/tvs-we.jpg" group-title="Peliculas | Series",TVS | Wester Movies (US)
-https://rpn1.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BZyJ43x9/uranio.jpg" group-title="Peliculas | Series",Uranio TV (PE)
 https://live.obslivestream.com/uraniotv/index.m3u8
@@ -4608,229 +4568,6 @@ http://181.78.4.186:8000/play/a0dq/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G21V9j5V/mtv-latino.jpg" group-title="Premium | Latino",MTV | Latino | Opción 4 (LATAM)
 http://190.149.66.90:4000/play/a04f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Mediaset HD (IT)
-http://89.117.222.30:8000/play/a02f
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Kitchen (IT)
-http://89.117.222.30:8000/play/a01t
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Twentyseven HD (IT)
-http://89.117.222.30:8000/play/a02s
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",A2 CNN (IT)
-http://89.117.222.30:8000/play/a01a
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",ABC HD (IT)
-http://89.117.222.30:8000/play/a023
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",L MALAKOOT SAT – THE KINGDOM SAT (IT)
-http://89.117.222.30:8000/play/a03g
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",AMAZING FACTS (IT)
-http://89.117.222.30:8000/play/a03k
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Alsat M (IT)
-http://89.117.222.30:8000/play/a027
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Angel TV Europe (IT)
-http://89.117.222.30:8000/play/a037
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Bang Bang (IT)
-http://89.117.222.30:8000/play/a00a
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Big Brother VIP 1 (IT)
-http://89.117.222.30:8000/play/a03o
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Big Brother VIP 2 (IT)
-http://89.117.222.30:8000/play/a03p
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",BogBlag TV (IT)
-http://89.117.222.30:8000/play/a038
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",CIRA TV (IT)
-http://89.117.222.30:8000/play/a03a
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",CNA TV (IT)
-http://89.117.222.30:8000/play/a03h
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Canale 5 HD (IT)
-http://89.117.222.30:8000/play/a02h
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Cartoonito HD (IT)
-http://89.117.222.30:8000/play/a02q
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Cine34 HD (IT)
-http://89.117.222.30:8000/play/a02c
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Cufo TV  (IT)
-http://89.117.222.30:8000/play/a00v
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",DTX (IT)
-http://89.117.222.30:8000/play/a02a
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Deluxe 139 (IT)
-http://89.117.222.30:8000/play/a036
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Discovery Channel (IT)
-http://89.117.222.30:8000/play/a021
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Discovery Turbo Xtra (IT)
-http://89.117.222.30:8000/play/a01v
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Dukagjini (IT)
-http://89.117.222.30:8000/play/a01o
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",EXP histori (IT)
-http://89.117.222.30:8000/play/a00y
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",EXP natyra (IT)
-http://89.117.222.30:8000/play/a00x
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",EXP shkence (IT)
-http://89.117.222.30:8000/play/a00b
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",EuroFilm (IT)
-http://89.117.222.30:8000/play/a010
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Star Channel (IT)
-http://89.117.222.30:8000/play/a01u
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Star Movies (IT)
-http://89.117.222.30:8000/play/a01p
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Family HD (IT)
-http://89.117.222.30:8000/play/a01d
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Fax News (IT)
-http://89.117.222.30:8000/play/a00z
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Film Aksion HD (IT)
-http://89.117.222.30:8000/play/a00n
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Film Autor (IT)
-http://89.117.222.30:8000/play/a011
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Film Drame (IT)
-http://89.117.222.30:8000/play/a014
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Film Hits HD (IT)
-http://89.117.222.30:8000/play/a00m
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Film Komedi (IT)
-http://89.117.222.30:8000/play/a00d
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Film Thriller (IT)
-http://89.117.222.30:8000/play/a013
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Firstlight (IT)
-http://89.117.222.30:8000/play/a03j
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Focus HD (IT)
-http://89.117.222.30:8000/play/a02r
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Fox Life (IT)
-http://89.117.222.30:8000/play/a01x
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",GOLD HD (IT)
-http://89.117.222.30:8000/play/a01b
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Giallo (IT)
-http://89.117.222.30:8000/play/a02u
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",HGTV Italy (IT)
-http://89.117.222.30:8000/play/a02w
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Iris HD (IT)
-http://89.117.222.30:8000/play/a02j
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Italia1 HD (IT)
-http://89.117.222.30:8000/play/a02g
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Junior TV (IT)
-http://89.117.222.30:8000/play/a00u
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",KICC TV (IT)
-http://89.117.222.30:8000/play/a03b
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Kanal 10 (IT)
-http://89.117.222.30:8000/play/a026
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Klan Kosova (IT)
-http://89.117.222.30:8000/play/a00h
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Klan Macedonia (IT)
-http://89.117.222.30:8000/play/a025
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Klan Music (IT)
-http://89.117.222.30:8000/play/a00e
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Klan News (IT)
-http://89.117.222.30:8000/play/a016
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Klan Plus (IT)
-http://89.117.222.30:8000/play/a017
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Klan TV HD (IT)
-http://89.117.222.30:8000/play/a00r
-##EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",La5 HD (IT)
-http://89.117.222.30:8000/play/a02l
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",MAX HD (IT)
-http://89.117.222.30:8000/play/a01c
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",MTV Live HD (IT)
-http://89.117.222.30:8000/play/a022
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Med Music (IT)
-http://89.117.222.30:8000/play/a035
-##EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Mediaset Extra HD (IT)
-http://89.117.222.30:8000/play/a02n
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Mediaset Italia2 HD (IT)
-http://89.117.222.30:8000/play/a02o
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Melody.TV (IT)
-http://89.117.222.30:8000/play/a018
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",MotorTrend (IT)
-http://89.117.222.30:8000/play/a02t
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Music Box (IT)
-http://89.117.222.30:8000/play/a03n
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",My Music (IT)
-http://89.117.222.30:8000/play/a00w
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",NTN (IT)
-http://89.117.222.30:8000/play/a03d
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",News 24 (IT)
-http://89.117.222.30:8000/play/a00i
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Nickelodeon (IT)
-http://89.117.222.30:8000/play/a01y
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Nicktoons (IT)
-http://89.117.222.30:8000/play/a01w
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Nove (IT)
-http://89.117.222.30:8000/play/a02v
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Ora News HD (IT)
-http://89.117.222.30:8000/play/a00l
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",PACI CONTEMPORARY CHANNEL (IT)
-http://89.117.222.30:8000/play/a03c
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Panorama TV (IT)
-http://89.117.222.30:8000/play/a01l
-##EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",RADIO MONTE CARLO (IT)
-http://89.117.222.30:8000/play/a02e
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",RTK-1 (IT)
-http://89.117.222.30:8000/play/a009
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",RTSH 1 (IT)
-http://89.117.222.30:8000/play/a015
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",RTSH Shkolle (IT)
-http://89.117.222.30:8000/play/a01j
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",RTSH Shqip (IT)
-http://89.117.222.30:8000/play/a024
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",RTSH Sport (IT)
-http://89.117.222.30:8000/play/a012
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",RTV Ora (IT)
-http://89.117.222.30:8000/play/a00g
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Rai 1 HD (IT)
-http://89.117.222.30:8000/play/a02z
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Rai 2 HD (IT)
-http://89.117.222.30:8000/play/a030
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Rai 3 HD (IT)
-http://89.117.222.30:8000/play/a031
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Rai 4 HD (IT)
-http://89.117.222.30:8000/play/a032
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Rai Movie HD (IT)
-http://89.117.222.30:8000/play/a033
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Rete4 HD (IT)
-http://89.117.222.30:8000/play/a02i
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Ronahi TV (IT)
-http://89.117.222.30:8000/play/a034
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",SLNTV (IT)
-http://89.117.222.30:8000/play/a03e
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",SS-1 HD (IT)
-http://89.117.222.30:8000/play/a01e
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",SS-2 HD (IT)
-http://89.117.222.30:8000/play/a01f
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",SS-3 HD (IT)
-http://89.117.222.30:8000/play/a01g
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",SS-4 HD (IT)
-http://89.117.222.30:8000/play/a01h
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",SS-5 HD (IT)
-http://89.117.222.30:8000/play/a00s
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",SS-6 HD (IT)
-http://89.117.222.30:8000/play/a00t
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",SS-7 HD (IT)
-http://89.117.222.30:8000/play/a00k
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",STAR PLUS TV (IT)
-http://89.117.222.30:8000/play/a01n
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",STERK TV HD (IT)
-http://89.117.222.30:8000/play/a039
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",STV Folk (IT)
-http://89.117.222.30:8000/play/a01q
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Scan TV (IT)
-http://89.117.222.30:8000/play/a01k
-##EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Silk Way (IT)
-http://89.117.222.30:8000/play/a03m
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Stinet (IT)
-http://89.117.222.30:8000/play/a00f
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",SuperSonic TV (IT)
-http://89.117.222.30:8000/play/a01z
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Suryoyo SAT (IT)
-http://89.117.222.30:8000/play/a03f
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Syri TV (IT)
-http://89.117.222.30:8000/play/a00c
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",T HD (IT)
-http://89.117.222.30:8000/play/a00j
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",TOPcrime HD (IT)
-http://89.117.222.30:8000/play/a02p
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Top Channel HD (IT)
-http://89.117.222.30:8000/play/a00p
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Top News HD (IT)
-http://89.117.222.30:8000/play/a00o
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Travel Channel HD (IT)
-http://89.117.222.30:8000/play/a01m
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",VIRGIN RADIO (IT)
-http://89.117.222.30:8000/play/a02d
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0vpYC1b/probando.jpg" group-title="Premium | Italia",Zjarr TV (IT)
-http://89.117.222.30:8000/play/a019
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0NLnLzck/2perros.jpg" group-title="Mas Series 🧟",2 Perros Tontos (LATAM)
 http://emuligl.info:8080/zjjqC6jBkBTA/x732MtLAy4QQ/79428
 
@@ -4897,7 +4634,7 @@ https://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/ypf/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wM51zwFy/alf-2.jpg" group-title="Mas Series 🧟",ALF (LATAM)
-
+http://pe.shortgod.com/volve24/tv6.php?id=128&token=ShortGod&file=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pV6ZdG84/24-7-ALF.jpg" group-title="Mas Series 🧟",ALF | Opción 2 (LATAM)
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3hm5KfP/alf4.jpg" group-title="Mas Series 🧟",ALF | Opción 3 (LATAM)
@@ -4971,6 +4708,8 @@ https://i.mjh.nz/SamsungTVPlus/ES400002P5.m3u8
 http://rasaiptv.com:8080/sergioduque/listo456/110517
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgXJW92y/digimon.jpg" group-title="Mas Series 🧟",Digimon Adventure | Opción 2 (LATAM)
 http://emuligl.info:8080/zjjqC6jBkBTA/x732MtLAy4QQ/1488
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgXJW92y/digimon.jpg" group-title="Mas Series 🧟",Digimon Adventure | Opción 3 (LATAM)
+http://pe.shortgod.com/volve24/tv6.php?id=129
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MHYrcbTz/dino.jpg" group-title="Mas Series 🧟",Dinosaurios (LATAM)
 
@@ -5022,9 +4761,7 @@ https://i.mjh.nz/SamsungTVPlus/USBD42000124T.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZR6b0KY/futurama.jpg" group-title="Mas Series 🧟",Futurama (LATAM)
 http://nxt.plus:8080/olmos/1234guz/140884
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZR6b0KY/futurama.jpg" group-title="Mas Series 🧟",Futurama | Opción 2 (LATAM)
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZR6b0KY/futurama.jpg" group-title="Mas Series 🧟",Futurama | Opción Pocos Episodios (LATAM)
-
+http://pe.shortgod.com/volve24/tv6.php?id=166&token=ShortGod&file=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m2jtRwDq/garfiel.jpg" group-title="Mas Series 🧟",Garfield y sus Amigos (LATAM)
 http://emuligl.info:8080/zjjqC6jBkBTA/x732MtLAy4QQ/1474
@@ -5103,7 +4840,6 @@ https://i.mjh.nz/SamsungTVPlus/ESBA3300025WZ.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7S1kN74/picapiedras.jpg" group-title="Mas Series 🧟",Los Picapiedras (LATAM)
-https://6362ca6f1fc28.streamlock.net:443/picapiedraplus/picapiedraplus/playlist.m3u8
 
 #EXTINF:-1 channel-id="pluto-5f85f1dc1418bd0007e11eb9" tvg-id="5f85f1dc1418bd0007e11eb9" tvg-logo="https://i.postimg.cc/KvGG8mvy/los3.jpg" tvg-chno="259" group-title="Mas Series 🧟" ,Los Tres Chiflados | Pluto TV (LATAM)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -5118,6 +4854,10 @@ http://emuligl.info:8080/zjjqC6jBkBTA/x732MtLAy4QQ/1440
 http://rasaiptv.com:8080/sergioduque/listo456/212269
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtJFXNYP/simpsons-1.jpg" group-title="Mas Series 🧟",Los Simpsons | 3 (LATAM)
 http://rasaiptv.com:8080/Anderson1605/Barzallo1605A/212269
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5gDCgf9/simpsons-2.jpg" group-title="Mas Series 🧟",Los Simpsons | 4 (LATAM)
+http://pe.shortgod.com/volve24/tv1.php?id=357.m3u8
+
+http://pe.shortgod.com/volve24/tv1.php?id=357.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxrSNFZD/super.jpg" group-title="Mas Series 🧟",Los Supersonicos (LATAM)
 http://emuligl.info:8080/zjjqC6jBkBTA/x732MtLAy4QQ/221337
 
@@ -5132,9 +4872,7 @@ http://nxt.plus:8080/olmos/1234guz/119349
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1JYgJ5L/meg.jpg" group-title="Mas Series 🧟",Megaman (LATAM)
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Mp7Q2PvP/genie.jpg" group-title="Mas Series 🧟",Mi Bella Genio (LATAM)
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Mp7Q2PvP/genie.jpg" group-title="Mas Series 🧟",Mi Bella Genio (LATAM)
-
+http://pe.shortgod.com/volve24/tv6.php?id=93&token=ShortGod&file=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nLZqBvYv/misterios.jpg" group-title="Mas Series 🧟",Misterios Sin Resolver | Plex (LATAM)
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64d79408e5f67b0fab47ff24.m3u8
@@ -10513,23 +10251,17 @@ http://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13Pk3bz3/galicia1.jpg" group-title="España",Galicia | Europa (ES)
 http://europa-crtvg.flumotion.com/crtvg/europa_med/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdcsp3jF/GALICIA2.jpg" group-title="España",Galicia 2 (ES)
+http://crtvg-events2.flumotion.cloud/crtvg/events2_high/chunks_dvr.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdcsp3jF/GALICIA2.jpg" group-title="España",Galicia 2 | Europa (ES)
 https://amodino-crtvg.flumotion.com/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNwBCmSg/xabarin3.jpg" group-title="España",Galicia | Cativ@s (ES)
-https://xabarintv-r2-crtvg.flumotion.com/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNwBCmSg/xabarin3.jpg" group-title="España",Galicia | Mociñ@s (ES)
-https://xabarintv-r3-crtvg.flumotion.com/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/q7h6MHhR/momentos.jpg" group-title="España",Galicia | Momentos (ES)
 http://momentog-crtvg.flumotion.com/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNwBCmSg/xabarin3.jpg" group-title="España",Galicia | Pequerrech@s (ES)
-https://xabarintv-r1-crtvg.flumotion.com/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPN80BCr/xabarin2.jpg" group-title="España",Galicia | Xabarin (ES)
-https://infantil-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNwBCmSg/xabarin3.jpg" group-title="España",Galicia | Xabarín (ES)
+http://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9M0knhz0/gitb.jpg" group-title="España",Goierri Irrati Telebista (ES)
 https://5940924978228.streamlock.net/8155/8155/chunklist_w123833101.m3u8
@@ -10565,7 +10297,7 @@ https://streamingtvi.gestec-video.com/hls/tvixa.m3u8
 https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FRCttP8d/laotra.jpg" group-title="España",La Otra (ES)
-https://laotra-1-23.secure2.footprint.net/master.m3u8
+https://laotra-1-23-secure2.akamaized.net/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6TJZ3HZP/lasexta.jpg" group-title="España",La Sexta (ES)
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/index.m3u8
@@ -10607,10 +10339,10 @@ https://cloudvideo.servers10.com:8081/8034/index.m3u8
 https://ondacadiztv.es:30443/octv/directo_multi/octv/directo_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QVWNDzX/ondam.jpg" group-title="España",Onda Madrid | 101.3 FM (ES)
-https://tvradio-1-23.secure2.footprint.net/bitrate_1.m3u8
+https://ondamadrid-1-23-secure2.akamaized.net/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nhQp132x/ONDAMADRID.jpg" group-title="España",Onda Madrid | 101.3 FM | 2 (ES)
-https://tvradiohls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/tvradio_1/bitrate_1.m3u8
+https://tvradio-1-23-secure2.akamaized.net/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QCMTBsV/ondavalencia.jpg" group-title="España",Onda Valencia (ES)
 https://cloudvideo.servers10.com:8081/8116/index.m3u8
@@ -10682,11 +10414,10 @@ https://nlb1-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/fragments/live-2000/in
 https://5940924978228.streamlock.net/Directo1/Directo1/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bNP3NrDj/telemadrid.jpg" group-title="España",TeleMadrid (ES)
-https://telemadrid-23.secure2.footprint.net/bitrate_1.m3u8
-https://telemadrid-23.secure2.footprint.net/master.m3u8
+https://telemadrid-23-secure2.akamaized.net/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bNP3NrDj/telemadrid.jpg" group-title="España",TeleMadrid | Internacional (ES)
-https://new-international-23.secure2.footprint.net/index.m3u8
+https://new-international-23-secure2.akamaized.net/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NG28Tp7S/teleonuba.jpg" group-title="España",Teleonuba (ES)
 https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/endirecto/playlist.m3u8
@@ -11104,6 +10835,9 @@ https://hls-cdn.tvstartup16.net/tvstartup16-channel/live/mp4:jimbobklynedge/play
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zDHwQqWh/yough.jpg" group-title="Estados Unidos",Young Hollywood (US)
 https://younghollywood-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G20D2rPY/amas.jpg" group-title="Guatemala",A Más Guate (GT)
+https://ch2-tva.duin.dev/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3xhVkTQ2/au.jpg" group-title="Guatemala",Aurora Media Films (GT)
 https://cdn.streamhispanatv.net:3398/live/auroramflive.m3u8
