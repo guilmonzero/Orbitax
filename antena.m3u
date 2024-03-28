@@ -133,13 +133,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXBkTDVs/c57.jpg" group-title="Animados | Variado",Canal 57 (US)
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SKM4py3x/canalrex.jpg" group-title="Animados | Variado",Canal Rex (CL)
-https://rpn3.bozztv.com/ssh101/ssh101/rexelcanal/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yMBdP9k/canal-infantil.jpg" group-title="Animados | Variado",Canal Infantil (LATAM)
 http://179.189.222.226:8000/play/ch06
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yMBdP9k/canal-infantil.jpg" group-title="Animados | Variado",Canal Infantil | Opción 2 (LATAM)
 http://190.60.40.37:12500/play/CANALINFANTIL/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SKM4py3x/canalrex.jpg" group-title="Animados | Variado",Canal Rex (CL)
+https://rpn3.bozztv.com/ssh101/ssh101/rexelcanal/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y97nVfFy/canela-kids.jpg" group-title="Animados | Variado",Canela Kids (LATAM)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
@@ -180,13 +180,13 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64e6e2f04a5e9b4cedc6d52b.m3u8
 #EXTINF:-1 channel-id="pluto-5d8d180092e97a5e107638d3" tvg-id="5d8d180092e97a5e107638d3" tvg-logo="https://i.postimg.cc/Wb2PmVKb/cint.jpg" tvg-chno="3650" group-title="Animados | Variado" ,Cine Terror | Pluto TV (US)
 https://r.mjh.nz/PlutoTV/5d8d180092e97a5e107638d3-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4K2FTRM/classicc.jpg" group-title="Animados | Variado",Classic Channel (CL)
-https://paneltv.online:1936/8046/8046/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7P5RCm34/CLAN.jpg" group-title="Animados | Variado",Clan (ES)
 https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7P5RCm34/CLAN.jpg" group-title="Animados | Variado",Clan (LATAM)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4K2FTRM/classicc.jpg" group-title="Animados | Variado",Classic Channel (CL)
+https://paneltv.online:1936/8046/8046/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJvzVN5Z/cotv.jpg" group-title="Animados | Variado",Coco TV (RD)
 https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
