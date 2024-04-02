@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9qQsHV/orbi2024.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 01.04.24
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9qQsHV/orbi2024.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 02.04.24
 https://archive.org/serve/orbita-guilmonzero-iptv-gratis-sigue-actualizando/%5B%C3%92rbita%20%40guilmonzero%5D%20IPTV%20Gratis%20-%20Sigue%20Actualizando.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZ6h2HvR/spectrum2.jpg" group-title="Animados | Variado",Spectrum Channel (LATAM)
 https://panel.miplay.cl:8081/spectrumchannel/tracks-v1a1/mono.m3u8
@@ -78,9 +78,6 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5ef4e1b10d9ad000423c4421.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fRH8CCT8/animax.jpg" group-title="Animados | Variado",Animax (KR)
 https://i.mjh.nz/SamsungTVPlus/KRBC40000010R.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRmkqbxx/animash.jpg" group-title="Animados | Variado",Animash (LATAM)
-http://191.97.60.193:10000/play/a02u/index.m3u
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vHHqskKs/animestation3.jpg" group-title="Animados | Variado",Anime Station (LATAM)
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
 
@@ -89,8 +86,6 @@ https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j5W8108t/animotion.jpg" group-title="Animados | Variado",Animotion (LATAM)
 http://190.110.109.104:52321/play/a016/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/j5W8108t/animotion.jpg" group-title="Animados | Variado",Animotion | Opción 2 (LATAM)
-http://191.97.60.193:10000/play/a02n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tRcX8DCy/atfal.jpg" group-title="Animados | Variado",Atfal & Mawaheb TV | Arabia (AE)
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
@@ -201,7 +196,8 @@ https://cnn.essastream.com:3333/live/cromtvlive.m3u8
 http://stream02.vnet.am/DisneyChannel/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9Q8pXs2M/dark.jpg" group-title="Animados | Variado",Dark (ES)
-http://393088842287321203.ofe0229.xyz:80/play/fe327630/HP9VA9fSpa/321203.ts
+http://451897542436321203.ofe0229.xyz:80/play/fe1110770/tTcFcgeaBDNE/321203.ts
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C1cLV5qY/dim.jpg" group-title="Animados | Variado",Dimelo TV (DO)
 https://cloud2.streaminglivehd.com:19360/8062/8062.m3u8
 
@@ -290,6 +286,8 @@ http://iptv.prosto.tv:7000/ch256/video.m3u8
 https://stream.ichibantv.com:3764/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vTStdkrS/gloob.jpg" group-title="Animados | Variado",Gloob (BR)
+http://capivara.top:80/play/XBMjOtKlFaWXSw7h_daRb8Tm7J2T3Rk4--09ilo-39RZNf3BQwct3kYFCRYBrL0K
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWwhc9HJ/gloobinho.jpg" group-title="Animados | Variado",Gloobinho (BR)
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/76LKGMLn/gogoplay.jpg" group-title="Animados | Variado",GogoPlay TV (LATAM)
@@ -447,6 +445,8 @@ https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RC8r6CKx/neox.jpg" group-title="Animados | Variado",Neox (ES)
 http://530064904438321376.ofd0120.xyz:80/play/XFGK5534286/MK335882968/321376.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RC8r6CKx/neox.jpg" group-title="Animados | Variado",Neox | Opción 2 (ES)
+http://451897542436321375.ofe0229.xyz:80/play/fe1110770/tTcFcgeaBDNE/321375.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y87bqTG8/nick.jpg" group-title="Animados | Variado",Nickelodeon (US)
 http://143.244.60.30/NICKELODEON/index.m3u8
@@ -10785,13 +10785,14 @@ https://dai.google.com/linear/hls/event/roEbn_l7Tzezwy22F1NSfA/master.m3u8
 https://dai.google.com/linear/hls/event/VMzvtHhOQdOAzbV_hQKQbQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRq7JCPx/syfy.jpg" group-title="Estados Unidos",Syfy (US)
-
+http://predatorapp.xyz:25461/Sleepy/viYbNQhJWQ/765
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRq7JCPx/syfy.jpg" group-title="Estados Unidos",Syfy | Opción 2 (US)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12698
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0HRZ6sF/tastemade.jpg" group-title="Estados Unidos",Tastemade | Español (US)
 https://tastemadees16intl-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7LH5J2nV/Tbs.jpg" group-title="Estados Unidos",TBS (US)
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VsqQht0F/telemundo.jpg" group-title="Estados Unidos",Telemundo | California | 48 (US)
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
@@ -10822,11 +10823,11 @@ http://livex.pop-app.live/s4n/poplive/ch328/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MHs7qK4X/usa.jpg" group-title="Estados Unidos",USA Network (US)
 http://tvmate.icu:8080/6025505794/osmanmata@gmail.com/10252
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MHs7qK4X/usa.jpg" group-title="Estados Unidos",USA Network | Opción 2 (US)
-https://hls.streambtw.com/live/stream_1.m3u8
+http://predatorapp.xyz:25461/Sleepy/viYbNQhJWQ/698
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MHs7qK4X/usa.jpg" group-title="Estados Unidos",USA Network | Opción 3 (US)
 http://170.254.18.106/USA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MHs7qK4X/usa.jpg" group-title="Estados Unidos",USA Network | Opción 4 (US)
-http://livex.pop-app.live/s4n/poplive/ch341/playlist.m3u8
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12689
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5yQD11wB/VICE.jpg" group-title="Estados Unidos",Vice TV (US)
 https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
