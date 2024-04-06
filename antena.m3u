@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9qQsHV/orbi2024.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 05.04.24
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9qQsHV/orbi2024.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 06.04.24
 https://archive.org/download/orbita-guilmonzero-iptv-gratis-sigue-actualizando_202404/%5B%C3%92rbita%20%40guilmonzero%5D%20IPTV%20Gratis%20-%20Sigue%20Actualizando.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZ6h2HvR/spectrum2.jpg" group-title="Animados | Variado",Spectrum Channel (LATAM)
 https://panel.miplay.cl:8081/spectrumchannel/tracks-v1a1/mono.m3u8
@@ -227,11 +227,11 @@ http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RF0KkzLf/energeek1.jpg" group-title="Animados | Variado",EnerGeek (CL)
-https://wifiexpert-1.energeek.cl/energeek/canal-1/playlist.m3u8
+https://wifispeed.trapemn.tv:1936/energeek/canal-1p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cHF6zFD8/energeek-fan.jpg" group-title="Animados | Variado",EnerGeek | Fanpop (CL)
-https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+https://wifispeed.trapemn.tv:1936/energeek/canal-2p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FzGZ2JCz/energeek-radio.jpg" group-title="Animados | Variado",EnerGeek | Radio (CL)
-https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
+https://wifispeed.trapemn.tv:1936/energeek/radio-p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bN1HjLRS/energy.jpg" group-title="Animados | Variado",Energy (ES)
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:19_HD.smil/index.m3u8
@@ -306,9 +306,6 @@ https://i.mjh.nz/SamsungTVPlus/ESAJ49000017H.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrNjb420/ipe.jpg" group-title="Animados | Variado",IPE (PE)
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPp8tZTQ/isat.jpg" group-title="Animados | Variado",I-Sat (AR)
-https://stream.kirachan.tech/memfs/c32373db-ca4b-4f06-b279-4d376d307249.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y6vGrTSZ/Iunior.jpg" group-title="Animados | Variado",Iunior TV (IT)
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
@@ -2120,9 +2117,6 @@ https://video2.getstreamhosting.com:19360/8216/8216.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mkzB7Vc7/Catedralrock.jpg" group-title="Música 🎼",Catedral do Rock (BR)
 https://stmv1.srvstm.com/catedraldorock/catedraldorock/chunklist_w1055585864.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fy6L78sR/ccp.jpg" group-title="Música 🎼",CCP Radio (CL)
-https://wifiexpert-1.energeek.cl/energeek/canal-3/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L6jqmMRC/city.jpg" group-title="Música 🎼",City TV | Bulgaria (BG)
 https://tv.city.bg/play/tshls/citytv/index.m3u8
 
@@ -2410,6 +2404,7 @@ https://mntv.livebox.co.in/musichls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdVRnT9G/modoradio.jpg" group-title="Música 🎼",Modoradio  TV (CL)
 https://wifiexpert-1.energeek.cl/energeek/modoradio/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5dPZN2R/modo.jpg" group-title="Música 🎼",Modoradio | 106.9 FM (AR)
 https://videostream.shockmedia.com.ar:19360/modoradio/modoradio.m3u8
 
@@ -12940,135 +12935,135 @@ https://archive.org/download/94-1_20210929/1x08%20-%20El%20l%C3%ADder.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFJsjY4S/cal.jpg" group-title="Juego del Calamar",Juego del Calamar | S0E09 | Latino [2021]
 https://archive.org/download/94-1_20210929/1x09%20-%20Un%20d%C3%ADa%20de%20suerte.mp4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XSLwV1h/a1.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S01E01 | Latino [1964]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XSLwV1h/a1.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E01 | Latino [1964]
 https://archive.org/download/locos-addams-64/1x01.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XSLwV1h/a1.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S01E02 | Latino [1964]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XSLwV1h/a1.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E02 | Latino [1964]
 https://archive.org/download/locos-addams-64/1x02.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XSLwV1h/a1.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S01E03 | Latino [1964]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XSLwV1h/a1.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E03 | Latino [1964]
 https://archive.org/download/locos-addams-64/1x03.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XSLwV1h/a1.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S01E04 | Latino [1964]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XSLwV1h/a1.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E04 | Latino [1964]
 https://archive.org/download/locos-addams-64/1x04.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XSLwV1h/a1.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S01E05 | Latino [1964]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XSLwV1h/a1.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E05 | Latino [1964]
 https://archive.org/download/locos-addams-64/1x05.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XSLwV1h/a1.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S01E06 | Latino [1964]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XSLwV1h/a1.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E06 | Latino [1964]
 https://archive.org/download/locos-addams-64/1x06.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XSLwV1h/a1.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S01E07 | Latino [1964]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XSLwV1h/a1.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E07 | Latino [1964]
 https://archive.org/download/locos-addams-64/1x07.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XSLwV1h/a1.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S01E08 | Latino [1964]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XSLwV1h/a1.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E08 | Latino [1964]
 https://archive.org/download/locos-addams-64/1x08.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XSLwV1h/a1.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S01E09 | Latino [1964]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XSLwV1h/a1.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E09 | Latino [1964]
 https://archive.org/download/locos-addams-64/1x09.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XSLwV1h/a1.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S01E10 | Latino [1964]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XSLwV1h/a1.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E10 | Latino [1964]
 https://archive.org/download/locos-addams-64/1x10.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XSLwV1h/a1.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S01E11 | Latino [1964]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XSLwV1h/a1.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E11 | Latino [1964]
 https://archive.org/download/locos-addams-64/1x11.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSpRBS21/a4.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S01E12 | Latino [1964]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSpRBS21/a4.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E12 | Latino [1964]
 https://archive.org/download/locos-addams-64/1x12.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSpRBS21/a4.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S01E13 | Latino [1964]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSpRBS21/a4.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E13 | Latino [1964]
 https://archive.org/download/locos-addams-64/1x13.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSpRBS21/a4.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S01E14 | Latino [1964]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSpRBS21/a4.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E14 | Latino [1964]
 https://archive.org/download/locos-addams-64/1x14.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSpRBS21/a4.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S01E15 | Latino [1965]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSpRBS21/a4.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E15 | Latino [1965]
 https://archive.org/download/locos-addams-64/1x15.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSpRBS21/a4.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S01E16 | Latino [1965]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSpRBS21/a4.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E16 | Latino [1965]
 https://archive.org/download/locos-addams-64/1x16.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSb3rwjT/a5.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S01E17 | Latino [1965]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSb3rwjT/a5.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E17 | Latino [1965]
 https://archive.org/download/locos-addams-64/1x17.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSb3rwjT/a5.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S01E18 | Latino [1965]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSb3rwjT/a5.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E18 | Latino [1965]
 https://archive.org/download/locos-addams-64/1x18.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSb3rwjT/a5.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S01E19 | Latino [1965]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSb3rwjT/a5.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E19 | Latino [1965]
 https://archive.org/download/locos-addams-64/1x19.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSb3rwjT/a5.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S01E20 | Latino [1965]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSb3rwjT/a5.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E20 | Latino [1965]
 https://archive.org/download/locos-addams-64/1x20.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSb3rwjT/a5.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S01E21 | Latino [1965]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSb3rwjT/a5.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E21 | Latino [1965]
 https://archive.org/download/locos-addams-64/1x21.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSb3rwjT/a5.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S01E22 | Latino [1965]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSb3rwjT/a5.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E22 | Latino [1965]
 https://archive.org/download/locos-addams-64/1x22.ia.mp4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLqmjt6f/a2.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S01E23 | Latino [1965]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLqmjt6f/a2.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E23 | Latino [1965]
 https://archive.org/download/locos-addams-64/2x01.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLqmjt6f/a2.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S01E24 | Latino [1965]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLqmjt6f/a2.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E24 | Latino [1965]
 https://archive.org/download/locos-addams-64/2x02.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLqmjt6f/a2.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S01E25 | Latino [1965]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLqmjt6f/a2.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E25 | Latino [1965]
 https://archive.org/download/locos-addams-64/2x03.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLqmjt6f/a2.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S01E26 | Latino [1965]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLqmjt6f/a2.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E26 | Latino [1965]
 https://archive.org/download/locos-addams-64/2x04.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLqmjt6f/a2.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S01E27 | Latino [1965]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLqmjt6f/a2.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E27 | Latino [1965]
 https://archive.org/download/locos-addams-64/2x05.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLqmjt6f/a2.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S01E28 | Latino [1965]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLqmjt6f/a2.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E28 | Latino [1965]
 https://archive.org/download/locos-addams-64/2x06.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLqmjt6f/a2.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S01E29 | Latino [1965]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLqmjt6f/a2.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E29 | Latino [1965]
 https://archive.org/download/locos-addams-64/2x07.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLqmjt6f/a2.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S01E30 | Latino [1965]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLqmjt6f/a2.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E30 | Latino [1965]
 https://archive.org/download/locos-addams-64/2x08.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLqmjt6f/a2.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S01E31 | Latino [1965]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLqmjt6f/a2.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E31 | Latino [1965]
 https://archive.org/download/locos-addams-64/2x09.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLqmjt6f/a2.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S01E32 | Latino [1965]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLqmjt6f/a2.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E32 | Latino [1965]
 https://archive.org/download/locos-addams-64/2x10.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLqmjt6f/a2.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S01E33 | Latino [1965]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLqmjt6f/a2.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E33 | Latino [1965]
 https://archive.org/download/locos-addams-64/2x11.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xvP0cGf/a3.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S01E34 | Latino [1965]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xvP0cGf/a3.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E34 | Latino [1965]
 https://archive.org/download/locos-addams-64/2x12.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xvP0cGf/a3.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S02E01 | Latino [1965]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xvP0cGf/a3.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E01 | Latino [1965]
 https://archive.org/download/locos-addams-64/2x13.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xvP0cGf/a3.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S02E02 | Latino [1965]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xvP0cGf/a3.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E02 | Latino [1965]
 https://archive.org/download/locos-addams-64/2x14.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xvP0cGf/a3.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S02E03 | Latino [1965]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xvP0cGf/a3.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E03 | Latino [1965]
 https://archive.org/download/locos-addams-64/2x15.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xvP0cGf/a3.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S02E04 | Latino [1965]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xvP0cGf/a3.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E04 | Latino [1965]
 https://archive.org/download/locos-addams-64/2x16.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xvP0cGf/a3.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S02E05 | Latino [1965]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xvP0cGf/a3.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E05 | Latino [1965]
 https://archive.org/download/locos-addams-64/2x17.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xvP0cGf/a3.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S02E06 | Latino [1965]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xvP0cGf/a3.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E06 | Latino [1965]
 https://archive.org/download/locos-addams-64/2x18.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xvP0cGf/a3.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S02E07 | Latino [1965]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xvP0cGf/a3.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E07 | Latino [1965]
 https://archive.org/download/locos-addams-64/2x19.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xvP0cGf/a3.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S02E08 | Latino [1965]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xvP0cGf/a3.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E08 | Latino [1965]
 https://archive.org/download/locos-addams-64/2x20.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xvP0cGf/a3.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S02E09 | Latino [1965]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xvP0cGf/a3.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E09 | Latino [1965]
 https://archive.org/download/locos-addams-64/2x21.ia.mp4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJPk5cf8/a6.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S02E10 | Latino [1965]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJPk5cf8/a6.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E10 | Latino [1965]
 https://archive.org/download/locos-addams-64/3x01.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9M0BzN70/a7.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S02E11 | Latino [1965]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9M0BzN70/a7.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E11 | Latino [1965]
 https://archive.org/download/locos-addams-64/3x02.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJPk5cf8/a6.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S02E12 | Latino [1965]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJPk5cf8/a6.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E12 | Latino [1965]
 https://archive.org/download/locos-addams-64/3x03.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9M0BzN70/a7.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S02E13 | Latino [1965]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9M0BzN70/a7.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E13 | Latino [1965]
 https://archive.org/download/locos-addams-64/3x04.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJPk5cf8/a6.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S02E14 | Latino [1965]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJPk5cf8/a6.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E14 | Latino [1965]
 https://archive.org/download/locos-addams-64/3x05.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9M0BzN70/a7.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S02E15 | Latino [1965]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9M0BzN70/a7.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E15 | Latino [1965]
 https://archive.org/download/locos-addams-64/3x06.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJPk5cf8/a6.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S02E16 | Latino [1965]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJPk5cf8/a6.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E16 | Latino [1965]
 https://archive.org/download/locos-addams-64/3x07.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9M0BzN70/a7.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S02E17 | Latino [1966]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9M0BzN70/a7.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E17 | Latino [1966]
 https://archive.org/download/locos-addams-64/3x08.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJPk5cf8/a6.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S02E18 | Latino [1966]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJPk5cf8/a6.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E18 | Latino [1966]
 https://archive.org/download/locos-addams-64/3x09.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9M0BzN70/a7.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S02E19 | Latino [1966]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9M0BzN70/a7.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E19 | Latino [1966]
 https://archive.org/download/locos-addams-64/3x10.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJPk5cf8/a6.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S02E20 | Latino [1966]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJPk5cf8/a6.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E20 | Latino [1966]
 https://archive.org/download/locos-addams-64/3x11.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9M0BzN70/a7.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S02E21 | Latino [1966]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9M0BzN70/a7.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E21 | Latino [1966]
 https://archive.org/download/locos-addams-64/3x12.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJPk5cf8/a6.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S02E22 | Latino [1966]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJPk5cf8/a6.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E22 | Latino [1966]
 https://archive.org/download/locos-addams-64/3x13.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9M0BzN70/a7.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S02E23 | Latino [1966]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9M0BzN70/a7.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E23 | Latino [1966]
 https://archive.org/download/locos-addams-64/3x14.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJPk5cf8/a6.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S02E24 | Latino [1966]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJPk5cf8/a6.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E24 | Latino [1966]
 https://archive.org/download/locos-addams-64/3x15.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9M0BzN70/a7.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S02E25 | Latino [1966]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9M0BzN70/a7.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E25 | Latino [1966]
 https://archive.org/download/locos-addams-64/3x16.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJPk5cf8/a6.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S02E26 | Latino [1966]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJPk5cf8/a6.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E26 | Latino [1966]
 https://archive.org/download/locos-addams-64/3x17.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9M0BzN70/a7.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S02E27 | Latino [1966]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9M0BzN70/a7.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E27 | Latino [1966]
 https://archive.org/download/locos-addams-64/3x18.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJPk5cf8/a6.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S02E28 | Latino [1966]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJPk5cf8/a6.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E28 | Latino [1966]
 https://archive.org/download/locos-addams-64/3x19.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9M0BzN70/a7.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S02E29 | Latino [1966]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9M0BzN70/a7.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E29 | Latino [1966]
 https://archive.org/download/locos-addams-64/3x20.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJPk5cf8/a6.jpg" group-title="La Familia Addams 💀",La Familia Adddams | S02E30 | Latino [1966]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJPk5cf8/a6.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E30 | Latino [1966]
 https://archive.org/download/locos-addams-64/3x21.ia.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5VXGnd3/l1.jpg" group-title="Le Temes 😈",Le Temes A la Oscuridad | S01E01 | Latino [1990]
@@ -13260,190 +13255,190 @@ https://archive.org/download/oscuridad90/07x12.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SN45jCLC/l7.jpg" group-title="Le Temes 😈",Le Temes A la Oscuridad | S07E13 | Latino [2000]
 https://archive.org/download/oscuridad90/07x13.mp4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E01 | Lluvia, Beakmanía y Volcanes | Latino [1992]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E01 | Lluvia y Volcanes | Latino [1992]
 https://archive.org/download/Beakman92/S01E01%20Beakman%20-%20Lluvia%2C%20Beakman%C3%ADa%20y%20Volcanes.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E02 | Gravedad, Beakmanía e Inercia | Latino [1992]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E02 | Gravedad e Inercia | Latino [1992]
 https://archive.org/download/Beakman92/S01E02%20Beakman%20-%20Gravedad%2C%20Beakman%C3%ADa%20e%20Inercia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E03 | Ruidos nocturnos, Beakmanía y la Nariz | Latino [1992]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E03 | Ruidos nocturnos y la Nariz | Latino [1992]
 https://archive.org/download/Beakman92/S01E03%20Beakman%20-%20Ruidos%20nocturnos%2C%20Beakman%C3%ADa%20y%20la%20Nariz.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E04 | Sangre, Beakmanía y los Sueños | Latino [1992]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E04 | Sangre y los Sueños | Latino [1992]
 https://archive.org/download/Beakman92/S01E04%20Beakman%20-%20Sangre%2C%20Beakman%C3%ADa%20y%20los%20Sue%C3%B1os.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E05 | Hojas, Beakmanía y Papel | Latino [1992]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E05 | Hojas y Papel | Latino [1992]
 https://archive.org/download/Beakman92/S01E05%20Beakman%20-%20Hojas%2C%20Beakman%C3%ADa%20y%20Papel.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E06 | Jabón, Beakmanía y Motores | Latino [1992]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E06 | Jabón y Motores | Latino [1992]
 https://archive.org/download/Beakman92/S01E06%20Beakman%20-%20Jab%C3%B3n%2C%20Beakman%C3%ADa%20y%20Motores.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E07 | Electricidad, Beakmanía y Bombillas | Latino [1992]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E07 | Electricidad y Bombillas | Latino [1992]
 https://archive.org/download/Beakman92/S01E07%20Beakman%20-%20Electricidad%2C%20Beakman%C3%ADa%20y%20Bombillas.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E08 | Sonido, Beakmanía y Explosiones | Latino [1992]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E08 | Sonido y Explosiones | Latino [1992]
 https://archive.org/download/Beakman92/S01E08%20Beakman%20-%20Sonido%2C%20Beakman%C3%ADa%20y%20Explosiones.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E09 | Refracción, Beakmanía y Magnetos | Latino [1992]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E09 | Refracción y Magnetos | Latino [1992]
 https://archive.org/download/Beakman92/S01E09%20Beakman%20-%20Refracci%C3%B3n%2C%20Beakman%C3%ADa%20y%20Magnetos.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E10 | Palancas, Beakmanía y Televisión | Latino [1992]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E10 | Palancas y Televisión | Latino [1992]
 https://archive.org/download/Beakman92/S01E10%20Beakman%20-%20Palancas%2C%20Beakman%C3%ADa%20y%20Televisi%C3%B3n.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E11 | Barcos, Beakmanía y Aviones | Latino [1992]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E11 | Barcos y Aviones | Latino [1992]
 https://archive.org/download/Beakman92/S01E11%20Beakman%20-%20Barcos%2C%20Beakman%C3%ADa%20y%20Aviones.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E12 | Burbujas, Beakmanía y los Pies | Latino [1993]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E12 | Burbujas y los Pies | Latino [1993]
 https://archive.org/download/Beakman92/S01E12%20Beakman%20-%20Burbujas%2C%20Beakman%C3%ADa%20y%20los%20Pies.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E13 | Microscopio, Beakmanía y Cicatrización | Latino [1993]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E13 | Microscopio y Cicatrización | Latino [1993]
 https://archive.org/download/Beakman92/S01E13%20Beakman%20-%20Microscopio%2C%20Beakman%C3%ADa%20y%20Cicatrizaci%C3%B3n.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E14 | El Método Científico, Beakmanía y el Arcoíris | Latino [1993]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E14 | El Método Científico y el Arcoíris | Latino [1993]
 https://archive.org/download/Beakman92/S01E14%20Beakman%20-%20El%20M%C3%A9todo%20Cient%C3%ADfico%2C%20Beakman%C3%ADa%20y%20el%20Arco%C3%ADris.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E15 | Vacunas, Beakmanía y Fricción | Latino [1993]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E15 | Vacunas y Fricción | Latino [1993]
 https://archive.org/download/Beakman92/S01E15%20Beakman%20-%20Vacunas%2C%20Beakman%C3%ADa%20y%20Fricci%C3%B3n.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E16 | Termodinámica, Beakmanía y Espinilla | Latino [1993]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E16 | Termodinámica y Espinilla | Latino [1993]
 https://archive.org/download/Beakman92/S01E16%20Beakman%20-%20Termodin%C3%A1mica%2C%20Beakman%C3%ADa%20y%20Espinillas.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E17 | Fósiles, Beakmanía y la Voz Humana | Latino [1993]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E17 | Fósiles y la Voz Humana | Latino [1993]
 https://archive.org/download/Beakman92/S01E17%20Beakman%20-%20F%C3%B3siles%2C%20Beakman%C3%ADa%20y%20la%20Voz%20Humana.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E18 | Los Pulmones, Beakmanía y los Teléfonos | Latino [1993]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E18 | Los Pulmones y los Teléfonos | Latino [1993]
 https://archive.org/download/Beakman92/S01E18%20Beakman%20-%20Los%20Pulmones%2C%20Beakman%C3%ADa%20y%20los%20Tel%C3%A9fonos.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E19 | Grabación de cintas, Beakmanía, fuerza y presión | Latino [1993]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E19 | Grabación de cintas, fuerza y presión | Latino [1993]
 https://archive.org/download/Beakman92/S01E19%20Beakman%20-%20Grabaci%C3%B3n%20de%20cintas%2C%20Beakman%C3%ADa%2C%20fuerza%20y%20presi%C3%B3n.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E20 | Las Microondas, Beakmanía y la Arañas | Latino [1993]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E20 | Las Microondas y la Arañas | Latino [1993]
 https://archive.org/download/Beakman92/S01E20%20Beakman%20-%20Las%20Microondas%2C%20Beakman%C3%ADa%20y%20la%20Ara%C3%B1as.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E21 | Cerumen, Beakmanía y Cohetes | Latino [1993]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E21 | Cerumen y Cohetes | Latino [1993]
 https://archive.org/download/Beakman92/S01E21%20Beakman%20-%20Cerumen%2C%20Beakman%C3%ADa%20y%20Cohetes.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E22 | El Ozono, Beakmanía y los Ácidos | Latino [1993]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E22 | El Ozono y los Ácidos | Latino [1993]
 https://archive.org/download/Beakman92/S01E22%20Beakman%20-%20El%20Ozono%2C%20Beakman%C3%ADa%20y%20los%20%C3%81cidos.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E23 | Fontaneria, Beakmanía y Montañas | Latino [1993]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E23 | Fontaneria y Montañas | Latino [1993]
 https://archive.org/download/Beakman92/S01E23%20Beakman%20-%20Fontaneria%2C%20Beakman%C3%ADa%20y%20Monta%C3%B1as.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E24 | Abejas, Beakmanía y Temblores | Latino [1993]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E24 | Abejas y Temblores | Latino [1993]
 https://archive.org/download/Beakman92/S01E24%20Beakman%20-%20Abejas%2C%20Beakman%C3%ADa%20y%20Temblores.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E25 | Reflexión, Beakmania y Madame Curie | Latino [1993]
 https://archive.org/download/Beakman92/S01E25%20Beakman%20-%20Reflexi%C3%B3n%2C%20Beakmania%20y%20Madame%20Curie.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E26 | La Rueda, Beakmanía y buscando respuestas | Latino [1993]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2zzDHrT/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E26 | La Rueda y buscando respuestas | Latino [1993]
 https://archive.org/download/Beakman92/S01E26%20Beakman%20-%20La%20Rueda%2C%20Beakman%C3%ADa%20y%20buscando%20respuestas.mp4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E01 | Submarinos, Beakmanía y Digestión | Latino [1993]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E01 | Submarinos y Digestión | Latino [1993]
 https://archive.org/download/Beakman92/S02E01%20Beakman%20-%20Submarinos%2C%20Beakman%C3%ADa%20y%20Digesti%C3%B3n.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E02 | Corazón, Beakmanía y Helicópteros | Latino [1993]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E02 | Corazón y Helicópteros | Latino [1993]
 https://archive.org/download/Beakman92/S02E02%20Beakman%20-%20Coraz%C3%B3n%2C%20Beakman%C3%ADa%20y%20Helic%C3%B3pteros.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E03 | Las Baterías, Beakmanía y los Globos | Latino [1993]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E03 | Las Baterías y los Globos | Latino [1993]
 https://archive.org/download/Beakman92/S02E03%20Beakmna%20-%20Las%20Bater%C3%ADas%2C%20Beakman%C3%ADa%20y%20los%20Globos.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E04 | Túneles, Beakmanía y Trenes | Latino [1993]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E04 | Túneles y Trenes | Latino [1993]
 https://archive.org/download/Beakman92/S02E04%20Beakman%20-%20T%C3%BAneles%2C%20Beakman%C3%ADa%20y%20Trenes.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E05 | Murciélagos, Beakmanía y Energía | Latino [1993]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E05 | Murciélagos y Energía | Latino [1993]
 https://archive.org/download/Beakman92/S02E05%20Beakman%20-%20Murci%C3%A9lagos%2C%20Beakman%C3%ADa%20y%20Energ%C3%ADa.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E06 | Cielo, Beakmanía y Henry Ford | Latino [1993]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E06 | Cielo y Henry Ford | Latino [1993]
 https://archive.org/download/Beakman92/S02E06%20Beakman%20-%20Cielo%2C%20Beakman%C3%ADa%20y%20Henry%20Ford.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E07 | Sonido, Beakmanía e Ilusiones | Latino [1993]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E07 | Sonido e Ilusiones | Latino [1993]
 https://archive.org/download/Beakman92/S02E07%20Beakman%20-%20Sonido%2C%20Beakman%C3%ADa%20e%20Ilusiones.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E08 | Relampagos, Beakmanía y los Huesos | Latino [1993]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E08 | Relampagos y los Huesos | Latino [1993]
 https://archive.org/download/Beakman92/S02E08%20Beakman%20-%20Relampagos%2C%20Beakman%C3%ADa%20y%20los%20Huesos.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E09 | La Luna, Beakmanía y los Ascensores | Latino [1993]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E09 | La Luna y los Ascensores | Latino [1993]
 https://archive.org/download/Beakman92/S02E09%20Beakman%20-%20La%20Luna%2C%20Beakman%C3%ADa%20y%20los%20Ascensores.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E10 | Videojuegos, Beakmanía y los Dientes | Latino [1993]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E10 | Videojuegos y los Dientes | Latino [1993]
 https://archive.org/download/Beakman92/S02E10%20Beakman%20-%20Videojuegos%2C%20Beakman%C3%ADa%20y%20los%20Dientes.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E11 | Revisiones médicas, Beakmanía y Petróleo | Latino [1993]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E11 | Revisiones médicas y Petróleo | Latino [1993]
 https://archive.org/download/Beakman92/S02E11%20Beakman%20-%20Revisiones%20m%C3%A9dicas%2C%20Beakman%C3%ADa%20y%20Petr%C3%B3leo.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E12 | Benjamín Franklin, Beakmanía y Reacción Química | Latino [1994]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E12 | Benjamín Franklin y Reacción Química | Latino [1994]
 https://archive.org/download/Beakman92/S02E12%20Beakman%20-%20Benjam%C3%ADn%20Franklin%2C%20Beakman%C3%ADa%20y%20Reacci%C3%B3n%20Qu%C3%ADmica.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E13 | Las Hormigas, Beakmanía y Colisiones | Latino [1994]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E13 | Las Hormigas y Colisiones | Latino [1994]
 https://archive.org/download/Beakman92/S02E13%20Beakman%20-%20Las%20Hormigas%2C%20Beakman%C3%ADa%20y%20Colisiones.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E14 | El Dolor, Beakmanía y Cometas | Latino [1994]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E14 | El Dolor y Cometas | Latino [1994]
 https://archive.org/download/Beakman92/S02E14%20Beakman%20-%20El%20Dolor%2C%20Beakman%C3%ADa%20y%20Cometas.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E15 | Hidraulica, Beakmanía y los Dinosaurios | Latino [1994]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E15 | Hidraulica y los Dinosaurios | Latino [1994]
 https://archive.org/download/Beakman92/S02E15%20Beakman%20-%20Hidraulica%2C%20Beakman%C3%ADa%20y%20los%20Dinosaurios.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E16 | Motores Eléctricos, Beakmanía y Tiempo | Latino [1994]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E16 | Motores Eléctricos y Tiempo | Latino [1994]
 https://archive.org/download/Beakman92/S02E16%20Beakman%20-%20Motores%20El%C3%A9ctricos%2C%20Beakman%C3%ADa%20y%20Tiempo.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E17 | Ranas y Sapos, Beakmanía y Polímeros | Latino [1994]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E17 | Ranas y Sapos y Polímeros | Latino [1994]
 https://archive.org/download/Beakman92/S02E17%20Beakman%20-%20Ranas%20y%20Sapos%2C%20Beakman%C3%ADa%20y%20Pol%C3%ADmeros.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E18 | Dinero, Beakmanía e Hidroelectricidad | Latino [1994]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E18 | Dinero e Hidroelectricidad | Latino [1994]
 https://archive.org/download/Beakman92/S02E18%20Beakman%20-%20Dinero%2C%20Beakman%C3%ADa%20e%20Hidroelectricidad%20.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E19 | Basura, Beakmanía y Meteorología | Latino [1994]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E19 | Basura y Meteorología | Latino [1994]
 https://archive.org/download/Beakman92/S02E19%20Beakman%20-%20Basura%2C%20Beakman%C3%ADa%20y%20Meteorolog%C3%ADa.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E20 | Rascacielos, Beakmanía e Indicadores | Latino [1994]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E20 | Rascacielos e Indicadores | Latino [1994]
 https://archive.org/download/Beakman92/S02E20%20Beakman%20-%20Rascacielos%2C%20Beakman%C3%ADa%20e%20Indicadores.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E21 | Tiburones, Beakmanía y Einstein | Latino [1994]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E21 | Tiburones y Einstein | Latino [1994]
 https://archive.org/download/Beakman92/S02E21%20Beakman%20-%20Tiburones%2C%20Beakman%C3%ADa%20y%20Einstein.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E22 | El Moho, Beakmanía y las Cuevas | Latino [1994]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E22 | El Moho y las Cuevas | Latino [1994]
 https://archive.org/download/Beakman92/S02E22%20Beakman%20-%20El%20Moho%2C%20Beakman%C3%ADa%20y%20las%20Cuevas.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E23 | El Ímpetu, Beakmanía y las Vacas | Latino [1994]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E23 | El Ímpetu y las Vacas | Latino [1994]
 https://archive.org/download/Beakman92/S02E23%20Beakman%20-%20El%20%C3%8Dmpetu%2C%20Beakman%C3%ADa%20y%20las%20Vacas.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E24 | Alergias, Beakmanía y Claves | Latino [1994]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E24 | Alergias y Claves | Latino [1994]
 https://archive.org/download/Beakman92/S02E24%20Beakman%20-%20Alergias%2C%20Beakman%C3%ADa%20y%20Claves.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E25 | Serpientes, Beakmanía y las Estaciones | Latino [1994]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E25 | Serpientes y las Estaciones | Latino [1994]
 https://archive.org/download/Beakman92/S02E25%20Beakman%20-%20Serpientes%2C%20Beakman%C3%ADa%20y%20las%20Estaciones.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E26 | Tornados, Beakmanía y los Bomberos | Latino [1994]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76wScMSx/b2.jpg" group-title="Mundo de Beakman",Beakman | S02E26 | Tornados y los Bomberos | Latino [1994]
 https://archive.org/download/Beakman92/S02E26%20Beakman%20-%20Tornados%2C%20Beakman%C3%ADa%20y%20los%20Bomberos.mp4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmMc32tm/b3.jpg" group-title="Mundo de Beakman",Beakman | S03E01 | Semillas, Beakmanía y Puentes | Latino [1995]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmMc32tm/b3.jpg" group-title="Mundo de Beakman",Beakman | S03E01 | Semillas y Puentes | Latino [1995]
 https://archive.org/download/Beakman92/S03E01%20Beakman%20-%20Semillas%2C%20Beakman%C3%ADa%20y%20Puentes.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmMc32tm/b3.jpg" group-title="Mundo de Beakman",Beakman | S03E02 | Equilibrio, Beakmanía y Camuflaje | Latino [1995]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmMc32tm/b3.jpg" group-title="Mundo de Beakman",Beakman | S03E02 | Equilibrio y Camuflaje | Latino [1995]
 https://archive.org/download/Beakman92/S03E02%20Beakman%20-%20Equilibrio%2C%20Beakman%C3%ADa%20y%20Camuflaje.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmMc32tm/b3.jpg" group-title="Mundo de Beakman",Beakman | S03E03 | Carbón, Beakmanía e Inventos | Latino [1995]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmMc32tm/b3.jpg" group-title="Mundo de Beakman",Beakman | S03E03 | Carbón e Inventos | Latino [1995]
 https://archive.org/download/Beakman92/S03E03%20Beakman%20-%20Carb%C3%B3n%2C%20Beakman%C3%ADa%20e%20Inventos.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmMc32tm/b3.jpg" group-title="Mundo de Beakman",Beakman | S03E04 | Giroscopios, Beakmanía y el Corazón | Latino [1995]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmMc32tm/b3.jpg" group-title="Mundo de Beakman",Beakman | S03E04 | Giroscopios y el Corazón | Latino [1995]
 https://archive.org/download/Beakman92/S03E04%20Beakman%20-%20Giroscopios%2C%20Beakman%C3%ADa%20y%20el%20Coraz%C3%B3n.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmMc32tm/b3.jpg" group-title="Mundo de Beakman",Beakman | S03E05 | Acero, Beakmanía y Revelado Fotográfico | Latino [1995]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmMc32tm/b3.jpg" group-title="Mundo de Beakman",Beakman | S03E05 | Acero y Revelado Fotográfico | Latino [1995]
 https://archive.org/download/Beakman92/S03E05%20Beakman%20-%20Acero%2C%20Beakman%C3%ADa%20y%20Revelado%20Fotogr%C3%A1fico.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmMc32tm/b3.jpg" group-title="Mundo de Beakman",Beakman | S03E06 | Sol, Beakmanía y Metamorfosis | Latino [1995]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmMc32tm/b3.jpg" group-title="Mundo de Beakman",Beakman | S03E06 | Sol y Metamorfosis | Latino [1995]
 https://archive.org/download/Beakman92/S03E06%20Beakman%20-%20Sol%2C%20Beakman%C3%ADa%20y%20Metamorfosis.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmMc32tm/b3.jpg" group-title="Mundo de Beakman",Beakman | S03E07 | Aspiradoras, Beakmanía y Entelar | Latino [1995]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmMc32tm/b3.jpg" group-title="Mundo de Beakman",Beakman | S03E07 | Aspiradoras y Entelar | Latino [1995]
 https://archive.org/download/Beakman92/S03E07%20Beakman%20-%20Aspiradoras%2C%20Beakman%C3%ADa%20y%20Entelar.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmMc32tm/b3.jpg" group-title="Mundo de Beakman",Beakman | S03E08 | Nieve, Beakmanía y Selección Natural | Latino [1995]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmMc32tm/b3.jpg" group-title="Mundo de Beakman",Beakman | S03E08 | Nieve y Selección Natural | Latino [1995]
 https://archive.org/download/Beakman92/S03E08%20Beakman%20-%20Nieve%2C%20Beakman%C3%ADa%20y%20Selecci%C3%B3n%20Natural.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmMc32tm/b3.jpg" group-title="Mundo de Beakman",Beakman | S03E09 | Caimanes y Cocodrilos, Beakmanía y Robots | Latino [1995]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmMc32tm/b3.jpg" group-title="Mundo de Beakman",Beakman | S03E09 | Caimanes y Cocodrilos y Robots | Latino [1995]
 https://archive.org/download/Beakman92/S03E09%20Beakman%20-%20Caimanes%20y%20Cocodrilos%2C%20Beakman%C3%ADa%20y%20Robots.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmMc32tm/b3.jpg" group-title="Mundo de Beakman",Beakman | S03E10 | Géiseres y Termas, Beakmanía y Riñones | Latino [1995]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmMc32tm/b3.jpg" group-title="Mundo de Beakman",Beakman | S03E10 | Géiseres y Termas y Riñones | Latino [1995]
 https://archive.org/download/Beakman92/S03E10%20Beakman%20-%20G%C3%A9iseres%20y%20Termas%2C%20Beakman%C3%ADa%20y%20Ri%C3%B1ones.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmMc32tm/b3.jpg" group-title="Mundo de Beakman",Beakman | S03E11 | El Sueño, Beakmanía y la Amplificación | Latino [1995]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmMc32tm/b3.jpg" group-title="Mundo de Beakman",Beakman | S03E11 | El Sueño y la Amplificación | Latino [1995]
 https://archive.org/download/Beakman92/S03E11%20Beakman%20-%20El%20Sue%C3%B1o%2C%20Beakman%C3%ADa%20y%20la%20Amplificaci%C3%B3n%20.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmMc32tm/b3.jpg" group-title="Mundo de Beakman",Beakman | S03E12 | Crustáceos, Beakmanía y Bernoulli | Latino [1995]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmMc32tm/b3.jpg" group-title="Mundo de Beakman",Beakman | S03E12 | Crustáceos y Bernoulli | Latino [1995]
 https://archive.org/download/Beakman92/S03E12%20Beakman%20-%20Crust%C3%A1ceos%2C%20Beakman%C3%ADa%20y%20Bernoulli.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmMc32tm/b3.jpg" group-title="Mundo de Beakman",Beakman | S03E13 | Islas, Beakmanía, Energía y Resortes | Latino [1995]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmMc32tm/b3.jpg" group-title="Mundo de Beakman",Beakman | S03E13 | Islas, Energía y Resortes | Latino [1995]
 https://archive.org/download/Beakman92/S03E13%20Beakman%20-%20Islas%2C%20Beakman%C3%ADa%2C%20Energ%C3%ADa%20y%20Resortes.mp4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E01 | Sudor, Beakmanía y Pesando un Carro | Latino [1996]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E01 | Sudor y Pesando un Carro | Latino [1996]
 https://archive.org/download/Beakman92/S04E01%20Beakman%20-%20Sudor%2C%20Beakman%C3%ADa%20y%20Pesando%20un%20Carro.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E02 | Migración, Beakmanía y Vida en el Espacio | Latino [1996]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E02 | Migración y Vida en el Espacio | Latino [1996]
 https://archive.org/download/Beakman92/S04E02%20Beakman%20-%20Migraci%C3%B3n%2C%20Beakman%C3%ADa%20y%20Vida%20en%20el%20Espacio.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E03 | Bunsen, Beakmanía y Drenajes | Latino [1996]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E03 | Bunsen y Drenajes | Latino [1996]
 https://archive.org/download/Beakman92/S04E03%20Beakman%20-%20Bunsen%2C%20Beakman%C3%ADa%20y%20Drenajes.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E04 | Gatos, Beakmanía y Dinamita | Latino [1996]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E04 | Gatos y Dinamita | Latino [1996]
 https://archive.org/download/Beakman92/S04E04%20Beakman%20-%20Gatos%2C%20Beakman%C3%ADa%20y%20Dinamita.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E05 | La Boca, Beakmanía y las Escalas | Latino [1996]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E05 | La Boca y las Escalas | Latino [1996]
 https://archive.org/download/Beakman92/S04E05%20Beakman%20-%20La%20Boca%2C%20Beakman%C3%ADa%20y%20las%20Escalas.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E06 | Catalizadores, Beakmanía y Aerosoles | Latino [1996]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E06 | Catalizadores y Aerosoles | Latino [1996]
 https://archive.org/download/Beakman92/S04E06%20Beakman%20-%20Catalizadores%2C%20Beakman%C3%ADa%20y%20Aerosoles.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E07 | Caucho, Beakmanía y Cabello | Latino [1996]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E07 | Caucho y Cabello | Latino [1996]
 https://archive.org/download/Beakman92/S04E07%20Beakman%20-%20Caucho%2C%20Beakman%C3%ADa%20y%20Cabello.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E08 | Camellos, Beakmanía y Densidad | Latino [1996]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E08 | Camellos y Densidad | Latino [1996]
 https://archive.org/download/Beakman92/S04E08%20Beakman%20-%20Camellos%2C%20Beakman%C3%ADa%20y%20Densidad%20.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E09 | El Boomerang, Beakmanía y la Ciencia del Circo | Latino [1996]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E09 | El Boomerang y la Ciencia del Circo | Latino [1996]
 https://archive.org/download/Beakman92/S04E09%20Beakman%20-%20El%20Boomerang%2C%20Beakman%C3%ADa%20y%20la%20Ciencia%20del%20Circo.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E10 | Elefantes, Beakmanía y Rayos Equis | Latino [1996]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E10 | Elefantes y Rayos Equis | Latino [1996]
 https://archive.org/download/Beakman92/S04E10%20Beakman%20-%20Elefantes%2C%20Beakman%C3%ADa%20y%20Rayos%20Equis.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E11 | Piel, Beakmanía y Oxigeno | Latino [1997]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E11 | Piel y Oxigeno | Latino [1997]
 https://archive.org/download/Beakman92/S04E11%20Beakman%20-%20Piel%2C%20Beakman%C3%ADa%20y%20Oxigeno.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E12 | El Pan, Beakmanía y las Medidas | Latino [1997]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E12 | El Pan y las Medidas | Latino [1997]
 https://archive.org/download/Beakman92/S04E12%20Beakman%20-%20El%20Pan%2C%20Beakman%C3%ADa%20y%20las%20Medidas.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E13 | Electromagnetos, Beakmanía y los Sentidos | Latino [1997]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E13 | Electromagnetos y los Sentidos | Latino [1997]
 https://archive.org/download/Beakman92/S04E13%20Beakman%20-%20Electromagnetos%2C%20Beakman%C3%ADa%20y%20los%20Sentidos.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E14 | Primates, Beakmanía y Exámenes Oculares | Latino [1997]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E14 | Primates y Exámenes Oculares | Latino [1997]
 https://archive.org/download/Beakman92/S04E14%20Beakman%20-%20Primates%2C%20Beakman%C3%ADa%20y%20Ex%C3%A1menes%20Oculares.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E15 | Magia, Beakmanía y Química Cosmética | Latino [1997]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E15 | Magia y Química Cosmética | Latino [1997]
 https://archive.org/download/Beakman92/S04E15%20Beakman%20-%20Magia%2C%20Beakman%C3%ADa%20y%20Qu%C3%ADmica%20Cosm%C3%A9tica.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E16 | Cerdos, Beakmanía y Frecuencia de Sonido | Latino [1997]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E16 | Cerdos y Frecuencia de Sonido | Latino [1997]
 https://archive.org/download/Beakman92/S04E16%20Beakman%20-%20Cerdos%2C%20Beakman%C3%ADa%20y%20Frecuencia%20de%20Sonido.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E17 | Tesoros hundidos, Beakmanía y el Tornillo de Arquímedes | Latino [1997]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E17 | Tesoros hundidos y el Tornillo de Arquímedes | Latino [1997]
 https://archive.org/download/Beakman92/S04E17%20Beakman%20-%20Tesoros%20hundidos%2C%20Beakman%C3%ADa%20y%20el%20Tornillo%20de%20Arqu%C3%ADmedes.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E18 | Las Ballenas, Beakmanía e Ilusiones Ópticas II | Latino [1997]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E18 | Las Ballenas e Ilusiones Ópticas II | Latino [1997]
 https://archive.org/download/Beakman92/S04E18%20Beakman%20-%20Las%20Ballenas%2C%20Beakman%C3%ADa%20e%20Ilusiones%20%C3%93pticas%20II.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E19 | La Barrera del Sonido, Beakmanía y Vida Saludable | Latino [1997]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E19 | La Barrera del Sonido y Vida Saludable | Latino [1997]
 https://archive.org/download/Beakman92/S04E19%20Beakman%20-%20La%20Barrera%20del%20Sonido%2C%20Beakman%C3%ADa%20y%20Vida%20Saludable.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E20 | Exploración Polar, Beakmanía y Rotación | Latino [1997]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E20 | Exploración Polar y Rotación | Latino [1997]
 https://archive.org/download/Beakman92/S04E20%20Beakman%20-%20Exploraci%C3%B3n%20Polar%2C%20Beakman%C3%ADa%20y%20Rotaci%C3%B3n.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E21 | Perros, Beakmanía e Ingeniería Biomédica | Latino [1997]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E21 | Perros e Ingeniería Biomédica | Latino [1997]
 https://archive.org/download/Beakman92/S04E21%20Beakman%20-%20Perros%2C%20Beakman%C3%ADa%20e%20Ingenier%C3%ADa%20Biom%C3%A9dica.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E22 | El Desarrollo Humano, Beakmanía, Soluciones y Suspensiones | Latino [1997]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E22 | El Desarrollo Humano, Soluciones y Suspensiones | Latino [1997]
 https://archive.org/download/Beakman92/S04E22%20Beakman%20-%20El%20Desarrollo%20Humano%2C%20Beakman%C3%ADa%2C%20Soluciones%20y%20Suspensiones.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E23 | Acción-Reacción, Beakmanía y Aves Parlantes | Latino [1997]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E23 | Acción-Reacción y Aves Parlantes | Latino [1997]
 https://archive.org/download/Beakman92/S04E23%20Beakman%20-%20Acci%C3%B3n-Reacci%C3%B3n%2C%20Beakman%C3%ADa%20y%20Aves%20Parlantes.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E24 | Protozoología, Beakmanía y Dobles de Cine | Latino [1997]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E24 | Protozoología y Dobles de Cine | Latino [1997]
 https://archive.org/download/Beakman92/S04E24%20Beakman%20-%20Protozoolog%C3%ADa%2C%20Beakman%C3%ADa%20y%20Dobles%20de%20Cine.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E25 | Caballos, Beakmanía y Refrigeradores | Latino [1997]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E25 | Caballos y Refrigeradores | Latino [1997]
 https://archive.org/download/Beakman92/S04E25%20Beakman%20-%20Caballos%2C%20Beakman%C3%ADa%20y%20Refrigeradores.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E26 | Huellas dactilares, Beakmanía y Flatulencia | Latino [1998]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7P3WMq/b4.jpg" group-title="Mundo de Beakman",Beakman | S04E26 | Huellas dactilares y Flatulencia | Latino [1998]
 https://archive.org/download/Beakman92/S04E26%20Beakman%20-%20Huellas%20dactilares%2C%20Beakman%C3%ADa%20y%20Flatulencia.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/02S6RQFh/orbi-pride.jpg" group-title="GUILMONZERO 😉",Órbita by GUILMONZERO | Feedback
