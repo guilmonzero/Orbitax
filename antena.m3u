@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9qQsHV/orbi2024.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 11.04.24
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9qQsHV/orbi2024.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 13.04.24
 https://archive.org/download/orbita-guilmonzero-iptv-gratis-sigue-actualizando_202404/%5B%C3%92rbita%20%40guilmonzero%5D%20IPTV%20Gratis%20-%20Sigue%20Actualizando.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZ6h2HvR/spectrum2.jpg" group-title="Animados | Variado",Spectrum Channel (LATAM)
 https://panel.miplay.cl:8081/spectrumchannel/tracks-v1a1/mono.m3u8
@@ -147,6 +147,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsmdWV8R/canelfam.jpg" group-title="Animados | Variado",Canela Kids | Cine en Familia (LATAM)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5281
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJJvNmH5/canela-fa.jpg" group-title="Animados | Variado",Canela Kids | Familia (LATAM)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hP4ZTB7H/canelakm.jpg" group-title="Animados | Variado",Canela Kids | Mundo Pequeño (LATAM)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L6xmYWSN/canela-pla.jpg" group-title="Animados | Variado",Canela Kids | Planeta de Aventuras (LATAM)
@@ -588,6 +590,9 @@ https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mkCdzgh3/toonami.jpg" group-title="Animados | Variado",Toonami (US)
 https://adultswim-vodlive.cdn.turner.com/live/toonami/stream_de.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLYw3HwZ/toonamia.jpg" group-title="Animados | Variado",Toonami | Aftermath (US)
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qt6z8y05/toong1.jpg" group-title="Animados | Variado",Toon Googles (BR)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
@@ -3176,6 +3181,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3134
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4417
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3rXQ9n6T/canela-clasicos.jpg" group-title="Películas | Series",Canela TV | Clásicos (LATAM)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wB1r5rkX/canela-d.jpg" group-title="Películas | Series",Canela TV | Desastres (LATAM)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7364
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPTjdh9z/flouc.jpg" group-title="Películas | Series",Canela TV | Flou Caribeño (LATAM)
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63adf8eff3d69d1885731c06.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d1TRSN92/canela-flow.jpg" group-title="Películas | Series",Canela TV | Flou Cine (LATAM)
@@ -3490,9 +3497,6 @@ https://familyhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vZKT2Bvd/planetav2-1.jpg" group-title="Películas | Series",Planeta TV | Movie (CL)
 https://scl.edge.grupoz.cl/movie/live/chunklist_w1760938288.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLHffs11/popc.jpg" group-title="Películas | Series",Popcorn Flix (US)
-https://0a8aab349126402a95e24747b0405861.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Vidaa_Popflix/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2SCykyDg/rakuten-accion.jpg" group-title="Películas | Series",Rakuten TV | Acción (US)
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u
 
@@ -3633,9 +3637,6 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4d5bzXk0/todon.jpg" group-title="Películas | Series",Todo Novelas (LATAM)
 https://i.mjh.nz/SamsungTVPlus/ESBC43000013T.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLYw3HwZ/toonamia.jpg" group-title="Películas | Series",Toonami | Aftermath (US)
-http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HnFV3SdZ/trailers.jpg" group-title="Películas | Series",Trailers (ES)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinees-samsungspain/playlist.m3u8
@@ -5006,7 +5007,7 @@ https://i.mjh.nz/SamsungTVPlus/USBD3300016AK.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vHrxBwC0/rickandmorty.jpg" group-title="Mas Series 🧟",Rick and Morty (US)
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHgbxw65/robot.jpg" group-title="Mas Series 🧟",Robot Wars by Mech+ | Plex (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHgbxw65/robot.jpg" group-title="Mas Series 🧟",Robot Wars | by Mech+ | Plex (US)
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6470477fe536e0faaf10be9d.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hvx4Pr8M/rob.jpg" group-title="Mas Series 🧟",Robotech (LATAM)
 
@@ -5023,7 +5024,7 @@ https://i.mjh.nz/SamsungTVPlus/ESBA33000324U.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hvMZcpWd/xjae.jpg" group-title="Mas Series 🧟",Sakura Card Captors (LATAM)
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/t44TmmhX/sal.jpg" group-title="Mas Series 🧟",Salvado por la Campana (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t44TmmhX/sal.jpg" group-title="Mas Series 🧟",Saved By The Bell (US)
 http://tvmate.icu:8080/6025505794/osmanmata@gmail.com/66344
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x11chfVC/scooby2.jpg" group-title="Mas Series 🧟",Scooby Doo (US)
@@ -5439,6 +5440,12 @@ https://archive.org/serve/zathura-a-space-adventure-.-2005.720p.bluray.x-264.aac
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tRsMmtfV/zo2.jpg" group-title="Mas Películas 🎃",Zoombieland | 2 | 2019 | Latino
 https://archive.org/serve/zombielandtirodegracia2019dvdriplatino/Zombieland%20Tiro%20de%20gracia%20%282019%29%20DVDRip%20Latino.mp4
 
+#EXTINF:-1 channel-id="pluto-65ce480a78df2200131c597b" tvg-id="65ce480a78df2200131c597b" tvg-logo="https://images.pluto.tv/channels/65ce480a78df2200131c597b/colorLogoPNG.png" tvg-chno="28" group-title="Pluto TV | España" ,Psycho
+https://r.mjh.nz/PlutoTV/65ce480a78df2200131c597b-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-65cf6ab58145cb0008129ca8" tvg-id="65cf6ab58145cb0008129ca8" tvg-logo="https://images.pluto.tv/channels/65cf6ab58145cb0008129ca8/colorLogoPNG.png" tvg-chno="29" group-title="Pluto TV | España" ,Series Criminales
+https://r.mjh.nz/PlutoTV/65cf6ab58145cb0008129ca8-alt.m3u8
+
 #EXTINF:-1 channel-id="pluto-65b91e530d9ab40008340d8d" tvg-id="65b91e530d9ab40008340d8d" tvg-logo="https://images.pluto.tv/channels/65b91e530d9ab40008340d8d/colorLogoPNG.png" tvg-chno="30" group-title="Pluto TV | España" ,Al salir de clase
 https://r.mjh.nz/PlutoTV/65b91e530d9ab40008340d8d-alt.m3u8
 
@@ -5657,6 +5664,9 @@ https://r.mjh.nz/PlutoTV/65c347ae3a116800078c93c5-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5f1ac8588734f8000823b7de" tvg-id="5f1ac8588734f8000823b7de" tvg-logo="https://images.pluto.tv/channels/5f1ac8588734f8000823b7de/colorLogoPNG.png" tvg-chno="506" group-title="Pluto TV | España" ,Deportes
 https://r.mjh.nz/PlutoTV/5f1ac8588734f8000823b7de-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-65f96cd34e01740008ef1c97" tvg-id="65f96cd34e01740008ef1c97" tvg-logo="https://images.pluto.tv/channels/65f96cd34e01740008ef1c97/colorLogoPNG.png" tvg-chno="31" group-title="Pluto TV | España" ,Realmadrid TV
+https://r.mjh.nz/PlutoTV/65f96cd34e01740008ef1c97-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-648c2a27976ee900085a8524" tvg-id="648c2a27976ee900085a8524" tvg-logo="https://images.pluto.tv/channels/648c2a27976ee900085a8524/colorLogoPNG.png" tvg-chno="507" group-title="Pluto TV | España" ,My Padel TV
 https://r.mjh.nz/PlutoTV/648c2a27976ee900085a8524-alt.m3u8
