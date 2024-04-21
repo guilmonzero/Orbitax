@@ -215,6 +215,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4dTKwwwX/disney-junior.jpg" group-title="Animados | Variado",Disney | Junior | Japón (JP)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5LgW92w/diti2.jpg" group-title="Animados | Variado",Diti TV (AR)
+https://rpn3.bozztv.com/ssh101/ssh101/dititv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bNF3R8h0/divinity.jpg" group-title="Animados | Variado",Divinity (ES)
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:18_HD.smil/index.m3u8
 
@@ -406,20 +409,20 @@ https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sDxD3hS1/mbc3.jpg" group-title="Animados | Variado",MBC | 3 | Arábico (US)
 https://mbc-3-usa-ak.akamaized.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P51TBZz5/milenial.jpg" group-title="Animados | Variado",Milenial TV (PE)
-https://www.milenial.news/salida/milenial.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vTVLp9sm/memof.jpg" group-title="Animados | Variado",Memorias | Film (CO)
 https://stmv3.voxtvhd.com.br/memoriasfilm/memoriasfilm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/B60W6vb9/memo.jpg" group-title="Animados | Variado",Memorias | Series (CO)
 https://stmv6.voxtvhd.com.br/memoriasseries/memoriasseries/chunklist_w111434261.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J73wk43m/mnetkids.jpg" group-title="Animados | Variado",M Net Kids | Macedonia (MK)
-http://ares.mnet.mk/hls/mnet-kids.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P51TBZz5/milenial.jpg" group-title="Animados | Variado",Milenial TV (PE)
+https://www.milenial.news/salida/milenial.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1tzXXzyH/mitv.jpg" group-title="Animados | Variado",Mi Televisión Clásica (LATAM)
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J73wk43m/mnetkids.jpg" group-title="Animados | Variado",M Net Kids | Macedonia (MK)
+http://ares.mnet.mk/hls/mnet-kids.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zB4yGkPM/mondotvkids.jpg" group-title="Animados | Variado",Mondo TV Kids (IT)
 https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8
@@ -497,7 +500,7 @@ https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NGSQ0KzX/pantalla.jpg" group-title="Animados | Variado",Pantalla Clásica (EC)
 https://tgn.bozztv.com/ssh101/ssh101/ecuadoralmundo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTsx7qkX/par.jpg" group-title="Animados | Variado",Paréntesis (CL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTsx7qkX/par.jpg" group-title="Animados | Variado",Paréntesis TV (CL)
 https://freya.mivideo.pro:1936/parentesistv/parentesistv/chunklist_w80362312.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C53q7pVD/pbskids.jpg" group-title="Animados | Variado",PBS | Kids (US)
@@ -506,7 +509,7 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HLwQfQZ7/people.jpg" group-title="Animados | Variado",People Are Awesome (US)
 https://i.mjh.nz/SamsungTVPlus/ESAJ4500023Y5.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5NP8B6bB/peruv.jpg" group-title="Animados | Variado",Perú Visual TV (PE)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5NP8B6bB/peruv.jpg" group-title="Animados | Variado",Perú Visual (PE)
 https://stmv5.voxtvhd.com.br/peruvisual/peruvisual/chunklist_w395847117.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d0tY5qNn/peque.jpg" group-title="Animados | Variado",PequeRadio TV (ES)
@@ -516,6 +519,11 @@ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 https://junhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdyvj07Y/per-la.jpg" group-title="Animados | Variado",Persiana | Latino | Irán (IR)
 https://latinohls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zsQT1hj/planeta-junior.jpg" group-title="Animados | Variado",Planeta Junior TV (ES)
+https://i.mjh.nz/SamsungTVPlus/ESBD3200002V5.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zsQT1hj/planeta-junior.jpg" group-title="Animados | Variado",Planeta Junior TV  | Opción 2 (ES)
+https://daiconnect.com/live/hls/tvup/tvfy-pljr/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gk1hTNsJ/planetav2-2.jpg" group-title="Animados | Variado",Planeta TV | Family (CL)
 https://tls-cl.cdnz.cl/planetatvkids/live/chunklist_w690667637.m3u8
@@ -653,9 +661,6 @@ https://i.mjh.nz/SamsungTVPlus/ESBC4100002AG.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCkyvPV1/tvemplacilla2.jpg" group-title="Animados | Variado",TV En Placilla (CL)
 https://panel.tvstream.cl:1936/8038/8038/chunklist_w1110360145.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzbqW7QB/tvmax2.jpg" group-title="Animados | Variado",TV Max (RD)
-https://cdn3.streamgato.us:3927/live/tvmaxlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7DXhMN9/univision.jpg" group-title="Animados | Variado",Univision | Panregional (US)
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
