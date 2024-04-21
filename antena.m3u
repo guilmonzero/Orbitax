@@ -520,11 +520,6 @@ https://junhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdyvj07Y/per-la.jpg" group-title="Animados | Variado",Persiana | Latino | Irán (IR)
 https://latinohls.persiana.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zsQT1hj/planeta-junior.jpg" group-title="Animados | Variado",Planeta Junior TV (ES)
-https://i.mjh.nz/SamsungTVPlus/ESBD3200002V5.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zsQT1hj/planeta-junior.jpg" group-title="Animados | Variado",Planeta Junior TV  | Opción 2 (ES)
-https://daiconnect.com/live/hls/tvup/tvfy-pljr/.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gk1hTNsJ/planetav2-2.jpg" group-title="Animados | Variado",Planeta TV | Family (CL)
 https://tls-cl.cdnz.cl/planetatvkids/live/chunklist_w690667637.m3u8
 
@@ -5105,9 +5100,6 @@ http://offshore.lat:8080/play/fZA9IQCtqv2WKcCki2n5oXIb8gsxnf3CCg5tAGtMe--MlKoMPJ
 https://i.mjh.nz/SamsungTVPlus/USBB2900003O3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/25HZ66L2/hechi.jpg" group-title="Mas Series 🧟",Hechizada (LATAM)
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCdbLr9Q/heima.jpg" group-title="Mas Series 🧟",Heidi | La Abeja Maya (LATAM)
-https://i.mjh.nz/SamsungTVPlus/ESBD3200002V5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5sb4yVg/hell.jpg" group-title="Mas Series 🧟",Hell's Kitchen (US)
 https://i.mjh.nz/SamsungTVPlus/USBB2900002Z7.m3u8
