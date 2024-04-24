@@ -2,10 +2,10 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9qQsHV/orbi2024.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 23.04.24
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9qQsHV/orbi2024.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 24.04.24
 https://archive.org/download/orbita-guilmonzero-iptv-gratis-sigue-actualizando_202404/%5B%C3%92rbita%20%40guilmonzero%5D%20IPTV%20Gratis%20-%20Sigue%20Actualizando.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZ6h2HvR/spectrum2.jpg" group-title="Animados | Variado",Spectrum Channel (LATAM)
-https://panel.miplay.cl:8081/spectrumchannel/tracks-v1a1/mono.m3u8
+https://panel.miplay.cl:8081/spectrumchannel/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fyMw007s/newkpop2.jpg" group-title="Animados | Variado",New KPOP (KR)
 https://i.mjh.nz/SamsungTVPlus/USAJ3000013FJ.m3u8
 
@@ -116,6 +116,9 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85htYCNF/Abeano.jpg" group-title="Animados | Variado",Beano TV (UK)
 https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nz5rtnqS/bemad.jpg" group-title="Animados | Variado",Be Mad (ES)
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:20_HD.smil/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/B65rJJ7v/bigch.jpg" group-title="Animados | Variado",Big Channel (AR)
 https://ssh101.bozztv.com/ssh101/bigchannel/chunks.m3u8
 
@@ -218,7 +221,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5LgW92w/diti2.jpg" group-title="Animados | Variado",Diti TV (AR)
 https://rpn3.bozztv.com/ssh101/ssh101/dititv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNF3R8h0/divinity.jpg" group-title="Animados | Variado",Divinity (ES)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sXDGzV15/divinity.jpg" group-title="Animados | Variado",Divinity (ES)
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:18_HD.smil/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T1WRCfqH/dreikotv.jpg" group-title="Animados | Variado",Dreiko TV (PA)
@@ -386,9 +389,6 @@ http://186.148.183.242:5800/play/a0gw/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tKk1y71/lollykids.jpg" group-title="Animados | Variado",Lolly Kids | Opción 3 (LATAM)
 http://190.61.55.186:1010/play/a011/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wxhs1n8F/bemad.jpg" group-title="Animados | Variado",Be Mad (ES)
-https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:20_HD.smil/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tRFY8cMx/MAGICkids2.jpg" group-title="Animados | Variado",Magic Kids (AR)
 https://magicstream.ddns.net/magicstream/stream.m3u8
 
@@ -397,6 +397,9 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/inde
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0ynLWTzP/maxanime.jpg" group-title="Animados | Variado",Max Anime (VE)
 https://streamyes.alsolnet.com/maxanime/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hvL9H0Sy/maxch.jpg" group-title="Animados | Variado",Max Cartoon (CR)
+https://250weu.bozztv.com/ssh101/ssh101/visionamerica/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwddpVqN/maxi.jpg" group-title="Animados | Variado",Maxima (AR)
 https://rpn3.bozztv.com/ssh101/ssh101/maxtvstreaming/chunks.m3u8
@@ -452,11 +455,11 @@ https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CL2rn20X/nativ3.jpg" group-title="Animados | Variado",Nativa TV (PE)
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RC8r6CKx/neox.jpg" group-title="Animados | Variado",Neox (ES)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L50q5Ht1/neox.jpg" group-title="Animados | Variado",Neox (ES)
 http://530064904438321376.ofd0120.xyz:80/play/XFGK5534286/MK335882968/321376.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RC8r6CKx/neox.jpg" group-title="Animados | Variado",Neox | Opción 2 (ES)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L50q5Ht1/neox.jpg" group-title="Animados | Variado",Neox | Opción 2 (ES)
 http://451897542436321375.ofe0229.xyz:80/play/fe1110770/tTcFcgeaBDNE/321375.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RC8r6CKx/neox.jpg" group-title="Animados | Variado",Neox | Opción 3 (ES)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L4cdLcxk/neox2.jpg" group-title="Animados | Variado",Neox | Opción 3 (ES)
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:13_HD.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vZr6yRSs/netch.jpg" group-title="Animados | Variado",Net Channel (VE)
@@ -653,6 +656,9 @@ https://i.mjh.nz/SamsungTVPlus/ESBC4100002AG.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCkyvPV1/tvemplacilla2.jpg" group-title="Animados | Variado",TV En Placilla (CL)
 https://panel.tvstream.cl:1936/8038/8038/chunklist_w1110360145.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JhTC7dJH/tvpamy.jpg" group-title="Animados | Variado",TV Famypanc (PE)
+https://vidistream.ddns.net/hls/espana.play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1RYB2ytx/univers2.jpg" group-title="Animados | Variado",Universo (US)
 http://offshore.lat:8080/play/bnwOHtKeY2V-ohasRShm-W6BIBH9P5Rn1WQQg1k_b1t8-RBu8AjfwKGIcqTvu4ZP
@@ -1529,6 +1535,9 @@ http://ares.mnet.mk/hls/mnet-sport.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52h6rDzX/Cale.jpg" group-title="Deportes | Aventura",Madeinbo TV | Canale 88 (IT)
 https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvNJH9D0/megasp.jpg" group-title="Deportes | Aventura",Mega Sport (CR)
+https://vcp8.myplaytv.com:1936/masciclismo/masciclismo/chunklist_w9051651.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VvK3rQw4/mon.jpg" group-title="Deportes | Aventura",Monterrico TV (PE)
 https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8
@@ -3687,6 +3696,9 @@ https://tv.streaming-chile.com:1936/origentv2/origentv2/chunklist_w1874369866.m3
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wx2hrxDz/oro.jpg" group-title="Películas | Series",Oro TV | Plex (LATAM)
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64f0db77c2bc9b9001d46eaa.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dw40LnCP/panc2.jpg" group-title="Películas | Series",Panc TV | Perú (PE)
+https://vidistream.ddns.net/hls/peru.play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HsR9ytjF/paramount.jpg" group-title="Películas | Series",Paramount Network (ES)
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:22_HD.smil//manifest.m3u8
