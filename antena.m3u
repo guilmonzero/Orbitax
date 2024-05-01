@@ -133,9 +133,6 @@ http://925903986310321135.of1030ok.xyz:80/play/XFFK2544139/MA255846699/321135.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJhX9N4n/brat.jpg" group-title="Animados | Variado",Brat TV (ES)
 https://brat-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYvtKn05/alpa.jpg" group-title="Animados | Variado",Canal 2 | Alpavisión (CO)
-https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXBkTDVs/c57.jpg" group-title="Animados | Variado",Canal 57 | Miami (US)
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 
@@ -539,7 +536,7 @@ https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2RBXG8F/retromagico.jpg" group-title="Animados | Variado",Retro Mágico (AR)
-https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8         
+https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j5Hd1Ypj/retrocr.jpg" group-title="Animados | Variado",Retro TV Online (CR)
 https://ssh101.bozztv.com/ssh101/retrotvcr/playlist.m3u8
