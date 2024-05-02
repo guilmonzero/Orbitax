@@ -11354,8 +11354,8 @@ https://dai.google.com/linear/hls/event/VMzvtHhOQdOAzbV_hQKQbQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRq7JCPx/syfy.jpg" group-title="Estados Unidos",Syfy (US)
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12698
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRq7JCPx/syfy.jpg" group-title="Estados Unidos",Syfy | Opción 3 [Solo con VLC] (US)
-http://predatorapp.xyz:25461/Sleepy/viYbNQhJWQ/765
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRq7JCPx/syfy.jpg" group-title="Estados Unidos",Syfy | Opción 2 (US)
+https://v2.thetvapp.to/hls/SyfyEast_high.m3u8?token=ZZ2l94gowF-WqsNJc7yDNg&expires=1714635065
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7LH5J2nV/Tbs.jpg" group-title="Estados Unidos",TBS (US)
 
@@ -11380,11 +11380,12 @@ https://bec-trailersfromhell-1-us.plex.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MHs7qK4X/usa.jpg" group-title="Estados Unidos",USA Network (US)
 http://tvmate.icu:8080/6025505794/osmanmata@gmail.com/10252
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MHs7qK4X/usa.jpg" group-title="Estados Unidos",USA Network | Opción 2 (US)
-http://170.254.18.106/USA/index.m3u8
+https://v6.thetvapp.to/hls/USANetworkEast.m3u8?token=bpToWKydL4RnDPkJEb9o8w&expires=1714635132
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MHs7qK4X/usa.jpg" group-title="Estados Unidos",USA Network | Opción 3 (US)
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12689
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MHs7qK4X/usa.jpg" group-title="Estados Unidos",USA Network | Opción 4 [Solo con VLC] (US)
-http://predatorapp.xyz:25461/Sleepy/viYbNQhJWQ/698
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MHs7qK4X/usa.jpg" group-title="Estados Unidos",USA Network | Opción 4 (US)
+http://170.254.18.106/USA/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5yQD11wB/VICE.jpg" group-title="Estados Unidos",Vice TV (US)
 https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
