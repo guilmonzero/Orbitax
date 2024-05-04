@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9qQsHV/orbi2024.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 01.05.24
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9qQsHV/orbi2024.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 04.05.24
 https://archive.org/download/orbita-guilmonzero-iptv-gratis-sigue-actualizando_202404/%5B%C3%92rbita%20%40guilmonzero%5D%20IPTV%20Gratis%20-%20Sigue%20Actualizando.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZ6h2HvR/spectrum2.jpg" group-title="Animados | Variado",Spectrum Channel (LATAM)
 https://panel.miplay.cl:8081/spectrumchannel/mono.m3u8
@@ -77,6 +77,9 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5ef4e1b10d9ad000423c4421.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ncsmtW5L/amce.jpg" group-title="Animados | Variado",AMC | En Español (US)
 https://i.mjh.nz/SamsungTVPlus/USBD7000017L.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HW6ppdft/anc.jpg" group-title="Animados | Variado",ANC Televisión (CO)
+https://canal.mediaserver.com.co/live/ANCTELEVISION.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fRH8CCT8/animax.jpg" group-title="Animados | Variado",Animax (KR)
 https://i.mjh.nz/SamsungTVPlus/KRBC40000010R.m3u8
@@ -573,6 +576,9 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8v4F8CF/stan.jpg" group-title="Animados | Variado",Stand Up (CL)
 https://paneltv.online:1936/8116/8116/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LNj0C5c/stay.jpg" group-title="Animados | Variado",Stay TV (CR)
+https://video.misistemareseller.com/staytv/staytv/chunklist_w678500060.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cw481sg/dousen.jpg" group-title="Animados | Variado",Supervisión Dongsen | Taiwán (TW)
 http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
@@ -790,6 +796,9 @@ https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKjSJkh1/cgnt.jpg" group-title="Ciencia | Cultura 🪐",CGTN | Inglés (CN)
 https://live.cgtn.com/1000/prog_index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CMfx4z56/chilech.jpg" group-title="Ciencia | Cultura 🪐",Chile Channel TV (CL)
+https://v2.tustreaming.cl/chilechannel/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCb4ZvdM/ch-cul.jpg" group-title="Ciencia | Cultura 🪐",Chile Visual | Cultural (CL)
 https://stmv5.voxtvhd.com.br/chilevisualcultura/chilevisualcultura/chunklist_w420342763.m3u8
 
@@ -812,6 +821,9 @@ https://v1.tustreaming.cl:19360/culturaonline/culturaonline.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FZm181h/cumo.jpg" group-title="Ciencia | Cultura 🪐",Cumo TV (PE)
 https://live.obslivestream.com/cumo/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JzykZHPh/cvi.jpg" group-title="Ciencia | Cultura 🪐",Cubavisión Internacional (CU)
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZFpT0h1/danger.jpg" group-title="Ciencia | Cultura 🪐",Danger TV (US)
 https://i.mjh.nz/SamsungTVPlus/USAJ3504708A.m3u8
@@ -1097,7 +1109,7 @@ https://5f22d76e220e1.streamlock.net/teleambiente/teleambiente/playlist.m3u8
 https://cloudflare.streamgato.us:3227/live/teleturtvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VNHL2c3T/conciente.jpg" group-title="Ciencia | Cultura 🪐",Televisión Consciente (LATAM)
-https://i.mjh.nz/SamsungTVPlus/ESBC1700002IM.m3u8
+https://cdn318.fractalmedia.es/318/live/hls/tvc/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DfrHXyns/tevex.jpg" group-title="Ciencia | Cultura 🪐",Tevex (CL)
 https://v4.tustreaming.cl/tevexinter/index.m3u8
@@ -2109,6 +2121,9 @@ https://stmvideo2.livecastv.com/oneradio/oneradio/playlist.m3u8
 https://pbc.furrera.ps/palestinehd/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LsdkDRrB/palest.jpg" group-title="Informativo",Palestine Today | Palestina (PS)
 https://live.paltodaytv.com/paltv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtrFyHvS/pren.jpg" group-title="Informativo",Prensa Latina | Cuba (CU)
+https://eu1.servers10.com:8081/8192/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QNR4Xbqf/Pre.jpg" group-title="Informativo",Press TV (IR)
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
@@ -3375,6 +3390,9 @@ https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8F6m1Bp/butaca.jpg" group-title="Películas | Series",Butaca TV | Plex (LATAM)
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64f0dad7c2bc9b9001d46ea8.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdJj4y2F/c1cine.jpg" group-title="Películas | Series",C1 | Cinema One | Filipinas (PH)
+https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjbnBNjj/calle13.jpg" group-title="Películas | Series",Calle 13 (ES)
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:96_HD.smil/manifest.m3u8
@@ -10412,6 +10430,9 @@ https://tupanel.info:8970/;stream.nsv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nhZZZnS7/Radiopuertotv.jpg" group-title="Costa Rica 🇨🇷",Radio Puerto TV (CR)
 https://cloudvideo.servers10.com:8081/8256/tracks-v1a1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5rtzmXk/chirripo.jpg" group-title="Costa Rica 🇨🇷",RTV | Chirripó (CR)
+https://lstv.duckdns.org:449/hls/rtchirripo.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3yWFNtL/sanvito1.jpg" group-title="Costa Rica 🇨🇷",STV | San Vito (CR)
 https://video.misistemareseller.com:1936/sanvito/sanvito/playlist.m3u8
 
@@ -11814,10 +11835,10 @@ http://45.5.117.182:8000/play/a0em/index.m3u8
 http://181.78.105.146:8800/play/a06h
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Fsq8KmHy/canal4ni.jpg" group-title="Nicaragua | Panamá",Canal 4 (NI)
-
+http://138.117.4.70:8075/Canal04_CooTelmnbv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yd9NY2DT/canal6ni.jpg" group-title="Nicaragua | Panamá",Canal 6 (NI)
-
+http://138.117.4.70:8075/Canal06_CooTeljhg/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0RHKbdP/TN8.jpg" group-title="Nicaragua | Panamá",Canal 8 | TN8 (NI)
 
@@ -12187,7 +12208,7 @@ https://vdo.panelchs.com:3927/live/xtvcontrollive.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XvK8Z34W/agnd.jpg" group-title="República Dominicana",Agenda 56 TV (RD)
 https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Px68bJBR/aion.jpg" group-title="República Dominicana",Aion (RD)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DzCbSgPM/ion.jpg" group-title="República Dominicana",Aion (RD)
 https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Yqv2c9Zw/AME.jpg" group-title="República Dominicana",Amé (RD)
@@ -13137,8 +13158,6 @@ https://pomf2.lain.la/f/iup9wds8.mp4
 https://pomf2.lain.la/f/83ki07we.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yx8M7sVd/chu2.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S02E08 | Sub [2022]
 https://pomf2.lain.la/f/hgxrrmry.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DwcyfyhQ/chu3.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | Aviso
-https://i.postimg.cc/rMHr0Xf5/orb-chucky.jpg
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DwcyfyhQ/chu3.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S03E01 [Sub] [2023]
 https://pomf2.lain.la/f/m3alxcc.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DwcyfyhQ/chu3.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S03E02 [Sub] [2023]
@@ -13154,6 +13173,7 @@ https://pomf2.lain.la/f/0m8huhrn.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DwcyfyhQ/chu3.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S03E07 [Sub] [2023]
 https://pomf2.lain.la/f/00w8vj2p.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DwcyfyhQ/chu3.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S03E08 [Sub] [2023]
+https://pomf2.lain.la/f/r0f876bt.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFJsjY4S/cal.jpg" group-title="Juego del Calamar",Juego del Calamar | S01E01 | Latino [2021]
 https://archive.org/download/94-1_20210929/1x01%20-%20Luz%20roja%2C%20luz%20verde.mp4
