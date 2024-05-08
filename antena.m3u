@@ -75,7 +75,7 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5ef11486d33ab9004048a1cd.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YC4PYKMB/alwaye.jpg" group-title="Animados | Variado",Always Funny | Español | Plex (LATAM)
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5ef4e1b10d9ad000423c4421.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Zqg7JbRd/ama.jpg" group-title="Animados | Variado",A más + (MX)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Zqg7JbRd/ama.jpg" group-title="Animados | Variado",A más + | Azteca Noreste (MX)
 https://live.info7.mx/info7/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ncsmtW5L/amce.jpg" group-title="Animados | Variado",AMC | En Español (US)
@@ -101,7 +101,7 @@ https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tRcX8DCy/atfal.jpg" group-title="Animados | Variado",Atfal & Mawaheb TV | Arabia (AE)
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXMzr8MM/atres.jpg" group-title="Animados | Variado",Atresplayer | Clasicos (ES)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXMzr8MM/atres.jpg" group-title="Animados | Variado",Atresplayer | Clásicos (ES)
 https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61/5.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kXMzr8MM/atres.jpg" group-title="Animados | Variado",Atresplayer | Comedia (ES)
 https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61/5.m3u8
@@ -3345,8 +3345,6 @@ https://cloudvideo.servers10.com:8081/8234/tracks-v1a1/mono.m3u8
 https://tv.streaming-chile.com:1936/8142/8142/chunklist_w2101366891.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5WC5Ggn/a3cine.jpg" group-title="Películas | Series",A3 Cine (ES)
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXMzr8MM/atres.jpg" group-title="Películas | Series",A3 Player | Multicine (ES)
-https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7cHMrW5/atre1.jpg" group-title="Películas | Series",A3 Series (ES)
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:10_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xjPYZcHL/a3series.jpg" group-title="Películas | Series",A3 Series | Internacional (ES)
@@ -3365,6 +3363,9 @@ https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YS7LT1QL/asianc.jpg" group-title="Películas | Series",Asian Crush (US)
 https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXMzr8MM/atres.jpg" group-title="Películas | Series",Atresplayer | Multicine (ES)
+https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTS33Jw9/ava-f.jpg" group-title="Películas | Series",AVA | Family (IR)
 https://familyhls.avatv.live/hls/stream.m3u8
@@ -5117,7 +5118,7 @@ https://i.mjh.nz/SamsungTVPlus/USBB2300002Q6.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nrdczGSp/fire.jpg" group-title="Mas Series 🧟",Fireman Sam | Samsung TV Plus (US)
 https://i.mjh.nz/SamsungTVPlus/USBD42000124T.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QC6YpFwt/atre-fi.jpg" group-title="Mas Series 🧟",Fisica o química | Atresplayer (ES)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QC6YpFwt/atre-fi.jpg" group-title="Mas Series 🧟",Física o química | Atresplayer (ES)
 https://fast-channels.atresmedia.com/648ef50a2bfab0e4607e0d61/648ef50a2bfab0e4607e0d61/5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KjpBRNtd/fo.jpg" group-title="Mas Series 🧟",Forged In Fire | by History (US)
@@ -10801,7 +10802,7 @@ https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vTG4Q1Q9/CANAL4-MANCHA.jpg" group-title="España",Canal 4 | Mancha Centro (ES)
 https://5924d3ad0efcf.streamlock.net/canal4/canal4live/chunklist_w404865057.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/63rBct1y/canal4televisio.jpg" group-title="España",Canal 4 | Televisio (ES)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63rBct1y/canal4televisio.jpg" group-title="España",Canal 4 | Mallorca (ES)
 https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j5TNMHg0/4tenerife.jpg" group-title="España",Canal 4 | Tenerife (ES)
@@ -10858,11 +10859,20 @@ https://elche7tv.gestec-video.com/hls/canal2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hvXBwhK6/ELFUTURO.jpg" group-title="España",El Futuro en tu Mano (ES)
 https://nlb1-live.emitstream.com/hls/66yp3gf97j4g2kmbva99/fragments/web/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvL7dr3z/em.jpg" group-title="España",Empordà Televisió (ES)
+https://video3.lhdserver.es/empordatv2/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqpMBWFZ/erlo.jpg" group-title="España",Erlo TV (ES)
 https://5940924978228.streamlock.net/8159/8159/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTnqhd2y/este.jpg" group-title="España",Este Canal TV (ES)
+http://synclosdragos1.syncsolutions.es:8008/live3/emision/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvGHpjCK/estepona.jpg" group-title="España",Estepona TV (ES)
 https://cloudvideo.servers10.com:8081/8022/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FK7K490d/estu.jpg" group-title="España",EsTuTele (ES)
+https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7bRqt2t/etb1.jpg" group-title="España",ETB 1 | Vasco (ES)
 https://multimedia.eitb.eus/live-content/etb1hd-hls/bitrate_4.m3u8
@@ -10884,6 +10894,9 @@ https://media2.streambrothers.com:1936/8150/8150/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85x7BH0f/extrema.jpg" group-title="España",Extremadura (ES)
 https://cdnapi.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_in8cxw3w/protocol/https/format/applehttp/a.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKJZsPSY/fib.jpg" group-title="España",Fibwi (ES)
+https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5KbwjL1/FUN.jpg" group-title="España",Fuengirola TV (ES)
 https://secure.todostreaming.es/live/nerja-livestream.m3u8
@@ -10908,6 +10921,9 @@ http://momentog-crtvg.flumotion.com/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bNwBCmSg/xabarin3.jpg" group-title="España",Galicia | Xabarín (ES)
 http://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LsTGNfJj/goi.jpg" group-title="España",Goiena Eus (ES)
+https://zuzenean.goienamedia.eus/goiena-telebista.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9M0knhz0/gitb.jpg" group-title="España",Goierri Irrati Telebista (ES)
 https://5940924978228.streamlock.net/8155/8155/chunklist_w123833101.m3u8
@@ -11689,6 +11705,11 @@ https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w456386113.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BnRdbycG/acustitk.jpg" group-title="México",Acustik TV (MX)
 https://60ed5b6d0df78.streamlock.net:1936/clientetv/clientetv/chunklist_w1522084955.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Zqg7JbRd/ama.jpg" group-title="México",A más + | Coahuila (MX)
+https://live.info7.mx/coah/stream/_hi2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Zqg7JbRd/ama.jpg" group-title="México",A más + | Tamaulipas (MX)
+https://live.info7.mx/tams/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wyhR1pP/ant.jpg" group-title="México",Antena TV | Chiguagua (MX)
 https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
@@ -13152,6 +13173,9 @@ http://138.59.177.34:8000/play/a07g/index.m3u8
 http://200.41.79.165:8000/play/a045/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/906F030c/sextreme.jpg" group-title="18+ 🔥",SeXtreme | Opción 3 (LATAM)
 http://131.161.53.2:8000/play/a07g/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNt83L1k/tar.jpg" group-title="18+ 🔥",Tarotvision (ES)
+https://stream.andalhost.com/hls/tarotvision.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydvfKXvq/VENUs.jpg" group-title="18+ 🔥",Venus (LATAM)
 http://138.59.177.34:8000/play/a04h/index.m3u8
