@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9qQsHV/orbi2024.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 14.05.24
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9qQsHV/orbi2024.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 16.05.24
 https://archive.org/download/orbita-guilmonzero-iptv-gratis-sigue-actualizando_202404/%5B%C3%92rbita%20%40guilmonzero%5D%20IPTV%20Gratis%20-%20Sigue%20Actualizando.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZ6h2HvR/spectrum2.jpg" group-title="Animados | Variado",Spectrum Channel (LATAM)
 https://panel.miplay.cl:8081/spectrumchannel/mono.m3u8
@@ -4218,7 +4218,6 @@ http://181.78.8.90:16123/play/ch75
 http://190.61.55.186:1010/play/a024/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/htK7TTqG/adultsw-imx.jpg" group-title="Premium | Latino",Adult Swim (MX)
 http://offshore.lat:8080/play/fZA9IQCtqv2WKcCki2n5oWmwpIL4iOHfr-vu3FiOCzRztrv_QSdiQBf7WX7JkBNJ
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxnqzfnP/hbo.jpg" group-title="Premium | Latino",HBO (LATAM)
 http://45.228.232.205:16000/play/a040/index.m3u8
@@ -14035,6 +14034,17 @@ https://archive.org/download/Beakman92/S04E26%20Beakman%20-%20Huellas%20dactilar
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/02S6RQFh/orbi-pride.jpg" group-title="GUILMONZERO 😉",Órbita by GUILMONZERO | Feedback
 https://pomf2.lain.la/f/o0ucqxo.mp4
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X71ycsQB/disneym.jpg" group-title="GUILMONZERO 😉",Disney | Mixtape
+https://18743.live.streamtheworld.com/INSTORE_2_S01.aac
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnLsGFMf/glob.jpg" group-title="GUILMONZERO 😉",Global Metal | Radio (ID)
+https://stream.zeno.fm/mfuutjhc31quv
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zDR8jWXr/radio-h.jpg" group-title="GUILMONZERO 😉",Horror Halloween Radio
+http://s2.voscast.com:11034/;stream1634719277384/1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WzvV82Kc/Invasiondeathtrip.jpg" group-title="GUILMONZERO 😉",Invasion Death Trip | Radio
+http://23.100.77.47:8000/stream1
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hPpjbYpL/joe-1.jpg" group-title="GUILMONZERO 😉",JOE | Bruselas (BE)
 https://icecast-qmusicbe-cdp.triple-it.nl/joe_easy.aac
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvdtP1NR/joe-8.jpg" group-title="GUILMONZERO 😉",JOE | 80s & 90s (BE)
@@ -14048,6 +14058,12 @@ https://icecast-qmusicbe-cdp.triple-it.nl/joe_top2000.aac
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T2Jj16hG/radio-r.jpg" group-title="GUILMONZERO 😉",Metal Rock Radio (US)
 https://kathy.torontocast.com:2800/;
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1t5Nv664/metals.jpg" group-title="GUILMONZERO 😉",Metal Station | Radio (DE)
+https://metalstation.stream.laut.fm/metalstation
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wM2Ttb3B/mtvr.jpg" group-title="GUILMONZERO 😉",MTV | Rocks (ID)
+https://stream-164.zeno.fm/mqy5rybacxhvv
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j2794xR6/radio-10.jpg" group-title="GUILMONZERO 😉",Radio Anime | AMC | Brasil
 https://ssl.painelcast.com:6728/stream
@@ -14105,10 +14121,35 @@ https://contacturban.ice.infomaniak.ch/contacturban-128.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rmvYh9Gc/co.jpg" group-title="GUILMONZERO 😉",Radio Contact | La Playlist de Tonton (BE)
 https://contactlaplaylistdetonton.ice.infomaniak.ch/contactlaplaylistdetonton-192.mp3
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zDR8jWXr/radio-h.jpg" group-title="GUILMONZERO 😉",Horror Halloween Radio
-http://s2.voscast.com:11034/;stream1634719277384/1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/WzvV82Kc/Invasiondeathtrip.jpg" group-title="GUILMONZERO 😉",Invasion Death Trip | Radio
-http://23.100.77.47:8000/stream1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsdrRWxt/disneyr.jpg" group-title="GUILMONZERO 😉",Radio Disney | Argentina
+https://27613.live.streamtheworld.com/DISNEY_ARG_BA.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsdrRWxt/disneyr.jpg" group-title="GUILMONZERO 😉",Radio Disney | Brasil
+https://22833.live.streamtheworld.com/DISNEY_BRA_SP_ADP/HLS/ae9f7e9e-b474-4911-8baf-aaed9bdb965e/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsdrRWxt/disneyr.jpg" group-title="GUILMONZERO 😉",Radio Disney | Chile
+https://14203.live.streamtheworld.com/DISNEY_CHI_SA.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsdrRWxt/disneyr.jpg" group-title="GUILMONZERO 😉",Radio Disney | Costa Rica
+https://ic.streann.com/disneycostarica
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsdrRWxt/disneyr.jpg" group-title="GUILMONZERO 😉",Radio Disney | Ecuador
+https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ECU_GY.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsdrRWxt/disneyr.jpg" group-title="GUILMONZERO 😉",Radio Disney | España
+https://sonic.mediatelekom.net/8072/stream
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsdrRWxt/disneyr.jpg" group-title="GUILMONZERO 😉",Radio Disney | Guatemala
+https://sonicpanel.globalstream.pro/8086/stream
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsdrRWxt/disneyr.jpg" group-title="GUILMONZERO 😉",Radio Disney | México
+https://18153.live.streamtheworld.com/XHFOFMAAC_SC?dist=onlineradiobox
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsdrRWxt/disneyr.jpg" group-title="GUILMONZERO 😉",Radio Disney | Panamá
+https://ic.streann.com/disneypanama
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsdrRWxt/disneyr.jpg" group-title="GUILMONZERO 😉",Radio Disney | Paraguay
+https://rds1.radiomagic.com.py:9433/stream
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsdrRWxt/disneyr.jpg" group-title="GUILMONZERO 😉",Radio Disney | República Dominicana
+https://radio5.domint.net:8062/stream
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsdrRWxt/disneyr.jpg" group-title="GUILMONZERO 😉",Radio Disney | Suecia
+https://live-bauerse-fm.sharp-stream.com/radiodisney_instream_se_aacp
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsdrRWxt/disneyr.jpg" group-title="GUILMONZERO 😉",Radio Disney | Uruguay
+https://24253.live.streamtheworld.com/DISNEY_URY_MVAAC/HLS/ae05cbda-3ad7-4bbc-b16c-8638e3c23e9d/0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsdrRWxt/disneyr.jpg" group-title="GUILMONZERO 😉",Radio Disney | USA
+http://c23.radioboss.fm:8035/stream
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpTy5j7W/halloN.jpg" group-title="GUILMONZERO 😉",Radio Halloween 
 https://radio1.streamserver.link/radio/8000/hrm-aac
@@ -14144,5 +14185,4 @@ https://starfm.streamabc.net/30-newmetal-mp3-192-2579923
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFChfd2h/starn.jpg" group-title="GUILMONZERO 😉",Star FM | New Rock
 https://starfm.streamabc.net/30-newrock-mp3-192-8752750
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PfctG74v/Zrockkkzr.jpg" group-title="GUILMONZERO 😉",Z Rock KKZR | Radio
-http://62.138.14.167:9000/ZRock128k.mp3
+http:// /get.php?username=&password=&type=m3u
