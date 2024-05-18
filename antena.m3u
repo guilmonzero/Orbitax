@@ -5,8 +5,6 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9qQsHV/orbi2024.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 18.05.24
 https://archive.org/download/orbita-guilmonzero-iptv-gratis-sigue-actualizando_202404/%5B%C3%92rbita%20%40guilmonzero%5D%20IPTV%20Gratis%20-%20Sigue%20Actualizando.mp4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqghTJmP/guilmonzerotv.jpg" group-title="Animados | Variado",Guilmonzero [Probando] [No 24/7] (LATAM)
-https://ssh101-fl.bozztv.com/ssh101/guilmonzero/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZ6h2HvR/spectrum2.jpg" group-title="Animados | Variado",Spectrum Channel (LATAM)
 https://panel.miplay.cl:8081/spectrumchannel/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fyMw007s/newkpop2.jpg" group-title="Animados | Variado",New KPOP (KR)
@@ -468,9 +466,6 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:13_HD.smil/manif
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vZr6yRSs/netch.jpg" group-title="Animados | Variado",Net Channel (VE)
 https://media.streambrothers.com:19360/8158/8158.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fTkTpnr/nextv.jpg" group-title="Animados | Variado",Nex TV (LATAM)
-https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hG8MncRX/nexx.jpg" group-title="Animados | Variado",Nexxo TV (RD)
 https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
@@ -14041,6 +14036,9 @@ https://archive.org/download/Beakman92/S04E26%20Beakman%20-%20Huellas%20dactilar
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/02S6RQFh/orbi-pride.jpg" group-title="GUILMONZERO 😉",Órbita by GUILMONZERO | Feedback
 https://pomf2.lain.la/f/o0ucqxo.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqghTJmP/guilmonzerotv.jpg" group-title="GUILMONZERO 😉",Guilmonzero [Probando] [No 24/7] (LATAM)
+https://ssh101-fl.bozztv.com/ssh101/guilmonzero/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X71ycsQB/disneym.jpg" group-title="GUILMONZERO 😉",Disney | Mixtape
 https://18743.live.streamtheworld.com/INSTORE_2_S01.aac
