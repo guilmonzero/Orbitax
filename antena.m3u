@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9qQsHV/orbi2024.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 22.05.24
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9qQsHV/orbi2024.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 25.05.24
 https://archive.org/download/orbita-guilmonzero-iptv-gratis-sigue-actualizando_202404/%5B%C3%92rbita%20%40guilmonzero%5D%20IPTV%20Gratis%20-%20Sigue%20Actualizando.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZ6h2HvR/spectrum2.jpg" group-title="Animados | Variado",Spectrum Channel (LATAM)
@@ -141,9 +141,10 @@ https://ssh101.bozztv.com/ssh101/bigchannel/chunks.m3u8
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159151
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HkqqLTcs/boing.jpg" group-title="Animados | Variado",Boing (ES)
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.m3u8
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HkqqLTcs/boing.jpg" group-title="Animados | Variado",Boing | Opción 2 (ES)
-http://925903986310321135.of1030ok.xyz:80/play/XFFK2544139/MA255846699/321135.ts
+http://706950929471825108.ofgh525.xyz:80/live/te416022/PdJdEyUmMQ/825108.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJhX9N4n/brat.jpg" group-title="Animados | Variado",Brat TV (ES)
 https://brat-rakuten.amagi.tv/playlist.m3u8
@@ -213,7 +214,7 @@ https://paneltv.online:1936/8046/8046/playlist.m3u8
 https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J0SMbv41/Cosmopolitan.jpg" group-title="Animados | Variado",Cosmo (ES)
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:75_HD.smil/manifest.m3u8
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:75_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T24jJ21K/crom.jpg" group-title="Animados | Variado",Crom TV (RD)
 https://cnn.essastream.com:3333/live/cromtvlive.m3u8
@@ -236,6 +237,9 @@ https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:21_HD.smil/man
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4dTKwwwX/disney-junior.jpg" group-title="Animados | Variado",Disney | Junior | Japón (JP)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5LgW92w/diti2.jpg" group-title="Animados | Variado",Diti (AR)
+https://ssh101-fl.bozztv.com/ssh101/dititv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXDGzV15/divinity.jpg" group-title="Animados | Variado",Divinity (ES)
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:18_HD.smil/index.m3u8
@@ -315,7 +319,7 @@ https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2h
 https://i.mjh.nz/SamsungTVPlus/USBC44000072I.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mgKqrcpw/historia.jpg" group-title="Animados | Variado",Historia (ES)
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:90_HD.smil/manifest.m3u8
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:90_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/90XnM7Kc/Horror.jpg" group-title="Animados | Variado",Horror by Alter (US)
 https://i.mjh.nz/SamsungTVPlus/USBC100001175.m3u8
@@ -462,7 +466,7 @@ http://530064904438321376.ofd0120.xyz:80/play/XFGK5534286/MK335882968/321376.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L50q5Ht1/neox.jpg" group-title="Animados | Variado",Neox | Opción 2 (ES)
 http://451897542436321375.ofe0229.xyz:80/play/fe1110770/tTcFcgeaBDNE/321375.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L4cdLcxk/neox2.jpg" group-title="Animados | Variado",Neox | Opción 3 (ES)
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:13_HD.smil/manifest.mpd
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:13_HD.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vZr6yRSs/netch.jpg" group-title="Animados | Variado",Net Channel (VE)
 https://media.streambrothers.com:19360/8158/8158.m3u8
@@ -549,7 +553,7 @@ https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/retrotvcr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RCTrwqbQ/retrox3.jpg" group-title="Animados | Variado",RetroX TV (CR)
-https://ssh101-fl.bozztv.com/ssh101/123456789/playlist.m3u8
+https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjv9Rff5/ribere-a.jpg" group-title="Animados | Variado",Ribereña (PE)
 https://v4.tustreaming.cl/atmtv/index.m3u8
@@ -1538,9 +1542,11 @@ http://201.159.113.219:49000/play/a05b/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pTn8xr3B/futv.jpg" group-title="Deportes | Aventura",FUTV | Opción 7 (CR)
 http://45.226.67.3:58001/play/a06c/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pTn8xr3B/futv.jpg" group-title="Deportes | Aventura",FUTV | Opción 8 (CR)
-http://gustvplay.com:8080/EP5RaqhMrqXd/5cLHet3gb6Rd/218476
+http://gustvplay.com:8080/fypQrQ9W23x5/Mcf44CXmjtJz/218476
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pTn8xr3B/futv.jpg" group-title="Deportes | Aventura",FUTV | Opción 9 (CR)
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162220
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTn8xr3B/futv.jpg" group-title="Deportes | Aventura",FUTV | Opción 10 (CR)
+http://jabawalkies.club:8080/o6kjTRJPpiIl0oOlmMn7jV/UGG0tbIilLi0Oo03pXKVQE/77597
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pTn8xr3B/futv.jpg" group-title="Deportes | Aventura",FUTV | SD (CR)
 http://45.226.67.3:58001/play/a069/index.m3u8
@@ -1549,12 +1555,10 @@ http://181.78.105.146:8800/play/a06e
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pTn8xr3B/futv.jpg" group-title="Deportes | Aventura",FUTV | SD | Opción 3 (CR)
 http://45.179.164.30:8000/play/a0b2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pTn8xr3B/futv.jpg" group-title="Deportes | Aventura",FUTV | SD | Opción 4 (CR)
-http://143.208.57.54:8000/play/a04h/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTn8xr3B/futv.jpg" group-title="Deportes | Aventura",FUTV | SD | Opción 5 (CR)
 http://45.170.225.212:48001/play/a03j/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTn8xr3B/futv.jpg" group-title="Deportes | Aventura",FUTV | SD | Opción 6 (CR)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTn8xr3B/futv.jpg" group-title="Deportes | Aventura",FUTV | SD | Opción 5 (CR)
 http://201.159.113.219:49000/play/a03k/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTn8xr3B/futv.jpg" group-title="Deportes | Aventura",FUTV | SD | Opción 7 (CR)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTn8xr3B/futv.jpg" group-title="Deportes | Aventura",FUTV | SD | Opción 6 (CR)
 http://168.232.168.242:4000/play/a04m/index.m3u8
 
 
@@ -1574,7 +1578,7 @@ http://191.52.214.5:8000/play/a03m/index.m3u8
 http://190.61.55.186:1010/play/a02f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2ZprSnK/golp.jpg" group-title="Deportes | Aventura",Gol Play (ES)
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.m3u8
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCVZnLD0/GOUSA.jpg" group-title="Deportes | Aventura",Go USA (US)
 https://i.mjh.nz/SamsungTVPlus/ESBC27000040I.m3u8
@@ -3442,7 +3446,7 @@ https://tv.streaming-chile.com:1936/8142/8142/chunklist_w2101366891.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5WC5Ggn/a3cine.jpg" group-title="Películas | Series",A3 Cine (ES)
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7cHMrW5/atre1.jpg" group-title="Películas | Series",A3 Series (ES)
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:10_HD.smil/manifest.m3u8
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:10_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xjPYZcHL/a3series.jpg" group-title="Películas | Series",A3 Series | Internacional (ES)
 http://181.78.8.90:16123/play/a06b
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xjPYZcHL/a3series.jpg" group-title="Películas | Series",A3 Series | Internacional | Opción 2 (ES)
@@ -3451,7 +3455,7 @@ http://191.97.58.41:8001/play/a00l
 http://190.60.40.37:12500/play/a07k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tTDnRn7N/amc-us.jpg" group-title="Películas | Series",AMC (ES)
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:87_HD.smil/manifest.m3u8
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:87_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fyyJXTMS/amc-tr.jpg" group-title="Películas | Series",AMC | Thrillers (US)
 https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qqsLZVmd/amc-story.jpg" group-title="Películas | Series",AMC | Stories (US)
@@ -3499,7 +3503,7 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64f0dad7c2bc9b9001d46ea8.m3u8
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjbnBNjj/calle13.jpg" group-title="Películas | Series",Calle 13 (ES)
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:96_HD.smil/manifest.m3u8
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:96_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1sjLZ4L/canalclaro.jpg" group-title="Películas | Series",Canal Claro (LATAM)
 http://45.5.117.182:8000/play/a0e6/index.m3u8
@@ -3979,7 +3983,7 @@ http://45.5.117.182:8000/play/a0fu/index.m3u8
 http://167.250.39.130:8000/play/atresseries
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Xq22zcb1/Sundancetv.jpg" group-title="Películas | Series",Sundance TV (ES)
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:88_HD.smil/manifest.m3u8
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:88_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xd8kG0Sm/terror.jpg" group-title="Películas | Series",Terror TV (CL)
 https://tv.streaming-chile.com:1936/8140/8140/chunklist_w376440554.m3u8
@@ -11072,7 +11076,7 @@ https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.
 https://laotra-1-23-secure2.akamaized.net/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6TJZ3HZP/lasexta.jpg" group-title="España",La Sexta (ES)
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/index.m3u8
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7sgqTmf/MARBELLA.jpg" group-title="España",M95 TV | Marbella (ES)
 https://limited2.todostreaming.es/live/m95-livestream.m3u8
