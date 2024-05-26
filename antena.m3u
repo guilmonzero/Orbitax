@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9qQsHV/orbi2024.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 25.05.24
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9qQsHV/orbi2024.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 26.05.24
 https://archive.org/download/orbita-guilmonzero-iptv-gratis-sigue-actualizando_202404/%5B%C3%92rbita%20%40guilmonzero%5D%20IPTV%20Gratis%20-%20Sigue%20Actualizando.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZ6h2HvR/spectrum2.jpg" group-title="Animados | Variado",Spectrum Channel (LATAM)
@@ -1544,9 +1544,12 @@ http://45.226.67.3:58001/play/a06c/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pTn8xr3B/futv.jpg" group-title="Deportes | Aventura",FUTV | Opción 8 (CR)
 http://gustvplay.com:8080/fypQrQ9W23x5/Mcf44CXmjtJz/218476
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pTn8xr3B/futv.jpg" group-title="Deportes | Aventura",FUTV | Opción 9 (CR)
-http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162220
+http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/218475
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pTn8xr3B/futv.jpg" group-title="Deportes | Aventura",FUTV | Opción 10 (CR)
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162220
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTn8xr3B/futv.jpg" group-title="Deportes | Aventura",FUTV | Opción 11 (CR)
 http://jabawalkies.club:8080/o6kjTRJPpiIl0oOlmMn7jV/UGG0tbIilLi0Oo03pXKVQE/77597
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pTn8xr3B/futv.jpg" group-title="Deportes | Aventura",FUTV | SD (CR)
 http://45.226.67.3:58001/play/a069/index.m3u8
@@ -10638,10 +10641,10 @@ http://45.166.92.22:58001/play/a059/index.m3u8
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QM53mhbm/10cr.jpg" group-title="Costa Rica 🇨🇷",Canal 10 | Sports (CR)
-https://vivo.radiosportstv.online:3138/stream/play.m3u8
+https://acceso.radiosportstv.online:3138/live/canal10crlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BbCZg4Jk/10-1cr.jpg" group-title="Costa Rica 🇨🇷",Canal 10.1 (CR)
-https://vivo.radiosportstv.online:3384/stream/play.m3u8
+https://acceso.radiosportstv.online:3384/live/canal101crlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GhVkQfH8/11.jpg" group-title="Costa Rica 🇨🇷",Canal 11 | Repretel (CR)
 https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
@@ -13323,6 +13326,8 @@ http://88.84.54.2:80/mjpg/video.mjpg
 https://resortcams.b-cdn.net/live-greenparrot/smil:greenparrot2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k47d7HR5/hog.jpg" group-title="Camaras 📹",Hog's Breath Saloon Bar | Florida (US)
 https://resortcams.b-cdn.net/live-hogsbreath/hogsbreath2-audio.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tVwnKXN/jacksonr.jpg" group-title="Camaras 📹",Jackson Hole | Rodeo | Wyoming (US)
+https://1-or.vdn.terrafox.net/seejh/jh-rodeo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fyGscVfL/c5.jpg" group-title="Camaras 📹",Jerzens | Tirol  Airport | Australia (AU)
 http://83.218.163.132:8081/mjpg/video.mjpg
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NfVHCKzy/kbs-livecam.jpg" group-title="Camaras 📹",KBS | Dokdo (KR)
