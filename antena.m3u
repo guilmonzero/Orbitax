@@ -24,8 +24,11 @@ https://r.mjh.nz/PlutoTV/645a61a3d3fdde00081e2206-alt.m3u8
 https://r.mjh.nz/PlutoTV/645a622bd3fdde00081e24fa-alt.m3u8
 #EXTINF:-1 channel-id="pluto-645a6296ee6a2f00080b8c6d" tvg-id="645a6296ee6a2f00080b8c6d" tvg-chno="8" tvg-logo="https://i.postimg.cc/tRVqd1js/plu-mt.jpg" group-title="Animados | Variado" ,Pluto TV | MTV Pride (SE)
 https://r.mjh.nz/PlutoTV/645a6296ee6a2f00080b8c6d-alt.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HsrBnqwG/cinepride.jpg" group-title="Animados | Variado",Cine Pride | Plex (US)
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62167144ab2095ca85353ad6.m3u8
+#EXTINF:-1 channel-id="samsung-DEBD2400001PC" tvg-id="DEBD2400001PC" tvg-logo="https://i.postimg.cc/wvb9Jfw2/outv.jpg" tvg-chno="4147" group-title="Animados | Variado" ,Out TV | Samsung TV Plus (DE)
+https://i.mjh.nz/SamsungTVPlus/DEBD2400001PC.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4XprjPZ/revry-la.jpg" group-title="Animados | Variado",Revry | LGBTQ+ | Latin X (US)
 https://bcb8278f10bc4ab698cba66524d46b6f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-142-REVRY-BRIGHTCOVE/mt/brightcove/142/hls/master/playlist.m3u8
