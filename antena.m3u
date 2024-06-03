@@ -2,33 +2,60 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/02S6RQFh/orbi-pride.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 01.06.24
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/02S6RQFh/orbi-pride.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 03.06.24
 https://archive.org/download/orbita-guilmonzero-iptv-gratis-sigue-actualizando_202404/%5B%C3%92rbita%20%40guilmonzero%5D%20IPTV%20Gratis%20-%20Sigue%20Actualizando.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZ6h2HvR/spectrum2.jpg" group-title="Animados | Variado",Spectrum Channel (LATAM)
 https://panel.miplay.cl:8081/spectrumchannel/mono.m3u8
 
-#EXTINF:-1 channel-id="pluto-64510d3ad3fdde00080951f2" tvg-id="64510d3ad3fdde00080951f2" tvg-logo="https://i.postimg.cc/4y2MVSMq/drag.jpg" tvg-chno="383" group-title="Animados | Variado" ,Pluto TV | Drag (LATAM)
-https://r.mjh.nz/PlutoTV/64510d3ad3fdde00080951f2-alt.m3u8
-#EXTINF:-1 channel-id="pluto-6368e15a51e9560007c592ed" tvg-id="6368e15a51e9560007c592ed" tvg-chno="2" tvg-logo="https://i.postimg.cc/sXHkGCKF/plu-pro.jpg" group-title="Animados | Variado" ,Pluto TV | Out TV Proud (CA)
+#EXTINF:-1 channel-id="pluto-65eeffc50d4561000836f191" tvg-id="65eeffc50d4561000836f191" tvg-logo="https://i.postimg.cc/66r1FfYK/pridetv2.jpg" tvg-chno="24" group-title="Animados | Variado" ,Pluto TV | Pride TV | España (ES)
+https://r.mjh.nz/PlutoTV/65eeffc50d4561000836f191-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-65ef002b4e01740008d2d5c1" tvg-id="65ef002b4e01740008d2d5c1" tvg-logo="https://i.postimg.cc/66r1FfYK/pridetv2.jpg" tvg-chno="11" group-title="Animados | Variado" ,Pluto TV | Pride TV | Alemania (DE)
+https://r.mjh.nz/PlutoTV/65ef002b4e01740008d2d5c1-alt.m3u8
+#EXTINF:-1 channel-id="pluto-656d86e957fe4a00087e0e94" tvg-id="656d86e957fe4a00087e0e94" tvg-logo="https://i.postimg.cc/66r1FfYK/pridetv2.jpg" tvg-chno="53" group-title="Animados | Variado" ,Pluto TV | Pride TV | Italia (IT)
+https://r.mjh.nz/PlutoTV/656d86e957fe4a00087e0e94-alt.m3u8
+#EXTINF:-1 channel-id="pluto-65eeffff8145cb000855a15d" tvg-id="65eeffff8145cb000855a15d" tvg-logo="https://i.postimg.cc/66r1FfYK/pridetv2.jpg" tvg-chno="20" group-title="Animados | Variado" ,Pluto TV | Pride TV | Reino Unido (UK)
+https://r.mjh.nz/PlutoTV/65eeffff8145cb000855a15d-alt.m3u8
+#EXTINF:-1 channel-id="pluto-656d873d9d5ac4000839a88e" tvg-id="656d873d9d5ac4000839a88e" tvg-logo="https://i.postimg.cc/66r1FfYK/pridetv2.jpg" tvg-chno="3" group-title="Animados | Variado" ,Pluto TV | Pride TV | Suecia (SE)
+https://r.mjh.nz/PlutoTV/656d873d9d5ac4000839a88e-alt.m3u8
+
+#EXTINF:-1 channel-id="samsung-DEBD2400001PC" tvg-id="DEBD2400001PC" tvg-logo="https://i.postimg.cc/wvb9Jfw2/outv.jpg" tvg-chno="4147" group-title="Animados | Variado" ,Out TV | Samsung TV Plus | Alemania (DE)
+https://i.mjh.nz/SamsungTVPlus/DEBD2400001PC.m3u8
+#EXTINF:-1 channel-id="samsung-ATBD2500001A8" tvg-id="ATBD2500001A8" tvg-logo="https://i.postimg.cc/wvb9Jfw2/outv.jpg" tvg-chno="4147" group-title="Animados | Variado" ,Out TV | Samsung TV Plus | Austria (AT)
+https://i.mjh.nz/SamsungTVPlus/ATBD2500001A8.m3u8
+#EXTINF:-1 channel-id="samsung-CHBD2500001SY" tvg-id="CHBD2500001SY" tvg-logo="https://i.postimg.cc/wvb9Jfw2/outv.jpg" tvg-chno="4125" group-title="Animados | Variado" ,Out TV | Samsung TV Plus | Suiza (CH)
+https://i.mjh.nz/SamsungTVPlus/CHBD2500001SY.m3u8
+
+#EXTINF:-1 channel-id="pluto-6368e15a51e9560007c592ed" tvg-id="6368e15a51e9560007c592ed" tvg-chno="2" tvg-logo="https://i.postimg.cc/sXHkGCKF/plu-pro.jpg" group-title="Animados | Variado" ,Pluto TV | Out TV Proud | Canada (CA)
 https://r.mjh.nz/PlutoTV/6368e15a51e9560007c592ed-alt.m3u8
-#EXTINF:-1 channel-id="pluto-6452c879e94c380008f6eb16" tvg-id="6452c879e94c380008f6eb16" tvg-chno="327" tvg-logo="https://i.postimg.cc/sXHkGCKF/plu-pro.jpg" group-title="Animados | Variado" ,Pluto TV | Out TV Proud (US)
+#EXTINF:-1 channel-id="pluto-6452c879e94c380008f6eb16" tvg-id="6452c879e94c380008f6eb16" tvg-chno="327" tvg-logo="https://i.postimg.cc/sXHkGCKF/plu-pro.jpg" group-title="Animados | Variado" ,Pluto TV | Out TV Proud | Estados Unidos (US)
 https://r.mjh.nz/PlutoTV/6452c879e94c380008f6eb16-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-64510d3ad3fdde00080951f2" tvg-id="64510d3ad3fdde00080951f2" tvg-chno="383" tvg-logo="https://i.postimg.cc/4y2MVSMq/drag.jpg" group-title="Animados | Variado" ,Pluto TV | Drag (LATAM)
+https://r.mjh.nz/PlutoTV/64510d3ad3fdde00080951f2-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5ce5a8954311f992edbe1da2" tvg-id="5ce5a8954311f992edbe1da2" tvg-chno="325" tvg-logo="https://i.postimg.cc/Gpdz9gRN/logo.jpg" group-title="Animados | Variado" ,Pluto TV | Logo (US)
 https://r.mjh.nz/PlutoTV/5ce5a8954311f992edbe1da2-alt.m3u8
-#EXTINF:-1 channel-id="pluto-64706adc4cfc2c000883e210" tvg-id="64706adc4cfc2c000883e210" tvg-logo="https://i.postimg.cc/KcDd232N/pridepfr2.jpg" tvg-chno="33" group-title="Animados | Variado" ,Pluto TV | Pride Party! (FR)
+
+#EXTINF:-1 channel-id="pluto-64706adc4cfc2c000883e210" tvg-id="64706adc4cfc2c000883e210" tvg-chno="33" tvg-logo="https://i.postimg.cc/KcDd232N/pridepfr2.jpg" group-title="Animados | Variado" ,Pluto TV | Pride Party! | Francia (FR)
 https://r.mjh.nz/PlutoTV/64706adc4cfc2c000883e210-alt.m3u8
-#EXTINF:-1 channel-id="pluto-645a61a3d3fdde00081e2206" tvg-id="645a61a3d3fdde00081e2206" tvg-chno="7" tvg-logo="https://i.postimg.cc/tRVqd1js/plu-mt.jpg" group-title="Animados | Variado" ,Pluto TV | MTV Pride (DK)
+#EXTINF:-1 channel-id="pluto-664225a1b18d700008e8bc76" tvg-id="664225a1b18d700008e8bc76" tvg-chno="1" tvg-logo="https://i.postimg.cc/DwFGxdHD/mtvpride.jpg" group-title="Animados | Variado" ,Pluto TV | MTV Pride | Canada (CA)
+https://r.mjh.nz/PlutoTV/664225a1b18d700008e8bc76-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6470abe84cfc2c000884c867" tvg-id="6470abe84cfc2c000884c867" tvg-chno="14" tvg-logo="https://i.postimg.cc/DwFGxdHD/mtvpride.jpg" group-title="Animados | Variado" ,Pluto TV | MTV Pride | Alemania (DE)
+https://r.mjh.nz/PlutoTV/6470abe84cfc2c000884c867-alt.m3u8
+#EXTINF:-1 channel-id="pluto-645a61a3d3fdde00081e2206" tvg-id="645a61a3d3fdde00081e2206" tvg-chno="7" tvg-logo="https://i.postimg.cc/DwFGxdHD/mtvpride.jpg" group-title="Animados | Variado" ,Pluto TV | MTV Pride | Dinamarca (DK)
 https://r.mjh.nz/PlutoTV/645a61a3d3fdde00081e2206-alt.m3u8
-#EXTINF:-1 channel-id="pluto-645a622bd3fdde00081e24fa" tvg-id="645a622bd3fdde00081e24fa" tvg-chno="10" tvg-logo="https://i.postimg.cc/tRVqd1js/plu-mt.jpg" group-title="Animados | Variado" ,Pluto TV | MTV Pride (NO)
+#EXTINF:-1 channel-id="pluto-642afefb9189ce00088f592c" tvg-id="642afefb9189ce00088f592c" tvg-chno="25" tvg-logo="https://i.postimg.cc/DwFGxdHD/mtvpride.jpg" group-title="Animados | Variado" ,Pluto TV | MTV Pride | España (ES)
+https://r.mjh.nz/PlutoTV/642afefb9189ce00088f592c-alt.m3u8
+#EXTINF:-1 channel-id="pluto-645a622bd3fdde00081e24fa" tvg-id="645a622bd3fdde00081e24fa" tvg-chno="10" tvg-logo="https://i.postimg.cc/DwFGxdHD/mtvpride.jpg" group-title="Animados | Variado" ,Pluto TV | MTV Pride | Noruega (NO)
 https://r.mjh.nz/PlutoTV/645a622bd3fdde00081e24fa-alt.m3u8
-#EXTINF:-1 channel-id="pluto-645a6296ee6a2f00080b8c6d" tvg-id="645a6296ee6a2f00080b8c6d" tvg-chno="8" tvg-logo="https://i.postimg.cc/tRVqd1js/plu-mt.jpg" group-title="Animados | Variado" ,Pluto TV | MTV Pride (SE)
+#EXTINF:-1 channel-id="pluto-645a6296ee6a2f00080b8c6d" tvg-id="645a6296ee6a2f00080b8c6d" tvg-chno="8" tvg-logo="https://i.postimg.cc/DwFGxdHD/mtvpride.jpg" group-title="Animados | Variado" ,Pluto TV | MTV Pride | Suecia (SE)
 https://r.mjh.nz/PlutoTV/645a6296ee6a2f00080b8c6d-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6304fa03ace49200079456fd" tvg-id="6304fa03ace49200079456fd" tvg-chno="21" tvg-logo="https://i.postimg.cc/DwFGxdHD/mtvpride.jpg" group-title="Animados | Variado" ,Pluto TV | MTV Pride | Reino Unido (UK)
+https://r.mjh.nz/PlutoTV/6304fa03ace49200079456fd-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HsrBnqwG/cinepride.jpg" group-title="Animados | Variado",Cine Pride | Plex (US)
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62167144ab2095ca85353ad6.m3u8
-#EXTINF:-1 channel-id="samsung-DEBD2400001PC" tvg-id="DEBD2400001PC" tvg-logo="https://i.postimg.cc/wvb9Jfw2/outv.jpg" tvg-chno="4147" group-title="Animados | Variado" ,Out TV | Samsung TV Plus (DE)
-https://i.mjh.nz/SamsungTVPlus/DEBD2400001PC.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4XprjPZ/revry-la.jpg" group-title="Animados | Variado",Revry | LGBTQ+ | Latin X (US)
 https://bcb8278f10bc4ab698cba66524d46b6f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-142-REVRY-BRIGHTCOVE/mt/brightcove/142/hls/master/playlist.m3u8
