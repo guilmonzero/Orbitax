@@ -506,11 +506,8 @@ https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L50q5Ht1/neox.jpg" group-title="Animados | Variado",Neox (ES)
 http://530064904438321376.ofd0120.xyz:80/play/XFGK5534286/MK335882968/321376.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L50q5Ht1/neox.jpg" group-title="Animados | Variado",Neox | Opción 2 (ES)
-http://451897542436321375.ofe0229.xyz:80/play/fe1110770/tTcFcgeaBDNE/321375.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L4cdLcxk/neox2.jpg" group-title="Animados | Variado",Neox | Opción 3 (ES)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L4cdLcxk/neox2.jpg" group-title="Animados | Variado",Neox | Opción 2 (ES)
 http://alfatv.lat:2082/e28LHakdnmss/rU2DEhfpXrYJ/322155
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vHf5pTQD/neoxtv.jpg" group-title="Animados | Variado",Neox TV (AR)
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 
@@ -5024,11 +5021,11 @@ https://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/ypf/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wM51zwFy/alf-2.jpg" group-title="Mas Series 🧟",ALF (LATAM)
-http://offshore.lat:8080/play/fZA9IQCtqv2WKcCki2n5odA12pUYCBlrhuFC2g3bbpJZivxJzzmYVeg7KjM7o28z
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pV6ZdG84/24-7-ALF.jpg" group-title="Mas Series 🧟",ALF | Opción 2 (LATAM)
 http://ultrapremium.cloud:8080/francisco2022/ZTWuN7rDjE/706
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pV6ZdG84/24-7-ALF.jpg" group-title="Mas Series 🧟",ALF | Opción 2 (LATAM)
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3hm5KfP/alf4.jpg" group-title="Mas Series 🧟",ALF | Opción 3 (LATAM)
-http://alfatv.lat:2082/e28LHakdnmss/rU2DEhfpXrYJ/312283
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ0Tb77P/alf3.jpg" group-title="Mas Series 🧟",ALF | Híbrido | Animated (US)
 
 
@@ -5174,9 +5171,6 @@ https://jmp2.uk/SamsungTVPlus/USBD700010XU.m3u8
 https://jmp2.uk/SamsungTVPlus/GBBD1100011V3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgXJW92y/digimon.jpg" group-title="Mas Series 🧟",Digimon Adventure (LATAM)
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgXJW92y/digimon.jpg" group-title="Mas Series 🧟",Digimon Adventure (LATAM)
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MHYrcbTz/dino.jpg" group-title="Mas Series 🧟",Dinosaurios (LATAM)
 http://offshore.lat:8080/play/fZA9IQCtqv2WKcCki2n5oUhf_2nHljfcZyxmnEIGFXKOkN70KjnDmWyTEfcZVzR8
