@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/02S6RQFh/orbi-pride.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 07.08.24
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/02S6RQFh/orbi-pride.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 08.08.24
 https://archive.org/download/orbita-guilmonzero-iptv-gratis-sigue-actualizando_202404/%5B%C3%92rbita%20%40guilmonzero%5D%20IPTV%20Gratis%20-%20Sigue%20Actualizando.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy2cNqf8/spectrum2.jpg" group-title="Animados | Variado",Spectrum Channel (LATAM)
@@ -253,7 +253,6 @@ https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 https://jmp2.uk/PlutoTV/655b5d865812e80008843bd1-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4Z93PKq/comedytv.jpg" group-title="Animados | Variado",Comedy TV (LATAM)
-https://stmv6.voxtvhd.com.br/comedytv/comedytv/chunklist_w1328397908.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J0SMbv41/Cosmopolitan.jpg" group-title="Animados | Variado",Cosmo (ES)
 
@@ -663,9 +662,6 @@ https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/28xL148Q/tcm2.jpg" group-title="Animados | Variado",TCM | Turner Classic Movies (US)
 http://143.244.60.30/TCM/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Ghqxrh8N/teleonce-US.jpg" group-title="Animados | Variado",Tele 11 (PR)
-https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/live-audio_track_0_0_und=64000-video_track=2000000.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0mWkh8R/telec2.jpg" group-title="Animados | Variado",Tele Clásica (LATAM)
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 
@@ -735,7 +731,6 @@ https://cloud5.streaminglivehd.com:3874/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cHWfc3rD/VH1u.jpg" group-title="Animados | Variado",VH1 (US)
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJTwBrH2/kanaldramavive.jpg" group-title="Animados | Variado",Vive | Kanal D | Drama (LATAM)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
@@ -762,9 +757,7 @@ https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QNJV6RfF/xtrema.jpg" group-title="Animados | Variado",Xtrema | Catálogo (AR)
-https://stmv6.voxtvhd.com.br/canal1/canal1/chunklist_w1308115149.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hjz85GVn/xtremecartoon.jpg" group-title="Animados | Variado",Xtrema | Cartoons (AR)
-https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvkm8MJS/ya.jpg" group-title="Animados | Variado",Yaaas! (UK)
 https://jmp2.uk/SamsungTVPlus/GBBA3300030OP.m3u8
@@ -786,8 +779,15 @@ http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m2jkDrPR/zoomoo.jpg" group-title="Animados | Variado",Zoo Moo (US)
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fzt7NmhQ/ztv.jpg" group-title="Animados | Variado",Z Play (CL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fzt7NmhQ/ztv.jpg" group-title="Animados | Variado",Z Play | Anime (CL)
+https://mitv.zplay.cl/ZAnime/tracks-v1a1/mono.m3u8?token=_3X8xrfOrbW3B_
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fzt7NmhQ/ztv.jpg" group-title="Animados | Variado",Z Play | Kids (CL)
+https://mitv.zplay.cl/Zkids/tracks-v1a1/mono.m3u8?token=_3X8xrfOrbW3B_
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fzt7NmhQ/ztv.jpg" group-title="Animados | Variado",Z Play | Música (CL)
 https://mitv.zplay.cl/Ztv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fzt7NmhQ/ztv.jpg" group-title="Animados | Variado",Z Play | Retro (CL)
+https://mitv.zplay.cl/ZRetro/tracks-v1a1/mono.m3u8?token=_3X8xrfOrbW3B_
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MpRPRpMc/5c.jpg" group-title="Ciencia | Cultura 🪐",5 Cops (UK)
 https://jmp2.uk/SamsungTVPlus/GBAK3504500A.m3u8
@@ -823,7 +823,6 @@ https://jmp2.uk/Plex/643054b1fc3be59477853717-6348a34c1159f6a5ce819b81.m3u8
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qqVpDY01/astrone.jpg" group-title="Ciencia | Cultura 🪐",Astro Net (LATAM)
-https://stmv6.voxtvhd.com.br/astronet/astronet/chunklist_w1737646465.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wv3HFqZ2/home.jpg" group-title="Ciencia | Cultura 🪐",At Home With Family Handyman (US)
 https://jmp2.uk/SamsungTVPlus/USBD25000138Y.m3u8
@@ -963,7 +962,6 @@ https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8
 https://v1.tustreaming.cl/diarioelcentrotv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tTr4J7Nx/elhistorionaut2.jpg" group-title="Ciencia | Cultura 🪐",El Historionauta (LATAM)
-https://stmv6.voxtvhd.com.br/elhistonautatv/elhistonautatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fyyg6qmL/entre.jpg" group-title="Ciencia | Cultura 🪐",Entrepreneur TV | Plex (US)
 https://jmp2.uk/Plex/643054b1fc3be59477853717-62ba4c6bf663580a7238f329.m3u8
@@ -1306,7 +1304,6 @@ https://jmp2.uk/SamsungTVPlus/USBD700017WC.m3u8
 https://vd01.streaminghd.net.ar:3787/live/jcslppmtlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRYb4GQJ/tech.jpg" group-title="Ciencia | Cultura 🪐",TechScience 365 (LATAM)
-https://stmv6.voxtvhd.com.br/techscience365/techscience365/chunklist_w1861033996.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/76Rs5HGb/ted.jpg" group-title="Ciencia | Cultura 🪐",TED (US)
 https://jmp2.uk/SamsungTVPlus/USBC2100013WI.m3u8
@@ -1505,7 +1502,6 @@ https://jmp2.uk/SamsungTVPlus/GBBD1100001UI.m3u8
 https://jmp2.uk/SamsungTVPlus/USBC2100008DP.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6QcvVWh9/xtrema-animal.jpg" group-title="Ciencia | Cultura 🪐",Xtrema | Animal (LATAM)
-https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/chunklist_w2105318006.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VNGzvtYw/xtr.jpg" group-title="Ciencia | Cultura 🪐",Xtreme Outdoor Presented | by History (US)
 https://jmp2.uk/SamsungTVPlus/USAK3508706A.m3u8
@@ -4401,21 +4397,14 @@ https://live.obslivestream.com/wtv/index.m3u8
 https://jmp2.uk/Plex/643054b1fc3be59477853717-5eea605474085f0040ddc770.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mZNR8tT4/xtrema-accion.jpg" group-title="Películas | Series",Xtrema | Cine Acción (LATAM)
-https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J0TNRRCh/xtrema-asia.jpg" group-title="Películas | Series",Xtrema | Cine Asia (LATAM)
-https://stmv6.voxtvhd.com.br/cineasia/cineasia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T12j8pSS/xtrema-comedia.jpg" group-title="Películas | Series",Xtrema | Cine Comedia (LATAM)
-https://stmv6.voxtvhd.com.br/cinecomedia/cinecomedia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V6W9Hj7n/xtrema-drama.jpg" group-title="Películas | Series",Xtrema | Cine Drama  | Suspenso (LATAM)
-https://stmv6.voxtvhd.com.br/cinedrama/cinedrama/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJYBfqwD/xtrema-familia.jpg" group-title="Películas | Series",Xtrema | Cine Familia (LATAM)
-https://stmv6.voxtvhd.com.br/cinefamiliy/cinefamiliy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3xkBJ0RQ/xtrema-latino.jpg" group-title="Películas | Series",Xtrema | Cine Latino (LATAM)
-https://stmv6.voxtvhd.com.br/cinelatino/cinelatino/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtH6YjJ9/xtrema-suspenso.jpg" group-title="Películas | Series",Xtrema | Cine Suspenso (LATAM)
-https://stmv6.voxtvhd.com.br/cinesuspenso/cinesuspenso/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYY0F4vw/xtrema-terror.jpg" group-title="Películas | Series",Xtrema | Cine Terror (LATAM)
-https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DzT0qXGK/xw.jpg" group-title="Películas | Series",Xumo | Westerns (US)
 https://dapdwco2fkcoa.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=88887620
