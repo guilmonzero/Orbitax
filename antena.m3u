@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/02S6RQFh/orbi-pride.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 08.08.24
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/02S6RQFh/orbi-pride.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 09.08.24
 https://archive.org/download/orbita-guilmonzero-iptv-gratis-sigue-actualizando_202404/%5B%C3%92rbita%20%40guilmonzero%5D%20IPTV%20Gratis%20-%20Sigue%20Actualizando.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy2cNqf8/spectrum2.jpg" group-title="Animados | Variado",Spectrum Channel (LATAM)
@@ -11113,32 +11113,40 @@ https://5f700d5b2c46f.streamlock.net/vtvmendoza/vtvmendoza/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5Nw1Nw2t/abya.jpg" group-title="Bolivia",Abya Yala TV (BO)
 https://master.tucableip.com/abyayalatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bb8x74gJ/bolivia7-2.jpg" group-title="Bolivia",Bolivia TV 7.1 (BO)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLY2L3t4/atb.jpg" group-title="Bolivia",ATB (BO)
+http://186.121.206.197/live/daniel/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bb8x74gJ/bolivia7-2.jpg" group-title="Bolivia",Bolivia TV | 7.1 (BO)
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63nmfjvv/bolivia7-3.jpg" group-title="Bolivia",Bolivia TV | 7.2 (BO)
+https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bb8x74gJ/bolivia7-2.jpg" group-title="Bolivia",Bolivia TV 7.2 (BO)
-https://5f2c1b0d880e5.streamlock.net/boliviatv2/videoboliviatv2/chunklist_w205442274.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8mv7Mdn/bolivision.jpg" group-title="Bolivia",Bolivisión (BO)
-https://d3mghbm9e5zfap.cloudfront.net/UppTVBO/27b541ec946453e75f25a7d489c86168.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3w505smb/cadenaa.jpg" group-title="Bolivia",Cadena A (BO)
+https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTSw-WTwL/ftv.jpg" group-title="Bolivia",FTV (BO)
 https://master.tucableip.com/ftv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fLNmpG5K/megav.jpg" group-title="Bolivia",Mega (BO)
-https://video.live.com.bo:3699/live/megavisionlive.m3u8
+https://video.live.com.bo:3999/live/megavisionlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vH9cLQ42/megatv-us.jpg" group-title="Bolivia",Mega TV (BO)
+https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k5yhhwqx/mundovision.jpg" group-title="Bolivia",Mundovisión (BO)
-https://movil.ejeserver.com/live/mundovisiontv.m3u8
+https://us.ejeserver.com/live/mundovisiontv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fRKwz3Yq/seotv.jpg" group-title="Bolivia",Seo TV (BO)
 https://seo.tv.bo/tv/SEO-TV-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ry19Qq4y/tlestrella.jpg" group-title="Bolivia",TL Estrella (BO)
-https://solo.disfrutaenlared.com:1936/teleestrella/teleestrella/playlist.m3u8
+https://stmvideo3.livecastv.com/teleestrellahd/teleestrellahd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bwChq6hW/telelatina.jpg" group-title="Bolivia",TV Latina (BO)
-https://master.tucableip.com/live/tvlatinamontero/tracks-v1a1/mono.m3u8
+https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCP2CGQR/tvubo.jpg" group-title="Bolivia",TV Universitaria | Sucre (BO)
+https://solo.disfrutaenlared.com:1936/tuch/ngrp:tuch_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvkVXM5D/1001.jpg" group-title="Brasil",1001 Noites (BR)
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
@@ -12885,7 +12893,7 @@ https://younghollywood-tcl.amagi.tv/playlist.m3u8
 https://ch2-tva.duin.dev/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3xhVkTQ2/au.jpg" group-title="Guatemala",Aurora Media Films (GT)
-https://cdn.streamhispanatv.net:3398/live/auroramflive.m3u8
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Pn4S8BF/bd.jpg" group-title="Guatemala",BD Television (GT)
 https://stream.oursnetworktv.com/latin/telegtmb/playlist.m3u8
@@ -12893,11 +12901,8 @@ https://stream.oursnetworktv.com/latin/telegtmb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hvJw2wh7/canal3guate.jpg" group-title="Guatemala", Canal 3 | Super Canal (GT)
 http://181.78.105.146:8800/play/can3
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncFzKRs3/canal4gua.jpg" group-title="Guatemala", Canal 4 | Quiché (GT)
-https://cdn.streamhispanatv.net:3482/live/knal4gtlive.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PrJcDfRq/televisiete.jpg" group-title="Guatemala", Canal 7 | Televisiete (GT)
-http://181.78.107.39:4000/play/a07u/index.m3u8
+https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjRv6LQg/canal8guate.jpg" group-title="Guatemala",Canal 8 | Santa Rosa (GT)
 https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
@@ -12905,109 +12910,112 @@ https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpzKJvwy/barbetv.jpg" group-title="Guatemala",Canal 9 | Barbe TV | Santa Rosa (GT)
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3rV6q3L4/ch9gt.jpg" group-title="Guatemala",Canal 9 | Cono Sur (GT)
-http://iptv.streamhispanatv.net:8080/playgt/playgt2023/195
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VLrpCnvf/ixchiguanlive.jpg" group-title="Guatemala",Canal 9 | Ixchiguán | San Marcos (GT)
-https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/71
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxq6z8Hg/canal9t.jpg" group-title="Guatemala",Canal 9 | Tolimán (GT)
-https://cdn.streamhispanatv.net:3237/live/canal9tvgtlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJWVB3SQ/pit.jpg" group-title="Guatemala",Canal 9 | PIT (GT)
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/82
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d1xLxxY5/buz.jpg" group-title="Guatemala",Canal 10 | Buzzer TV (GT)
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/73
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6QrmTgxQ/canal11guate.jpg" group-title="Guatemala",Canal 11 (GT)
-http://45.228.232.205:16000/play/a04n/index.m3u8
-
+http://186.189.222.205:1993/play/011/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T2LsxwYR/canal13guate.jpg" group-title="Guatemala",Canal 13 (GT)
-
+http://186.189.222.205:1993/play/013/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bvgw0Yfx/canal13e.jpg" group-title="Guatemala",Canal 13 | Esquipulas (GT)
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fRZvwJGY/canal21ru.jpg" group-title="Guatemala",Canal 21 | Rudyvisión | Quiché (GT)
+https://cdn.streamhispanatv.net:3978/live/rudivisionlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Sst5k4kP/26c.jpg" group-title="Guatemala",Canal 26 | Cono Sur (GT)
-http://iptv.streamhispanatv.net:8080/playgt/playgt2023/167
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/61
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/90LCPbq0/canal35gua.jpg" group-title="Guatemala",Canal 35 | Yepocapa (GT)
-https://cdn.streamhispanatv.net:3948/live/yepotvlive.m3u8
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/68
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RVzb8fvW/canal100chinique.jpg" group-title="Guatemala",Canal 100 | Chinique (GT)
-http://45.5.117.138:25461/playgt/123456/88
+https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2NvCRF9/canalantigua.jpg" group-title="Guatemala",Canal Antigua (GT)
+http://186.189.222.205:1993/play/006/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLhZqVbh/cari-osatv.jpg" group-title="Guatemala",Cariñosa TV | Jutiapa (GT)
-https://cdn.streamhispanatv.net:3110/live/carinosatvlive.m3u8
+https://hispanatv.cloud:19360/carinosa/carinosa.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x87XJbZt/cni.jpg" group-title="Guatemala",CNI Digital | Suchitepéquez (GT)
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/69
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fT1WpkXD/est.jpg" group-title="Guatemala",Estipulas TV (GT)
 https://tv91.hostingnuclear.com:19360/esquipulastv/esquipulastv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGVPXCfM/gtv.jpg" group-title="Guatemala",GTV (GT)
-http://iptv.streamhispanatv.net:8080/playgt/playgt2023/173
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/63
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6QLZMXYw/guatv2.jpg" group-title="Guatemala",GUATV (GT)
+https://cdn.streamhispanatv.net:3352/live/guatvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZ6JSFc5/guatevision.jpg" group-title="Guatemala",Guatevisión (GT)
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGLHGdsC/Guatv.jpg" group-title="Guatemala",Guatv | Sololá (GT)
-https://cdn.streamhispanatv.net:3589/live/guatvgtlive.m3u8
+https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VkBv5B7d/fullchannel.jpg" group-title="Guatemala",Full Channel | Sacatepéquez (GT)
-https://cdn.streamhispanatv.net:3845/live/fullchannelgtlive.m3u8
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/85
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtnWYv6j/jutia.jpg" group-title="Guatemala",Jutiapa Visión | Knal 9 (GT)
-http://iptv.streamhispanatv.net:8080/playgt/playgt2023/174
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/64
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zczGDRD/playmedios.jpg" group-title="Guatemala",Play Medios (GT)
-http://45.5.117.138:25461/playgt/123456/89
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Lkf2zHZ/presen.jpg" group-title="Guatemala",Presencia TV  | Santa Rosa (GT)
+https://cdn.streamhispanatv.net:3473/live/presenciatvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qBwr5wwP/Tds.jpg" group-title="Guatemala",TDS | Sololá (GT)
-https://cdn.streamhispanatv.net:3081/live/tdsolgtlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSDQxJcn/lunav.jpg" group-title="Guatemala",Luna Visión | Quetzaltenango (GT)
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/84
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WpXS1372/Nimtv.jpg" group-title="Guatemala",Nim TV | Sololá (GT)
-https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/57
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9M6ZtwJB/masgt.jpg" group-title="Guatemala",Más TV | San Marcos (GT)
-https://cdn.streamhispanatv.net:3186/live/mastvlive.m3u8
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/65
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0141dhH/plus.jpg" group-title="Guatemala",Plus TV (GT)
-http://iptv.streamhispanatv.net:8080/playgt/playgt2023/204
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KvzF8SVz/maxig.jpg" group-title="Guatemala",Maxi Visión | Sacatepéquez (GT)
+https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/chunklist_w1973251404.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zczGDRD/playmedios.jpg" group-title="Guatemala",Play Medios (GT)
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/80
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8ZsFtkY/superca.jpg" group-title="Guatemala",Supercable | Suchitepéquez (GT)
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/259
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fT2f8vTC/Sastv.jpg" group-title="Guatemala",Sas TV | Suchitepéquez (GT)
-https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/58
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCTvgbDr/solt.jpg" group-title="Guatemala",Sol TV | Sololá (GT)
-http://iptv.streamhispanatv.net:8080/playgt/playgt2023/160
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/60
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fbmvm37L/tce.jpg" group-title="Guatemala",TC Escuintla | Telecosta (GT)
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3dy1htG/telemaxguate.jpg" group-title="Guatemala",Telemax | Escuintla (GT)
-https://cdn.streamhispanatv.net:3824/live/telemaxlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qBwr5wwP/Tds.jpg" group-title="Guatemala",TDS | Sololá (GT)
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/52
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3gpb2sr/telema.jpg" group-title="Guatemala",Telemaya (GT)
-http://iptv.streamhispanatv.net:8080/playgt/playgt2023/183
+https://tv91.hostingnuclear.com:19360/telemaya/telemaya.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXBkjnSQ/Teveglobo.jpg" group-title="Guatemala",Teve Globo | Quetzaltenango (GT)
-https://cdn.streamhispanatv.net:3862/live/teveglobolive.m3u8
+https://ssh101.bozztv.com/ssh101/tvgolguatemala/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgjvqF1C/totovision.jpg" group-title="Guatemala",Totovisión | Totonicapán (GT)
 https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRcLr2VQ/tunevision.jpg" group-title="Guatemala",Tunevisión | Sololá (GT)
-https://cdn.streamhispanatv.net:3852/live/tunevisionlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z58RM4yH/tvazteca-guate.jpg" group-title="Guatemala",TV Azteca | Guate (GT)
 https://ch1-tva.duin.dev/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G27Q8PNH/tvflorencia.jpg" group-title="Guatemala",TV Florencia | Chimaltenango (GT)
-https://cdn.streamhispanatv.net:3819/live/tvflorencialive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sDfgVkCj/TVTUN.jpg" group-title="Guatemala",TV Tun | Suchitepéquez (GT)
-https://cdn.streamhispanatv.net:3832/live/tvtunlive.m3u8
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/49
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HW0B5Hyc/TVSRETRO.jpg" group-title="Guatemala",TVS Retro | Guatemala (GT)
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTzhcMJX/Unicatv.jpg" group-title="Guatemala",Unica TV | San Marcos (GT)
-https://cdn.streamhispanatv.net:3642/live/unicatvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7YCmfP0t/visiong.jpg" group-title="Guatemala",Visión TV | Sololá (GT)
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
