@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/02S6RQFh/orbi-pride.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 09.08.24
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/02S6RQFh/orbi-pride.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 15.08.24
 https://archive.org/download/orbita-guilmonzero-iptv-gratis-sigue-actualizando_202404/%5B%C3%92rbita%20%40guilmonzero%5D%20IPTV%20Gratis%20-%20Sigue%20Actualizando.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy2cNqf8/spectrum2.jpg" group-title="Animados | Variado",Spectrum Channel (LATAM)
@@ -70,9 +70,6 @@ https://linear-44.frequency.stream/dist/plex/44/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GtSPX14p/13-k.jpg" group-title="Animados | Variado",13 | Kids (CL)
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8zjftTKv/24.jpg" group-title="Animados | Variado",24-7 TV (AR)
-https://stmv5.voxtvhd.com.br/247tv/247tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8fFrYhb/123go.jpg" group-title="Animados | Variado",123 GO! | Plex (US)
 https://jmp2.uk/Plex/643054b1fc3be59477853717-63eecb32ac23d1ee072087cb.m3u8
@@ -708,7 +705,7 @@ https://jmp2.uk/SamsungTVPlus/ESBC4100002AG.m3u8
 https://panel.tvstream.cl:1936/8038/8038/chunklist_w1110360145.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZsKKhL5/tvfamy.jpg" group-title="Animados | Variado",TV Famypanc (PE)
-https://vidistream.ddns.net/hls/espana.play.m3u8
+https://panel.host-live.com:19360/8042/8042.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W38R062x/tvs-fa.jpg" group-title="Animados | Variado",TVS | Family (US)
 https://bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8
@@ -768,9 +765,7 @@ https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cw71bNY/zarok.jpg" group-title="Animados | Variado",Zarok TV | Turquía (TR)
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLYsFybh/zaz2.jpg" group-title="Animados | Variado",Zaz (LATAM)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2369
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hNDVwxq/zaz4.jpg" group-title="Animados | Variado",Zaz | 2 (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hNDVwxq/zaz4.jpg" group-title="Animados | Variado",Zaz (LATAM)
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bNB17YxF/ztv8.jpg" group-title="Animados | Variado",Zhejiang Kids | China (CN)
