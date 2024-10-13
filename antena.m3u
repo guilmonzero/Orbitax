@@ -2,8 +2,8 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqkGFXP6/orbi-halloween.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 05.10.24
-https://archive.org/serve/orbita-guilmonzero-iptv-gratis-sigue-actualizando_202410/%5B%C3%92rbita%20%40guilmonzero%5D%20IPTV%20Gratis%20-%20Sigue%20Actualizando.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqkGFXP6/orbi-halloween.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 13.10.24
+https://pomf2.lain.la/f/oz93uuxg.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy2cNqf8/spectrum2.jpg" group-title="Animados | Variado",Spectrum Channel (LATAM)
 https://stream.skarnetchile.com:19360/spectrumchannel/spectrumchannel.m3u8
@@ -122,7 +122,10 @@ https://live.info7.mx/info7/stream/_hi1/index.m3u8
 http://181.78.105.146:2000/play/a08z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KYW1ST0z/a-w.jpg" group-title="Animados | Variado",A&W (CR)
-https://5790d294af2dc.streamlock.net/AYBTV/AYBTV/playlist.m3u8
+https://ssh101.bozztv.com/ssh101/88channel/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nL56whVY/avi.jpg" group-title="Animados | Variado",AVI (LATAM)
+https://mitv.zplay.cl/Avi/video.m3u8?token=D4lm1R0m-tFJES
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1R0zVD9Z/balapan.jpg" group-title="Animados | Variado",Balapan TV | Turquía (TR)
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
@@ -132,10 +135,7 @@ https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nz5rtnqS/bemad.jpg" group-title="Animados | Variado",Be Mad (ES)
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zwLG1Dy/bigcine.jpg" group-title="Animados | Variado",BigCine (CO)
-https://ssh101.bozztv.com/ssh101/canalonline/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JntjRHcx/bigtv.jpg" group-title="Animados | Variado",Big TV (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JntjRHcx/bigtv.jpg" group-title="Animados | Variado",Big Retro (CO)
 https://ssh101.bozztv.com/ssh101/bigchannel/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HnnRZs2F/bitme.jpg" group-title="Animados | Variado",Bitme (MX)
@@ -143,6 +143,8 @@ http://181.78.21.46:8000/play/a006
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HkqqLTcs/boing.jpg" group-title="Animados | Variado",Boing (ES)
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HkqqLTcs/boing.jpg" group-title="Animados | Variado",Boing | Opción 2 (ES)
+http://45.153.96.44:8000/play/a00y
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJhX9N4n/brat.jpg" group-title="Animados | Variado",Brat TV (ES)
 https://brat-samsung-us.amagi.tv/playlist.m3u8
@@ -212,6 +214,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7P5RCm34/CLAN.jpg" group-title="Animados | Variado",Clan (ES)
 https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7P5RCm34/CLAN.jpg" group-title="Animados | Variado",Clan | Opción 2 (ES)
+http://45.153.96.44:8000/play/a013
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7P5RCm34/CLAN.jpg" group-title="Animados | Variado",Clan (LATAM)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_1080.m3u8
 
@@ -243,6 +247,8 @@ https://vdochile.com:3317/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R07X3G4V/disneyes.jpg" group-title="Animados | Variado",Disney Channel | España (ES)
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R07X3G4V/disneyes.jpg" group-title="Animados | Variado",Disney Channel | España | Opción 2 (ES)
+http://45.153.96.44:8000/play/a00r
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CQxCrt7/disney.jpg" group-title="Animados | Variado",Disney Channel | Japón (JP)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4dTKwwwX/disney-junior.jpg" group-title="Animados | Variado",Disney | Junior | Japón (JP)
@@ -251,7 +257,10 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5LgW92w/diti2.jpg" group-title="Animados | Variado",Diti TV [NO 24/7] (AR)
 https://ssh101-fl.bozztv.com/ssh101/dititv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sXDGzV15/divinity.jpg" group-title="Animados | Variado",Divinity (ES)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HkLzmNwx/dkiss.jpg" group-title="Animados | Variado",DKISS (ES)
+http://45.153.96.44:8000/play/a014
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RM2y8qL/dmax2.jpg" group-title="Animados | Variado",DMAX (ES)
+http://45.153.96.44:8000/play/a00t
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T1WRCfqH/dreikotv.jpg" group-title="Animados | Variado",Dreiko TV (PA)
 https://cloudvideo.servers10.com:8081/8096/index.m3u8
@@ -269,11 +278,14 @@ https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FzGZ2JCz/energeek-radio.jpg" group-title="Animados | Variado",EnerGeek | Radio (CL)
 https://streaming-cl.sh1ny.space/memfs/75b105a4-2fd3-4538-a55c-480f3903a262.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bN1HjLRS/energy.jpg" group-title="Animados | Variado",Energy (ES)
+http://45.153.96.44:8000/play/a00x
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWBJ9Hqd/esr.jpg" group-title="Animados | Variado",ESR | eSports Network (US)
 https://eyeonesports.com/ES2RA-628g.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DwVrhXmS/estacionretro.jpg" group-title="Animados | Variado",Estación Retro (CO)
+https://ssh101.bozztv.com/ssh101/canalonline/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3YrRxQ3/Etc.jpg" group-title="Animados | Variado",ETC (CL)
 http://186.148.195.206:8000/play/a06q/index.m3u8
@@ -288,6 +300,9 @@ https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZHD1zZH/famyp.jpg" group-title="Animados | Variado",Famypanc TV (ES)
 https://panel.host-live.com:19360/8042/8042.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZYNvBzPg/factoria.jpg" group-title="Animados | Variado",FDF | Factoría de Ficción (ES)
+http://45.153.96.44:8000/play/a018
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2fnvqcd/film-sci.jpg" group-title="Animados | Variado",FilmRise | Sci-Fi (ES)
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=FilmRiseSciFiSpanish&ads.csid=zeus_es_filmrisescifispanish_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3689&ads.rakuten_streaming_id=9d559fca-cb04-4b3b-b4f6-24460a719b7d&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883026&ads.xumo_contentId=2701&ads.xumo_contentName=FilmRiseSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2701&ads.xumo_providerName=FilmRiseSpanish&ads.xumo_streamId=88883026
@@ -329,6 +344,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/631fb6be21b7440007b9f606/master.m3u
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtNX5gXC/ign.jpg" group-title="Animados | Variado",IGN 1 (US)
 https://ign-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzMnVTLZ/interc.jpg" group-title="Animados | Variado",Interconnect TV (CO)
+https://ssh101-fl.bozztv.com/ssh101/tv123456789/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/myn2MFL/invasiva.jpg" group-title="Animados | Variado",Invasiva [NO 24/7] (LATAM)
 https://tv.invasivamedia.com/hls/live.m3u8
@@ -448,8 +466,10 @@ https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L50q5Ht1/neox.jpg" group-title="Animados | Variado",Neox (ES)
 http://530064904438321376.ofd0120.xyz:80/play/XFGK5534286/MK335882968/321376.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L4cdLcxk/neox2.jpg" group-title="Animados | Variado",Neox | Opción 2 (ES)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L50q5Ht1/neox.jpg" group-title="Animados | Variado",Neox | Opción 2 (ES)
 http://902430986377321376.ofd0716.xyz:80/live/JC8L3TCSVE/GJrYUvREHSY/321376.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L4cdLcxk/neox2.jpg" group-title="Animados | Variado",Neox | Opción 2 (ES)
+http://45.153.96.44:8000/play/a01e
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vHf5pTQD/neoxtv.jpg" group-title="Animados | Variado",Neox TV (AR)
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
@@ -483,6 +503,9 @@ https://vsrv2.az-streamingserver.com:3255/live/palmartvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NGSQ0KzX/pantalla.jpg" group-title="Animados | Variado",Pantalla Clásica (EC)
 https://ssh101-fl.bozztv.com/ssh101/ecuadoralmundo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ryQrSNRX/paramount.jpg" group-title="Animados | Variado",Paramont Network (ES)
+http://45.153.96.44:8000/play/a00s
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C53q7pVD/pbskids.jpg" group-title="Animados | Variado",PBS | Kids (US)
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
@@ -579,6 +602,9 @@ https://videohd.live:19360/8016/8016.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0mWkh8R/telec2.jpg" group-title="Animados | Variado",Tele Clásica (LATAM)
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkvVYH5f/telem.jpg" group-title="Animados | Variado",Telemas (CR)
+https://mist01.homestream.fun/hls/telemas/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsL3Sb7D/telemundo1.jpg" group-title="Animados | Variado",Telemundo | Florida (US)
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J01BFggB/telemundo1.jpg" group-title="Animados | Variado",Telemundo (US)
@@ -586,6 +612,9 @@ https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdzvqF07/punto2.jpg" group-title="Animados | Variado",Telemundo | Punto 2 | Puerto Rico (PR)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfMNyDd8/ten.jpg" group-title="Animados | Variado",Ten (ES)
+http://45.153.96.44:8000/play/a012
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFKwJ7bs/tigue.jpg" group-title="Animados | Variado",Tigueritos (LATAM)
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
@@ -803,6 +832,9 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/strea
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRpKCV42/discovery-channel.jpg" group-title="Ciencia | Cultura 🪐",Discovery Channel (US)
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/50m8HB0v/discovery-science2.jpg" group-title="Ciencia | Cultura 🪐",Discovery | Science (US)
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnD9Pn6b/divinity.jpg" group-title="Ciencia | Cultura 🪐",Divinity (ES)
+http://45.153.96.44:8000/play/a019
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sf6K9975/dvc.jpg" group-title="Ciencia | Cultura 🪐",DVC Television (CL)
 https://us.streaminghd.cl/dvctelevision/index.m3u8
@@ -1416,6 +1448,9 @@ http://190.102.139.140:8000/play/a00b
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZK5WWDzb/Gol-pe.jpg" group-title="Deportes | Aventura",Golperu | Opción 3 (PE)
 http://177.53.155.236:8000/play/a00t/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/054ZxvkB/golp.jpg" group-title="Deportes | Aventura",Gol Play (ES)
+http://45.153.96.44:8000/play/a00u
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCVZnLD0/GOUSA.jpg" group-title="Deportes | Aventura",Go USA | 2 (US)
 https://jmp2.uk/Plex/643054b1fc3be59477853717-60a9d105d162b9002d05a60c.m3u8
 
@@ -1482,7 +1517,7 @@ http://ares.mnet.mk/hls/mnet-sport.m3u8
 https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvNJH9D0/megasp.jpg" group-title="Deportes | Aventura",Mega Sport (CR)
-https://vcp8.myplaytv.com:1936/masciclismo/masciclismo/chunklist_w9051651.m3u8
+https://vcp8.myplaytv.com:1936/masciclismo/masciclismo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WzdhX1vB/mons.jpg" group-title="Deportes | Aventura",Monster Jam | Plex (US)
 https://jmp2.uk/Plex/643054b1fc3be59477853717-6615885e1eabecf2c9d56495.m3u8
@@ -1654,6 +1689,9 @@ http://181.78.105.146:6060/play/a01d
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtD1qhFN/tdmas2.jpg" group-title="Deportes | Aventura",TD+ | 2 | Opción 2 (CR)
 http://204.157.251.250:8000/play/a06c/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FRvTJVdk/tdp.jpg" group-title="Deportes | Aventura",TDP | Todo Deporte (ES)
+http://45.153.96.44:8000/play/a01g
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T1y1NV25/teletrak.jpg" group-title="Deportes | Aventura",Teletrak (AR)
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
@@ -1694,6 +1732,27 @@ http://190.60.40.37:12500/play/a01f/index.m3u8
 http://38.41.8.1:8000/play/a02i
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXb8M9QK/tycsports.jpg" group-title="Deportes | Aventura",TyC Sports | Opción 3 (AR)
 http://190.102.139.140:8000/play/a041
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qv2vF62k/tyce.jpg" group-title="Deportes | Aventura",TyC Sports | 1 | Eventos (AR)
+https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qv2vF62k/tyce.jpg" group-title="Deportes | Aventura",TyC Sports | 2 | Eventos (AR)
+https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qv2vF62k/tyce.jpg" group-title="Deportes | Aventura",TyC Sports | 3 | Eventos (AR)
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qv2vF62k/tyce.jpg" group-title="Deportes | Aventura",TyC Sports | 4 | Eventos (AR)
+https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qv2vF62k/tyce.jpg" group-title="Deportes | Aventura",TyC Sports | 5 | Eventos (AR)
+https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qv2vF62k/tyce.jpg" group-title="Deportes | Aventura",TyC Sports | 6 | Eventos (AR)
+https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qv2vF62k/tyce.jpg" group-title="Deportes | Aventura",TyC Sports | 7 | Eventos (AR)
+https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qv2vF62k/tyce.jpg" group-title="Deportes | Aventura",TyC Sports | 8 | Eventos (AR)
+https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qv2vF62k/tyce.jpg" group-title="Deportes | Aventura",TyC Sports | 9 | Eventos (AR)
+https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qv2vF62k/tyce.jpg" group-title="Deportes | Aventura",TyC Sports | 10 | Eventos (AR)
+https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fbLVmRyb/tycp.jpg" group-title="Deportes | Aventura",TyC Sports | Play (AR)
 https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_14.m3u8
@@ -3186,6 +3245,9 @@ https://5c483b9d1019c.streamlock.net/8172/8172/chunklist_w341983832.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ09jDwJ/ultra.jpg" group-title="Música 🎼",Ultra TV | 92.5FM (MX)
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QfF0W0y/universal.jpg" group-title="Música 🎼",Universal | Radio Sistema (CR)
+https://vcp8.myplaytv.com:1936/meganetlab/meganetlab/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QVGhd637/urbanotv.jpg" group-title="Música 🎼",Urbano TV (CR)
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 
@@ -3324,15 +3386,15 @@ https://tv.streaming-chile.com:19360/8142/8142.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5WC5Ggn/a3cine.jpg" group-title="Películas | Series",A3 Cine (ES)
 http://181.119.86.68:8000/play/b010/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7cHMrW5/atre1.jpg" group-title="Películas | Series",A3 Series (ES)
+http://45.153.96.44:8000/play/a00z
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xjPYZcHL/a3series.jpg" group-title="Películas | Series",A3 Series | Internacional (ES)
-http://190.60.40.37:12500/play/a07k/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xjPYZcHL/a3series.jpg" group-title="Películas | Series",A3 Series | Internacional | Opción 2 (ES)
 http://45.4.85.212:58001/play/a00e
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xjPYZcHL/a3series.jpg" group-title="Películas | Series",A3 Series | Internacional | Opción 3 (ES)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xjPYZcHL/a3series.jpg" group-title="Películas | Series",A3 Series | Internacional | Opción 2 (ES)
 http://45.170.225.212:48001/play/a03s/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xjPYZcHL/a3series.jpg" group-title="Películas | Series",A3 Series | Internacional | Opción 4 (ES)
-http://38.41.8.1:8000/play/a00x
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfh3s6Ns/abcbr.jpg" group-title="Películas | Series",ABC Brasil (BR)
+https://5cf4a2c2512a2.streamlock.net/8256/8256/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fyyJXTMS/amc-tr.jpg" group-title="Películas | Series",AMC | Thrillers (US)
 https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
@@ -3368,22 +3430,20 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJxzyWWh/bbcd.jpg" group-title="Películas | Series",BBC | Drama (ES)
 https://fc1340aa56954f15a730a7c9ebee2771.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_BBCDrama/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=13&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3877&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=ab3f2599-9efa-48cf-aa52-50223ada66ad&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=988
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rFQSW-tPY/bigtime.jpg" group-title="Películas | Series",Big Time | Plex (LATAM)
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-6348969190b96ef5e0eb327a.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBpGp2jb/bemad.jpg" group-title="Películas | Series",Be Mad (ES)
+http://45.153.96.44:8000/play/a010
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VNxYcfYL/bizzarro-Movies.jpg" group-title="Películas | Series",Bizzarro Movies (IT)
 https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hvBLJyNH/bom.jpg" group-title="Películas | Series",Bom Cine (ES)
+http://45.153.96.44:8000/play/a017
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8F6m1Bp/butaca.jpg" group-title="Películas | Series",Butaca TV | Plex (LATAM)
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-64f0dad7c2bc9b9001d46ea8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdJj4y2F/c1cine.jpg" group-title="Películas | Series",C1 | Cinema One | Filipinas (PH)
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjbnBNjj/calle13.jpg" group-title="Películas | Series",Calle 13 (ES)
-https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/2100586
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjbnBNjj/calle13.jpg" group-title="Películas | Series",Calle 13 | Opción 2 (ES)
-http://383055414344321140.ofgh525.xyz:80/live/XFAA66348891/996734581665/321140.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1sjLZ4L/canalclaro.jpg" group-title="Películas | Series",Canal Claro (LATAM)
 http://45.5.117.182:8000/play/a0e6/index.m3u8
@@ -3415,12 +3475,14 @@ https://amg01768-flou-flou-canelatv-yri41.amagi.tv/playlist/amg01768-flou-flou-c
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vTgRkVX6/canela-h.jpg" group-title="Películas | Series",Canela TV | Horror (LATAM)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WtLCQzPZ/canela-nar.jpg" group-title="Películas | Series",Canela TV | Narco-Drama (LATAM)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11099
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rmQs8KBR/canelnv1.jpg" group-title="Películas | Series",Canela TV | Novelas (LATAM)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CMz7qk3r/canela-nov.jpg" group-title="Películas | Series",Canela TV | Novelas Inolvidables (LATAM)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5550
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sxYW9VqV/canelnv.jpg" group-title="Películas | Series",Canela TV | Novelas Turcas (LATAM)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4NR5m13T/canelti.jpg" group-title="Películas | Series",Canela TV | Tierra de Amor y Venganza (LATAM)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1080
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fbk5D9t1/canelto.jpg" group-title="Películas | Series",Canela TV | Todo Cine (LATAM)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vZh51ZwM/canelcr.jpg" group-title="Películas | Series",Canela TV | True Crimen (LATAM)
@@ -3428,9 +3490,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjcJRssh/ch.jpg" group-title="Películas | Series",Chile Visual | Clásicos (CL)
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SNGNWLDN/ch-f.jpg" group-title="Películas | Series",Chile Visual | Film (CL)
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdJg2yYX/cinear.jpg" group-title="Películas | Series",Cine AR (AR)
-https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XvDhzDzK/cineenes.jpg" group-title="Películas | Series",Cine en Español | Plex (LATAM)
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-64e6e46f27a915f9b5184e9a.m3u8
@@ -3448,26 +3507,16 @@ http://179.189.222.226:16123/play/ch52
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sfBKkyPg/cine-familiar.jpg" group-title="Películas | Series",Cine | Familiar | Opción 2 (LATAM)
 http://190.60.40.37:12500/play/CINEFAMILIAR/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sfBKkyPg/cine-familiar.jpg" group-title="Películas | Series",Cine | Familiar | Opción 3 (LATAM)
-http://181.78.64.71:16123/play/ch52
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sfBKkyPg/cine-familiar.jpg" group-title="Películas | Series",Cine | Familiar | Opción 4 (LATAM)
 http://181.78.12.119:16123/play/ch52/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zxq2hKb/cine-hispano.jpg" group-title="Películas | Series",Cine | Hispano (LATAM)
 http://179.189.222.226:8000/play/ch51
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zxq2hKb/cine-hispano.jpg" group-title="Películas | Series",Cine | Hispano | Opción 2 (LATAM)
-http://181.78.8.90:16123/play/ch51
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zxq2hKb/cine-hispano.jpg" group-title="Películas | Series",Cine | Hispano | Opción 3 (LATAM)
 http://181.78.12.119:16123/play/ch51/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zxq2hKb/cine-hispano.jpg" group-title="Películas | Series",Cine | Hispano | Opción 4 (LATAM)
-http://181.78.64.71:16123/play/ch51
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wMvKprVd/cine-premium.jpg" group-title="Películas | Series",Cine | Premium (LATAM)
-http://181.78.64.71:16123/play/ch49
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMvKprVd/cine-premium.jpg" group-title="Películas | Series",Cine | Premium | Opción 2 (LATAM)
 http://179.189.222.226:16123/play/ch49
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMvKprVd/cine-premium.jpg" group-title="Películas | Series",Cine | Premium | Opción 3 (LATAM)
-http://181.78.8.90:16123/play/ch49
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMvKprVd/cine-premium.jpg" group-title="Películas | Series",Cine | Premium | Opción 4 (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMvKprVd/cine-premium.jpg" group-title="Películas | Series",Cine | Premium | Opción 2 (LATAM)
 http://181.78.12.119:16123/play/ch49/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtfHN8wc/cinema-az.jpg" group-title="Películas | Series",Cinema (MX)
@@ -3478,9 +3527,6 @@ https://minerva-cinemasegreto-1-it.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W33sTc8n/cinerama.jpg" group-title="Películas | Series",Cinerama (BO)
 https://5d00db0e0fcd5.streamlock.net/7062/7062/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nVk0Km4W/cinevault.jpg" group-title="Películas | Series",Cinevault (US)
-https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sfG7LPLK/concir.jpg" group-title="Películas | Series",Circle Country (US)
 https://circle-roku.amagi.tv/playlist.m3u8
@@ -3495,11 +3541,8 @@ https://bozztv.com/gusa/gusa-classiccinema/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4ypfp7ZJ/clover.jpg" group-title="Películas | Series",Clover Channel (LATAM)
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bb5kW5sN/crackle.jpg" group-title="Películas | Series",Crackle (US)
 http://crackle-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/26RqZnWY/cracklec.jpg" group-title="Películas | Series",Crackle | Classics (US)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-crackleclassic-vidaa/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zfsyrTm1/crime.jpg" group-title="Películas | Series",Crime Hunters (US)
 https://amg01201-cinedigmenterta-crimehunters-cineverse-cnqvb.amagi.tv/playlist/amg01201-cinedigmenterta-crimehunters-cineverse/playlist.m3u8
@@ -3538,14 +3581,8 @@ https://jmp2.uk/Plex/643054b1fc3be59477853717-618ab2f275913b296fbe56dd.m3u8
 http://181.78.105.146:6060/play/a00s
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HkysDXmz/Euro-Channel.jpg" group-title="Películas | Series",Euro Channel | Opción 2 (LATAM)
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zvN8rcJF/europa-europa.jpg" group-title="Películas | Series",Europa (LATAM)
 http://181.78.105.146:8800/play/a04v
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zvN8rcJF/europa-europa.jpg" group-title="Películas | Series",Europa | Opción 2 (LATAM)
-http://177.234.247.66:8888/play/a07r/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvwS4N6h/familyt.jpg" group-title="Películas | Series",Family Time (US)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3084
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9F2KpT2d/films2.jpg" group-title="Películas | Series",Film Stream (US)
 https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8
@@ -3571,18 +3608,11 @@ https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCFFhRxk/galxy.jpg" group-title="Películas | Series",Galxy TV (US)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4277
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCFFhRxk/galxy.jpg" group-title="Películas | Series",Galxy TV | 2 (US)
 https://jmp2.uk/Plex/643054b1fc3be59477853717-621672e42c2627c068e73ad8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bNck96Ff/gle.jpg" group-title="Películas | Series",Glewed TV | Plex (US)
 https://jmp2.uk/Plex/643054b1fc3be59477853717-5eea605474085f0040ddc76d.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPLTRfgJ/gos.jpg" group-title="Películas | Series",Go See Westerns (US)
-https://cdn44.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/GoSeeWesterns_VIDAA/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKFVsp21/gradre.jpg" group-title="Películas | Series",Gravitas | Adrenaline | Plex (EU)
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-629141f6a0ed9c2b6ae63bb0.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mDznjKJG/gra.jpg" group-title="Películas | Series",Gravitas | Movies | Plex (EU)
 https://gravitas-movies-eu.vidaa.wurl.tv/playlist.m3u8
 
@@ -3600,14 +3630,8 @@ https://fl2.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Zn57FgDp/hiyah.jpg" group-title="Películas | Series",Hi-Yah! (CN)
 https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/26jbV8RH/hor.jpg" group-title="Películas | Series",Horror TV (US)
-https://horror-tv-vivalive.evrideo.tv/ccccf7f5-d10c-46b1-bd10-fdd3a184a958_1000014577_HLS/video_720p_1000014572.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xj6m0NZq/kalika.jpg" group-title="Películas | Series",Kalika TV | Nelpal (NP)
-http://185.105.4.244:1935/livesp/kalika/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLmZnH60/lacorriente.jpg" group-title="Películas | Series",La Corriente (LATAM)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=499
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dw7X7Wt6/latinatvi.jpg" group-title="Películas | Series",Latina TV | Internacional (LATAM)
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J47Mdqdh/lena.jpg" group-title="Películas | Series",Lena Radio TV | 3D (RD)
 https://5790d294af2dc.streamlock.net/lenaradiotv/lenaradiotv/playlist.m3u8
@@ -3620,8 +3644,8 @@ https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5N0GzSJq/red-ma.jpg" group-title="Películas | Series",Made in Hollywood | Powered by Movie Fone TV | 2 (US)
 https://jmp2.uk/Plex/643054b1fc3be59477853717-60db63d29ec966002c9ea6f0.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkKbPj4c/mav.jpg" group-title="Películas | Series",Maverick Black Cinema | Plex (EU)
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c4430.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DyXV3BT1/megaes.jpg" group-title="Películas | Series",Mega (ES)
+http://45.153.96.44:8000/play/a00v
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFd4sLf1/megatv2.jpg" group-title="Películas | Series",Mega TV (RD)
 https://vdo1.streamgato.us:3711/live/megatvlive.m3u8
@@ -3645,11 +3669,8 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xjsFL2gV/mytime.jpg" group-title="Películas | Series",My Time Movie Network (US)
 https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MHhKrNFq/Netmax.jpg" group-title="Películas | Series",Netmax TV (US)
-http://live.netmaxtv.com:8080/live/live/chunklist_w1439240750.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hs73VNbm/nova.jpg" group-title="Películas | Series",Nova Play (BR)
-https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w900580339.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKWMyqvk/nova3.jpg" group-title="Películas | Series",Nova (ES)
+http://45.153.96.44:8000/play/a01f
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tT0dNYXC/novelisima.jpg" group-title="Películas | Series",Novelisima (LATAM)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
@@ -3660,7 +3681,7 @@ https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
 https://marine2.miplay.cl/old/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bJ1LyZYW/orbit.jpg" group-title="Películas | Series",Orbit (RD)
-https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1755105702.m3u8
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0WR8YCN/ORIGEN-2.jpg" group-title="Películas | Series",Origen TV (CL)
 https://tv.streaming-chile.com:8081/origentvsd/index.m3u8
@@ -3668,14 +3689,9 @@ https://tv.streaming-chile.com:8081/origentvsd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wx2hrxDz/oro.jpg" group-title="Películas | Series",Oro TV | Plex (LATAM)
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-64f0db77c2bc9b9001d46eaa.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dw40LnCP/panc2.jpg" group-title="Películas | Series",Panc TV | Perú (PE)
-https://vidistream.ddns.net/hls/peru.play.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgRcwcnr/pasiones.jpg" group-title="Películas | Series",Pasiones (LATAM)
 http://45.5.117.182:8000/play/a0jw/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgRcwcnr/pasiones.jpg" group-title="Películas | Series",Pasiones | Opción 2 (LATAM)
-http://190.61.55.186:1010/play/a02e/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgRcwcnr/pasiones.jpg" group-title="Películas | Series",Pasiones | Opción 3 (LATAM)
 http://179.189.222.226:8000/play/ch35
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxH0DJz0/pelim.jpg" group-title="Películas | Series",Pelimex (MX)
@@ -3703,16 +3719,12 @@ https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8
 https://dff4f1e3eeda41eeace54282fe06fc05.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_Crimen/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4783&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=f11f9d1f-06f9-40a1-be89-53b7f4f63e3d&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1493
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RhrDHGcF/rakuten-d.jpg" group-title="Películas | Series",Rakuten TV | Drama (ES)
 https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=drama-rakuten-tv_es&ads.rtv_content_id=6092&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=c068be97-073c-4f5d-8557-87be983e5aad&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6092&publishing_platform_id=5
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhrDHGcF/rakuten-d.jpg" group-title="Películas | Series",Rakuten TV | Drama (US)
-https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mkjxxDpR/rakuten-p.jpg" group-title="Películas | Series",Rakuten TV | Pelis Top (ES)
 https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=top-movies-rakuten-tv_es&ads.rtv_content_id=5983&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=1c8485c6-b7fc-4a3d-8a0a-ce2702b80022&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=5983&publishing_platform_id=5
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCYZy3gp/ra-r.jpg" group-title="Películas | Series",Rakuten TV | Romance (UK)
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1561zV1M/rakuten-ro.jpg" group-title="Películas | Series",Rakuten TV | Romántico (ES)
 https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=romance-rakuten-tv_es&ads.rtv_content_id=6105&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=fed5528a-123a-4065-996d-ba08f0ee217b&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6105&publishing_platform_id=5
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1561zV1M/rakuten-ro.jpg" group-title="Películas | Series",Rakuten TV | Romántico (US)
-https://2d8524e2966d4b348b210ec79bdaa943.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenRomance/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3289&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=fcfef17e-5fb1-4698-8bb1-4b1373a7e302&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=890
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C1ypH14Z/rakuten-thrillers.jpg" group-title="Películas | Series",Rakuten TV | Thrillers (US)
 https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenThriller/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m2JcrPcM/ra-t.jpg" group-title="Películas | Series",Rakuten TV | Top Movies (ES)
@@ -3724,8 +3736,6 @@ https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RhKcJ0dH/red-co.jpg" group-title="Películas | Series",Redbox | Comedy (US)
 https://comedy-redbox.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmRSpRV3/red-sh.jpg" group-title="Películas | Series",Redbox | Shout! TV (US)
-https://shoutfactory-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-shoutfactorytv/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4xHSL4mY/red-sp.jpg" group-title="Películas | Series",Redbox | Spotlight (US)
 https://spotlight-redbox.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gkT7HLk9/red-ro.jpg" group-title="Películas | Series",Redbox | Rush (US)
@@ -3755,8 +3765,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3053
 https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2ypQJPxF/run-comedia.jpg" group-title="Películas | Series",Runtime | Comedia (ES)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3057
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/2ypQJPxF/run-comedia.jpg" group-title="Películas | Series",Runtime | Comedia | Opción 2 (ES)
 https://run-rc-es.otteravision.com/run/rc_es/rc_es.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2ypQJPxF/run-comedia.jpg" group-title="Películas | Series",Runtime | Comedia (LATAM)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
@@ -3775,16 +3783,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3056
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCz4Y6yp/run-romance1.jpg" group-title="Películas | Series",Runtime | Romance | Opción 2 (ES)
 https://run-rr-es.otteravision.com/run/rr_es/rr_es.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCz4Y6yp/run-romance1.jpg" group-title="Películas | Series",Runtime | Romance (LATAM)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3532
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnKqyT3b/run-terror.jpg" group-title="Películas | Series",Runtime | Thriller y Terror (ES)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3054
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnKqyT3b/run-terror.jpg" group-title="Películas | Series",Runtime | Thriller y Terror | Opción 2  (ES)
 https://run-th-es.otteravision.com/run/th_es/th_es.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/15VpX7wg/screambox2.jpg" group-title="Películas | Series",Scream Box TV (US)
-https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6pHYrgjD/she.jpg" group-title="Películas | Series",Shemaroo | Bollywood | Plex (US)
 https://jmp2.uk/Plex/643054b1fc3be59477853717-62d1a58e520656fda09e609d.m3u8
@@ -3800,10 +3801,6 @@ https://stormcast-novelas-2-es.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C1tctg0x/stirr-ar.jpg" group-title="Películas | Series",Stirr | Archive (US)
 https://dai.google.com/linear/hls/event/MdbYPXWRStmMq1DaQhsBUw/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qts7dYqJ/stirr-ci.jpg" group-title="Películas | Series",Stirr | City (US)
-https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFjhk5fC/mid.jpg" group-title="Películas | Series",Stirr | Midnight Pulp (US)
-https://dai.google.com/linear/hls/event/1fO2zbpBRyy6S5yve_fnaw/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MpVnwJCJ/tve-star.jpg" group-title="Películas | Series",Star | TVE (LATAM)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
@@ -3814,12 +3811,6 @@ http://45.5.117.182:8000/play/a0fu/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xd8kG0Sm/terror.jpg" group-title="Películas | Series",Terror TV (CL)
 https://tv.streaming-chile.com:19360/8140/8140.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cQmS7vF/dz.jpg" group-title="Películas | Series",The Dark Zone (US)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4274
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fT1kfqg0/th.jpg" group-title="Películas | Series",Thikrayat TV | Arabia (SA)
-https://edge.taghtia.com/sa/3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zhksyV3/preview.jpg" group-title="Películas | Series",The Preview Channel | Plex (US)
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-608083444363b700366942df.m3u8
@@ -3877,24 +3868,8 @@ https://live.obslivestream.com/uraniotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yNM54d98/videoclub.jpg" group-title="Películas | Series",Video Club (AR)
 https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DwjVwX70/vix-amor.jpg" group-title="Películas | Series",Vix | Amor Bravío (MX)
-https://linear-478.frequency.stream/478/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXFpP9wX/v-co.jpg" group-title="Películas | Series",Vix | Cocina TV (MX)
-https://linear-317.frequency.stream/317/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hG6MtJzt/vix-ja2.jpg" group-title="Películas | Series",Vix | Jajaja (MX)
-https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tWnS991/vix-lafuerza.jpg" group-title="Películas | Series",Vix | La Fuerza del Destino (MX)
-https://linear-480.frequency.stream/480/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fzz3hz71/v-pa.jpg" group-title="Películas | Series",Vix | Parejas (MX)
-https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QMz8RyYM/amc-ab.jpg" group-title="Películas | Series",WE TV | Absolute Reality (LATAM)
 https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FPBJdLB/wt.jpg" group-title="Películas | Series",WTV (PE)
-https://live.obslivestream.com/wtv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wM2dzk20/wu.jpg" group-title="Películas | Series",Wu Tang | Collection (US)
 https://jmp2.uk/Plex/643054b1fc3be59477853717-5eea605474085f0040ddc770.m3u8
@@ -3907,10 +3882,6 @@ https://jmp2.uk/Plex/643054b1fc3be59477853717-5eea605474085f0040ddc770.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3xkBJ0RQ/xtrema-latino.jpg" group-title="Películas | Series",Xtrema | Cine Latino (LATAM)
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtH6YjJ9/xtrema-suspenso.jpg" group-title="Películas | Series",Xtrema | Cine Suspenso (LATAM)
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYY0F4vw/xtrema-terror.jpg" group-title="Películas | Series",Xtrema | Cine Terror (LATAM)
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DzT0qXGK/xw.jpg" group-title="Películas | Series",Xumo | Westerns (US)
-https://dapdwco2fkcoa.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=88887620
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/02S6RQFh/orbi-pride.jpg" group-title="Premium | Latino",Órbita by GUILMONZERO | AVISO
 https://i.postimg.cc/7PsSQYBQ/orbitapremium.jpg
@@ -11032,15 +11003,12 @@ https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
 https://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HLmSNW08/antena3-1.jpg" group-title="España",Antena 3 (ES)
-http://77.228.160.100:61800/play/a00a
-
+http://45.153.96.44:8000/play/a01c
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85396grk/antena3.jpg" group-title="España",Antena 3 | Internacional (ES)
-http://181.78.8.90:16123/play/ch12a
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/85396grk/antena3.jpg" group-title="España",Antena 3 | Internacional | Opción 2 (ES)
-http://190.95.220.212:8000/play/a027/index.m3u8
+http://200.59.188.3:8000/play/a0f3
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VsrcMJDK/apunt.jpg" group-title="España",À Punt​​​ | Valencia (ES)
-https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/profile_1/chunklist_dvr.m3u8
+http://45.153.96.44:8000/play/a015
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DfHnYrSV/ARAGON.jpg" group-title="España",Aragon TV (ES)
 http://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
@@ -11232,12 +11200,12 @@ https://streamingtvi.gestec-video.com/hls/tvixa.m3u8
 https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZzzFrFy/cuatro.jpg" group-title="España",La Cuatro (ES)
-https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/2100551
+http://45.153.96.44:8000/play/a01b
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FRCttP8d/laotra.jpg" group-title="España",La Otra (ES)
 https://laotra-1-23-secure2.akamaized.net/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6TJZ3HZP/lasexta.jpg" group-title="España",La Sexta (ES)
-
+http://45.153.96.44:8000/play/a01d
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7sgqTmf/MARBELLA.jpg" group-title="España",M95 TV | Marbella (ES)
 https://limited2.todostreaming.es/live/m95-livestream.m3u8
@@ -11342,7 +11310,7 @@ https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8
 https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LXDQj1Dv/telecinco.jpg" group-title="España",Telecinco (ES)
-http://77.228.160.100:61800/play/a00k
+http://45.153.96.44:8000/play/a01a
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJc01MMJ/teleexl.jpg" group-title="España",TeleElx (ES)
 https://tvdirecto.teleelx.es/stream/teleelx.m3u8
@@ -11379,6 +11347,8 @@ https://api.new.livestream.com/accounts/2614936/events/10365077/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QxStY9Zc/trece.jpg" group-title="España",Trece (ES)
 https://live-edge-eu-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QxStY9Zc/trece.jpg" group-title="España",Trece | Opción 2 (ES)
+http://45.153.96.44:8000/play/a00w
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HnvQJ0vX/tuya.jpg" group-title="España",Tuya TV (ES)
 https://cloudvideo.servers10.com:8081/8232/tracks-v1a1/mono.m3u8
