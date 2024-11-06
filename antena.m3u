@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTTG6ZZF/orbi1.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 05.11.24
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTTG6ZZF/orbi1.jpg" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 06.11.24
 https://pomf2.lain.la/f/oz93uuxg.mp4
 
 #EXTINF:-1 tvg-id="cine-navideno" tvg-logo="https://i.postimg.cc/0jdQyLw8/pluto-nav.jpg" group-title="Animados | Variado",Pluto TV | Cine Navideño (US)
@@ -102,6 +102,9 @@ https://jmp2.uk/sam-KRBC40000010R.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vHHqskKs/animestation3.jpg" group-title="Animados | Variado",Anime Station (LATAM)
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vH279xCf/ani2.jpg" group-title="Animados | Variado",Ani (RU)
+http://31.148.48.15/Ani/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rmdD5VgS/anir.jpg" group-title="Animados | Variado",AniRetro (CL)
 https://tv.streaming-chile.com:19360/8068/8068.m3u8
@@ -251,10 +254,19 @@ https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:21_HD.smil/man
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CQxCrt7/disney.jpg" group-title="Animados | Variado",Disney Channel | ()
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4dTKwwwX/disney-junior.jpg" group-title="Animados | Variado",Disney | ()
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4gff87p/disneyjr.jpg" group-title="Animados | Variado",Disney | Junior (CA)
+https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pT24r19P/xd.jpg" group-title="Animados | Variado",Disney | XD (CA)
+https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5LgW92w/diti2.jpg" group-title="Animados | Variado",Diti TV [NO 24/7] (AR)
 https://ssh101-fl.bozztv.com/ssh101/dititv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HkLzmNwx/dkiss.jpg" group-title="Animados | Variado",DKISS (ES)
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnTvVq4z/dl-10.jpg" group-title="Animados | Variado",DLTV | 10 (TH)
+https://cdn-live.dltv.ac.th/dltv10.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3RM2y8qL/dmax2.jpg" group-title="Animados | Variado",DMAX (ES)
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BnxD7mzv/doo.jpg" group-title="Animados | Variado",Dodo TV (CL)
@@ -360,6 +372,9 @@ https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y6vGrTSZ/Iunior.jpg" group-title="Animados | Variado",Iunior TV (IT)
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xTsLDQ4/ja.jpg" group-title="Animados | Variado",Japanim TV (FR)
+https://foxkidstv.be:3369/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWRNfdy4/just2.jpg" group-title="Animados | Variado",Just for Laughs | Gags (UK)
 https://lte.wiseplayout.com/wisem3u8_9/master.m3u8
@@ -665,6 +680,9 @@ https://ssh101-fl.bozztv.com/ssh101/toonamitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mkCdzgh3/toonami.jpg" group-title="Animados | Variado",Toonami (US)
 https://adultswim-vodlive.cdn.turner.com/live/toonami/stream_de.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0N6pZXGf/toonamia.jpg" group-title="Animados | Variado",Toonami Aftermath (LATAM)
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9M4kfBSn/toong2.jpg" group-title="Animados | Variado",Toon Googles (ES)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4424
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnmyrTG1/toong3.jpg" group-title="Animados | Variado",Toon Googles (LATAM)
@@ -692,6 +710,9 @@ https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCkyvPV1/tvemplacilla2.jpg" group-title="Animados | Variado",TV En Placilla (CL)
 https://panel.tvstream.cl:1936/8038/8038/chunklist_w1110360145.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yDBWMpX/tvok.jpg" group-title="Animados | Variado",Tvo Kids (US)
+https://bcovlive-a.akamaihd.net/rf86f817779524249abf842af6d16f55f/us-east-1/15364602001/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W38R062x/tvs-fa.jpg" group-title="Animados | Variado",TVS | Family (US)
 https://bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8
@@ -744,6 +765,9 @@ https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRWWKryt/wowc.jpg" group-title="Animados | Variado",Wow | Movies (LATAM)
 https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmWrxqWS/xi.jpg" group-title="Animados | Variado",Xilam | Animation (FR)
+https://xilam-animation-1-fr.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QNJV6RfF/xtrema.jpg" group-title="Animados | Variado",Xtrema | Catálogo (AR)
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hjz85GVn/xtremecartoon.jpg" group-title="Animados | Variado",Xtrema | Cartoons (AR)
@@ -3937,6 +3961,9 @@ https://jmp2.uk/sam-ITBA33000238E.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5DkKBk2/cinems.jpg" group-title="Películas | Series",Cinema Segreto (IT)
 https://minerva-cinemasegreto-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwLMBp5Y/cinemamo.jpg" group-title="Películas | Series",Cine Mo! | Filipinas (PH)
+https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W33sTc8n/cinerama.jpg" group-title="Películas | Series",Cinerama (BO)
 https://5d00db0e0fcd5.streamlock.net/7062/7062/.m3u8
@@ -14003,8 +14030,92 @@ http://186.148.195.206:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wBdW62SH/vpi2.jpg" group-title="Venezuela",VPI TV (VE)
 https://edge.streann.com/vpi1/vpi1/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJpcCI6IjE4Ni4zMi41Ni42NiIsImV4cCI6MTcyMjkzNzU0MSwicmlkIjoiNWQyM2IxY2UyY2RjZTYxZGFlMDI5ZjljIiwia2V5Ijoia2V5MSIsImNpZCI6IjVkMjNkNTg4MmNkY2U2MWRhZTAyOWZkOCJ9.QYMt6mXcV9gfkpPAHX-sHUvSPkOdOdOucUKZyw-FEJ8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrCqStCc/altv.jpg" group-title="Tailandia",ALTV | 4 (TH)
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fycVDsdZ/amarin.jpg" group-title="Tailandia",Amarin TV | 34 (TH)
+http://appdootv2.dootvde.com:1935/live/50025_amarin_tv_hd.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGQx6H24/news1.jpg" group-title="Tailandia",ASTV | News 1 (TH)
+http://news1.live14.com/stream/news1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/q7mjLXh2/ch3.jpg" group-title="Tailandia",Channel | 03 (TH)
+http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6pP8f86y/ch5.jpg" group-title="Tailandia",Channel | 05 (TH)
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bv8MmPxy/ch7.jpg" group-title="Tailandia",Channel | 07 (TH)
+http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Y95WB9G/ch13.jpg" group-title="Tailandia",Channel | 13 | Siam (TH)
+https://live.x2.co.th/live/13livetv-th.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJyWw5df/dl-01.jpg" group-title="Tailandia",DLTV | 01 (TH)
+https://cdn-live.dltv.ac.th/dltv01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hV0k2mL/dl-02.jpg" group-title="Tailandia",DLTV | 02 (TH)
+https://cdn-live.dltv.ac.th/dltv02.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c1MQYp0N/dl-03.jpg" group-title="Tailandia",DLTV | 03 (TH)
+https://cdn-live.dltv.ac.th/dltv03.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTfLP61N/dl-04.jpg" group-title="Tailandia",DLTV | 04 (TH)
+https://cdn-live.dltv.ac.th/dltv04.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hP2TZVXy/dl-05.jpg" group-title="Tailandia",DLTV | 05 (TH)
+https://cdn-live.dltv.ac.th/dltv05.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Mp4Rqxb1/dl-06.jpg" group-title="Tailandia",DLTV | 06 (TH)
+https://cdn-live.dltv.ac.th/dltv06.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wvGw6nV/dl-07.jpg" group-title="Tailandia",DLTV | 07 (TH)
+https://cdn-live.dltv.ac.th/dltv07.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4dR9H50d/dl-08.jpg" group-title="Tailandia",DLTV | 08 (TH)
+https://cdn-live.dltv.ac.th/dltv08.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NM8r6Xhx/dl-09.jpg" group-title="Tailandia",DLTV | 09 (TH)
+https://cdn-live.dltv.ac.th/dltv09.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnTvVq4z/dl-10.jpg" group-title="Tailandia",DLTV | 10 (TH)
+https://cdn-live.dltv.ac.th/dltv10.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gtq8N1m8/dl-11.jpg" group-title="Tailandia",DLTV | 11 (TH)
+https://cdn-live.dltv.ac.th/dltv11.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J7qktj5r/dl-12.jpg" group-title="Tailandia",DLTV | 12 (TH)
+https://cdn-live.dltv.ac.th/dltv12.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqCmFjd1/dl-13.jpg" group-title="Tailandia",DLTV | 13 (TH)
+https://cdn-live.dltv.ac.th/dltv13.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QxYKJszv/dl-14.jpg" group-title="Tailandia",DLTV | 14 (TH)
+https://cdn-live.dltv.ac.th/dltv14.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkSr7pQv/dl-15.jpg" group-title="Tailandia",DLTV | 15 (TH)
+https://cdn-live.dltv.ac.th/dltv15.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RVNTGBSb/dop.jpg" group-title="Tailandia",Dopa Channel (TH)
+http://dopachannel.truegse.com/live/dopatv03.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YVZPm53/esan.jpg" group-title="Tailandia",Esan TV (TH)
+https://psiiptv-b.sky-cdn.com/ttd20-playlist/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pr1CHDMK/good.jpg" group-title="Tailandia",Good Idea TV (TH)
+http://stream1.ai-net.net:1935/gtv1/_definst_/smil:gtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WbmrgB4x/mcot.jpg" group-title="Tailandia",MCOT | 30 (TH)
+https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y6SKWBNX/na.jpg" group-title="Tailandia",Nation TV (TH)
+https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMqwYqSw-/su.jpg" group-title="Tailandia",Suwannabhumi Channel (TH)
+https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YjKg13dG/thaipbs3.jpg" group-title="Tailandia",Thai PBS 3 (TH)
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YjKg13dG/thaipbs3.jpg" group-title="Tailandia",Thai PBS 3 (TH)
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9R2Xjp8/tvbthai.jpg" group-title="Tailandia",TVB Thai (TH)
+https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtshFmbn/whitec.jpg" group-title="Tailandia",White Channel (TH)
+http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0KQBFV4/zabb.jpg" group-title="Tailandia",Zabb Channel (TH)
+https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k5H73hzJ/3tamil.jpg" group-title="Mas Señales",3 Tamil TV | Australia | India (IN)
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8jvCYrv/tv5f.jpg" group-title="Mas Señales",5 | Filipinas (PH)
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RVPtVcsM/al1.jpg" group-title="Mas Señales",Al Araby | Catar (QA)
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
@@ -14118,6 +14229,9 @@ https://edge17.vedge.infomaniak.com/livecast/ik:lfmmd/chunklist_w1677940429_b800
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KjwJNmgS/mntv2.jpg" group-title="Mas Señales",MNTV | Channel | India (IN)
 https://mntv.livebox.co.in/mntvhls/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVV3HBrV/myx.jpg" group-title="Mas Señales",MYX | Filipinas (PH)
+https://myxnola-abscbn-ono.amagi.tv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nrdWJgDK/myzentv.jpg" group-title="Mas Señales",My Zen TV (IT)
 https://str81.creacast.com/myzentv/myzentv.smil/.m3u8
 
@@ -14192,35 +14306,20 @@ https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/chunkli
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTTYV5Cv/supertv-IT.jpg" group-title="Mas Señales",Super TV (IT)
 http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMqwYqSw-/su.jpg" group-title="Mas Señales",Suwannabhumi Channel | Tailandia (TH)
-https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6Q7mWxX2/osem.jpg" group-title="Mas Señales",Televízia Osem | Eslovaquia (SK)
 http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYckpBDN/tv4.jpg" group-title="Mas Señales",TG4 | Irlanda (IE)
 https://d3eq0jseza7fm5.cloudfront.net/tg4_vod_3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YjKg13dG/thaipbs3.jpg" group-title="Mas Señales",Thai PBS 3 | Tailandia (TH)
-http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QN4W6MCd/tfc.jpg" group-title="Mas Señales",TFC | The Filipino Channel (PH)
 https://tfcguam-abscbn-ono.amagi.tv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9R2Xjp8/tvbthai.jpg" group-title="Mas Señales",TVB Thai | Tailandia (TH)
-https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4y218SZt/marti.jpg" group-title="Mas Señales",TV Martí | Cuba (CU)
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist_1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hth9pk1p/vaanavil.jpg" group-title="Mas Señales",Vaanavil TV | India (IN)
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtshFmbn/whitec.jpg" group-title="Mas Señales",White Channel | Tailandia (TH)
-http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0KQBFV4/zabb.jpg" group-title="Mas Señales",Zabb Channel | Tailandia (TH)
-https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x1DKfC69/z3.jpg" group-title="Mas Señales",Zhejiang | Economic Lifestyle (CN)
 http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8
