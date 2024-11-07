@@ -472,6 +472,9 @@ https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6qSKDhPG/morbidotv.jpg" group-title="Animados | Variado",Mórbido TV (LATAM)
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/453507
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PfByWHvH/mrbeast.jpg" group-title="Animados | Variado",Mr Beast (US)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Mr-Beast.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kMVQ97WX/mtvus.jpg" group-title="Animados | Variado",MTV (US)
 https://fl2.moveonjoy.com/MTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fTh7cKCW/mtv2.jpg" group-title="Animados | Variado",MTV | 2 (US)
