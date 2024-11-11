@@ -680,11 +680,6 @@ https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nhtyXWBn/tiny.jpg" group-title="Animados | Variado",Tiny POP (UK)
 https://jmp2.uk/sam-GBBD3200003T6.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkCdzgh3/toonami.jpg" group-title="Animados | Variado",Toonami (LATAM)
-https://ssh101-fl.bozztv.com/ssh101/toonamitv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkCdzgh3/toonami.jpg" group-title="Animados | Variado",Toonami (US)
-https://adultswim-vodlive.cdn.turner.com/live/toonami/stream_de.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0N6pZXGf/toonamia.jpg" group-title="Animados | Variado",Toonami Aftermath (LATAM)
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 
@@ -733,10 +728,13 @@ https://stmv5.voxtvhd.com.br/tvytv/tvytv/chunklist_w2038239014.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZYfjWdCT/unimas.jpg" group-title="Animados | Variado",Unimás (US)
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=hd&.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1RYB2ytx/univers2.jpg" group-title="Animados | Variado",Universo (US)
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/199524
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zSFgjW5/univisio2.jpg" group-title="Animados | Variado",Univision (US)
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zSFgjW5/univisio2.jpg" group-title="Animados | Variado",Univision | Opción 2 (US)
 http://45.5.117.182:8000/play/a2jq/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zSFgjW5/univisio2.jpg" group-title="Animados | Variado",Univision | Miami | Opción 3 (US)
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53722
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fTg3C9fH/valle.jpg" group-title="Animados | Variado",Valle Nuevo TV (RD)
 https://5790d294af2dc.streamlock.net/vallenuevotv/vallenuevotv/playlist.m3u8
@@ -5405,6 +5403,7 @@ https://rightsboosterltd-cops-1-eu.plex.wurl.tv/2000.m3u8
 https://jmp2.uk/Plex/643054b1fc3be59477853717-626c1753ffda6789d20a452e.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xdpFn92w/corage.jpg" group-title="Mas Series 🧟",Coraje (LATAM)
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/107974
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L4PqNcC3/cr.jpg" group-title="Mas Series 🧟",Crime | 24/7 (US)
 https://jmp2.uk/sam-USAK3508703A.m3u8
@@ -5440,6 +5439,7 @@ https://jmp2.uk/sam-USBD700010XU.m3u8
 https://jmp2.uk/sam-GBBD1100011V3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgXJW92y/digimon.jpg" group-title="Mas Series 🧟",Digimon Adventure (LATAM)
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/177328
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MHYrcbTz/dino.jpg" group-title="Mas Series 🧟",Dinosaurios (LATAM)
 
@@ -5496,7 +5496,7 @@ https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-621674f168c966be92737ce6.m3u8
 https://jmp2.uk/sam-ESBA3300033PL.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZdS3Yx8/elrprincipe.jpg" group-title="Mas Series 🧟",El Principe del Rap (LATAM)
-
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/51346
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YSDWC1rQ/enter.jpg" group-title="Mas Series 🧟",Entertainment Hub (UK)
 https://jmp2.uk/sam-GBBC2300003ZQ.m3u8
@@ -5556,6 +5556,9 @@ https://jmp2.uk/sam-USBB2900003O3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5sb4yVg/hell.jpg" group-title="Mas Series 🧟",Hell's Kitchen (US)
 https://jmp2.uk/sam-USBB2900002Z7.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Y5hqWNz/heman.jpg" group-title="Mas Series 🧟",He Man y los Masters del Universo (LATAM)
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/169806
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N08QNtVF/high.jpg" group-title="Mas Series 🧟",Highway Thru Hell | Powered by Banijay (UK)
 https://jmp2.uk/sam-GB500001HY.m3u8
@@ -5800,7 +5803,7 @@ https://daiconnect.com/live/hls/tvup/tvfy-pocoyo/.m3u8
 https://jmp2.uk/sam-GBBD2500002QC.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MK53YDYB/poke.jpg" group-title="Mas Series 🧟",Pokémon (LATAM)
-
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/169812
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/28RKszJf/por.jpg" group-title="Mas Series 🧟",Portlandia (US)
 https://jmp2.uk/sam-USBD12000038K.m3u8
 
@@ -11180,6 +11183,8 @@ https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FKpN9Bt8/teletica1.jpg" group-title="Costa Rica 🇨🇷",Canal 7 | Teletica (CR)
 https://acceso.radiosportstv.online:3203/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKpN9Bt8/teletica1.jpg" group-title="Costa Rica 🇨🇷",Canal 7 | Teletica | Opción 2 (CR)
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/177391
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqhQ97RX/8cr.jpg" group-title="Costa Rica 🇨🇷",Canal 8 | Multimedios (CR)
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
