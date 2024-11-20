@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTTG6ZZF/orbi1.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 18.11.24
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTTG6ZZF/orbi1.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 20.11.24
 https://pomf2.lain.la/f/oz93uuxg.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4dMJ98YG/rakuten-na.jpg" tvg-chno="02" group-title="Animados | Variado",Rakuten TV | 100% Navidad (ES)
@@ -4533,9 +4533,9 @@ http://45.5.117.182:8000/play/a0es/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Fs0ZSStn/adultsw-im.jpg" group-title="Premium | Latino",Adult Swim | Opción 3 (LATAM)
 http://216.122.181.10:8081/play/a0ro/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Fs0ZSStn/adultsw-im.jpg" group-title="Premium | Latino",Adult Swim | Opción 4 (LATAM)
-http://190.60.49.244:4000/play/a078
+http://45.170.225.212:48001/play/a087/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Fs0ZSStn/adultsw-im.jpg" group-title="Premium | Latino",Adult Swim | Opción 5 (LATAM)
-http://190.242.41.219:9000/play/a0ai/index.m3u8
+http://200.52.148.194:8000/play/a03h/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/htK7TTqG/adultsw-imx.jpg" group-title="Premium | Latino",Adult Swim (MX)
 
 
@@ -6166,9 +6166,6 @@ https://archive.org/serve/zathura-a-space-adventure-.-2005.720p.bluray.x-264.aac
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tRsMmtfV/zo2.jpg" group-title="Mas Películas 🎃",Zoombieland | 2 | 2019 | Latino
 https://archive.org/serve/zombielandtirodegracia2019dvdriplatino/Zombieland%20Tiro%20de%20gracia%20%282019%29%20DVDRip%20Latino.mp4
 
-#EXTINF:-1 channel-id="64db2c974c5ed80008f68b6d" tvg-id="64db2c974c5ed80008f68b6d" tvg-logo="https://images.pluto.tv/channels/64db2c974c5ed80008f68b6d/colorLogoPNG.png" group-title="Pluto TV | España",MTV | EMA
-https://jmp2.uk/plu-64db2c974c5ed80008f68b6d.m3u8
-
 #EXTINF:-1 channel-id="66b0dfa1d512590008bfa7fd" tvg-id="66b0dfa1d512590008bfa7fd" tvg-logo="https://images.pluto.tv/channels/66b0dfa1d512590008bfa7fd/colorLogoPNG.png" group-title="Pluto TV | España",Gore & Slasher
 https://jmp2.uk/plu-66b0dfa1d512590008bfa7fd.m3u8
 
@@ -6824,8 +6821,6 @@ https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
 https://jmp2.uk/plu-638693db857364000781b471.m3u8
 #EXTINF:-1 channel-id="64510d3ad3fdde00080951f2" tvg-id="64510d3ad3fdde00080951f2" tvg-logo="https://images.pluto.tv/channels/64510d3ad3fdde00080951f2/colorLogoPNG.png" group-title="Pluto TV | Latino" ,MTV | Drag
 https://jmp2.uk/plu-64510d3ad3fdde00080951f2.m3u8
-#EXTINF:-1 channel-id="66d609c4abec540008b8ffcb" tvg-id="66d609c4abec540008b8ffcb" tvg-logo="https://images.pluto.tv/channels/66d609c4abec540008b8ffcb/colorLogoPNG.png" group-title="Pluto TV | Latino" ,MTV | EMA
-https://jmp2.uk/plu-66d609c4abec540008b8ffcb.m3u8
 #EXTINF:-1 channel-id="62b218fc511d4b00070ddc0c" tvg-id="62b218fc511d4b00070ddc0c" tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png" group-title="Pluto TV | Latino" ,MTV | Flow Latino
 https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
 #EXTINF:-1 channel-id="5de91b7ea86ee60009d89e75" tvg-id="5de91b7ea86ee60009d89e75" tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG.png" group-title="Pluto TV | Latino" ,MTV | Reality
@@ -7221,8 +7216,6 @@ https://jmp2.uk/plu-65410176770cf1000866bf31.m3u8
 https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
 #EXTINF:-1 channel-id="64f8a0c230ab3300084369b8" tvg-id="64f8a0c230ab3300084369b8" tvg-logo="https://images.pluto.tv/channels/64f8a0c230ab3300084369b8/colorLogoPNG.png" group-title="Pluto TV | Canada" ,MTV | Dating
 https://jmp2.uk/plu-64f8a0c230ab3300084369b8.m3u8
-#EXTINF:-1 channel-id="6512ebdcd1f20c0008682445" tvg-id="6512ebdcd1f20c0008682445" tvg-logo="https://images.pluto.tv/channels/6512ebdcd1f20c0008682445/colorLogoPNG.png" group-title="Pluto TV | Canada" ,MTV | EMA
-https://jmp2.uk/plu-6512ebdcd1f20c0008682445.m3u8
 #EXTINF:-1 channel-id="6686771cfd9eb200087b658e" tvg-id="6686771cfd9eb200087b658e" tvg-logo="https://images.pluto.tv/channels/6686771cfd9eb200087b658e/colorLogoPNG.png" group-title="Pluto TV | Canada" ,MTV | Flow Latino
 https://jmp2.uk/plu-6686771cfd9eb200087b658e.m3u8
 #EXTINF:-1 channel-id="65a6509e0c7ff50008ca34ab" tvg-id="65a6509e0c7ff50008ca34ab" tvg-logo="https://images.pluto.tv/channels/65a6509e0c7ff50008ca34ab/colorLogoPNG.png" group-title="Pluto TV | Canada" ,MTV | on Tour!
@@ -8399,8 +8392,6 @@ https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
 https://jmp2.uk/plu-61a528267e1b8b0007357920.m3u8
 #EXTINF:-1 channel-id="645111f1d8436e00081bb2bd" tvg-id="645111f1d8436e00081bb2bd" tvg-logo="https://images.pluto.tv/channels/645111f1d8436e00081bb2bd/colorLogoPNG.png" group-title="Pluto TV | Brasil" ,MTV | Drag
 https://jmp2.uk/plu-645111f1d8436e00081bb2bd.m3u8
-#EXTINF:-1 channel-id="66d60a1babec540008b8ffe6" tvg-id="66d60a1babec540008b8ffe6" tvg-logo="https://images.pluto.tv/channels/66d60a1babec540008b8ffe6/colorLogoPNG.png" group-title="Pluto TV | Brasil" ,MTV | EMA
-https://jmp2.uk/plu-66d60a1babec540008b8ffe6.m3u8
 #EXTINF:-1 channel-id="62b219eed88ef00007403c2c" tvg-id="62b219eed88ef00007403c2c" tvg-logo="https://images.pluto.tv/channels/62b219eed88ef00007403c2c/colorLogoPNG.png" group-title="Pluto TV | Brasil" ,MTV | Flow Latino
 https://jmp2.uk/plu-62b219eed88ef00007403c2c.m3u8
 #EXTINF:-1 channel-id="620fdc7d8a36fc000710e3ba" tvg-id="620fdc7d8a36fc000710e3ba" tvg-logo="https://images.pluto.tv/channels/620fdc7d8a36fc000710e3ba/colorLogoPNG.png" group-title="Pluto TV | Brasil" ,MTV | Jovens e Mães
@@ -8801,8 +8792,6 @@ https://jmp2.uk/plu-65a6939b4a10d800085cee92.m3u8
 https://jmp2.uk/plu-66866fc995e91900088768a5.m3u8
 #EXTINF:-1 channel-id="635bfb89b5cd9b0007ca9d63" tvg-id="635bfb89b5cd9b0007ca9d63" tvg-logo="https://images.pluto.tv/channels/635bfb89b5cd9b0007ca9d63/colorLogoPNG.png" group-title="Pluto TV | Gran Bretaña" ,MTV | Classic
 https://jmp2.uk/plu-635bfb89b5cd9b0007ca9d63.m3u8
-#EXTINF:-1 channel-id="64df50974c5ed80008fef851" tvg-id="64df50974c5ed80008fef851" tvg-logo="https://images.pluto.tv/channels/64df50974c5ed80008fef851/colorLogoPNG.png" group-title="Pluto TV | Gran Bretaña" ,MTV | EMA
-https://jmp2.uk/plu-64df50974c5ed80008fef851.m3u8
 #EXTINF:-1 channel-id="66866feae7b55d00086930c4" tvg-id="66866feae7b55d00086930c4" tvg-logo="https://images.pluto.tv/channels/66866feae7b55d00086930c4/colorLogoPNG.png" group-title="Pluto TV | Gran Bretaña" ,MTV | Flow Latino
 https://jmp2.uk/plu-66866feae7b55d00086930c4.m3u8
 #EXTINF:-1 channel-id="625eb3e245f5bc0007810046" tvg-id="625eb3e245f5bc0007810046" tvg-logo="https://images.pluto.tv/channels/625eb3e245f5bc0007810046/colorLogoPNG.png" group-title="Pluto TV | Gran Bretaña" ,MTV | Reality
@@ -14648,23 +14637,25 @@ https://pomf2.lain.la/f/celhlauf.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mkDW6zTg/guilp0.jpg" group-title="Pride Videos 🏳️‍🌈",[Pride Costa Rica 2017 ] Marcha del Orgullo LGBTIQ+
 https://pomf2.lain.la/f/pw5cmj0d.mp4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cvt4JSj/1.jpg" group-title="Youtube Recomendados 👾",@agusvitshorts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cvt4JSj/1.jpg" group-title="Youtube Recomendados 👾",@Agusvitshorts
 https://pomf2.lain.la/f/3o1f2ocn.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WpqWTKkT/2.jpg" group-title="Youtube Recomendados 👾",@Cheems9132
 https://pomf2.lain.la/f/frfvxtdw.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4p2d4m4/4.jpg" group-title="Youtube Recomendados 👾",@EduardoGonzalez-ws3isn
 https://pomf2.lain.la/f/isxxml1p.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4p2d4m4/4.jpg" group-title="Youtube Recomendados 👾",@FanMike21
+https://pomf2.lain.la/f/1gtpnit.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cLhTFGVM/5.jpg" group-title="Youtube Recomendados 👾",@FeryTiggy
 https://pomf2.lain.la/f/2wnz03mr.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VNNgTHwy/6.jpg" group-title="Youtube Recomendados 👾",@Gustyy_ARG
 https://pomf2.lain.la/f/3eugg8oy.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k46cM6Df/7.jpg" group-title="Youtube Recomendados 👾",@Leo_Arte_DIY
 https://pomf2.lain.la/f/80lyhypo.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLjcfq72/3.jpg" group-title="Youtube Recomendados 👾",@mattiaaaa23
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLjcfq72/3.jpg" group-title="Youtube Recomendados 👾",@Mattiaaaa23
 https://pomf2.lain.la/f/7zfw94ji.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/26sx1kZm/8.jpg" group-title="Youtube Recomendados 👾",@PEDROSALCHICHA1326
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26sx1kZm/8.jpg" group-title="Youtube Recomendados 👾",@Pedrosalchicha1326
 https://pomf2.lain.la/f/y4f4s6k.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMSckb05/9.jpg" group-title="Youtube Recomendados 👾",@PYTSCAYT
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMSckb05/9.jpg" group-title="Youtube Recomendados 👾",@Pytscayt
 https://pomf2.lain.la/f/x2aaguc3.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fThKZbsf/10.jpg" group-title="Youtube Recomendados 👾",@soyeldibujantejuan
 https://pomf2.lain.la/f/526uxlcn.mp4
