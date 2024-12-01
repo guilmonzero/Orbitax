@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/t4pDwvx/orbi1.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 30.11.24
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t4pDwvx/orbi1.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 01.12.24
 https://pomf2.lain.la/f/oz93uuxg.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4dMJ98YG/rakuten-na.jpg" tvg-chno="02" group-title="Animados | Variado",Rakuten TV | 100% Navidad (ES)
@@ -464,8 +464,8 @@ https://tv.streaming-chile.com:1936/enlacetv1/enlacetv1/chunklist_w139069546.m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CS712QJ/latinokids.jpg" group-title="Animados | Variado",Latino Kids (UY)
 https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4NxDqWZ/lego.jpg" group-title="Animados | Variado",Lego (US)
-https://jmp2.uk/plu-60fb01a24795a6000762fe83/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=65f7a3a9-1736-46bc-aaa5-7e4778774536&serverSideAds=false
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4NxDqWZ/lego.jpg" group-title="Animados | Variado",Lego (UK)
+https://jmp2.uk/sam-GBBC4300005AL.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Wbbkyv8k/loading.jpg" group-title="Animados | Variado",Loading (BR)
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
@@ -654,9 +654,6 @@ https://jmp2.uk/sam-USBD3300017XB.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NMMyfSC0/se-al.jpg" group-title="Animados | Variado",Señal 21 (CL)
 https://premium.tvcontrolcp.com:19360/8050/8050.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/65JWZwvr/solivetv.jpg" group-title="Animados | Variado",Solive TV (AR)
-https://stmv6.voxtvhd.com.br/solivetv/solivetv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QN6mz0bd/spacet.jpg" group-title="Animados | Variado",Space Toon (AE)
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 
@@ -787,9 +784,6 @@ http://45.5.117.182:8000/play/a2jq/index.m3u8
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53722
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zSFgjW5/univisio2.jpg" group-title="Animados | Variado",Univision | Opción 4 (US)
 http://tvmate.icu:8080/6025505794/osmanmata@gmail.com/108248
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTg3C9fH/valle.jpg" group-title="Animados | Variado",Valle Nuevo TV (RD)
-https://5790d294af2dc.streamlock.net/vallenuevotv/vallenuevotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WpDFT1pk/Varied24.jpg" group-title="Animados | Variado",Varied TV (AR)
 https://cloud5.streaminglivehd.com:3874/stream/play.m3u8
@@ -2504,6 +2498,9 @@ https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DzxGVNBn/ep.jpg" group-title="Informativo",El Pinguino TV (CL)
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fFwJ9P0/enterate.jpg" group-title="Informativo",Enterate (RD)
+https://5790d294af2dc.streamlock.net/enteraterd/enteraterd/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7LjPHDdG/estrellanews.jpg" group-title="Informativo",Estrella News (US)
 https://estrella-news-oando.amagi.tv/playlist.m3u8
 
@@ -2554,8 +2551,8 @@ https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kXzGvmkq/hol.jpg" group-title="Informativo",Holly Wire | Celebrity News (US)
 https://jmp2.uk/sam-USBC2400015DO.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gj7htm7N/hora.jpg" group-title="Informativo",Hora x Hora TV (VE)
-https://59ef525c24caa.streamlock.net/ctn/ctn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gj7htm7N/hora.jpg" group-title="Informativo",Hora x Hora TV (RD)
+https://2-fss-2.streamhoster.com/pl_138/amlst:206532-5752750/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/prxXTbkh/i24.jpg" group-title="Informativo",I24 News | Plex (US)
 https://jmp2.uk/plex-643054b1fc3be59477853717-61e9af453508a50f84213dd6.m3u8
@@ -2985,6 +2982,9 @@ https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wM256WtM/cool.jpg" group-title="Música 🎼",Cool FM | 98.9FM | Aruba (AW)
 https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LMGH6K0/copamex.jpg" group-title="Música 🎼",CopaMex Music (MX)
+https://ss9.domint.net:3028/copa_str/copamex/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dVKdq0vn/crad.jpg" group-title="Música 🎼",CRadio TV (CL)
 https://tls-cl.cdnz.cl/cradio/live/playlist.m3u8
 
@@ -3060,6 +3060,9 @@ http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rF8QKH98/free-h.jpg" group-title="Música 🎼",Free TV | Hits (LATAM)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Vvs4DNg1/furiatv.jpg" group-title="Música 🎼",Furia TV (RD)
+https://5790d294af2dc.streamlock.net/8060/8060/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1325BWMV/galiciamusigal.jpg" group-title="Música 🎼",Galicia | Musigal (ES)
 https://musigal-crtvg.flumotion.com/playlist.m3u8
@@ -3165,6 +3168,9 @@ https://server40.servistreaming.com:3477/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fT6hX5PF/lami.jpg" group-title="Música 🎼",La Mia TV (US)
 https://ss5.domint.net:3184/mia_str/lamiatv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4TNyrMp/lasuperdisco.jpg" group-title="Música 🎼",La Super Discoteca TV (RD)
+https://panel2.streamingtv-mediacp.online:1936/8028/8028/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BbxGKSnn/latinatv2.jpg" group-title="Música 🎼",Latina TV (CL)
 https://paneltv.online:1936/8044/8044/playlist.m3u8
 
@@ -3255,7 +3261,7 @@ http://181.176.153.106:8090/play/a0qr/index.m3u8
 http://45.5.117.182:8000/play/a0f2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2sbjwz0/mun2.jpg" group-title="Música 🎼",Mun 2 TV | República Dominicana (RD)
-https://play.amelbasoluciones.co:3309/live/mun2tvlive.m3u8
+https://vdo2.streamgato.us:3144/live/mund2tvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjTtfntj/mundodelamusica.jpg" group-title="Música 🎼",Mundo de la Musica (CL)
 https://tv.streaming-chile.com:1936/mundodelamusicatv/mundodelamusicatv/playlist.m3u8
@@ -3698,6 +3704,9 @@ https://fl1002.bozztv.com/ssh101/iqchannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFHhmbQn/sp.jpg" group-title="Música 🎼",Supersonika TV (CL)
 https://unlimited1-cl-isp.dps.live/supersonikatv/supersonikatv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZPZKQ10/supremateve.jpg" group-title="Música 🎼",Supremateve (RD)
+https://ss2.domint.net:3132/stv_str/supremateve/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2jnTCbT6/Tecno.jpg" group-title="Música 🎼",Techno Warehouse (US)
 https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8
 
@@ -3707,11 +3716,17 @@ http://186.155.200.118:1935/telemusica/telemusica/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QpR20r5/teleritmo.jpg" group-title="Música 🎼",Tele Ritmo (MX)
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnSDq452/telerumba.jpg" group-title="Música 🎼",Telerumba (RD)
+https://inliveserver.com:1936/18506/18506/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/15LPDMDS/telev.jpg" group-title="Música 🎼",Televideo Satelital (AR)
 https://stmvideo1.livecastv.com/televideo/televideo/chunklist_w1999054347.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vDwTBCP4/Country.jpg" group-title="Música 🎼",The Country Network (US)
 https://cdn.tcncountry.net/scte35_aws/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmZ3MT9K/thelatinzone.jpg" group-title="Música 🎼",The Latin Zone TV (RD)
+https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgJwZSBh/retro.jpg" group-title="Música 🎼",The Retro Channel (PR)
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
@@ -3769,6 +3784,9 @@ https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvwD9vWr/viaaustral.jpg" group-title="Música 🎼",Via Austral (CL)
 https://us.streaminghd.cl/tvia/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPRMN00y/vozz.jpg" group-title="Música 🎼",Vozz | Media Network (RD)
+https://ss5.domint.net:3032/vozz_str/vozzmedia/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKF9k3qq/dug.jpg" group-title="Música 🎼",TV Duga+ | Kosovo | Serbia (RS)
 http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8
@@ -4260,8 +4278,8 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-60db63d29ec966002c9ea6f0.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPWn3hJQ/mave.jpg" group-title="Películas | Series",Maverick Black Cinema | Samsung TV Plus (US)
 https://jmp2.uk/sam-USAJ3000007MT.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFd4sLf1/megatv2.jpg" group-title="Películas | Series",Mega TV (RD)
-https://vdo1.streamgato.us:3711/live/megatvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2Sv4h0Xd/megacine.jpg" group-title="Películas | Series",Mega Cine TV (RD)
+https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hvFPmTn7/mgm.jpg" group-title="Películas | Series",MGM+ (US)
 http:\\fl2.moveonjoy.com\EPIX\index.m3u8
@@ -6654,9 +6672,6 @@ https://jmp2.uk/plu-628751bb7154a40007168843.m3u8
 #EXTINF:-1 channel-id="pluto-63d7a8e5a9957100086bfc23" tvg-id="63d7a8e5a9957100086bfc23" tvg-logo="https://images.pluto.tv/channels/63d7a8e5a9957100086bfc23/colorLogoPNG.png" group-title="Pluto TV | España" ,South Park | Versión Original
 https://jmp2.uk/plu-63d7a8e5a9957100086bfc23.m3u8
 
-#EXTINF:-1 channel-id="66448bbb94d5580008cb7d0c" tvg-id="66448bbb94d5580008cb7d0c" tvg-logo="https://images.pluto.tv/channels/66448bbb94d5580008cb7d0c/colorLogoPNG.png" group-title="Pluto TV | España",South Park | ¡Rock & Roll!
-https://jmp2.uk/plu-66448bbb94d5580008cb7d0c.m3u8
-
 #EXTINF:-1 channel-id="pluto-629a066860ef810008267b70" tvg-id="629a066860ef810008267b70" tvg-logo="https://images.pluto.tv/channels/629a066860ef810008267b70/colorLogoPNG.png" group-title="Pluto TV | España" ,Detective Conan
 https://jmp2.uk/plu-629a066860ef810008267b70.m3u8
 
@@ -7088,8 +7103,6 @@ https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8
 https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8
 #EXTINF:-1 channel-id="6647c02422494d000804b13a" tvg-id="6647c02422494d000804b13a" tvg-logo="https://images.pluto.tv/channels/6647c02422494d000804b13a/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Sony One | Shark Tank | México
 https://jmp2.uk/plu-6647c02422494d000804b13a.m3u8
-#EXTINF:-1 channel-id="66ba7d4b8561260008eb3878" tvg-id="66ba7d4b8561260008eb3878" tvg-logo="https://images.pluto.tv/channels/66ba7d4b8561260008eb3878/colorLogoPNG.png" group-title="Pluto TV | Latino" ,South Park: ¡Rock & Roll!
-https://jmp2.uk/plu-66ba7d4b8561260008eb3878.m3u8
 #EXTINF:-1 channel-id="609ae5cd48d3200007b0a98e" tvg-id="609ae5cd48d3200007b0a98e" tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG_1730735638800.png" group-title="Pluto TV | Latino" ,South Park
 https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
 #EXTINF:-1 channel-id="65df731cec9fda0008b7aa8d" tvg-id="65df731cec9fda0008b7aa8d" tvg-logo="https://images.pluto.tv/channels/65df731cec9fda0008b7aa8d/colorLogoPNG.png" group-title="Pluto TV | Latino" ,South Park: Colección Cartman
@@ -7171,8 +7184,6 @@ https://jmp2.uk/plu-62b97ef310e33f0007eea65f.m3u8
 https://jmp2.uk/plu-666815f24b9fb400083f7e31.m3u8
 #EXTINF:-1 channel-id="6310cbee5a8ad300070fdb7c" tvg-id="6310cbee5a8ad300070fdb7c" tvg-logo="https://images.pluto.tv/channels/6310cbee5a8ad300070fdb7c/colorLogoPNG.png" group-title="Pluto TV | Canada" ,Best of The Drew Barrymore Show
 https://jmp2.uk/plu-6310cbee5a8ad300070fdb7c.m3u8
-#EXTINF:-1 channel-id="63565bdbb0d80d00078d3450" tvg-id="63565bdbb0d80d00078d3450" tvg-logo="https://images.pluto.tv/channels/63565bdbb0d80d00078d3450/colorLogoPNG.png" group-title="Pluto TV | Canada" ,Beverly Hills 90210
-https://jmp2.uk/plu-63565bdbb0d80d00078d3450.m3u8
 #EXTINF:-1 channel-id="62fb9844db5a4a0007ebc2a3" tvg-id="62fb9844db5a4a0007ebc2a3" tvg-logo="https://images.pluto.tv/channels/62fb9844db5a4a0007ebc2a3/colorLogoPNG.png" group-title="Pluto TV | Canada" ,Beyond History
 https://jmp2.uk/plu-62fb9844db5a4a0007ebc2a3.m3u8
 #EXTINF:-1 channel-id="62b976b93279cb000772c6f9" tvg-id="62b976b93279cb000772c6f9" tvg-logo="https://images.pluto.tv/channels/62b976b93279cb000772c6f9/colorLogoPNG.png" group-title="Pluto TV | Canada" ,Bloomberg TV+
@@ -7347,8 +7358,6 @@ https://jmp2.uk/plu-62e927821054990007dc8e57.m3u8
 https://jmp2.uk/plu-64c2201a2a7f2200089a0af2.m3u8
 #EXTINF:-1 channel-id="62b97c5f0d8c8e0007cf48b9" tvg-id="62b97c5f0d8c8e0007cf48b9" tvg-logo="https://images.pluto.tv/channels/62b97c5f0d8c8e0007cf48b9/colorLogoPNG.png" group-title="Pluto TV | Canada" ,Life & Legend of Wyatt Earp
 https://jmp2.uk/plu-62b97c5f0d8c8e0007cf48b9.m3u8
-#EXTINF:-1 channel-id="655230a4f8259d000800579e" tvg-id="655230a4f8259d000800579e" tvg-logo="https://images.pluto.tv/channels/655230a4f8259d000800579e/colorLogoPNG.png" group-title="Pluto TV | Canada" ,Love Drama
-https://jmp2.uk/plu-655230a4f8259d000800579e.m3u8
 #EXTINF:-1 channel-id="65265dada6c3830008942a0a" tvg-id="65265dada6c3830008942a0a" tvg-logo="https://images.pluto.tv/channels/65265dada6c3830008942a0a/colorLogoPNG.png" group-title="Pluto TV | Canada" ,Love Pets
 https://jmp2.uk/plu-65265dada6c3830008942a0a.m3u8
 #EXTINF:-1 channel-id="63b5964d1bdba1000712521f" tvg-id="63b5964d1bdba1000712521f" tvg-logo="https://images.pluto.tv/channels/63b5964d1bdba1000712521f/colorLogoPNG.png" group-title="Pluto TV | Canada" ,Lupin The 3rd
@@ -7451,8 +7460,6 @@ https://jmp2.uk/plu-62e91af00c43540007f2bb43.m3u8
 https://jmp2.uk/plu-62e92178946c8000079a3160.m3u8
 #EXTINF:-1 channel-id="62ea3d24b8e02600071fa296" tvg-id="62ea3d24b8e02600071fa296" tvg-logo="https://images.pluto.tv/channels/62ea3d24b8e02600071fa296/colorLogoPNG.png" group-title="Pluto TV | Canada" ,Comedy Movies
 https://jmp2.uk/plu-62ea3d24b8e02600071fa296.m3u8
-#EXTINF:-1 channel-id="62e927ebc2db99000787c00a" tvg-id="62e927ebc2db99000787c00a" tvg-logo="https://images.pluto.tv/channels/62e927ebc2db99000787c00a/colorLogoPNG.png" group-title="Pluto TV | Canada" ,Courtroom
-https://jmp2.uk/plu-62e927ebc2db99000787c00a.m3u8
 #EXTINF:-1 channel-id="62e92708a7ce600007b2676a" tvg-id="62e92708a7ce600007b2676a" tvg-logo="https://images.pluto.tv/channels/62e92708a7ce600007b2676a/colorLogoPNG.png" group-title="Pluto TV | Canada" ,Crime Drama
 https://jmp2.uk/plu-62e92708a7ce600007b2676a.m3u8
 #EXTINF:-1 channel-id="63f87df87533d80008ab9b4c" tvg-id="63f87df87533d80008ab9b4c" tvg-logo="https://images.pluto.tv/channels/63f87df87533d80008ab9b4c/colorLogoPNG.png" group-title="Pluto TV | Canada" ,Documentaries
@@ -7513,8 +7520,6 @@ https://jmp2.uk/plu-62fb65373297460007ec5aa7.m3u8
 https://jmp2.uk/plu-62bdb1c5e25122000798ac79.m3u8
 #EXTINF:-1 channel-id="62bdb919d36cbd0007e6ab8a" tvg-id="62bdb919d36cbd0007e6ab8a" tvg-logo="https://images.pluto.tv/channels/62bdb919d36cbd0007e6ab8a/colorLogoPNG.png" group-title="Pluto TV | Canada" ,South Park | en Français
 https://jmp2.uk/plu-62bdb919d36cbd0007e6ab8a.m3u8
-#EXTINF:-1 channel-id="66e02901abec540008cb5d96" tvg-id="66e02901abec540008cb5d96" tvg-logo="https://images.pluto.tv/channels/66e02901abec540008cb5d96/colorLogoPNG.png" group-title="Pluto TV | Canada" ,South Park | Rockin' Out
-https://jmp2.uk/plu-66e02901abec540008cb5d96.m3u8
 #EXTINF:-1 channel-id="65df4934f7f0af0008c32545" tvg-id="65df4934f7f0af0008c32545" tvg-logo="https://images.pluto.tv/channels/65df4934f7f0af0008c32545/colorLogoPNG.png" group-title="Pluto TV | Canada" ,South Park: Cartman Collection
 https://jmp2.uk/plu-65df4934f7f0af0008c32545.m3u8
 #EXTINF:-1 channel-id="65df47f428730900089f83ac" tvg-id="65df47f428730900089f83ac" tvg-logo="https://images.pluto.tv/channels/65df47f428730900089f83ac/colorLogoPNG.png" group-title="Pluto TV | Canada" ,South Park: Kenny Collection
@@ -8747,8 +8752,6 @@ https://jmp2.uk/plu-65df704366eec8000898e32f.m3u8
 https://jmp2.uk/plu-65df713dec9fda0008b7a81d.m3u8
 #EXTINF:-1 channel-id="65df70b0f7f0af0008c3b316" tvg-id="65df70b0f7f0af0008c3b316" tvg-logo="https://images.pluto.tv/channels/65df70b0f7f0af0008c3b316/colorLogoPNG.png" group-title="Pluto TV | Brasil" ,South Park: Coleção Stan
 https://jmp2.uk/plu-65df70b0f7f0af0008c3b316.m3u8
-#EXTINF:-1 channel-id="66ba7c8814a2bb000875cff0" tvg-id="66ba7c8814a2bb000875cff0" tvg-logo="https://images.pluto.tv/channels/66ba7c8814a2bb000875cff0/colorLogoPNG.png" group-title="Pluto TV | Brasil" ,South Park: Rock and Roll
-https://jmp2.uk/plu-66ba7c8814a2bb000875cff0.m3u8
 #EXTINF:-1 channel-id="63988c2750108d00072e2686" tvg-id="63988c2750108d00072e2686" tvg-logo="https://images.pluto.tv/channels/63988c2750108d00072e2686/colorLogoPNG.png" group-title="Pluto TV | Brasil" ,Super Onze
 https://jmp2.uk/plu-63988c2750108d00072e2686.m3u8
 #EXTINF:-1 channel-id="5fd1419a3b4f4b000773ba85" tvg-id="5fd1419a3b4f4b000773ba85" tvg-logo="https://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/colorLogoPNG.png" group-title="Pluto TV | Brasil" ,Tastemade
@@ -9101,8 +9104,6 @@ https://jmp2.uk/plu-5e9ed47c26ebb000074af566.m3u8
 https://jmp2.uk/plu-6695294632e25300084bb61b.m3u8
 #EXTINF:-1 channel-id="64edf6eaa7ec0d000812f58c" tvg-id="64edf6eaa7ec0d000812f58c" tvg-logo="https://images.pluto.tv/channels/64edf6eaa7ec0d000812f58c/colorLogoPNG.png" group-title="Pluto TV | Gran Bretaña" ,South Park
 https://jmp2.uk/plu-64edf6eaa7ec0d000812f58c.m3u8
-#EXTINF:-1 channel-id="670657f3a07d1a0008fa9831" tvg-id="670657f3a07d1a0008fa9831" tvg-logo="https://images.pluto.tv/channels/670657f3a07d1a0008fa9831/colorLogoPNG.png" group-title="Pluto TV | Gran Bretaña" ,SpongeBob | SquarePants
-https://jmp2.uk/plu-670657f3a07d1a0008fa9831.m3u8
 #EXTINF:-1 channel-id="668d6aebfd9eb2000886b365" tvg-id="668d6aebfd9eb2000886b365" tvg-logo="https://images.pluto.tv/channels/668d6aebfd9eb2000886b365/colorLogoPNG.png" group-title="Pluto TV | Gran Bretaña" ,StarTalk TV
 https://jmp2.uk/plu-668d6aebfd9eb2000886b365.m3u8
 #EXTINF:-1 channel-id="63d91c65da7118000883df1f" tvg-id="63d91c65da7118000883df1f" tvg-logo="https://images.pluto.tv/channels/63d91c65da7118000883df1f/colorLogoPNG.png" group-title="Pluto TV | Gran Bretaña" ,Survivorman
@@ -10354,6 +10355,9 @@ https://videosenlared.fullstreaming.ar:3560/live/senialurbanalive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pd5HYPCb/sicardy.jpg" group-title="Argentina",Sicardi TV (AR)
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/65JWZwvr/solivetv.jpg" group-title="Argentina",Solive TV (AR)
+https://stmv6.voxtvhd.com.br/solivetv/solivetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D0hZ2Vkf/somos-pampa.jpg" group-title="Argentina",Somos | La Pampa (AR)
 https://stream.arcast.com.ar/somosnoticias/somosnoticias/chunklist_w1125222412.m3u8
@@ -13163,9 +13167,6 @@ https://live.obslivestream.com/vztv/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j5gBvbpd/XTV.jpg" group-title="Perú",X TV  | Chachapoyas (PE)
 https://vdo.panelchs.com:3927/live/xtvcontrollive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvK8Z34W/agnd.jpg" group-title="República Dominicana",Agenda 56 TV (RD)
-https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DzCbSgPM/ion.jpg" group-title="República Dominicana",Aion (RD)
 https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
 
@@ -13175,59 +13176,82 @@ https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Yqv2c9Zw/AME.jpg" group-title="República Dominicana",Amé (RD)
 https://ss9.domint.net:3040/ame_str/amecanal47/chunklist_w1167058089.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6byGr57/BAJOTECHO.jpg" group-title="República Dominicana",Bajo Techo TV (RD)
-https://cdn4.hostlagarto.com:8081/static/bajotechotv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JNdkVQc/bajotechotv.jpg" group-title="República Dominicana",Bajo Techo TV (RD)
+https://rdn.essastream.com:3042/live/bajotechotvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HsHGmRXY/bonao.jpg" group-title="República Dominicana",Bonao TV (RD)
-https://ss5.domint.net:3026/btv_str/bonao/chunklist_w298003963.m3u8
+https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJqDHSJs/8.jpg" group-title="República Dominicana",Canal 8 | Punta Cana TV (RD)
-https://cdn4.hostlagarto.com:8081/static/puntacanatv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzD4m4c9/boreal.jpg" group-title="República Dominicana",Boreal (RD)
+https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwzYrcq3/maimon.jpg" group-title="República Dominicana",Canal 3 | Maimón TV (RD)
+https://ss3.domint.net:3138/mtv_str/maimon/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LsRM0wmD/Constanzatv.jpg" group-title="República Dominicana",Canal 8 | Constanza TV (RD)
+https://ss9.domint.net:3026/ctv8_str/contanzatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yNc63gj9/telenord.jpg" group-title="República Dominicana",Canal 8 | Telenord (RD)
-http://newyorkstream.ddns.net:5854/telenord8/telenord8/chunklist_w291813204.m3u8
+https://rdn.essastream.com:3170/live/telenord8live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yNc63gj9/telenord.jpg" group-title="República Dominicana",Canal 10 | Telenord (RD)
+https://rdn.essastream.com:3676/live/telenord10live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyRYrcTL/tvhiguey.jpg" group-title="República Dominicana",Canal 12 | TV Higuey (RD)
+https://vdo1.streamgato.us:3046/live/tvhigueycanal12live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FFJf8WQs/12.jpg" group-title="República Dominicana",Canal 12 | Telecanal | Mao Valverde (RD)
-https://cdn4.hostlagarto.com:8081/static/telecanal12/chunks.m3u8
+https://rdn.essastream.com:3258/live/telecanal12live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yNc63gj9/telenord.jpg" group-title="República Dominicana",Canal 12 | Telenord (RD)
-http://newyorkstream.ddns.net:5854/telenord12/telenord12/chunklist_w2052721460.m3u8
+https://vdo1.streamgato.us:3345/live/telenord12live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G3ZzyXV0/telearuba1.jpg" group-title="República Dominicana",Canal 13 | Tele Aruba (RD)
 https://cdn01.setar.aw/Telearuba/telearuba/chunklist_w1359912825.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1TrrQff/vega.jpg" group-title="República Dominicana",Canal 18 | Vegavision (RD)
-https://cdn4.hostlagarto.com:8081/static/canal18hd/chunks.m3u8
+https://rdn.essastream.com:3400/live/canal18hdlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kGgp63cK/19.jpg" group-title="República Dominicana",Canal 19 | Cinevisión (RD)
-https://live.teledom.info:3713/live/cinevisionlive.m3u8
+https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zXGN8T9/tvs22.jpg" group-title="República Dominicana",Canal 22 | TVS | Tenares-Villa | Tapia-Salcedo (RD)
 https://imagenuniversaltv.net:3741/live/tvslive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bJK8n7jz/Xtremo.jpg" group-title="República Dominicana",Canal 22 | Xtremo Visión (RD)
-https://tv.xtremochannel.com:3730/live/xtremochannellive.m3u8
+https://ss9.domint.net:3002/xtr_str/xtremochannel/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G3ZzyXV0/telearuba1.jpg" group-title="República Dominicana",Canal 23 | Tele Aruba (RD)
 https://cdn01.setar.aw/Telearuba/telearuba/chunklist_w1983999681.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8P56pWzN/canal25.jpg" group-title="República Dominicana",Canal 25 (RD)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9MWD7Hxv/telemedios.jpg" group-title="República Dominicana",Canal 25 | Tele Medios (RD)
 https://ss3.domint.net:3150/c25_str/canal25/chunklist_w1085656988.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxGrxyqd/hmtv.jpg" group-title="República Dominicana",Canal 33 | HM TV (RD)
-https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxGrxyqd/hmtv.jpg" group-title="República Dominicana",Canal 33 | HM TV  | Hermanas Mirabal TV (RD)
+https://cnn.essastream.com:3091/live/hmtvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LX8J6zBG/canal36c.jpg" group-title="República Dominicana",Canal 36 | Cotubarama TV (RD)
-https://cdn4.hostlagarto.com:8081/static/cotubanamatv/chunks.m3u8
+https://host.streamingnation.live/p/3588/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtjKv2yg/roman.jpg" group-title="República Dominicana",Canal 42 | Romana TV (RD)
 https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L4bfNZfy/santiago.jpg" group-title="República Dominicana",Canal 50 | Santiago TV (RD)
+https://vdo1.streamgato.us:3677/live/telemileniolive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6p2hrxQm/teleimpacto.jpg" group-title="República Dominicana",Canal 52 | Tele Impacto (RD)
+https://vpss2003.streamprolive.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85ZT0Gjh/tvrecuerdos.jpg" group-title="República Dominicana",Canal 56 | TV Recuerdos (RD)
+https://vdopanel.jlahozconsulting.com:3124/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6pMGDWZ9/telecontac.jpg" group-title="República Dominicana",Canal 57 | Telecontacto (RD)
 https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFVQ1n2v/digitalv.jpg" group-title="República Dominicana",Canal 63 | Digital Visión (RD)
-https://ss3.domint.net:3120/dv6_str/digitalvision/chunklist.m3u8
+https://ss5.domint.net:3024/v63_str/VisionDigiNew/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VknnvM1H/canalda.jpg" group-title="República Dominicana",Canalda (RD)
+https://canalda.rgradio.net:3084/live/canaldalive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dwg5z4WL/evo.jpg" group-title="República Dominicana",Canal Evolución (RD)
 https://cdnhd.iblups.com/hls/SJWxXEWwUd.m3u8
@@ -13238,20 +13262,26 @@ https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hvr5sxHW/carivicion.jpg" group-title="República Dominicana",Carivisión (RD)
 https://ss5.domint.net:3174/car_str/carivision/chunklist_w1036832850.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/LsRM0wmD/Constanzatv.jpg" group-title="República Dominicana",Constanza TV (RD)
-https://ss9.domint.net:3026/ctv8_str/contanzatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZRMJLJ2/ciba.jpg" group-title="República Dominicana",Cibaeña TV (RD)
+https://streamunoapp.com:3958/live/cibaenatvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0QKH0bJ/dantv.jpg" group-title="República Dominicana",Dan TV (RD)
-http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZn3RTsw-/dajatv.jpg" group-title="República Dominicana",Daja TV (RD)
+https://rdn.essastream.com:3388/live/dajatvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5P3sSHm/Deltatv.jpg" group-title="República Dominicana",Delta TV (RD)
 https://rdn.essastream.com:3949/live/deltatv50live.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0wYw2t9/dtvd.jpg" group-title="República Dominicana",DTV | Dominio TV (RD)
+https://s.emisoras.tv:8081/dtv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1qmzbfF/elp.jpg" group-title="República Dominicana",El Pituco TV (RD)
 https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J09tW16B/elpuertotv.jpg" group-title="República Dominicana",El Puerto TV (RD)
+https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/63t9PqWK/entel.jpg" group-title="República Dominicana",Entelevision (RD)
-https://video.misistemareseller.com/entelevision/entelevision/chunklist_w311183600.m3u8
+https://tv.livestreaminggroup.info:3985/live/entelevisionlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mZ5s5S4M/ex.jpg" group-title="República Dominicana",Explosión TV (RD)
 https://live.teledomdr.com:3087/live/explosiontvlive.m3u8
@@ -13262,65 +13292,95 @@ https://5790d294af2dc.streamlock.net/8100/8100/chunklist_w1413275826.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4FrF02N/fueg.jpg" group-title="República Dominicana",Fuego TV (RD)
 https://video.misistemareseller.com/Fuegotv/Fuegotv/chunklist_w1035033865.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vBc2GGRT/gdm.jpg" group-title="República Dominicana",GDM (RD)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxQKZBB8/gdm.jpg" group-title="República Dominicana",GDM (RD)
 https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NMZ7738W/gh.jpg" group-title="República Dominicana",GH Television (RD)
 https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1RVwGRCt/guay.jpg" group-title="República Dominicana",Guaymate TV (RD)
-https://5790d294af2dc.streamlock.net/8100/8100/chunklist_w313219790.m3u8
+https://fl1002.bozztv.com/ssh101/guaymatetv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbLjwsf6/hilando.jpg" group-title="República Dominicana",Hilando Fino (RD)
-https://video.servidor.stream/HilandoFino/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbLjwsf6/hilando.jpg" group-title="República Dominicana",Hilando Fino TV (RD)
+https://hilandofinotv.essastream.com:3053/live/hilandofinotvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLMXhh6x/infinito.jpg" group-title="República Dominicana",Infinito TV (RD)
+https://vdo1.streamgato.us:3057/live/infinitotvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j2RWYKTV/luna.jpg" group-title="República Dominicana",Luna TV (RD)
-https://ss2.domint.net:3228/luna_str/lunatv/chunklist_w1663639874.m3u8
+https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/K8cfP4fY/megavision.jpg" group-title="República Dominicana",Megavision  (RD)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdWJDM88/maimond.jpg" group-title="República Dominicana",Maimón TV Digital (RD)
+https://ss9.domint.net:3038/mtvd_str/miamontv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/K8cfP4fY/megavision.jpg" group-title="República Dominicana",Megavision (RD)
 http://server3.prostudionetwork.com:1943/megavision/MV/chunklist_w1643488906.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CKVTNGZg/microvision.jpg" group-title="República Dominicana",Microvision (RD)
 https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w920908092.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtJqS7z0/morrotv.jpg" group-title="República Dominicana",Morro TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/K8PRWvR3/morrotv2.jpg" group-title="República Dominicana",Morro TV (RD)
 https://cloudflare.streamgato.us:3044/live/morrotvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLgQN6bc/NTV.jpg" group-title="República Dominicana",Naranja TV (RD)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4bL5txJ/naranjatv.jpg" group-title="República Dominicana",Naranja TV (RD)
 https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MZyRJX8n/nitida.jpg" group-title="República Dominicana",Nitida TV (RD)
-https://live.teledomdr.com:3131/live/nitidatvlive.m3u8
+https://ed18ov.live.opencaster.com/bznudxxdtppv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/h4wdGvzm/peravision.jpg" group-title="República Dominicana",Peraviavision (RD)
-https://ss5.domint.net:3048/pvv_str/peravia/chunklist_w991109348.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMNLN7L3/n16.jpg" group-title="República Dominicana",Noticias 16 (RD)
+https://cdn.essastream.com:3457/live/noticiasn16live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKkF35vp/ondatv.jpg" group-title="República Dominicana",Onda TV (RD)
+https://ss5.domint.net:3176/otv_str/ondatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4fVCMQT/opciontv.jpg" group-title="República Dominicana",Opción TV (RD)
+https://5790d294af2dc.streamlock.net/8066/8066/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/h4wdGvzm/peravision.jpg" group-title="República Dominicana",Peravia Vision (RD)
+https://ss5.domint.net:3048/pvv_str/peravia/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5DRTnmN/PHtv.jpg" group-title="República Dominicana",PHTV (RD)
-https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
+https://vdo1.streamgato.us:3138/live/phtvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8mSxJDn/platinium.jpg" group-title="República Dominicana",Platinium TV (RD)
+https://ssh101-fl.bozztv.com/ssh101/platiniumtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPQN49Pd/pulatv.jpg" group-title="República Dominicana",Pula TV (RD)
+https://vdo2.streamgato.us:3239/live/pulatvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HxWLwNzL/ready.jpg" group-title="República Dominicana",Ready (RD)
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/chunklist_w897785571.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fW7PbRMC/redsocialcodi.jpg" group-title="República Dominicana",Red Social Códi (RD)
+https://video.misistemareseller.com/redsocial/redsocial/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKVwg5mS/rnn.jpg" group-title="República Dominicana",RNN (RD)
 https://ss2.domint.net:3202/rnn_str/canal27/chunklist_w459347100.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Ss7pFKvH/rtvd.jpg" group-title="República Dominicana",RTVD 4 (RD)
-https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1960057322_b831072.m3u8
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLkcJvHZ/Sanisidrotv.jpg" group-title="República Dominicana",San Isidro TV (RD)
-https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
+https://rdn.essastream.com:3160/live/sanisidrotvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GhkCx7Sr/sportvisiondo.jpg" group-title="República Dominicana",Sport Visión 35 (RD)
-https://5fa5de1a545ae.streamlock.net/sportvision35tv/sportvision35tv/playlist.m3u8
+https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydNNgfkj/src.jpg" group-title="República Dominicana",SRC Media TV (RD)
+https://video.misistemareseller.com:1936/srctv/srctv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bbqpm63N/super55.jpg" group-title="República Dominicana",Super TV 55 (RD)
 https://ss2.domint.net:3236/stv_str/supertv55/chunklist_w1563892202.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50jYMFt0/telealtura.jpg" group-title="República Dominicana",Tele Altura (RD)
+https://glb.bozztv.com/glb/ssh101/codificador7/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5St9m4J/telecanal28.jpg" group-title="República Dominicana",Telecanal | Canal 28 (RD)
+https://vdo2.streamgato.us:3841/live/telecanal28tvlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4x9gqTMv/telecaribex.jpg" group-title="República Dominicana",Tele Caribe (RD)
 https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RCbRQbLS/telecibao.jpg" group-title="República Dominicana",Telecibao (RD)
-https://cm.hostlagarto.com:4445/Telecibao/Telecibao/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fW9Mc6GK/telefuturo.jpg" group-title="República Dominicana",Telefuturo (RD)
 https://ss9.domint.net:3054/tf_str/telefuturo/chunklist_w1761578858.m3u8
@@ -13329,37 +13389,58 @@ https://ss9.domint.net:3054/tf_str/telefuturo/chunklist_w1761578858.m3u8
 https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gkXfvhR7/teleradio.jpg" group-title="República Dominicana",Teleradio Norte (RD)
-https://cdn4.hostlagarto.com:8081/static/teleradionortetv/chunks.m3u8
+https://angelistic.live:3785/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KYMMBy6z/teleunion.jpg" group-title="República Dominicana",Teleunion (RD)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYwVBsbJ/teleunion.jpg" group-title="República Dominicana",Teleunion (RD)
 http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w2044981196.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgFQzLQC/releuniverso.jpg" group-title="República Dominicana",Teleuniverso (RD)
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTr9Lf5z/telever.jpg" group-title="República Dominicana",Telever | Canal 12 | Jarabacoa (RD)
+https://vdo1.streamgato.us:3342/live/televercanal12live.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4gpCTdn/tveste.jpg" group-title="República Dominicana",Televisión del Este (RD)
-http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8
+https://vdo2.streamgato.us:3632/live/televisiondelestelive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8k3bN864/tlsd.jpg" group-title="República Dominicana",TLSD | Tele Santo Domingo (RD)
+https://vdopanel.jlahozconsulting.com/p/3668/live/santodomingolive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bNRpGkhj/tni.jpg" group-title="República Dominicana",TNI 51 (RD)
 https://ss5.domint.net:3188/tni_str/tni51/chunklist_w1294874246.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLYkn2rT/telesiglo.jpg" group-title="República Dominicana",TS | Telesiglo | Dan TV (RD)
+https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvL7S4t2/tv10sanjuan.jpg" group-title="República Dominicana",TV 10 | San Juan (RD)
+https://59d39900ebfb8.streamlock.net/TV10SanJuan/TV10SanJuan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXDFffJV/tvcanalsur84.jpg" group-title="República Dominicana",TV Canal Sur 84 (RD)
+https://streamtvs.tvcanalsur.com.do/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bJSTN8Gq/tvh.jpg" group-title="República Dominicana",TV Hispanic (RD)
 https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkYnxx1P/monta-a.jpg" group-title="República Dominicana",TV Montaña (RD)
-https://ss5.domint.net:3064/tvm_str/montanatv/chunklist_w646921414.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Vsr6qTNr/tvmontana.jpg" group-title="República Dominicana",TV Montaña (RD)
+https://ss5.domint.net:3064/tvm_str/montanatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3R7T1Fm1/tvplata.jpg" group-title="República Dominicana",TV Plata (RD)
 https://ss9.domint.net:3032/tvp_str/tvp2111/chunklist_w1342467691.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTg3C9fH/valle.jpg" group-title="República Dominicana",Valle Nuevo TV (RD)
+https://5790d294af2dc.streamlock.net/vallenuevotv/vallenuevotv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WtLXTrjb/vallevision.jpg" group-title="República Dominicana",Vallevisión (RD)
-http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/B6F9CjXy/villaalta.jpg" group-title="República Dominicana",Villa Altagracia TV (RD)
+https://inliveserver.com:1936/10016/10016/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gt19k8kg/Vision3000.jpg" group-title="República Dominicana",Vision 3000 (RD)
-https://ss3.domint.net:3102/v3_str/v3000/chunklist_w775871194.m3u8
+https://ss3.domint.net:3102/v3_str/v3000/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJzmBKjQ/yuna.jpg" group-title="República Dominicana",Yunavision (RD)
-https://ss9.domint.net:3036/yv_str/yunavision/chunklist_w1051456183.m3u8
+https://ss9.domint.net:3036/yv_str/yunavision/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mggZj06p/telerocha.jpg" group-title="Uruguay | El Salvador",Canal 9 | Telerocha (UR)
 https://stm1.rootuy.xyz:19360/canal9/canal9.m3u8
