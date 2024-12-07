@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/t4pDwvx/orbi1.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 06.12.24
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t4pDwvx/orbi1.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 07.12.24
 https://pomf2.lain.la/f/we1as5gr.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4dMJ98YG/rakuten-na.jpg" tvg-chno="02" group-title="Animados | Variado",Rakuten TV | 100% Navidad (ES)
@@ -447,8 +447,8 @@ https://jmp2.uk/str-5735.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/brrsGL5r/kandela.jpg" group-title="Animados | Variado",Kandela Televisión (VE)
 https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
 
-#EXTINF:-1 channel-id="pluto-60fb040d4795a6000762fe8f" tvg-id="60fb040d4795a6000762fe8f" tvg-logo="https://i.postimg.cc/C5LbfGhW/kartoonch.jpg" group-title="Animados | Variado" ,Kartoon Channel | Pluto TV (US)
-https://jmp2.uk/plu-60fb040d4795a6000762fe8f.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5LbfGhW/kartoonch.jpg" group-title="Animados | Variado" ,Kartoon Channel | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/f0c8870f-8b81-4017-a2f3-4f83a062079e/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0jWCPT89/ket.jpg" group-title="Animados | Variado",Ketchup TV (UK)
 https://jmp2.uk/sam-GBBB2000004BQ.m3u8
@@ -941,6 +941,9 @@ https://jmp2.uk/sam-US14000155Y.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LXN584ZF/amer.jpg" group-title="Ciencia | Cultura 🪐",America's Test Kitchen (US)
 https://jmp2.uk/sam-USBA3800002KI.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C56PjYG/antiq.jpg" group-title="Ciencia | Cultura 🪐",Antiques Roadshow Trip | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/e0577c33-15de-4834-8d20-e2ef0cc9f5f6/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zB3bW1jZ/bbc-an.jpg" group-title="Ciencia | Cultura 🪐",Antiques Roadshow | BBC (UK)
 https://jmp2.uk/sam-USBC600018CF.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RhkP6BjX/anti.jpg" group-title="Ciencia | Cultura 🪐",Antiques Roadshow | PBS (US)
@@ -963,8 +966,8 @@ https://jmp2.uk/sam-USBD25000138Y.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8zGpnrpk/awe.jpg" group-title="Ciencia | Cultura 🪐",AWE Encore (US)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00450-herringnetwork-aweencore-vidaa/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ThMdGXTW/bbc-ea.jpg" group-title="Ciencia | Cultura 🪐",BBC | Earth (US)
-https://jmp2.uk/sam-USBD1700001RW.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ThMdGXTW/bbc-ea.jpg" group-title="Ciencia | Cultura 🪐",BBC | Earth | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/01404def-10a0-46f6-9e01-4919814910c0/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NGV5rVSm/bbc-f.jpg" group-title="Ciencia | Cultura 🪐",BBC | Food (US)
 https://jmp2.uk/sam-USBC6000108Z.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjzJ7ZRF/bbc-h.jpg" group-title="Ciencia | Cultura 🪐",BBC | Home & Garden (US)
@@ -1036,6 +1039,12 @@ https://panel.tvstream.cl:1936/8050/8050/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4yKm1rBQ/coo.jpg" group-title="Ciencia | Cultura 🪐",Cooking Panda | Plex (US)
 https://jmp2.uk/plex-643054b1fc3be59477853717-5f07e9fdf313eb0041bbecda.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RC3xbBk/cos.jpg" group-title="Ciencia | Cultura 🪐",Cosmos | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/30e8a85a-ac29-4835-b913-cee0bb207a6b/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YcwWmHV/courtb.jpg" group-title="Ciencia | Cultura 🪐",Court TV | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/2e06aee5-62c7-47c3-8a38-a2ac5e32fc63/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WbLNK3YY/cow.jpg" group-title="Ciencia | Cultura 🪐",Cowboy Way (US)
 https://jmp2.uk/sam-USBC3200020QF.m3u8
 
@@ -1064,6 +1073,9 @@ https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/pl
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZFpT0h1/danger.jpg" group-title="Ciencia | Cultura 🪐",Danger TV (US)
 https://jmp2.uk/sam-USAJ3504708A.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KmXwD2J/date.jpg" group-title="Ciencia | Cultura 🪐",Dateline 24/7 | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/37e25cb0-d392-4ddb-bb7c-d1629a30d25e/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DmVvmx6B/dw.jpg" group-title="Ciencia | Cultura 🪐",Deutsche Welle | Aleman (DE)
 https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream03/streamPlaylist.m3u8
@@ -1119,6 +1131,9 @@ https://jmp2.uk/sam-GBAJ4900002DE.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1R69Rr4Z/fashionm.jpg" group-title="Ciencia | Cultura 🪐",Fashion TV | Midnight Secrets (US)
 https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yh7D0k0/fbifiles.jpg" group-title="Ciencia | Cultura 🪐",FBI Files | FilmRise (US)
+https://live-manifest.production-public.tubi.io/live/0b06922b-ea68-4b0a-8df1-2f9a2d63edb1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5ttcDDMn/fear.jpg" group-title="Ciencia | Cultura 🪐",Fear Zone (US)
 https://jmp2.uk/sam-USBC1300012VK.m3u8
 
@@ -1135,6 +1150,9 @@ http://216.122.181.10:8081/play/a0i6/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jS9GKHFH/fli.jpg" group-title="Ciencia | Cultura 🪐",Flipping Nation | by A&E (US)
 https://jmp2.uk/sam-USBD4200008RS.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R76Fcbp/four.jpg" group-title="Ciencia | Cultura 🪐",Four in a Bed | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/5a673b42-6c09-4dc3-88f1-1d51bcb452bb/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Rh8201mv/foxsoul.jpg" group-title="Ciencia | Cultura 🪐",Fox | Soul (US)
 https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 
@@ -1147,6 +1165,9 @@ https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13Pk3bz3/galicia1.jpg" group-title="Ciencia | Cultura 🪐",Galicia | Cultura (ES)
 http://cultural-crtvg.flumotion.com/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VQLNFZm/garde.jpg" group-title="Ciencia | Cultura 🪐",Gardening with Monty Don | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/f24ba252-3efa-4322-b1df-7315070e6293/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cHwQWkTN/genb.jpg" group-title="Ciencia | Cultura 🪐",GenB | Stirr (US)
 https://jmp2.uk/str-6430.m3u8
 
@@ -1158,6 +1179,9 @@ https://jmp2.uk/sam-GBBC900014LW.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/prjdYf6R/gusto.jpg" group-title="Ciencia | Cultura 🪐",Gusto TV (US)
 https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4114&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=24e268e0-27d5-4f3a-be97-69a043008659&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=858
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gyBkhwQ/gvtv.jpg" group-title="Ciencia | Cultura 🪐",GV TV | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/6447f090-c8b6-45d2-a086-5abdaddb6490/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k5CS28xz/haunt.jpg" group-title="Ciencia | Cultura 🪐",Haunt TV (US)
 https://jmp2.uk/sam-USBC4400006BR.m3u8
@@ -1238,6 +1262,8 @@ https://jmp2.uk/sam-ESBC4700002TD.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3rcc7f0t/lovep.jpg" group-title="Ciencia | Cultura 🪐",Love The Planet (UK)
 https://jmp2.uk/sam-GBBD500001F5.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KGJBv5r/lovenature.jpg" group-title="Ciencia | Cultura 🪐",Love Nature (US)
+https://live-manifest.production-public.tubi.io/live/8aae460c-df77-4540-bcd3-748a261e283e/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MHT3HfRc/Lovenature4k.jpg" group-title="Ciencia | Cultura 🪐",Love Nature | 4K (US)
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 
@@ -1387,6 +1413,9 @@ https://jmp2.uk/sam-GBBC4300003XU.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3JNXS3Nq/reel.jpg" group-title="Ciencia | Cultura 🪐",REELZ | Famous & Infamous (US)
 https://jmp2.uk/sam-USBB3200001MG.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z8kw47c/revolt.jpg" group-title="Ciencia | Cultura 🪐",Revolt | Mixtape | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/09b06d62-96fa-4e6b-8b98-9b2175ccf167/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FzFC5MvP/roi.jpg" group-title="Ciencia | Cultura 🪐",ROI TV (EU)
 https://rise-financial-roi-tv-1-eu.vidaa.wurl.tv/playlist.m3u8
 
@@ -1498,6 +1527,10 @@ https://timeline-samsung-uk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1z074G9V/today.jpg" group-title="Ciencia | Cultura 🪐",Todays Homeowner (US)
 https://janson-todayshomeowner-1-eu.vidaa.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wMWrzZL/total.jpg" group-title="Mas Series 🧟",Total Crime | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/b6dcdce4-fe00-4d30-ae78-73a82bf47e97/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D0jNYPVr/4ktra.jpg" group-title="Ciencia | Cultura 🪐",Travel 4K | Stirr (US)
 https://jmp2.uk/str-5734.m3u8
 
@@ -1812,6 +1845,9 @@ https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4x9VSw-SY/d13.jpg" group-title="Deportes | Aventura",D13 (CL)
 https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9bhf4sJ/dan.jpg" group-title="Deportes | Aventura",DAZN | Ringside | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/656fc320-a76f-4be3-9b0d-50bc42fa59dd/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nrF00Fms/deportv.jpg" group-title="Deportes | Aventura",DeporTV (AR)
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/chunklist_w131348541.m3u8
 
@@ -1861,6 +1897,9 @@ https://jmp2.uk/str-5295.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fbPjHQyw/extreme.jpg" group-title="Deportes | Aventura",Extreme+ | Stirr (US)
 https://jmp2.uk/str-1549.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cw6MTph/fan.jpg" group-title="Deportes | Aventura",FanDuel TV | Extra | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/303158e0-6d28-496d-8ced-27d48bbc2fe9/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKGmvPt6/fifa.jpg" group-title="Deportes | Aventura",Fifa+ (US)
 https://jmp2.uk/sam-ESBC2700009B4.m3u8
 
@@ -1877,6 +1916,9 @@ https://jmp2.uk/str-771.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJ0LXpC8/ftfsports.jpg" group-title="Deportes | Aventura",FTF Sports (US)
 https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cTn1bXx/fubo.jpg" group-title="Deportes | Aventura",Fubo Sports Network | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/7cb342e2-20b7-4209-90d8-36e6797b06ac/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xC5FY3wm/fueltv.jpg" group-title="Deportes | Aventura",Fuel TV (US)
 https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8?ads_amagi_channel=847&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=7&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4802&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=75a59b1e-3b27-4200-97c8-a1aa8352b89a&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
@@ -2057,6 +2099,11 @@ https://jmp2.uk/str-5726.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sg561WhB/nfl-channel.jpg" group-title="Deportes | Aventura",NFL | Channel | Pluto TV (US)
 https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sg561WhB/nfl-channel.jpg" group-title="Deportes | Aventura",NFL | Channel | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/4f7540f3-a9d1-4956-936f-b31592ab654e/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WHCmdWj/nhl.jpg" group-title="Deportes | Aventura",NHL | National Hockey League | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/20003e55-c06b-4465-930a-8885dbb8f8bd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YqfPxg2t/nha.jpg" group-title="Deportes | Aventura",NHRA TV | Drag Racing (US)
 https://jmp2.uk/sam-USBC3200019WF.m3u8
@@ -2261,6 +2308,9 @@ https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/a
 https://jmp2.uk/sam-ESAJ2900001Y3.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J4qDhBjc/topg.jpg" group-title="Deportes | Aventura",Top Gear | BBC (US)
 https://jmp2.uk/sam-USBC2400027NG.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xhhyHkZ/tr.jpg" group-title="Deportes | Aventura",Top Rank Classics | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/330452f3-b0de-4850-a4bd-120247bbb37a/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sX5FdLzh/tor.jpg" group-title="Deportes | Aventura",Torque | Samsung TV Plus (US)
 https://jmp2.uk/sam-USBB5200027Z5.m3u8
@@ -2667,13 +2717,19 @@ https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/tracks-v1a1/mono.m3u8
 https://nbcu-nbcbostonnews-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zvznppzn/nbc-news.jpg" group-title="Informativo",NBC | News | Chicago (US)
 https://nbculocalfast.akamaized.net/hls/live/2096797/nbcchicago/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zvznppzn/nbc-news.jpg" group-title="Informativo",NBC | News | Los Angeles (US)
-https://nbcu-nbclosangelesnews-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zDCnrRKt/nbclive.jpg" group-title="Informativo",NBC | News | Live Now (US)
 https://jmp2.uk/sam-USBB2200014DK.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zvznppzn/nbc-news.jpg" group-title="Informativo",NBC | News | Los Angeles (US)
+https://nbcu-nbclosangelesnews-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kq92hsT/nbc-now.jpg" group-title="Informativo",NBC | News | Now | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/b0db0647-74ef-4130-922a-6d0a36a5f68e/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zGfcvYX5/negociostv.jpg" group-title="Informativo",Negocios TV (ES)
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhtXbhb/new12.jpg" group-title=""Informativo",News 12 | New York | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/b696ab93-ff62-455c-bfb4-88d8a3803844/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QMyVFM8w/newsm.jpg" group-title="Informativo",Newsmax2 (US)
 https://newsmax-samsungus.amagi.tv/playlist.m3u8
@@ -4278,12 +4334,16 @@ http://181.78.105.146:8800/play/a04v
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PxkqJmg2/filmr-a2.jpg" group-title="Películas | Series",FilmRise | Action | Samsung TV Plus (CA)
 https://jmp2.uk/sam-CAAJ2700014EE.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/925VPC0/film-r.jpg" group-title="Películas | Series",FilmRise | Black TV | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/562dd7c7-4884-41c7-8a43-a9ff0d673463/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1X4NHR4T/filmr-cl.jpg" group-title="Películas | Series",FilmRise | Classic | Samsung TV Plus (CA)
 https://jmp2.uk/sam-CAAJ2700008QA.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bw0Z9N5P/filmr-forense.jpg" group-title="Películas | Series",FilmRise | Forensic Files | Samsung TV Plus (ES)
 https://jmp2.uk/sam-ES2600001MC.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3RnjKbPX/filmr-free2.jpg" group-title="Películas | Series",FilmRise | Free Movies | Samsung TV Plus (CA)
 https://jmp2.uk/sam-CAAJ40000077N.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j43QptG/film-h.jpg" group-title="Películas | Series",FilmRise | Horror | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/cd2b34fc-ed87-4467-a85f-607febe5edab/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NMnPbMp2/filmr-cr.jpg" group-title="Películas | Series",FilmRise | True Crime | Samsung TV Plus (CA)
 https://jmp2.uk/sam-CAAJ27000079E.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZ2MNck2/filmr-w2.jpg" group-title="Películas | Series",FilmRise |  Western | Samsung TV Plus (CA)
@@ -4365,6 +4425,8 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-60db63d29ec966002c9ea6f0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPWn3hJQ/mave.jpg" group-title="Películas | Series",Maverick Black Cinema | Samsung TV Plus (US)
 https://jmp2.uk/sam-USAJ3000007MT.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPWn3hJQ/mave.jpg" group-title="Películas | Series",Maverick Black Cinema | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/3d904b0d-f65e-4160-969a-5861641c5815/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2Sv4h0Xd/megacine.jpg" group-title="Películas | Series",Mega Cine TV (RD)
 https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8
@@ -4523,6 +4585,9 @@ https://run-rr-es.otteravision.com/run/rr_es/rr_es.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnKqyT3b/run-terror.jpg" group-title="Películas | Series",Runtime | Thriller y Terror (ES)
 https://run-th-es.otteravision.com/run/th_es/th_es.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5GWzgmC/samuel.jpg" group-title="Películas | Series",Samuel Goldwyn Classics | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/e67debe0-73da-470a-a520-0ac6814bde54/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6pHYrgjD/she.jpg" group-title="Películas | Series",Shemaroo | Bollywood | Plex (US)
 https://jmp2.uk/plex-643054b1fc3be59477853717-62d1a58e520656fda09e609d.m3u8
@@ -5504,6 +5569,9 @@ https://jmp2.uk/sam-GBBC2300002GG.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5thDvHNn/andro.jpg" group-title="Mas Series 🧟",Andromeda | Plex (ES)
 https://jmp2.uk/plex-643054b1fc3be59477853717-656236cc5dbccec83a87b647.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xJ6G6HG/an.jpg" group-title="Mas Series 🧟",Anger Management Channel | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/804eb2e2-ab2a-40e0-98d3-a1bbe30df114/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T1Y3FxKG/ani.jpg" group-title="Mas Series 🧟",Animanics (LATAM)
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvR2Cxr4/are.jpg" group-title="Mas Series 🧟",Are We There Yet? (UK)
@@ -5632,6 +5700,8 @@ https://jmp2.uk/sam-USBC3900021HS.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zfWbpDWF/dani.jpg" group-title="Mas Series 🧟",Daniel El Travieso (LATAM)
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6wv3ndx/dealornodeal.jpg" group-title="Mas Series 🧟",Deal or No Deal | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/262bfc2b-1485-4f58-8fa8-e73c01921023/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wj20ffx0/de.jpg" group-title="Mas Series 🧟",Deal Zone | by History (US)
 https://jmp2.uk/sam-USBB52000246M.m3u8
@@ -5650,12 +5720,11 @@ http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/177328
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MHYrcbTz/dino.jpg" group-title="Mas Series 🧟",Dinosaurios (LATAM)
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yYCjM52g/div.jpg" group-title="Mas Series 🧟",Divorce Court (US)
 https://jmp2.uk/sam-USBD300006A6.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRVk9tCS/doc.jpg" group-title="Mas Series 🧟",Doctor Who (ES)
-https://jmp2.uk/sam-ESBA1400001OG.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRVk9tCS/doc.jpg" group-title="Mas Series 🧟",Doctor Who | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/ccfceec3-1323-43d4-8f0a-e7ca0ef0cd44/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WbQ8X8Mh/do.jpg" group-title="Mas Series 🧟",Dog | The Bounty Hunter (US)
 https://jmp2.uk/sam-US900002IH.m3u8
@@ -5665,6 +5734,9 @@ https://jmp2.uk/sam-US900002IH.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hPVVDw8t/gato.jpg" group-title="Mas Series 🧟",Don Gato y su Pandilla (LATAM)
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HxZXx6Dw/dorae.jpg" group-title="Mas Series 🧟",Doraemon (LATAM)
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CvJVprw/dragr.jpg" group-title="Mas Series 🧟",Drag Race | Universe | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/4292c4fb-9ce9-447b-a7b1-239443177e1c/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pdTzRdXD/drake.jpg" group-title="Mas Series 🧟",Drake y Josh (LATAM)
 
@@ -5728,6 +5800,8 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-635195e9ccee3e1547a8831a.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MGcYNYXh/fearf.jpg" group-title="Mas Series 🧟",Fear Factor (US)
 https://jmp2.uk/sam-USBB2300002Q6.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MGcYNYXh/fearf.jpg" group-title="Mas Series 🧟",Fear Factor | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/add4b9f5-c278-4844-8885-9611a4cc9eeb/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nrdczGSp/fire.jpg" group-title="Mas Series 🧟",Fireman Sam | Samsung TV Plus (US)
 https://jmp2.uk/sam-USBD42000124T.m3u8
@@ -5746,6 +5820,9 @@ https://jmp2.uk/sam-USBB3200017MY.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZR6b0KY/futurama.jpg" group-title="Mas Series 🧟",Futurama (LATAM)
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZR6b0KY/futurama.jpg" group-title="Mas Series 🧟",Futurama | Opción 2 (LATAM)
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0VCbGJn/game.jpg" group-title="Mas Series 🧟",Game Show Central | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/1ecea564-8615-4438-a50c-0395c56d27f9/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m2jtRwDq/garfiel.jpg" group-title="Mas Series 🧟",Garfield y sus Amigos (LATAM)
 
@@ -5766,6 +5843,9 @@ https://jmp2.uk/sam-USBB2900002Z7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Y5hqWNz/heman.jpg" group-title="Mas Series 🧟",He Man y los Masters del Universo (LATAM)
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/169806
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZLqtGN2/hers.jpg" group-title="Mas Series 🧟",Hersphere | Tubi (US)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Hersphere.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N08QNtVF/high.jpg" group-title="Mas Series 🧟",Highway Thru Hell | Powered by Banijay (UK)
 https://jmp2.uk/sam-GB500001HY.m3u8
@@ -5863,8 +5943,8 @@ https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52PF0NnL/li.jpg" group-title="Mas Series 🧟",Little Women: LA | by Lifetime (US)
 https://jmp2.uk/sam-USBD170000771.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d1vS7HT7/lol.jpg" group-title="Mas Series 🧟",LOL! Network (UK)
-https://jmp2.uk/sam-GBBC900011EC.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d1vS7HT7/lol.jpg" group-title="Mas Series 🧟",LOL! Network | Stand Up | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/48108ea3-14f0-4a1c-b787-eff8ffd5398d/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bNKMrTqf/lon.jpg" group-title="Mas Series 🧟",Looney Tunes (LATAM)
 
@@ -5898,6 +5978,9 @@ https://jmp2.uk/sam-ESBA3300025WZ.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5gDCgf9/simpsons-2.jpg" group-title="Mas Series 🧟",Los Simpsons | 4 (LATAM)
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxrSNFZD/super.jpg" group-title="Mas Series 🧟",Los Supersonicos (LATAM)
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C1bVtLK/loveq.jpg" group-title="Mas Series 🧟",Love Quest | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/98b9d343-9a82-4d08-be06-55cba8ec40e1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8zzdQY9j/malcom2.jpg" group-title="Mas Series 🧟",Malcom in The Middle (LATAM)
 
@@ -5950,8 +6033,14 @@ https://jmp2.uk/sam-ESAJ380000226.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0j3r3MdY/mu.jpg" group-title="Mas Series 🧟",Mutant X | Plex (ES)
 https://jmp2.uk/plex-643054b1fc3be59477853717-656237c55dbccec83a87b649.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/12PQgyB/Mysteryst3000.jpg" group-title="Mas Series 🧟",Mystery Science Theater 3000 | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/ed1bc6f9-705f-453f-9bf2-60e863518571/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cH1XV7DY/myt.jpg" group-title="Mas Series 🧟",Mythbusters (UK)
 https://jmp2.uk/sam-GB200005LI.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3fPcDTf/na.jpg" group-title="Mas Series 🧟",Nash Bridges | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/1d12c8f5-5c6b-48a8-933b-5f892cfa0407/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/909WghCF/edrian.jpg" group-title="Mas Series 🧟",Ned | Manual de Sobrevivencia (LATAM)
 http://nxt.plus:8080/olmos/1234guz/140887
@@ -6073,6 +6162,9 @@ https://jmp2.uk/sam-USBC1000004G8.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BbCn10cp/sha.jpg" group-title="Mas Series 🧟",Shaun The Sheep | Samsung TV Plus (US)
 https://jmp2.uk/sam-US2200006FS.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S6wm5z0/sile.jpg" group-title="Mas Series 🧟",Silent Witness and New Tricks | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/ecdd361e-2f86-4a12-afe7-ab11df141568/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJdrMDxH/slug.jpg" group-title="Mas Series 🧟",Slugterra | Samsung TV Plus (US)
 https://jmp2.uk/sam-USBD33000180S.m3u8
 
@@ -6117,6 +6209,9 @@ https://jmp2.uk/sam-USAJ17000014C.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zDPqGpbS/theb.jpg" group-title="Mas Series 🧟",The Big Bam Theory (LATAM)
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gS4rJGg/thebi.jpg" group-title="Mas Series 🧟",The Biggest Loser | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/c93c2126-5d72-4228-8f30-f915ac6eea8e/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJ8jpgNK/Thecarol.jpg" group-title="Mas Series 🧟",The Carol Burnett Show (US)
 https://jmp2.uk/plex-643054b1fc3be59477853717-60d4edd6b2fdec002c141125.m3u8
 
@@ -6126,8 +6221,20 @@ https://jmp2.uk/sam-USBB3500001O6.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpMJrC2b/thec.jpg" group-title="Mas Series 🧟",The Chat Show Channel (UK)
 https://jmp2.uk/sam-GBBD1900003JT.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LPr8VmB/thec.jpg" group-title="Mas Series 🧟",The Cooners | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/04b01c3d-8b29-4e1a-8a74-98137d9122ac/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cHQ3sqCn/cur.jpg" group-title="Mas Series 🧟",The Curse of Oak Island | by History (US)
 https://jmp2.uk/sam-US300002BE.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/StbJ9fV/theja.jpg" group-title="Mas Series 🧟",The Jack Hanna Channel | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/cabb8bd1-b459-450f-a3ed-ca8ae772e61e/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cNgtMVH/thej.jpg" group-title="Mas Series 🧟",The Johnny Carson Show | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/cc1412f3-ca39-4cc7-847a-6972bb72377f/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ByKw2qv/them.jpg" group-title="Mas Series 🧟",The Masked Singer | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/2570669e-8789-4430-a055-c0e4f0709ab0/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NMLZYhCN/the.jpg" group-title="Mas Series 🧟",The New Detectives (US)
 https://jmp2.uk/sam-USAJ3504547A.m3u8
@@ -6136,6 +6243,9 @@ https://jmp2.uk/sam-USAJ3504547A.m3u8
 https://jukin-thepetcollective-1-eu.vidaa.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFpMgYBC/pet.jpg" group-title="Mas Series 🧟",The Pet Collective | 2 (ES)
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bgq8mNg/ther.jpg" group-title="Mas Series 🧟",The Rifleman | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/0336765f-3037-4db6-84ef-7adc2e795333/playlist.m3u8
 
 #EXTINF:-1 channel-id="pluto-5e82bb378601b80007b4bd78" tvg-id="5e82bb378601b80007b4bd78" tvg-logo="https://i.postimg.cc/nL05LTYT/thewalkingdead.jpg" group-title="Mas Series 🧟" ,The Walking Dead | Pluto TV (LATAM)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -6152,10 +6262,16 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yYRYdFF5/fullhouse.jpg" group-title="Mas Series 🧟",Tres por Tres (LATAM)
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Bt0yrx3/tvon.jpg" group-title="Mas Series 🧟",TV One | Crime & Justice | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/1f317b06-d7a7-4843-93cd-a0842818ce32/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/s2tdT8zf/vig.jpg" group-title="Mas Series 🧟",Vivir con Gatos (ES)
 https://daiconnect.com/live/hls/tvup/rk-vivircongatos/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=5596&ads_rtv_content_language=spa&ads_streaming_id=be009573-3235-4a09-a894-d3c1fa46855e&ads_tcs_channel_id=922&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HsgjP8x1/vip.jpg" group-title="Mas Series 🧟",Vivir con Perros (ES)
 https://daiconnect.com/live/hls/tvup/rk-vivirconperros/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=5597&ads_rtv_content_language=spa&ads_streaming_id=5fa59502-a28f-4c96-910d-5b26b9d12495&ads_tcs_channel_id=921&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b7XXzk8/wa.jpg" group-title="Mas Series 🧟",Wanted | Dead or Alive | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/5e1503a2-a8c8-42f0-b5fb-6dd2a7907362/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/44FjW00w/wil.jpg" group-title="Mas Series 🧟",Wild’n Out (US)
 https://jmp2.uk/sam-USBA3000100X.m3u8
@@ -6170,8 +6286,10 @@ https://jmp2.uk/sam-USBB4400018LR.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zvBqTPkf/wi.jpg" group-title="Mas Series 🧟",WITZ | Comedy TV (US)
 https://jmp2.uk/plex-643054b1fc3be59477853717-6490d0a03b3ce9e1aaad95c0.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fzy27F9Z/evil.jpg" group-title="Mas Series 🧟",World’s Most Evil Killers (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fzy27F9Z/evil.jpg" group-title="Mas Series 🧟",World's Most Evil Killers (US)
 https://jmp2.uk/sam-USBC1000002NP.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fzy27F9Z/evil.jpg" group-title="Mas Series 🧟",World's Most Evil Killers | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/b81250ad-f476-4a4b-a824-731dbd24b993/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9F6M36Mq/yugi.jpg" group-title="Mas Series 🧟",Yu-Gi-Oh! (ES)
 https://8a74d8959ca84c4b856049412367e7e9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_YuGiOh/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=5205&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=84babecd-87fd-45fe-b40e-c3dfa18f4714&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1531
@@ -12200,6 +12318,13 @@ http://tvmate.icu:8080/6025505794/osmanmata@gmail.com/7323
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9Mq86h3p/fox.jpg" group-title="Estados Unidos",FOX (US)
 http://143.244.60.30/FOX_EAST/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZLYJFqV/fox5n.jpg" group-title="Estados Unidos",FOX | 5 | New York (US)
+https://live-manifest.production-public.tubi.io/live/43fa471a-5820-4153-bab1-2f57e309731d/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vwHtFcR/fox5w.jpg" group-title="Estados Unidos",FOX | 5 | Washington DC (US)
+https://live-manifest.production-public.tubi.io/live/bb7ef0b2-d455-480f-aa0b-2f2b6f77fa77/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PGQp28w/fox11.jpg" group-title="Estados Unidos",FOX | 11 | Los Angeles (US)
+https://live-manifest.production-public.tubi.io/live/346a3973-426a-45dc-85fd-a598cc9d1487/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52mKF2gV/fox61.jpg" group-title="Estados Unidos",FOX | 61 | Connecticut (US)
 https://livevideo01.fox61.com/hls/live/2011658/elvs/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pLX028by/foxnews.jpg" group-title="Estados Unidos",FOX | News (US)
@@ -12221,10 +12346,10 @@ http://fl2.moveonjoy.com/FXX/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGWbZ7pK/fyi.jpg" group-title="Estados Unidos",FYI (US)
 http://fl2.moveonjoy.com/FYI/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wBXWPM8/thegr.jpg" group-title="Estados Unidos",theGrio | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/91dd4bea-8a92-4d58-9263-98979fa31a3a/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5yvDdSZ/history-la.jpg" group-title="Estados Unidos",History (US)
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6q9HFxCZ/stirr-hsn.jpg" group-title="Estados Unidos",HSN | 1 (US)
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
@@ -12233,8 +12358,14 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1326KJ0p/ion.jpg" group-title="Estados Unidos",ION (US)
 https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1326KJ0p/ion.jpg" group-title="Estados Unidos",ION | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/ea11e8cc-fd46-41d8-9454-93ff7b526448/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tH64px3/ionm.jpg" group-title="Estados Unidos",ION | Mystery | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/2444a9ca-9e34-4b3a-8a55-310e2a5436b6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7hn7Ptzk/ionplus.jpg" group-title="Estados Unidos",ION | Plus (US)
 https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-drh5os33njrnt/ion_plus.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hn7Ptzk/ionplus.jpg" group-title="Estados Unidos",ION | Plus | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/a0f21bfc-c861-4644-a136-7a18e9c5ac59/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zfM54NBk/jtv.jpg" group-title="Estados Unidos",Jewelry TV (US)
 https://content.jwplatform.com/live/broadcast/oe7UD7Ag.m3u8
@@ -12338,6 +12469,19 @@ https://bec-trailersfromhell-1-us.plex.wurl.tv/4300.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MHs7qK4X/usa.jpg" group-title="Estados Unidos",USA Network (US)
 http://tvmate.icu:8080/6025505794/osmanmata@gmail.com/10252
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nLSZrcr/tmj.jpg" group-title="Estados Unidos",Very Local | TMJ4  | News | Milwaukee | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/ddf60300-6e9f-4c4b-8e4b-30fe4ac495b5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VmkNHz7/wbaltv.jpg" group-title="Estados Unidos",Very Local | WBAL | Baltimore | 11 | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/67c9f3f3-b839-45b7-a85c-78c88704cf08/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3SF3h7W/wgal.jpg" group-title="Estados Unidos",Very Local | WGAL | Lancaster | 8 | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/1d4614d9-7763-4cd9-80bc-05a863ab8938/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Zdg5bC3/wm.jpg" group-title="Estados Unidos",Very Local | WMAR | Baltimore | 2 | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/38cc8867-cd47-4c6f-bc92-d4ca71be86e5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tZHJXJd/wmu.jpg" group-title="Estados Unidos",Very Local | WMUR | New Hampshire | 9 | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/5c4fedab-f1ad-424e-a8b6-1ee112e98f96/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sHGCbWV/wus.jpg" group-title="Estados Unidos",Very Local |WUSA DC/MD/VA 9 | Tubi (US)
+https://live-manifest.production-public.tubi.io/live/a3464610-a73b-4a07-b53d-bc5065cd340d/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MGXcgXk3/VH1u.jpg" group-title="Estados Unidos",VH1 (US)
 https://streamer1.nexgen.bz/VH1/index.m3u8
