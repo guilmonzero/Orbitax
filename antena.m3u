@@ -1815,9 +1815,6 @@ https://jmp2.uk/str-6437.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XvFRbXmM/chopper.jpg" group-title="Deportes | Aventura",Chopper Town | Plex (US)
 https://jmp2.uk/plex-643054b1fc3be59477853717-5ef11487d33ab9004048a1d3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8c719J91/ci.jpg" group-title="Deportes | Aventura",Ciclismo TV (LATAM) 
-https://vcp8.myplaytv.com:1936/masciclismo/masciclismo/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgxPpshb/Clarosport1.jpg" group-title="Deportes | Aventura",Claro Sports | 1 (LATAM)
 http://181.78.105.146:6060/play/a05a
 
@@ -2036,7 +2033,7 @@ http://ares.mnet.mk/hls/mnet-sport.m3u8
 https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvNJH9D0/megasp.jpg" group-title="Deportes | Aventura",Mega Sport (CR)
-https://vcp8.myplaytv.com:1936/masciclismo/masciclismo/playlist.m3u8
+https://video20.klm99.com:3703/live/megasportlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WzdhX1vB/mons.jpg" group-title="Deportes | Aventura",Monster Jam | Plex (US)
 https://jmp2.uk/plex-643054b1fc3be59477853717-6615885e1eabecf2c9d56495.m3u8
@@ -3069,7 +3066,7 @@ https://video2.getstreamhosting.com:19360/8216/8216.m3u8
 https://stmv1.srvstm.com/catedraldorock/catedraldorock/chunklist_w1055585864.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rphffVVc/centr.jpg" group-title="Música 🎼",Centro TV | 96.3 FM (CR)
-https://vcp8.myplaytv.com:1936/meganetretro/meganetretro/chunklist_w155640144.m3u8
+https://video20.klm99.com:3778/live/megalive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XvT7xH3T/cyg.jpg" group-title="Música 🎼",CG TV (CL)
 https://tv.telselec.cl:3254/live/cygtvlive.m3u8
@@ -3328,9 +3325,6 @@ https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWZvK2QL/look.jpg" group-title="Música 🎼",Look Thoong TV | Tailandia (TH)
 https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx1hJ9J3/loungeb.jpg" group-title="Música 🎼",Lounge Beats (CR)
-https://vcp8.myplaytv.com:1936/meganetlab/meganetlab/chunklist_w1919146977.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SsC2fGFV/mag2.jpg" group-title="Música 🎼",Magic (UK)
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XY7hCHSK/mag1.jpg" group-title="Música 🎼",Magic TV | Rumania (RO)
@@ -3350,9 +3344,6 @@ https://live.mytv.yt:3946/multi_web/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qB3xhq5N/mcm.jpg" group-title="Música 🎼",MCM (UK)
 http://iptv.prosto.tv:7000/ch137/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Zqvz5tnk/megafuzion.jpg" group-title="Música 🎼",Mega Fuzion | Radio TV (CR)
-https://srv.panelcast.net/fuziontv2023/fuziontv2023/chunklist_w1392290972.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m2yJyHr5/MELODY.jpg" group-title="Música 🎼",Melody Channel (CO)
 https://canal.mediaserver.com.co/live/MelodyChannel.m3u8
@@ -3831,7 +3822,7 @@ https://jmp2.uk/sam-USBD3500027DS.m3u8
 https://ssh101.bozztv.com/ssh101/tvradioenvivo1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rvXL8X/supera.jpg" group-title="Música 🎼",Super Radio TV (CR)
-https://fl1002.bozztv.com/ssh101/iqchannel/tracks-v1a1/mono.m3u8
+https://giatv.bozztv.com/giatv/giatv-superradiotv/superradiotv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFHhmbQn/sp.jpg" group-title="Música 🎼",Supersonika TV (CL)
 https://unlimited1-cl-isp.dps.live/supersonikatv/supersonikatv.smil/playlist.m3u8
@@ -3939,7 +3930,7 @@ https://5c483b9d1019c.streamlock.net/8172/8172/chunklist_w341983832.m3u8
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QfF0W0y/universal.jpg" group-title="Música 🎼",Universal | Radio Sistema (CR)
-https://vcp8.myplaytv.com:1936/meganetlab/meganetlab/playlist.m3u8
+https://video20.klm99.com:3391/live/meganettvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QVGhd637/urbanotv.jpg" group-title="Música 🎼",Urbano TV (CR)
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
@@ -11536,7 +11527,7 @@ https://cloudvideo.servers10.com:8081/8146/index.m3u8
 https://video0.rogohosting.com:19360/8006/8006.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bb8G8qP2/elite.jpg" group-title="Costa Rica 🇨🇷",Elite TV (CR)
-https://62fc643fbf1aa.streamlock.net/elitetv/elitetv/playlist.m3u8
+https://k10.usastreams.com:1936/elitetv/elitetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65dLCdMM/extra-m.jpg" group-title="Costa Rica 🇨🇷",Extra | Music | 97.9FM (CR)
 https://gxtra-cr-dxtra-radio2.stream.mediatiquestream.com/index.m3u8
@@ -11559,11 +11550,11 @@ https://cloudvideo.servers10.com:8081/8120/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3NxBT05N/limontv.jpg" group-title="Costa Rica 🇨🇷",Limón TV (CR)
 http://k4.usastreams.com/limontv1/limontv1/chunklist_w1958710633.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wz35xYLK/lossantostv.jpg" group-title="Costa Rica 🇨🇷",Los Santos TV (CR)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMtDFb1B/lstv.jpg" group-title="Costa Rica 🇨🇷",LSTV | Los Santos TV (CR)
 https://lstv.duckdns.org:449/hls/lstv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0NQbYRS2/megahits.jpg" group-title="Costa Rica 🇨🇷",Megahits (CR)
-https://vcp8.myplaytv.com:1936/meganethits/meganethits/playlist.m3u8
+https://video20.klm99.com:3395/live/meganethitslive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXLzRW2d/Megatvcr.jpg" group-title="Costa Rica 🇨🇷",Mega TV (CR)
 https://fl1002.bozztv.com/ssh101/megatvcr2024/tracks-v1a1/mono.m3u8
@@ -11571,7 +11562,7 @@ https://fl1002.bozztv.com/ssh101/megatvcr2024/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52NRJRP4/Metv.jpg" group-title="Costa Rica 🇨🇷",Meta Versus (CR)
 https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy2v1PkG/multizonas2.jpg" group-title="Costa Rica 🇨🇷",Multizonas Televisión (CR)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3h6z3mN/multizonas.jpg" group-title="Costa Rica 🇨🇷",Multizonas Televisión (CR)
 https://cloudvideo.servers10.com:8081/8068/tracks-v1a1/rewind-3600.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjV2Z4t7/norteinformativo1.jpg" group-title="Costa Rica 🇨🇷",Norte Informativo (CR)
@@ -11593,7 +11584,7 @@ https://cloudvideo.servers10.com:8081/8256/tracks-v1a1/playlist.m3u8
 https://lstv.duckdns.org:449/hls/rtchirripo.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3yWFNtL/sanvito1.jpg" group-title="Costa Rica 🇨🇷",STV | San Vito (CR)
-https://video.misistemareseller.com:1936/sanvito/sanvito/playlist.m3u8
+https://acceso.radiosportstv.online:3150/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6p3s2fw8/stvsarapiqui.jpg" group-title="Costa Rica 🇨🇷",STV | Sarapiqui (CR)
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
@@ -11631,7 +11622,7 @@ https://ssh101.bozztv.com/ssh101/tvcachi/chunks.m3u8
 http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvkFL2V5/tvnosara.jpg" group-title="Costa Rica 🇨🇷",TV Nosara (CR)
-https://acceso.radiosportstv.online:3430/live/tvnosaralive.m3u8
+https://acceso.radiosportstv.online:3430/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cL4L4z9g/tvretro.jpg" group-title="Costa Rica 🇨🇷",TV Retro | Palmares (CR)
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
@@ -11643,7 +11634,7 @@ https://rtmp.info/tvsantacruz/envivo/chunklist_w307342586.m3u8
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2zwzFdF/telesurpz.jpg" group-title="Costa Rica 🇨🇷",Tv Sur | PZ (CR)
-https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/chunklist_w1500820727.m3u8
+https://k20.usastreams.com:8081/tvsur/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rFMFWZhS/zurq.jpg" group-title="Costa Rica 🇨🇷",Zurquí TV (CR)
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
