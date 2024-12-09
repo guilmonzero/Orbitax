@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/t4pDwvx/orbi1.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 08.12.24
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t4pDwvx/orbi1.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 09.12.24
 https://pomf2.lain.la/f/572x442.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4dMJ98YG/rakuten-na.jpg" tvg-chno="02" group-title="Animados | Variado",Rakuten TV | 100% Navidad (ES)
@@ -253,6 +253,9 @@ https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J0kztsy9/chilev.jpg" group-title="Animados | Variado",Chile Visual (CL)
 https://stmv5.voxtvhd.com.br/chilevisual/chilevisual/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCmX5r2N/chinola.jpg" group-title="Animados | Variado",Chinola TV (AR)
+https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTnkPnmS/cuidadmagica2.jpg" group-title="Animados | Variado",Ciudad Magica TV (AR)
 https://stmv4.voxtvhd.com.br/cdadmagicatv/cdadmagicatv/chunklist_w460101772.m3u8
 
@@ -285,6 +288,9 @@ http://stream02.vnet.am/DisneyChannel/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V6SCBLrF/ctv35.jpg" group-title="Animados | Variado",CTV 35 (CL)
 https://paneltv.online:1936/8040/8040/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sxvLDJ73/cula4.jpg" group-title="Animados | Variado",Cúla 4 | Irlanda (IE)
+https://d3eq0jseza7fm5.cloudfront.net/tg4_vod_3.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TY0wLZ6L/curi-a.jpg" group-title="Animados | Variado",Curiosity | Animales (US)
 https://jmp2.uk/sam-US2200001IY.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tYNryFL/curi-e.jpg" group-title="Animados | Variado",Curiosity | Español (US)
@@ -293,11 +299,9 @@ https://jmp2.uk/sam-US22000020U.m3u8
 https://jmp2.uk/sam-US2200003ZN.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9Q8pXs2M/dark.jpg" group-title="Animados | Variado",Dark (ES)
-http://229756591539636331.ofd92622.xyz:80/play/Martinez306/68647539/636331.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9Q8pXs2M/dark.jpg" group-title="Animados | Variado",Dark | Opción 2 (ES)
 http://617826343536636331.ofd92622.xyz:80/live/9HS3CFSNJ7/3tYpAFTaxQsU/636331.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9Q8pXs2M/dark.jpg" group-title="Animados | Variado",Dark | Opción 3 (ES)
-http://809893273617541471.ofkp1020.xyz:80/live/4UMLM6269J/6cbUG7JUvR8/541471.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9Q8pXs2M/dark.jpg" group-title="Animados | Variado",Dark | Opción 2 (ES)
+http://26257770470541471.ofdgo121.xyz:80/live/te1125819/yyYHTNtUYnk/541471.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6qQPRspm/5tvcl.jpg" group-title="Animados | Variado",Diario | TV 5 (CL)
 https://vdochile.com:3317/stream/play.m3u8
@@ -309,7 +313,8 @@ http://tvmate.icu:8080/6025505794/osmanmata@gmail.com/57645
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CQxCrt7/disney.jpg" group-title="Animados | Variado",Disney Channel | ()
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4dTKwwwX/disney-junior.jpg" group-title="Animados | Variado",Disney | ()
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4gff87p/disneyjr.jpg" group-title="Animados | Variado",Disney | Junior ()
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4gff87p/disneyjr.jpg" group-title="Animados | Variado",Disney | Junior (CA)
+https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pT24r19P/xd.jpg" group-title="Animados | Variado",Disney | XD (CA)
 https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 
@@ -332,6 +337,8 @@ https://cloudvideo.servers10.com:8081/8096/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GmRds4Lq/duc2.jpg" group-title="Animados | Variado",Duck TV (US)
 https://jmp2.uk/sam-ESBC4700001GR.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/432qCMHW/ebcyoyo.jpg" group-title="Animados | Variado",EBC | Yoyo (KR)
+https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Zq0jQWgr/ebskids.jpg" group-title="Animados | Variado",EBS | Kids (KR)
 http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 
@@ -433,6 +440,9 @@ https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4xTsLDQ4/ja.jpg" group-title="Animados | Variado",Japanim TV (FR)
 https://foxkidstv.be:3369/stream/play.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3j9FkSJ/jojko.jpg" group-title="Animados | Variado",Jojko | Eslovenia (SI)
+https://live.cdn.joj.sk/live/andromeda/jojko-720.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWRNfdy4/just2.jpg" group-title="Animados | Variado",Just for Laughs | Gags (US)
 https://jmp2.uk/sam-USBC4400004KK.m3u8
 
@@ -450,11 +460,17 @@ https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5LbfGhW/kartoonch.jpg" group-title="Animados | Variado" ,Kartoon Channel | Tubi (US)
 https://live-manifest.production-public.tubi.io/live/f0c8870f-8b81-4017-a2f3-4f83a062079e/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRSMWZDp/kbs-kid2.jpg" group-title="Animados | Variado" ,KBS | Kids (KR)
+http://mytv.dothome.co.kr/ch/catv/6.php
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0jWCPT89/ket.jpg" group-title="Animados | Variado",Ketchup TV (UK)
 https://jmp2.uk/sam-GBBB2000004BQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zGTpwk9v/kidd.jpg" group-title="Animados | Variado",Kiddo+ | Stirr (US)
 https://jmp2.uk/str-5748.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjyPPsW-r/kiddi.jpg" group-title="Animados | Variado",Kiddiwinks | Sudáfrica (CO.ZA)
+https://origin3.afxp.telemedia.co.za/PremiumFree/kiddiwinks/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0sbzVDN/kidd2.jpg" group-title="Animados | Variado",Kidoodle TV (US)
 https://jmp2.uk/sam-USAK3508716A.m3u8
@@ -505,11 +521,17 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/inde
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0ynLWTzP/maxanime.jpg" group-title="Animados | Variado",Max Anime (VE)
 https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrN96Hnn/mbc3.jpg" group-title="Animados | Variado",MBC 3 | Arabia Saudita (SA)
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6ptd18Vq/mercury.jpg" group-title="Animados | Variado",Mercury+ | Stirr (US)
 https://jmp2.uk/str-5752.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P51TBZz5/milenial.jpg" group-title="Animados | Variado",Milenial TV (PE)
 https://www.milenial.news/salida/milenial.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yYF0wZ35/mirka.jpg" group-title="Animados | Variado",Minika Go | Turquía (TK)
+https://ythls.armelin.one/channel/UCVbCXWXWd0WCNhdBnmP_TmA.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1tzXXzyH/mitv.jpg" group-title="Animados | Variado",Mi Televisión Clásica (LATAM)
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
@@ -570,10 +592,14 @@ https://newidco-newkid-1-mx.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hG8MncRX/nexx.jpg" group-title="Animados | Variado",Nexxo TV (RD)
 https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3yxZkjy/nick2.jpg" group-title="Animados | Variado",Nickelodeon (UK)
+https://d20opqftbkv2z0.cloudfront.net/live12/nickelodeon/bitrate1-clear.isml/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W3yxZkjy/nick2.jpg" group-title="Animados | Variado",Nickelodeon (US)
 http://143.244.60.30/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0yCmCSdB/nickjunior.jpg" group-title="Animados | Variado",Nick | Junior (US)
 http://fl2.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRgWtW1S/nicktoons3.jpg" group-title="Animados | Variado",Nick | Toons (UK)
+https://d20opqftbkv2z0.cloudfront.net/live13/nicktoons/bitrate1-clear.isml/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRgWtW1S/nicktoons3.jpg" group-title="Animados | Variado",Nick | Toons (US)
 http://143.244.60.30/NICKTOONS/index.m3u8
 
@@ -628,6 +654,11 @@ https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hvvp7N15/pocket.jpg" group-title="Animados | Variado",Pocket Watch (US)
 https://jmp2.uk/sam-USBD12000153A.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZCqkZQp/poke.jpg" group-title="Animados | Variado",Pokémon Kids TV | Ingles (JP)
+https://ythls.armelin.one/channel/UCgbfG5HoczHIkpzxLYH-8Ww.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZCqkZQp/poke.jpg" group-title="Animados | Variado",Pokémon Kids TV | Japones (JP)
+https://ythls.armelin.one/channel/UCH0JJtRn2syic5xxavMKQ4Q.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KjVML8Sr/popcorn.jpg" group-title="Animados | Variado",Popcorn Central | 6.4 (MX)
 https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 
@@ -635,7 +666,7 @@ https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/q7SfVkz8/re.jpg" group-title="Animados | Variado",Retro Crush (US)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-retrocrush-lgus/playlist.m3u8
+https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv/playlist/amg01201-cinedigmenterta-retrocrush-cineverse/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2RBXG8F/retromagico.jpg" group-title="Animados | Variado",Retro Mágico (AR)
 https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
@@ -677,11 +708,14 @@ https://premium.tvcontrolcp.com:19360/8050/8050.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QN6mz0bd/spacet.jpg" group-title="Animados | Variado",Space Toon (AE)
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DyTkkpGP/star2.jpg" group-title="Animados | Variado",Star Channel (ES)
 http://902430986377825220.ofd0716.xyz:80/live/JC8L3TCSVE/GJrYUvREHSY/825220.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DyTkkpGP/star2.jpg" group-title="Animados | Variado",Star Channel | Opción 2 (ES)
 http://617826343536321253.ofd92622.xyz:80/live/9HS3CFSNJ7/3tYpAFTaxQsU/321253.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DyTkkpGP/star2.jpg" group-title="Animados | Variado",Star Channel | Opción 3 (ES)
+http://26257770470825220.ofdgo121.xyz:80/live/te1125819/yyYHTNtUYnk/825220.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7YshTc2c/Sudo.jpg" group-title="Animados | Variado",STC | Sudoeste (LATAM)
 https://genexservicios.com:19360/sudoestetv/sudoestetv.m3u8
@@ -739,7 +773,7 @@ https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nhtyXWBn/tiny.jpg" group-title="Animados | Variado",Tiny POP (UK)
 https://jmp2.uk/sam-GBBD3200003T6.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0N6pZXGf/toonamia.jpg" group-title="Animados | Variado",Toonami Aftermath (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0N6pZXGf/toonamia.jpg" group-title="Animados | Variado",Toonami Aftermath (US)
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9M4kfBSn/toong2.jpg" group-title="Animados | Variado",Toon Googles (ES)
@@ -4053,7 +4087,6 @@ https://jmp2.uk/sam-USBB2300004KV.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jc8rrXV/xites.jpg" group-title="Música 🎼",Xite | Siempre Latino (US)
 https://jmp2.uk/sam-USBD3300010L9.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MZ9Xnc00/xpressojoven.jpg" group-title="Música 🎼",Xpresso Joven Radio (CR)
 https://stmv.streamingvip.click/xpressojovenradiotv/xpressojovenradiotv/playlist.m3u8
 
@@ -4062,6 +4095,9 @@ https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/q7D8gW9N/afro-y.jpg" group-title="Música 🎼",Yanga! (MA)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1992
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1rC1sLL/fi-yl.jpg" group-title="Música 🎼",YLE | YleX (FI)
+https://ylestudiolive.akamaized.net/hls/live/2007826/ylestudiolive-YleX/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzk8PQMx/zerounotv.jpg" group-title="Música 🎼",Zerouno TV (IT)
 http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
@@ -13792,6 +13828,43 @@ http://186.167.80.82:8126/play/a0en/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wBdW62SH/vpi2.jpg" group-title="Venezuela",VPI TV (VE)
 https://edge.streann.com/vpi1/vpi1/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJpcCI6IjE4Ni4zMi41Ni42NiIsImV4cCI6MTcyMjkzNzU0MSwicmlkIjoiNWQyM2IxY2UyY2RjZTYxZGFlMDI5ZjljIiwia2V5Ijoia2V5MSIsImNpZCI6IjVkMjNkNTg4MmNkY2U2MWRhZTAyOWZkOCJ9.QYMt6mXcV9gfkpPAHX-sHUvSPkOdOdOucUKZyw-FEJ8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1QHcs8n/fi-eveo.jpg" group-title="Finlandia",Eveo (FI)
+https://live-fi.tvkaista.net/tapahtumatv-eveo/live.m3u8?hd=true
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtqGThmJ/fi-frii.jpg" group-title="Finlandia",Frii (FI)
+https://live-fi.tvkaista.net/frii/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/q7MpLs4T/fi-is.jpg" group-title="Finlandia",Iskelma TV (FI)
+https://mobiili.livetv.fi/memfs/f1819b9e-90da-408a-9a71-5c54e0cb5c33.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vm2mngrm/fi-jim.jpg" group-title="Finlandia",Jim (FI)
+https://live-fi.tvkaista.net/jim/live.m3u8?hd=true
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z56mZfKZ/fi-jr.jpg" group-title="Finlandia",JRTV | Järvi Radio (FI)
+https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvrbT25V/fi-liv.jpg" group-title="Finlandia",Liv (FI)
+https://live-fi.tvkaista.net/liv/live.m3u8?hd=true
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPVN6Xt3/fi-mtv3.jpg" group-title="Finlandia",MTV | 3 (FI)
+https://live-fi.tvkaista.net/mtv3/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhcpktGC/fi-mtva.jpg" group-title="Finlandia",MTV | AVA (FI)
+https://live-fi.tvkaista.net/ava/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXrZ7CFc/fi-u.jpg" group-title="Finlandia",MTV | Uutiset (FI)
+https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtSnWv8S/fi-mtvsub.jpg" group-title="Finlandia",MTV | Sub (FI)
+https://live-fi.tvkaista.net/sub/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5yfgY28n/fi-on.jpg" group-title="Finlandia",Onni TV (FI)
+https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XqwZhLB/fi-p.jpg" group-title="Finlandia",Peer TV | Alto Adige (FI)
+https://iptv.peer.biz/live/peertv-it.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XqwZhLB/fi-p.jpg" group-title="Finlandia",Peer TV | South Tyrol (FI)
+https://iptv.peer.biz/live/peertv-en.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XqwZhLB/fi-p.jpg" group-title="Finlandia",Peer TV | Südtirol (FI)
+https://iptv.peer.biz/live/peertv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DyTkkpGP/star2.jpg" group-title="Finlandia",Star Channel (FI)
+https://live-fi.tvkaista.net/star-channel/live.m3u8?hd=true
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hjxHnv0j/fi-4.jpg" group-title="Finlandia",TV 4 | Nelonen (FI)
+https://live-fi.tvkaista.net/nelonen/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DwQpj10x/fi-5.jpg" group-title="Finlandia",TV 5 (FI)
+https://live-fi.tvkaista.net/tv5/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tL5WkYh/fi-6.jpg" group-title="Finlandia",TV 6 | Kutonen (FI)
+https://live-fi.tvkaista.net/kutonen/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PrCqStCc/altv.jpg" group-title="Tailandia",ALTV | 4 (TH)
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fycVDsdZ/amarin.jpg" group-title="Tailandia",Amarin TV | 34 (TH)
@@ -14014,6 +14087,8 @@ https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYxkx3s0/nhk.jpg" group-title="Mas Señales",NHK | Premium (JP)
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6ptRLmP1/NHK.jpg" group-title="Mas Señales",NHK | World (JP)
+https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VN8NT06Z/nospais.jpg" group-title="Mas Señales",Nos Pais (CW)
 https://558bd16067b67.streamlock.net/nos_pais_24_7/nos_pais_24_7/chunklist_w736623755.m3u8
