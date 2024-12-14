@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/t4pDwvx/orbi1.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 11.12.24
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t4pDwvx/orbi1.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 14.12.24
 https://pomf2.lain.la/f/572x442.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4dMJ98YG/rakuten-na.jpg" tvg-chno="02" group-title="Animados | Variado",Rakuten TV | 100% Navidad (ES)
@@ -186,7 +186,7 @@ https://xhateaec.com:8800/hls/bigtv/bigtv/2e7c0930c48d249969862b4c76ab97c8/index
 https://ssh101.bozztv.com/ssh101/bigchannel/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mDXcMMXX/bitme.jpg" group-title="Animados | Variado",BitMe (MX)
-http://streamsy.online:2999/happy2024/newyear/39989
+http://190.60.49.243:4000/play/a09h
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HkqqLTcs/boing.jpg" group-title="Animados | Variado",Boing (ES)
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
@@ -515,7 +515,7 @@ http://85.239.54.197:81/live/loco_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tKk1y71/lollykids.jpg" group-title="Animados | Variado",Lolly Kids (LATAM)
 http://190.107.20.93:1689/play/a0gp
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tKk1y71/lollykids.jpg" group-title="Animados | Variado",Lolly Kids | Opción 2 (LATAM)
-http://186.113.25.223:62837/play/a03f
+http://190.60.49.243:4000/play/a0b2
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tRFY8cMx/MAGICkids2.jpg" group-title="Animados | Variado",Magic Kids (AR)
 https://magicstream.ddns.net/magicstream/stream.m3u8
@@ -908,9 +908,9 @@ https://pomf2.lain.la/f/jl47hnw8.mkv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3rSHGkj2/teletonhn.jpg" group-title="Teletón ❤️",Teletón | Honduras | 6 y 7 de diciembre
 https://pomf2.lain.la/f/iq3glz9s.mkv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YqvBzt8Z/teletonmx.jpg" group-title="Teletón ❤️",Teletón | México | 14 de diciembre
-https://pomf2.lain.la/f/0c3elx1t.mkv
+http://190.60.49.243:4000/play/a09v
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtgPWgx1/teletonusa.jpg" group-title="Teletón ❤️",Teletón | USA | 14 de diciembre
-https://pomf2.lain.la/f/86692b42.mkv
+http://tvmate.icu:8080/6025505794/osmanmata@gmail.com/108248
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hsLRDPx/amistad.jpg" group-title="El Secreto del Río 🦎",El Secreto del Río | S01E01 | Latino [2024]
 https://pomf2.lain.la/f/91xkx7ax.mkv
@@ -2911,7 +2911,7 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-631a605b260b7e21d0b819ee.m3u8
 https://jmp2.uk/sam-USBD70000213.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hxb3DRsj/tn23.jpg" group-title="Informativo",TN23 | Todo Noticias (GT)
-https://d1dqr580c2izza.cloudfront.net/hls/canal23.m3u8
+https://d4bee8qaav6x0.cloudfront.net/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HLfyGbzL/todayal.jpg" group-title="Informativo",Today All Day | Samsung TV Plus (US)
 https://jmp2.uk/sam-USBB32000251N.m3u8
@@ -12615,8 +12615,15 @@ https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Pn4S8BF/bd.jpg" group-title="Guatemala",BD Television (GT)
 https://stream.oursnetworktv.com/latin/telegtmb/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dzh3bzz6/canal3gt.jpg" group-title="Guatemala", Canal 3 | Multivision (GT)
+https://stream.digitalgt.com:3136/live/multivisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hvJw2wh7/canal3guate.jpg" group-title="Guatemala", Canal 3 | Super Canal (GT)
+https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hvJw2wh7/canal3guate.jpg" group-title="Guatemala", Canal 3 | Super Canal | Opción 2 (GT)
 http://181.78.105.146:8800/play/can3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QtWh1MbS/canal4gt.jpg" group-title="Guatemala", Canal 4 | Ixil | Quiché (GT)
+https://cdn.streamhispanatv.net:3622/live/canalixillive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PrJcDfRq/televisiete.jpg" group-title="Guatemala", Canal 7 | Televisiete (GT)
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
@@ -12637,12 +12644,15 @@ http://iptv.streamhispanatv.net:8080/playgt/playgt2023/82
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/73
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6QrmTgxQ/canal11guate.jpg" group-title="Guatemala",Canal 11 (GT)
-http://186.189.222.205:1993/play/011/index.m3u8
+http://45.5.117.23:8000/play/a0ka/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T2LsxwYR/canal13guate.jpg" group-title="Guatemala",Canal 13 (GT)
-http://186.189.222.205:1993/play/013/index.m3u8
+http://45.5.117.23:8000/play/a0k9/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bvgw0Yfx/canal13e.jpg" group-title="Guatemala",Canal 13 | Esquipulas (GT)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rz6DCgSr/canal13gt.jpg" group-title="Guatemala",Canal 13 | Esquipulas (GT)
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2kcZfhZ/canal20gt.jpg" group-title="Guatemala",Canal 20 | Mazatenango (GT)
+https://desuchi.com/streams/live/tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fRZvwJGY/canal21ru.jpg" group-title="Guatemala",Canal 21 | Rudyvisión | Quiché (GT)
 https://cdn.streamhispanatv.net:3978/live/rudivisionlive.m3u8
@@ -12657,7 +12667,12 @@ http://iptv.streamhispanatv.net:8080/playgt/playgt2023/68
 https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2NvCRF9/canalantigua.jpg" group-title="Guatemala",Canal Antigua (GT)
-http://186.189.222.205:1993/play/006/index.m3u8
+https://edge.streann.com/feedlatino1_abr/feedlatino1/feedlatino1/feedlatino1_1/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJpcCI6IjE4Ni4zMi41Ni42NiIsImV4cCI6MTczNDE4MDcxMywicmlkIjoiNWE1Y2M4MTE5NzM4YWYzNmM2MjBkOGRjIiwia2V5Ijoia2V5MSIsImNpZCI6IjYxYWE0NDExZTRiMDFkYWU3MjIxNGFlNSJ9.E0e-tseMBH_z-vP_U4tORm45NRPT199RBUkaouWMr4w
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2NvCRF9/canalantigua.jpg" group-title="Guatemala",Canal Antigua | Opción 2 (GT)
+http://45.5.117.23:8000/play/a0mi/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNKm6wp4/canalcxn.jpg" group-title="Guatemala",Canal CXN | Malacatán (GT)
+https://cdn.streamhispanatv.net:3307/live/canalcxnlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLhZqVbh/cari-osatv.jpg" group-title="Guatemala",Cariñosa TV | Jutiapa (GT)
 https://hispanatv.cloud:19360/carinosa/carinosa.m3u8
@@ -12668,14 +12683,8 @@ http://iptv.streamhispanatv.net:8080/playgt/playgt2023/69
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fT1WpkXD/est.jpg" group-title="Guatemala",Estipulas TV (GT)
 https://tv91.hostingnuclear.com:19360/esquipulastv/esquipulastv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGVPXCfM/gtv.jpg" group-title="Guatemala",GTV (GT)
-http://iptv.streamhispanatv.net:8080/playgt/playgt2023/63
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6QLZMXYw/guatv2.jpg" group-title="Guatemala",GUATV (GT)
 https://cdn.streamhispanatv.net:3352/live/guatvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZ6JSFc5/guatevision.jpg" group-title="Guatemala",Guatevisión (GT)
-https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VkBv5B7d/fullchannel.jpg" group-title="Guatemala",Full Channel | Sacatepéquez (GT)
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/85
@@ -12683,11 +12692,17 @@ http://iptv.streamhispanatv.net:8080/playgt/playgt2023/85
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtnWYv6j/jutia.jpg" group-title="Guatemala",Jutiapa Visión | Knal 9 (GT)
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/64
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Lkf2zHZ/presen.jpg" group-title="Guatemala",Presencia TV  | Santa Rosa (GT)
-https://cdn.streamhispanatv.net:3473/live/presenciatvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSvRQdnN/laredtv.jpg" group-title="Guatemala",La Red TV (GT)
+http://45.5.117.23:8000/play/a0nj/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YSDQxJcn/lunav.jpg" group-title="Guatemala",Luna Visión | Quetzaltenango (GT)
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/84
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5bk6Jjb/multivi.jpg" group-title="Guatemala",Multivision | Sports (GT)
+https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgJGZSvv/nuevomundo.jpg" group-title="Guatemala",Nuevo Mundo (GT)
+https://tvlatina.live:1936/8008/8008/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WpXS1372/Nimtv.jpg" group-title="Guatemala",Nim TV | Sololá (GT)
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/57
@@ -12723,7 +12738,7 @@ https://tv91.hostingnuclear.com:19360/telemaya/telemaya.m3u8
 https://ssh101.bozztv.com/ssh101/tvgolguatemala/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgjvqF1C/totovision.jpg" group-title="Guatemala",Totovisión | Totonicapán (GT)
-https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/totovision/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z58RM4yH/tvazteca-guate.jpg" group-title="Guatemala",TV Azteca | Guate (GT)
 https://ch1-tva.duin.dev/hls/stream.m3u8
@@ -13126,11 +13141,11 @@ http://181.78.105.146:8800/play/a06h
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Fsq8KmHy/canal4ni.jpg" group-title="Nicaragua | Panamá",Canal 4 (NI)
 http://138.117.4.70:8075/Canal04_CooTelmnbv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fsq8KmHy/canal4ni.jpg" group-title="Nicaragua | Panamá",Canal 4 | Opción 2 (NI)
+http://45.5.117.23:8000/play/a0nk/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yd9NY2DT/canal6ni.jpg" group-title="Nicaragua | Panamá",Canal 6 (NI)
-http://45.167.3.81:45000/play/a02j/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yd9NY2DT/canal6ni.jpg" group-title="Nicaragua | Panamá",Canal 6 | Opción 2 (NI)
-http://190.211.102.42:4000/play/a03t/index.m3u8
+http://45.5.117.23:8000/play/a0kj/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0RHKbdP/TN8.jpg" group-title="Nicaragua | Panamá",Canal 8 | TN8 (NI)
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
@@ -13144,10 +13159,10 @@ http://190.97.183.98:8000/play/a08i/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCVwch6d/telemetropa.jpg" group-title="Nicaragua | Panamá",Canal 13 | Telemetro (PA)
 http://190.97.183.98:8000/play/a08j/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCVwch6d/telemetropa.jpg" group-title="Nicaragua | Panamá",Canal 13 | Telemetro | Opción 2 (PA)
-http://45.179.164.30:8000/play/a083/index.m3u8
+http://45.5.117.23:8000/play/a0ll/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NMr6Ddn6/vivanicaragua.jpg" group-title="Nicaragua | Panamá",Canal 13 | Viva Nicaragua (NI)
-http://190.211.102.42:4000/play/a03u/index.m3u8
+http://45.5.117.23:8000/play/a0kk/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NMr6Ddn6/vivanicaragua.jpg" group-title="Nicaragua | Panamá",Canal 13 | Viva Nicaragua | Opción 2 (NI)
 http://190.97.183.98:8000/play/a0bo/index.m3u8
 
@@ -13157,10 +13172,8 @@ http://190.97.183.98:8000/play/a0bj/index.m3u8
 http://181.78.109.49:8000/play/a032/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kgDYrsbs/nicarao.jpg" group-title="Nicaragua | Panamá",Canal 51 | Nicarao TV (NI)
-http://190.211.102.42:4000/play/a01s/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgDYrsbs/nicarao.jpg" group-title="Nicaragua | Panamá",Canal 51 | Nicarao TV  | Opción 2 (NI)
 http://45.5.117.3:4000/play/a02l/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgDYrsbs/nicarao.jpg" group-title="Nicaragua | Panamá",Canal 51 | Nicarao TV | Opción 3 (NI)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgDYrsbs/nicarao.jpg" group-title="Nicaragua | Panamá",Canal 51 | Nicarao TV  | Opción 2 (NI)
 http://181.78.105.146:8800/play/a03w
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hv3fp17s/MAS23.jpg" group-title="Nicaragua | Panamá",Más +23 (PA)
