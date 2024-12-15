@@ -10628,35 +10628,110 @@ https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qNXZ2xf/bolivision.jpg" group-title="Bolivia",Bolivision (BO)
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/original.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QtHgvnYN/upp.jpg" group-title="Bolivia",Bolivision | UppTV (BO)
+https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3w505smb/cadenaa.jpg" group-title="Bolivia",Cadena A (BO)
 https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLNmpG5K/megav.jpg" group-title="Bolivia",Mega (BO)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQn01Tz5/vtvbo.jpg" group-title="Bolivia",Canal 17 | VTV (BO)
+https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KYr2J8BP/ayni.jpg" group-title="Bolivia",Canal 27 | Ayni TV (BO)
+https://envivo.bolivia-link.com:3906/live/aynitvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLv3msBJ/tva.jpg" group-title="Bolivia",Canal 29 | TVA (BO)
+https://vdo.grupolimalive.com:3967/live/tvelive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/43cZD1tT/atesur.jpg" group-title="Bolivia",Canal 39 | Atesur (BO)
+https://video2.getstreamhosting.com:19360/8038/8038.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qd5MpstD/cea.jpg" group-title="Bolivia",Ceacom (BO)
+https://eu1.servers10.com:8081/ceacom/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cK2YypD/coral.jpg" group-title="Bolivia",Coral TV (BO)
+https://tv.mediacp.eu:8081/coraltv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYmCW3HB/cristalbo.jpg" group-title="Bolivia",Cristal TV (BO)
+https://srv5.elittehosting.com:3369/live/cristaltvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HkghWDrn/f10.jpg" group-title="Bolivia",F10 | Red Nacional de Televisión (BO)
+https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bv8YMqyh/fap.jpg" group-title="Bolivia",Fap (BO)
+https://envivo.bolivia-link.com:3234/multi_live/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1XgDZtGT/for.jpg" group-title="Bolivia",Fortaleza TV | Cueto (BO)
+https://glb.bozztv.com/glb/ssh101/fortalezacueto/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MX25PRCt/gig.jpg" group-title="Bolivia",Gigavisión (BO)
+https://tv.bitstreaming.net:3348/multi_web/play_480.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgNhywL3/intvb.jpg" group-title="Bolivia",IN TV (BO)
+https://envivo.bolivia-link.com:3580/live/intvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5PPQsFV/mar.jpg" group-title="Bolivia",Marvisión TV | Potosi (BO)
+https://vdo.grupolimalive.com:3631/live/marvisionlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YS7d1JgV/megab.jpg" group-title="Bolivia",Mega TV (BO)
+https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLNmpG5K/megav.jpg" group-title="Bolivia",Megavisión (BO)
 https://video.live.com.bo:3999/live/megavisionlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZPntJZ8/mix.jpg" group-title="Bolivia",Mix Bolivia TV (BO)
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/mixboliviatvhd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5yhhwqx/mundovision.jpg" group-title="Bolivia",Mundovisión (BO)
-https://video.ejeserver.com/live/mundovisiontv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MfYFgfd/pat.jpg" group-title="Bolivia",PAT (BO)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MfYFgfd/pat.jpg" group-title="Bolivia",PAT | La Paz (BO)
+https://w8.redpat.tv:8000/play/110/46698652.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MfYFgfd/pat.jpg" group-title="Bolivia",PAT | La Paz | Opción 2 (BO)
 https://glb.bozztv.com/glb/ssh101/pattv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R45gQkZ/reduno.jpg" group-title="Bolivia",Red Uno (BO)
-https://live-b.cf.dmcdn.net/sec2(i5InOZEdmQNSVQivUDEyJVyoHi9KHJYL1uhyhMhg9eou1sZi1wW77XqxEUuQANgExf5g-lIoPXqdYUL8UGvb6Gs_iZHxqdAVHcP9viTD5GHF2U7CYSpLfQS-CV9MqJQ-)/dm/3/x98uwpi/d/live-720.m3u8#cell=lcfb
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xT2vcK2j/ptv.jpg" group-title="Bolivia",PTV (BO)
+https://glb.bozztv.com/glb/ssh101/centralptv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j25L7dZX/reda.jpg" group-title="Bolivia",Red América | (BO)
+https://videostream.shockmedia.com.ar:19360/redamericatv/redamericatv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hYmJ7FW/redcc.jpg" group-title="Bolivia",Red | CCTV (BO)
+https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fRKwz3Yq/seotv.jpg" group-title="Bolivia",Seo TV (BO)
 https://seo.tv.bo/tv/IPSEO-TV-1.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJN9kSx0/seo-kids.jpg" group-title="Bolivia",Seo TV | Kids (BO)
-https://seo.tv.bo/tv/IPSEO-TV-2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dVNv1TFY/seopelis.jpg" group-title="Bolivia",Seo TV | Películas (BO)
 https://seo.tv.bo/tv/IPSEO-TV-4.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tRcQ6nmR/seonovelas1.jpg" group-title="Bolivia",Seo TV | Novelas (BO)
 https://seo.tv.bo/tv/IPSEO-TV-3.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j2R3rZL4/seoyungas.jpg" group-title="Bolivia",Seo TV | Yungas (BO)
 https://seo.tv.bo/tv/IPSEO-TV-7.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Ghkmm5Pt/tdt.jpg" group-title="Bolivia",TDT | Multimedia (BO)
+https://video01.kshost.com.br:4443/juan6318/juan6318/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/D0NpV60K/tutv.jpg" group-title="Bolivia",Tu TV | Tarija (BO)
+https://solo.disfrutaenlared.com:1936/tutv/tutv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtqNX701/tvlatin.jpg" group-title="Bolivia",TV Latina (BO)
+https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GhyPXdF2/tvsh.jpg" group-title="Bolivia",TV Show | Oruro (BO)
+http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qBPQVjxj/tvub.jpg" group-title="Bolivia",TVU | Televisión Universitaria de La Paz Bolivia (BO)
+https://video.live.com.bo:3003/live/tvuumsalive.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbLZGqs7/univalle.jpg" group-title="Bolivia",Univalle | (BO)
+https://master.tucableip.com/univalletv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0sVbvD8/zoytv.jpg" group-title="Bolivia",Zoy TV (BO)
+https://fl1004.bozztv.com/ssh101/zoytvsports/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0sVbvD8/zoytv.jpg" group-title="Bolivia",Zoy TV | FMH | Family (BO)
+https://fl1004.bozztv.com/ssh101/zoytvfamily/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0sVbvD8/zoytv.jpg" group-title="Bolivia",Zoy TV | FMH | Movies | Plus (BO)
+https://fl1004.bozztv.com/ssh101/zoytv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0sVbvD8/zoytv.jpg" group-title="Bolivia",Zoy TV | Turcas (BO)
+https://fl1004.bozztv.com/ssh101/zoytvturcas/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0sVbvD8/zoytv.jpg" group-title="Bolivia",Zoy TV | 2 | Evento (BO)
+https://fl1004.bozztv.com/ssh101/zoytvsports2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0sVbvD8/zoytv.jpg" group-title="Bolivia",Zoy TV | 3 | Evento (BO)
+https://fl1004.bozztv.com/ssh101/zoytvsports3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0sVbvD8/zoytv.jpg" group-title="Bolivia",Zoy TV | 4 | Evento (BO)
+https://fl1004.bozztv.com/ssh101/zoytvsports4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0sVbvD8/zoytv.jpg" group-title="Bolivia",Zoy TV | 5 | Evento (BO)
+https://fl1004.bozztv.com/ssh101/zoytvsports5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ry19Qq4y/tlestrella.jpg" group-title="Bolivia",TL Estrella (BO)
 https://envivo.bolivia-link.com:3785/live/teleestrellalive.m3u8
@@ -13360,7 +13435,7 @@ https://1667517699.rsc.cdn77.org/hls/arequipa.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnyGWYWm/telesurpe.jpg" group-title="Perú",Telesur | Camana (PE)
 https://1667517699.rsc.cdn77.org/hls/camana.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnyGWYWm/telesurpe.jpg" group-title="Perú", Telesur | Ilo (PE)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnyGWYWm/telesurpe.jpg" group-title="Perú",Telesur | Ilo (PE)
 https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnyGWYWm/telesurpe.jpg" group-title="Perú",Telesur | Mollendo (PE)
