@@ -10992,6 +10992,9 @@ https://srv2.zcast.com.br/tvprecabura/tvprecabura/chunklist_w1928054992.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4c4Kh4B/stz.jpg" group-title="Brasil",STZ TV (BR)
 https://cdn.jmvstream.com/w/AVJ-12952/playlist/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5pQ7Hf0/tbo.jpg" group-title="Brasil",TBO | TV Brasil Oeste (BR)
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tbYYLp7/TCM10.jpg" group-title="Brasil",TCM 10 (BR)
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 
@@ -11045,8 +11048,6 @@ https://stmv1.samcast.com.br/junior5083/junior5083/chunklist_w223288980.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpWVmXzb/brcentral.jpg" group-title="Brasil",TV Brasil | Central (BR)
 https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/WzNDqL7V/shopfacil.jpg" group-title="Brasil",TV Brasil | Oeste | Shop Fácil TV (BR)
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pTnp5vvm/tvbrusque.jpg" group-title="Brasil",TV Brusque (BR)
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8
